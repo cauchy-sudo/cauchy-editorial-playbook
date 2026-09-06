@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Panduan kerja editor dan reviewer Cauchy" />
-  <title>Catatan Kerja Editorial — Cauchy</title>
+  <title>Instruksi Editor in Chief — Cauchy</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -19,25 +19,37 @@
   <main class="shell">
     <section class="hero">
       <div class="hero-copy">
-        <span class="eyebrow accent">EDITORIAL PLAYBOOK · 2026</span>
-        <h1>Menjaga setiap paper melewati proses yang adil, teliti, dan terukur.</h1>
-        <p>Rujukan kerja singkat untuk pemeriksaan naskah, pemantauan reviewer, keputusan revisi, dan pemeriksaan akhir sebelum accepted.</p>
+        <span class="eyebrow accent">INSTRUKSI EDITOR IN CHIEF · 2026</span>
+        <h1>Ikuti instruksi kerja sesuai peran Anda.</h1>
+        <p>Gunakan halaman ini sebagai instruksi operasional untuk section editor, reviewer, copyeditor, dan layout editor Cauchy.</p>
         <div class="hero-actions">
-          <a class="button primary" href="#daily">Mulai pemeriksaan harian <span>↗</span></a>
-          <a class="button secondary" href="#decision">Lihat alur keputusan</a>
+          <a class="button primary" href="#roles">Pilih peran Anda <span>↗</span></a>
+          <a class="button secondary" href="#guidelines">Buka author guidelines</a>
         </div>
       </div>
       <div class="hero-card" aria-label="Prinsip utama">
-        <span class="card-kicker">PRINSIP UTAMA</span>
-        <div class="quote">“Cepat ketika harus cepat, cermat ketika menentukan nasib naskah.”</div>
+        <span class="card-kicker">ARAHAN KERJA</span>
+        <div class="quote">“Kerjakan sesuai peran, dokumentasikan setiap keputusan, dan gunakan guidelines terbaru.”</div>
         <div class="hero-rule"></div>
         <div class="mini-stats"><div><b>02</b><span>minimal revisi</span></div><div><b>30</b><span>hari minimum</span></div><div><b>02</b><span>reviewer aktif</span></div></div>
       </div>
     </section>
 
-    <nav class="tabbar" aria-label="Mode panduan">
+    <section id="roles" class="role-picker">
+      <div class="section-heading"><div><span class="eyebrow accent">MULAI DI SINI</span><h2>Pilih peran Anda</h2></div><span class="section-note">Instruksi yang tampil akan disesuaikan dengan peran</span></div>
+      <div class="role-grid">
+        <button class="role-card selected" data-role="editor"><span class="role-number">01</span><strong>Section Editor</strong><small>Screening, reviewer, revisi, dan keputusan</small></button>
+        <button class="role-card" data-role="reviewer"><span class="role-number">02</span><strong>Reviewer</strong><small>Penilaian ilmiah dan rekomendasi review</small></button>
+        <button class="role-card" data-role="copyeditor"><span class="role-number">03</span><strong>Copyeditor / Layout</strong><small>Bahasa, format, visual, dan proof akhir</small></button>
+        <button class="role-card" data-role="guidelines"><span class="role-number">04</span><strong>Author Guidelines</strong><small>Standar yang wajib dibandingkan pada setiap naskah</small></button>
+      </div>
+    </section>
+
+    <nav class="tabbar" aria-label="Instruksi kerja">
       <button class="tab active" data-tab="editor">Editor</button>
       <button class="tab" data-tab="reviewer">Reviewer</button>
+      <button class="tab" data-tab="copyeditor">Copyeditor/Layout</button>
+      <button class="tab" data-tab="guidelines">Author Guidelines</button>
       <button class="tab" data-tab="tools">Alat bantu waktu</button>
     </nav>
 
@@ -88,6 +100,29 @@
       <section class="reviewer-pool panel"><div class="pool-copy"><span class="eyebrow accent">CADANGAN REVIEWER</span><h2>Reviewer yang dapat diprioritaskan</h2><p>Gunakan daftar ini ketika reviewer sebelumnya tidak merespons setelah satu bulan. Tetap lakukan pemeriksaan relevansi keahlian dan konflik kepentingan sebelum mengundang.</p></div><div class="names"><span>Kusno</span><span>Usman Pagalay</span><span>Hawzah Sa'adati</span><span>Siti Afiyah</span><span>Yan Aditya Pradana</span><span>Siti Amiroch</span><span class="muted">dan reviewer lain yang relevan</span></div></section>
     </section>
 
+    <section id="copyeditor" class="tab-panel">
+      <div class="section-heading"><div><span class="eyebrow accent">INSTRUKSI COPYEDITOR / LAYOUT</span><h2>Rapikan naskah sampai siap terbit</h2></div><span class="section-note">Kerjakan setelah keputusan ilmiah selesai</span></div>
+      <div class="cards-3">
+        <article class="panel checklist-card"><div class="icon-box purple">Aa</div><h3>Bahasa & gaya</h3><ul class="plain-list"><li>Perbaiki tata bahasa, ejaan, tanda baca, dan istilah teknis tanpa mengubah makna ilmiah.</li><li>Pastikan abstrak, judul, kata kunci, heading, dan caption konsisten.</li><li>Jangan menambahkan klaim, referensi, atau interpretasi baru.</li><li>Catat perubahan substantif dan kembalikan kepada editor bila meragukan.</li></ul></article>
+        <article class="panel checklist-card"><div class="icon-box orange">#</div><h3>Format & konsistensi</h3><ul class="plain-list"><li>Bandingkan naskah dengan template dan author guidelines terbaru.</li><li>Periksa penomoran bagian, persamaan, tabel, gambar, lampiran, dan referensi.</li><li>Pastikan setiap persamaan, tabel, dan gambar dirujuk dalam teks.</li><li>Periksa simbol, satuan, singkatan, italic/bold, dan gaya sitasi.</li></ul></article>
+        <article class="panel checklist-card"><div class="icon-box teal">▣</div><h3>Visual & proof</h3><ul class="plain-list"><li>Pastikan gambar tajam, terbaca pada ukuran A4, dan idealnya vektor atau lebih dari 300 dpi.</li><li>Periksa tabel agar tidak terpotong, terlalu padat, atau melewati margin.</li><li>Periksa header, footer, metadata, DOI, afiliasi, dan urutan penulis.</li><li>Kirim proof kepada editor dan penulis sesuai alur jurnal sebelum publikasi.</li></ul></article>
+      </div>
+      <div class="review-note"><span class="note-icon">!</span><div><strong>Batas kewenangan</strong><p>Copyeditor/layout tidak mengubah kesimpulan, metode, data, hasil, atau keputusan ilmiah. Semua perubahan yang berpotensi mengubah makna harus dikembalikan kepada section editor.</p></div></div>
+    </section>
+
+    <section id="guidelines" class="tab-panel">
+      <div class="section-heading"><div><span class="eyebrow accent">STANDAR WAJIB</span><h2>Author Guidelines</h2></div><span class="section-note">Bandingkan setiap submission dengan versi terbaru</span></div>
+      <div class="reviewer-intro panel"><div class="big-number">G</div><div><h3>Jadikan author guidelines sebagai rujukan formal pada setiap tahap.</h3><p>Jangan memakai kebiasaan lama atau naskah terbit sebelumnya sebagai pengganti guidelines yang berlaku.</p></div></div>
+      <div class="review-grid">
+        <article class="panel review-card"><span class="card-index">01</span><h3>Scope & struktur</h3><ul class="plain-list"><li>Topik sesuai fokus dan scope Cauchy.</li><li>Struktur artikel sesuai jenis naskah.</li><li>Judul, abstrak, kata kunci, dan heading lengkap.</li><li>Panjang naskah dan format file sesuai ketentuan.</li></ul></article>
+        <article class="panel review-card"><span class="card-index">02</span><h3>Format naskah</h3><ul class="plain-list"><li>Template, margin, font, spasi, dan penomoran sesuai.</li><li>Tabel, gambar, persamaan, dan lampiran mengikuti format.</li><li>File tambahan dan metadata telah disertakan.</li><li>Bahasa naskah memenuhi ketentuan jurnal.</li></ul></article>
+        <article class="panel review-card"><span class="card-index">03</span><h3>Sitasi & referensi</h3><ul class="plain-list"><li>Gaya referensi sesuai author guidelines.</li><li>Semua sitasi dalam teks ada di daftar pustaka dan sebaliknya.</li><li>Referensi dapat diverifikasi dan tidak fabricated/fake.</li><li>DOI, URL, volume, nomor, halaman, dan tahun diperiksa.</li></ul></article>
+        <article class="panel review-card"><span class="card-index">04</span><h3>Etika & deklarasi</h3><ul class="plain-list"><li>Pernyataan konflik kepentingan tersedia bila relevan.</li><li>Etik penelitian, persetujuan, pendanaan, dan kontribusi penulis dicantumkan.</li><li>Originalitas, duplikasi, dan plagiarism diperiksa.</li><li>Penggunaan AI dinyatakan sesuai kebijakan jurnal bila diperlukan.</li></ul></article>
+        <article class="panel review-card"><span class="card-index">05</span><h3>Data & reproducibility</h3><ul class="plain-list"><li>Data, kode, protokol, dan material pendukung dijelaskan.</li><li>Metode cukup rinci untuk direplikasi.</li><li>Klaim didukung hasil dan analisis yang memadai.</li><li>Keterbatasan penelitian disampaikan dengan jujur.</li></ul></article>
+        <article class="panel review-card"><span class="card-index">06</span><h3>Catatan kepatuhan</h3><ul class="plain-list"><li>Catat poin guidelines yang belum dipenuhi.</li><li>Bedakan perbaikan wajib dari saran opsional.</li><li>Gunakan keputusan yang konsisten untuk kasus yang sama.</li><li>Jangan meneruskan naskah ke tahap berikutnya sebelum syarat minimum terpenuhi.</li></ul></article>
+      </div>
+    </section>
+
     <section id="reviewer" class="tab-panel">
       <div class="section-heading"><div><span class="eyebrow accent">MODE REVIEWER</span><h2>Checklist penilaian reviewer</h2></div><span class="section-note">Berikan komentar yang spesifik dan dapat ditindaklanjuti</span></div>
       <div class="reviewer-intro panel"><div class="big-number">R</div><div><h3>Review yang baik membantu editor mengambil keputusan dan membantu penulis memperbaiki naskah.</h3><p>Bandingkan naskah dengan author guidelines, nilai substansi secara independen, dan bedakan masalah wajib diperbaiki dari saran pengembangan.</p></div></div>
@@ -111,7 +146,7 @@
       <article class="panel ai-policy"><div class="ai-symbol">✦</div><div><span class="eyebrow accent">KEBIJAKAN BANTUAN AI</span><h2>AI boleh dipakai untuk mempercepat pekerjaan</h2><p>Gunakan secara bertanggung jawab untuk merapikan bahasa, membuat ringkasan administratif, atau membantu menemukan inkonsistensi. Jangan menyerahkan keputusan editorial, verifikasi referensi, penilaian novelty, atau pemeriksaan integritas kepada AI tanpa verifikasi manusia.</p><div class="policy-tags"><span>Human oversight wajib</span><span>Jangan masukkan naskah rahasia ke layanan publik</span><span>Verifikasi semua keluaran</span></div></div></article>
     </section>
 
-    <footer><div class="footer-brand"><div class="brand-mark small">C</div><strong>Cauchy</strong></div><span>Catatan kerja editorial · Versi internal 2026</span><span>Selalu gunakan author guidelines versi terbaru.</span></footer>
+    <footer><div class="footer-brand"><div class="brand-mark small">C</div><strong>Cauchy</strong></div><span>Instruksi Editor in Chief · Untuk penggunaan internal</span><span>Selalu gunakan author guidelines versi terbaru.</span></footer>
   </main>
   <script src="app.js"></script>
 </body>
