@@ -10,6 +10,14 @@ tabs.forEach((tab) => {
   });
 });
 
+document.querySelectorAll('.role-card').forEach((card) => {
+  card.addEventListener('click', () => {
+    document.querySelectorAll('.role-card').forEach((item) => item.classList.toggle('selected', item === card));
+    const target = document.querySelector(`.tab[data-tab="${card.dataset.role}"]`);
+    if (target) target.click();
+  });
+});
+
 const formatDate = (date) => date.toLocaleDateString('id-ID', { day: '2-digit', month: 'short', year: 'numeric' });
 const parseDate = (value) => value ? new Date(`${value}T12:00:00`) : null;
 const addDays = (date, days) => { const result = new Date(date); result.setDate(result.getDate() + days); return result; };
