@@ -1,5 +1,6 @@
 const tabs = document.querySelectorAll('.tab');
 const panels = document.querySelectorAll('.tab-panel');
+const copyButtons = document.querySelectorAll('.copy-prompt');
 
 tabs.forEach((tab) => {
   tab.addEventListener('click', () => {
@@ -40,4 +41,19 @@ submitDate.addEventListener('input', () => {
   acceptedDate.textContent = date ? formatDate(addMonths(date, 2)) : '—';
   acceptedStatus.textContent = date ? 'Belum boleh accepted sebelum tanggal minimum' : 'Masukkan tanggal';
   acceptedStatus.style.color = date ? '#b56a20' : '';
+});
+
+copyButtons.forEach((button) => {
+  button.addEventListener('click', async () => {
+    const code = button.closest('.prompt-card')?.querySelector('code');
+    if (!code) return;
+    try {
+      await navigator.clipboard.writeText(code.innerText);
+      const original = button.textContent;
+      button.textContent = 'Tersalin';
+      setTimeout(() => { button.textContent = original; }, 1500);
+    } catch {
+      button.textContent = 'Salin manual';
+    }
+  });
 });
