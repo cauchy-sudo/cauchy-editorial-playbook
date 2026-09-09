@@ -47,13 +47,15 @@ copyButtons.forEach((button) => {
   button.addEventListener('click', async () => {
     const code = button.closest('.prompt-card')?.querySelector('code');
     if (!code) return;
+    const original = button.textContent;
+    button.textContent = 'Menyalin…';
     try {
       await navigator.clipboard.writeText(code.innerText);
-      const original = button.textContent;
       button.textContent = 'Tersalin';
       setTimeout(() => { button.textContent = original; }, 1500);
     } catch {
       button.textContent = 'Salin manual';
+      setTimeout(() => { button.textContent = original; }, 1800);
     }
   });
 });
