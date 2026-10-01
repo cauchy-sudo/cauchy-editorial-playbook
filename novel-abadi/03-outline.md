@@ -1,66 +1,70 @@
-# Outline (v0.3)
+# Outline (v0.4)
 
-Kolom "Peta jalan" = langkah nyata yang **ditunjukkan** lewat adegan (bukan dinasihatkan). Kolom "Manusiawi / adat / romansa" = hal yang menahan tokoh tetap hidup di mata pembaca dan menjaga cerita selaras dengan budaya (lihat `04-adat-budaya.md`).
+Perubahan dari v0.3: Babak I dipadatkan (9 bab); titik tengah diperkuat (bab 20); tiga *interlude* 2031; lawan manusia diperkenalkan di bab 26; "all is lost" lebih awal. Alasan dan peta beat: `05-struktur-dan-daya-tarik.md`. Jawaban untuk bantahan pembaca: `06-celah-logika.md`. Adat dan budaya: `04-adat-budaya.md`.
 
-**Prolog — Dusun Pucung, 2031.** Ibu memegang tangan Wulan di dapur dan bertanya mengapa tanganmu tidak berubah.
+Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi/adat/romansa**. **Pengait akhir bab** = apa yang membuat pembaca membuka bab berikutnya.
+
+**Prolog — Dusun Pucung, 2031.** Ibu memegang tangan Wulan di dapur dan bertanya mengapa tanganmu tidak berubah. *(selesai)*
 
 ## Babak I — Kupu-kupu di Pipi (2013–2017, usia 11–15)
-| # | Peristiwa | Peta jalan | Manusiawi / adat / romansa |
-|---|---|---|---|
-| 1 | Ruam kupu-kupu saat upacara; bidan berkata "bukan kerja saya" | Mengenali batas pertolongan di desa | Tika, es lilin, humor kelas |
-| 2 | Puskesmas, kaleng biskuit, kambing dijual | Cara keluarga miskin menyusun biaya | Gotong royong tetangga; Bapak yang tak bicara |
-| 3 | Rasulan: kenduri, kirab, ingkung; Wulan lemas di tengah pesta | Meminta izin sakit tanpa mempermalukan keluarga | Bisik tetangga ("kutukan?"); Mbah dan jalan lain |
-| 4 | Dua diagnosis salah | Meminta rujukan; bertanya ulang | Lucu-pahit di ruang tunggu |
-| 5 | dr. Raihan mencurigai lupus; rujukan ke Yogyakarta | Membawa catatan lengkap; tes darah | Perjalanan pertama ke kota |
-| 6 | Diagnosis lupus dengan ginjal; JKN baru berlaku | Mengurus kepesertaan JKN/PBI | Ibu yang diam di lorong rumah sakit |
-| 7 | SMP: wajah bulat karena steroid, rambut rontok; jilbab; payung hitam | Meminta guru mengirim tugas ke rumah | "Wulan Bulan"; humor sebagai tameng |
-| 8 | **Naksir Bagus** (kelas VIII); titip salam bocor | | Salah tingkah; ditertawakan; Ibu: *sing penting sekolah dhisik* |
-| 9 | Taman bacaan Pak Karto; Bu Ratmi | Meminjam buku di luar usia | Pertanyaan: mengapa tubuh menyerang dirinya sendiri? |
-| 10 | Ramadan dengan steroid; teman sebangku di RS meninggal; tahlilan | Memahami keringanan puasa bagi yang sakit | Berkabung tanpa pidato; janji yang tak diucapkan |
-| 11 | Lulus SMP; ujian masuk SMA negeri di Wonosari; pamit | Mengurus PIP/bantuan siswa | Meninggalkan rumah; Ibu menyiapkan bekal |
+| # | Peristiwa | Peta jalan | Manusiawi / adat / romansa | Pengait akhir bab |
+|---|---|---|---|---|
+| 1 | Ruam kupu-kupu saat upacara; bidan berkata "bukan kerja saya" *(selesai)* | Mengenali batas pertolongan di desa | Tika, es lilin, humor | Bunyi receh: "Besok kita ke Wonosari." |
+| 2 | Dua kambing dijual; puskesmas; dokter tak sempat mendengar; perawat menyobek kertas catatan | Mencatat keluhan sebelum ke dokter | Bakso yang tak dimakan Bapak | Kelopak mata membengkak |
+| 3 | Rasulan: kenduri, ingkung; Wulan lemas di tengah pesta | Meminta izin sakit tanpa mempermalukan keluarga | Bisik tetangga ("kutukan?"); Mbah menawarkan jalan lain | Air seni berbuih dan Ibu belum tahu |
+| 4 | Diagnosis salah kedua; dr. Raihan mencurigai lupus; rujukan | Membawa catatan lengkap; tes darah | Perjalanan pertama ke kota | Hasil lab: "ANA positif" |
+| 5 | Diagnosis lupus dengan ginjal; JKN baru berlaku | Mengurus kepesertaan JKN/PBI | Ibu yang diam di lorong rumah sakit | Dokter: "Ini bukan penyakit yang selesai." |
+| 6 | SMP: steroid, wajah bulat, rambut rontok; jilbab; payung hitam; **naksir Bagus**; "Wulan Bulan" | Meminta guru mengirim tugas ke rumah | Humor sebagai tameng; titip salam bocor | Bagus tertawa, tapi bukan pada dia |
+| 7 | Taman bacaan Pak Karto; Bu Ratmi; **Bu Siti mengeluarkan mikroskop** | Meminjam buku di luar usia | Pertanyaan: mengapa tubuh menyerang dirinya sendiri? | Wulan melihat selnya sendiri |
+| *Interlude I (2031)* | Wulan menolak difoto; alarm bulanan | | | |
+| 8 | Ramadan dengan steroid; teman sebangku di RS meninggal; tahlilan | Keringanan puasa bagi yang sakit | Berkabung tanpa pidato | Janji yang tak diucapkan |
+| 9 | Lulus SMP; ujian masuk SMA negeri di Wonosari; pamit | Mengurus PIP/bantuan siswa | Meninggalkan rumah; Ibu menyiapkan bekal | Pintu rumah kos pertama |
 
 ## Babak II — Tangga (2017–2025, usia 15–23)
 | # | Peristiwa | Peta jalan | Manusiawi / adat / romansa |
 |---|---|---|---|
-| 12 | Kos putri: aturan ibu kos, jam malam, teras | Mengatur uang bulanan | Teh manis dan bakso; radio kecil |
-| 13 | Olimpiade biologi tingkat kabupaten | Mencari pembina; belajar dari kekalahan | Kalah, tertawa, belajar |
-| 14 | **Naufal**: sebangku, radio rusak, buku bekas | | Dekat tanpa *jadian*; boncengan yang dipergoki |
-| 15 | **Daffa** mengajak *jadian*; Wulan menolak halus | | Gosip; Tika membela |
-| 16 | Kambuh besar kelas XI; dialisis hampir | Menjaga kontak dengan guru dan dokter | Naufal dan teman-teman menjenguk bersama; Ibu menyuguhkan tiwul |
-| 17 | Mbah Darmi wafat; tahlilan | | Kehilangan; rasa bersalah karena tidak di sisinya |
-| 18 | Memilih jurusan; Budhe: "perempuan sekolah tinggi-tinggi"; Bapak menjual Si Bejo | Riset jalur masuk dan biaya | Diam yang menanggung; guru BK yang jujur |
-| 19 | Pandemi: belajar di bukit sinyal; peringatan setahun Mbah sederhana | Mengatasi akses internet | Ibu membawa singkong rebus ke bukit |
-| 20 | Seleksi masuk, KIP Kuliah; Naufal ke Bandung | Dokumen, tenggat, verifikasi | Pamitan di stasiun/terminal; "Kami tidak putus karena tidak pernah jadian." |
-| 21 | Yogyakarta, kuliah daring, lab pertama | Mendekati dosen; menawarkan bantu | Gagal pipet berulang; kangen rumah |
-| 22 | Dr. Anindya: "bawa pertanyaanmu sendiri" | Menjadi asisten riset | Kerja paruh waktu; kurang tidur |
-| 23 | **Bayu**: dekat; ke Klaten; ibunya menanyakan *bibit, bebet, bobot* | | Wulan mundur lebih dulu |
-| 24 | AI mulai dipakai (2022): membantu, juga salah | Menguji AI; tidak menyalin | Kebanggaan kecil yang bocor |
-| 25 | Publikasi pertama; wisuda; Ibu mengira surel kampus penipuan | Menulis naskah; revisi | Bapak memakai kemeja di barisan keluarga |
-| 26 | IELTS tiga kali; rekomendasi; wawancara beasiswa | Tahapan seleksi | Gagal, ulang, lolos |
-| 27 | Dingin pertama di Inggris; lab; Amara | Beradaptasi; meminta bantuan | Tiwul untuk teman lab; Idul Fitri jauh dari rumah |
+| 10 | Kos putri: aturan ibu kos, jam malam, teras | Mengatur uang bulanan | Teh manis, bakso, radio kecil |
+| 11 | Olimpiade biologi tingkat kabupaten | Mencari pembina; belajar dari kekalahan | Kalah, tertawa, belajar |
+| 12 | **Naufal**: sebangku, radio rusak, buku bekas | | Dekat tanpa *jadian*; boncengan dipergoki |
+| 13 | **Daffa** mengajak *jadian*; Wulan menolak halus | | Gosip; Tika membela |
+| 14 | Kambuh besar kelas XI; dialisis hampir | Menjaga kontak dengan guru dan dokter | Naufal dan teman-teman menjenguk bersama; tiwul Ibu |
+| 15 | Mbah Darmi wafat; tahlilan | | Kehilangan; rasa bersalah |
+| 16 | Memilih jurusan; Budhe: "perempuan sekolah tinggi-tinggi"; Bapak menjual Si Bejo | Riset jalur masuk dan biaya | Diam yang menanggung; guru BK yang jujur |
+| 17 | Pandemi: belajar di bukit sinyal; setahun Mbah sederhana | Mengatasi akses internet | Ibu membawa singkong rebus ke bukit |
+| 18 | Seleksi masuk, KIP Kuliah; Naufal ke Bandung | Dokumen, tenggat, verifikasi | Pamitan di terminal |
+| *Interlude II (2031)* | Wulan merekam suara Ibu | | |
+| 19 | Yogyakarta, kuliah daring, lab pertama | Mendekati dosen; menawarkan bantu | Gagal pipet berulang; kangen rumah |
+| 20 | **TITIK TENGAH.** Dr. Anindya memperlihatkan makalah peremajaan sel; dokter ginjal menghitung kemungkinan dialisis sekitar 8–10 tahun | Menanyakan hasil lab sendiri | Harapan dan hitungan mundur sekaligus |
+| 21 | Dr. Anindya: "bawa pertanyaanmu sendiri"; asisten riset | Menjadi asisten riset | Kerja paruh waktu; kurang tidur |
+| 22 | **Bayu**: dekat; ke Klaten; ibunya menanyakan *bibit, bebet, bobot* | | Wulan mundur lebih dulu |
+| 23 | AI mulai dipakai (2022): membantu, juga salah | Menguji AI; tidak menyalin | Kebanggaan kecil yang bocor |
+| 24 | Publikasi pertama; wisuda; Ibu mengira surel kampus penipuan | Menulis naskah; revisi | Bapak memakai kemeja |
+| 25 | IELTS tiga kali; rekomendasi; wawancara beasiswa; gagal dulu | Tahapan seleksi | Gagal, ulang, lolos |
+| 26 | Dingin pertama di Inggris; Amara; **penghalang manusia diperkenalkan** (senior peneliti/pendana) | Beradaptasi; meminta bantuan | Tiwul untuk teman lab; Idul Fitri jauh dari rumah |
+| *Interlude III (2031)* | Pesan Rizal yang tak dibalas | | |
 
 ## Babak III — Formula (2026–2031, usia 24–29)
 | # | Peristiwa | Catatan |
 |---|---|---|
-| 28 | Gagasan dari tubuh sendiri: sel imun yang "lupa identitas" | Pertanyaan masa kecil kembali |
-| 29 | AI dan lab awan: ribuan eksperimen | AI mengusulkan, Wulan menguji |
-| 30 | Tikus: muda, tua, muda; teratoma | Kematian pertama dari eksperimen |
-| 31 | Pengaman gagal dua kali; **Rizal** hadir | Gagal bertahun-tahun; hampir menyerah |
-| 32 | 2029: kambuh parah, gagal ginjal | Pilihan: dialisis/transplan atau dosis pertama |
-| 33 | Dosis pertama pada diri sendiri | Rahasia; harga yang tak bisa dikembalikan |
-| 34 | Ginjal pulih; Rizal ingin serius; Wulan menolak tanpa alasan | Tubuh berhenti menua |
-| 35 | Ingatan mulai memadat; suara Mbah hilang | Arsip pribadi dan AI sebagai memori |
-| 36 | Tekanan pendana dan pesaing | Mengumumkan sebagian, menyembunyikan sebagian |
-| 37 | 2031: pengumuman; pulang ke Pucung; Rasulan | Menyambung prolog |
+| 27 | Gagasan operasional: pengaman antikanker dari pemahaman imun | Jawaban atas pertanyaan masa kecil (L3) |
+| 28 | AI dan lab awan: ribuan eksperimen; pesaing mendekat | AI mengusulkan, Wulan menguji |
+| 29 | **ALL IS LOST.** Tikus: teratoma; pengaman gagal; dana dipotong | Kematian pertama dari eksperimen |
+| 30 | **MALAM GELAP.** 2029: kambuh parah, gagal ginjal, dialisis | Pilihan: transplan atau dosis pertama |
+| 31 | Keputusan malam hari; menghitung risiko | Wulan memilih sendiri |
+| 32 | **KLIMAKS.** Dosis pertama pada diri sendiri | Rahasia; harga yang tak bisa dikembalikan |
+| 33 | Ginjal pulih; euforia yang gemetar; **Rizal** hadir | Jam ginjal berhenti |
+| 34 | Tubuh berhenti menua; ingatan memadat; suara Mbah hilang; Rizal ditolak | Arsip pribadi dan AI sebagai memori; beban "tak memberikan ke Ibu" |
+| 35 | Pesaing dan pendana menekan; pengumuman sebagian | Menyembunyikan sebagian |
+| 36 | 2031: pengumuman; pulang ke Pucung; Rasulan | Menyambung prolog |
 
-**Epilog.** Arsip. Wulan menuliskan hal yang tidak ingin ia lupakan. Tidak ada yang membacanya.
+**Epilog.** Arsip. Wulan menuliskan hal yang tidak ingin ia lupakan. Tangan Ibu, lagi.
 
 ## Keputusan yang sudah dikunci
 - Wulan tidak menceritakan rahasianya kepada siapa pun.
+- Jilbab mulai di SMP.
 - Tidak ada rujukan ke proyek sebelumnya.
 - Romansa sedikit; adat dan budaya Indonesia dihormati.
 
 ## Pertanyaan terbuka
-- Akhir: pahit-manis (ia sendirian dengan umur panjang) atau ada secercah yang tidak melanggar keputusan di atas (misalnya ia menemukan makna lewat Ardi, adiknya, atau lewat anak-anak yang kelak ditolong formula)?
-- Seberapa jauh rahasia itu menjadi bahaya (pesaing, perusahaan, negara)?
-- Jilbab: mulai di SMP (usulan) atau kemudian? Lihat `04-adat-budaya.md` bagian 9.
+- Akhir: pahit-manis murni, atau ada secercah (misalnya makna lewat Ardi, adiknya, atau lewat anak-anak yang kelak ditolong formula, tanpa melanggar keputusan di atas)?
+- Identitas dan motif penghalang manusia (bab 26).

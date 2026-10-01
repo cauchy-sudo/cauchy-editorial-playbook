@@ -2,6 +2,7 @@
 
 > Judul kerja belum ada. Usulan: *Usia yang Tidak Dihitung* / *Sel yang Mengingat Muda* / *Jam Biologis*.
 
+> **Status v0.4.** Outline diperbarui (`03-outline.md`), struktur dan daya tarik di `05-struktur-dan-daya-tarik.md`, daftar bantahan dan jawaban di `06-celah-logika.md`; `bab-02.md` ditambahkan.
 > **Status v0.3.** Semua jejak proyek sebelumnya telah dihapus. Wulan **tidak menceritakan rahasianya kepada siapa pun**. Ditambah `04-adat-budaya.md` dan alur romansa.
 > **Status v0.2.** Keputusan penulis sudah mengunci banyak hal; lihat `01-tokoh-dan-dunia.md` (tokoh, linimasa, aturan formula), `02-panduan-suara.md` (suara orang pertama, anti-menggurui), `03-outline.md`, `prolog.md`, dan `bab-01.md`.
 > Perubahan terhadap dokumen ini: bagian 2 dan 9 sudah terjawab; di bagian 4.3 usulan "otak dikecualikan" **digantikan** oleh keputusan penulis: seluruh tubuh dan otak diremajakan, yang terbatas adalah kapasitas ingatan.

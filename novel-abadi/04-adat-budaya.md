@@ -79,7 +79,7 @@ Pemakaian [P]:
 ## 9. Agama dalam hidup Wulan [P]
 - Wulan Muslim: shalat, puasa, doa Ibu. Digambarkan wajar, tanpa dakwah.
 - **Puasa saat sakit/steroid:** ada keringanan bagi orang sakit; adegan Ramadan bisa menunjukkan Wulan yang ingin berpuasa tetapi didorong dokter dan Ibu untuk tidak. Konsultasikan akurasi fikih dan ungkapan dengan pembaca yang paham.
-- **Jilbab:** *keputusan terbuka*. Pilihan saya: Wulan mulai berjilbab di SMP; sekolah dan lingkungan menjadikannya biasa, dan jilbab sekaligus pelindung dari matahari. Jangan dijadikan hanya alasan praktis; tampilkan juga dimensi pribadinya (rasa nyaman, doa Ibu, tidak enak hati kalau tidak).
+- **Jilbab:** *keputusan penulis: mulai di SMP.* Alasan: Wulan mulai berjilbab di SMP; sekolah dan lingkungan menjadikannya biasa, dan jilbab sekaligus pelindung dari matahari. Jangan dijadikan hanya alasan praktis; tampilkan juga dimensi pribadinya (rasa nyaman, doa Ibu, tidak enak hati kalau tidak).
 - Di luar negeri: makanan halal, shalat di sela jadwal lab, dan Idul Fitri jauh dari rumah.
 - Tokoh nonmuslim yang muncul dihormati dan tidak dijadikan tokoh pelengkap.
 
