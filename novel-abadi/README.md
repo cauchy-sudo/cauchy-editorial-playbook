@@ -1,6 +1,6 @@
 # Novel Peremajaan Sel — Draf 1 Lengkap
 
-**Diam-Diam Abadi** — novel oleh Damar Arang. (Alternatif judul yang dipertimbangkan: *Pasien Nol*, *Kupu-Kupu yang Salah Hinggap*, *Usia yang Tidak Dihitung*.)
+**Heliks** — novel oleh Damar Arang (tanpa subjudul). Judul lain yang dipertimbangkan: *Diam-Diam Abadi*, *Pasien Nol*, *Sel yang Mengingat*, *Untai Waktu*.
 Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 interlude, epilog.
 
 ## Urutan baca
@@ -26,10 +26,10 @@ Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 inte
 Folder `terbit/` berisi hasil kompilasi dan skrip pembuatnya.
 | Berkas | Keterangan |
 |---|---|
-| `terbit/diam-diam-abadi.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±335 halaman, sampul penuh, daftar isi dan penanda bacaan |
-| `terbit/diam-diam-abadi.epub` | EPUB 3 dengan sampul siklus sel; lolos EpubCheck (0 galat, 0 peringatan) |
-| `terbit/diam-diam-abadi.tex` | sumber LaTeX hasil pembangkitan (untuk diperiksa atau disunting) |
-| `terbit/sampul.jpg` | gambar sampul (latar terang; enam tahap siklus sel mengelilingi heliks DNA) |
+| `terbit/heliks.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±335 halaman, sampul penuh, daftar isi dan penanda bacaan |
+| `terbit/heliks.epub` | EPUB 3 dengan sampul replikasi DNA; lolos EpubCheck (0 galat, 0 peringatan) |
+| `terbit/heliks.tex` | sumber LaTeX hasil pembangkitan (untuk diperiksa atau disunting) |
+| `terbit/sampul.jpg` | gambar sampul (latar krem; heliks DNA yang membelah, untai induk biru tinta dan untai baru merah tua) |
 | `terbit/cover.py` | pembuat sampul (Pillow saja, deterministik) |
 | `terbit/build.py` | skrip build ulang |
 

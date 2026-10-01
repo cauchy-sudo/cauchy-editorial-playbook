@@ -17,11 +17,10 @@ HERE = Path(__file__).resolve().parent
 SRC = HERE.parent
 BUILD = HERE / "_build"
 
-DEFAULT_TITLE = "Diam-Diam Abadi"
-DEFAULT_SUBTITLE = "Sebuah novel"
+DEFAULT_TITLE = "Heliks"
+DEFAULT_SUBTITLE = ""                       # tanpa subjudul
 DEFAULT_AUTHOR = "Damar Arang"
-DEFAULT_SLUG = "diam-diam-abadi"
-COVER_LINES = [("Diam-Diam", 260), ("Abadi", 340)]   # pemenggalan judul pada sampul
+DEFAULT_SLUG = "heliks"
 
 # ---------------------------------------------------------------- struktur
 PARTS = [
@@ -167,8 +166,7 @@ def build_pdf(title, subtitle, author, slug):
 \begin{titlepage}
 \centering
 \vspace*{26mm}
-{\small\textsc{""" + tex_escape(subtitle) + r"""}\par}
-\vspace{10mm}
+""" + (r"{\small\textsc{" + tex_escape(subtitle) + r"}\par}" + "\n" + r"\vspace{10mm}" if subtitle else "") + r"""
 {\fontsize{30}{34}\selectfont\itshape """ + tex_escape(title) + r"""\par}
 \vspace{10mm}
 {\small\textsc{*\hspace{0.7em}*\hspace{0.7em}*}\par}
@@ -267,8 +265,7 @@ def make_cover(title, subtitle, author, path: Path):
     except ImportError:
         print("[sampul] Pillow tidak ada; sampul dilewati")
         return None
-    lines = COVER_LINES if "".join(t for t, _ in COVER_LINES).replace(" ", "") == title.replace(" ", "") else [(title, 150)]
-    return cover.make_cover(lines, author, path)
+    return cover.make_cover(title, author, path)
 
 
 def build_epub(title, subtitle, author, slug):
@@ -292,7 +289,7 @@ def build_epub(title, subtitle, author, slug):
     (BUILD / "epub.css").write_text(CSS, encoding="utf-8")
     meta = (BUILD / "epub-meta.yaml")
     meta.write_text(
-        f"---\ntitle: \"{title}\"\nsubtitle: \"{subtitle}\"\nauthor: \"{author}\"\nlang: id\n"
+        f"---\ntitle: \"{title}\"\n" + (f"subtitle: \"{subtitle}\"\n" if subtitle else "") + f"author: \"{author}\"\nlang: id\n"
         "rights: \"Draf 1 — belum disunting. Karya fiksi.\"\n"
         "description: \"Draf pertama novel tentang seorang anak desa di Gunungkidul, penyakit autoimun, dan sains peremajaan sel.\"\n"
         "toc-title: \"Daftar Isi\"\n---\n", encoding="utf-8")
