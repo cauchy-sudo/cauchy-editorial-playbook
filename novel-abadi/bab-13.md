@@ -136,7 +136,7 @@ Tika berhenti sebentar di meja sebelah, melihat ke arah suara itu, lalu berjalan
 
 Tak ada yang menjawab.
 
-"Aku sekamar sama dia dua tahun. Dia makan sekali sehari waktu uangnya habis dan tidak pernah minta ke siapa pun. Dia sapu halaman Bu Haji tiap pagi supaya bisa makan malam. Dia nyanyi di pentas dengan kaki gemetar. Dia nolak Daffa, dan dia nolaknya dengan lebih sopan daripada yang bisa kalian lakukan kalau ditanya sesuatu yang kalian nggak mau." Tika menarik napas. "Kalau itu sombong, ya aku mau juga."
+"Aku sekamar sama dia setahun lebih. Dia makan sekali sehari waktu uangnya habis dan tidak pernah minta ke siapa pun. Dia sapu halaman Bu Haji tiap pagi supaya bisa makan malam. Dia nyanyi di pentas dengan kaki gemetar. Dia nolak Daffa, dan dia nolaknya dengan lebih sopan daripada yang bisa kalian lakukan kalau ditanya sesuatu yang kalian nggak mau." Tika menarik napas. "Kalau itu sombong, ya aku mau juga."
 
 Seisi kantin hening. Penjual bakso di pojok berhenti mengaduk. Seseorang menjatuhkan sendok.
 

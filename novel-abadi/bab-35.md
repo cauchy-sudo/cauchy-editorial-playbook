@@ -2,7 +2,7 @@
 
 Setahun pertama berlalu dengan tenang, dan itu yang paling menakutkan.
 
-Tanggal sembilan tiap bulan, aku memberi diriku pulsa itu, di laboratorium yang kosong atau di kamar kos yang kusewa kembali dengan alasan yang tidak pernah kujelaskan pada pemiliknya, sendirian, dengan tangan yang makin terampil dan hati yang tak pernah makin tenang. Aku sudah belajar mengatur dosisnya. Demam yang tadinya tiga puluh sembilan menjadi tiga puluh delapan, lalu tiga puluh tujuh koma lima, lalu hanya rasa dingin singkat di punggung. Jeda pemulihan sembilan hari, sesuai catatan di pinggir buku. Aku memeriksa tubuhku setiap pagi, setiap sore, dengan kolom-kolom tulisan tangan yang makin rapi.
+Tanggal sembilan tiap bulan, aku memberi diriku pulsa itu, di laboratorium yang kosong atau di kamar kos yang kusewa kembali dengan alasan yang tidak pernah kujelaskan pada pemiliknya, sendirian, dengan tangan yang makin terampil dan hati yang tak pernah makin tenang. Aku sudah belajar mengatur dosisnya. Demam yang tadinya tiga puluh sembilan menjadi tiga puluh delapan, lalu tiga puluh tujuh koma lima, lalu hanya rasa dingin singkat di punggung. Pulsa kedua menyusul sembilan hari kemudian: jeda pemulihan, sesuai catatan di pinggir buku. Aku memeriksa tubuhku setiap pagi, setiap sore, dengan kolom-kolom tulisan tangan yang makin rapi.
 
 *TANGGAL. KELUHAN. DEMAM? OBAT.*
 

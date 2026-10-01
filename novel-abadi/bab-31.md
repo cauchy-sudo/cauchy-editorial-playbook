@@ -80,7 +80,7 @@ Dr. Anindya mengambil kotak itu, membaca surat perjanjian pemindahan bahan yang 
 
 Aku tidak menjawab.
 
-"Wulan." Dr. Anindya meletakkan tangannya di tutup kotak. "Aku tidak bodoh. Aku tahu angka yang kamu simpan sejak umur sembilan belas. Aku melihatmu mengintip hasil laboratoriummu di tangga setiap kali selesai kontrol." Ia terdiam. "Aku hanya ingin kamu tahu. Kalau ada sesuatu yang kamu pikirkan, sesuatu yang bodoh, kamu bilang padaku dulu."
+"Wulan." Dr. Anindya meletakkan tangannya di tutup kotak. "Aku tidak bodoh. Aku tahu angka yang kamu simpan sejak umur delapan belas. Aku melihatmu mengintip hasil laboratoriummu di tangga setiap kali selesai kontrol." Ia terdiam. "Aku hanya ingin kamu tahu. Kalau ada sesuatu yang kamu pikirkan, sesuatu yang bodoh, kamu bilang padaku dulu."
 
 "Tidak ada, Bu."
 
@@ -112,11 +112,11 @@ Aku menatapnya sebentar. Kemudian aku berdiri, mencuci tangan, mengambil buku ca
 
 *Rabu. Urin berbuih? YA.*
 
-Aku tidak menunggu esok. Aku menelepon Dr. Suryo.
+Aku tidak menunggu esok. Aku menelepon dr. Suryo.
 
 ---
 
-Hasil laboratoriumku keluar sore itu, dan Dr. Suryo, yang kini beruban tapi masih berkumis tebal, membacanya dengan wajah yang tidak bisa kubaca, dan itu cara terburuk dokter membacanya.
+Hasil laboratoriumku keluar sore itu, dan dr. Suryo, yang kini beruban tapi masih berkumis tebal, membacanya dengan wajah yang tidak bisa kubaca, dan itu cara terburuk dokter membacanya.
 
 "Laju filtrasi dua puluh dua," katanya.
 
@@ -146,7 +146,7 @@ Aku tersenyum. Aku tidak tahu mengapa. Mungkin karena aku sudah menghitung angka
 
 "Aku menghitungnya sejak 2020. Anda yang bilang delapan sampai sepuluh."
 
-"Aku tahu." Dr. Suryo menutup map. "Aku berharap salah."
+"Aku tahu." Dokter Suryo menutup map. "Aku berharap salah."
 
 ---
 
@@ -154,7 +154,7 @@ Pengobatan tidak berhasil.
 
 Aku dirawat di rumah sakit yang sama, di bangsal dewasa, dengan Ibu yang tidur di kursi di sebelah ranjangku, mengenakan kebaya yang sama, dengan wajah yang berubah dari hari ke hari, dari khawatir menjadi sesuatu yang lebih tua dan lebih tenang. Aku mendapat infus steroid tiga hari. Aku mendapat obat yang lebih keras. Rambutku rontok lagi, dan kali ini aku tidak menangis. Ibu duduk di tepi ranjang dan menyisir rambutku yang tersisa dengan jari, pelan-pelan, tanpa berkata apa-apa.
 
-Pada hari kesepuluh, pagi-pagi, Dr. Suryo masuk membawa hasil. Ia duduk di kursi di sisi ranjang. Ia menatap Ibu, lalu aku.
+Pada hari kesepuluh, pagi-pagi, dr. Suryo masuk membawa hasil. Ia duduk di kursi di sisi ranjang. Ia menatap Ibu, lalu aku.
 
 "Kalium dalam darah naik," katanya. "Ginjal tidak membuangnya. Itu berbahaya. Jantung bisa terpengaruh." Ia berhenti. "Laju filtrasinya sepuluh. Kita harus mulai cuci darah. Hari ini."
 
@@ -162,7 +162,7 @@ Ibu menggenggam jemariku sampai sakit.
 
 "Hari ini?" kataku.
 
-"Hari ini. Sebelum siang." Dr. Suryo mengulurkan tangan, dan aku melihat ia ragu sejenak, lalu menepuk bahuku, singkat. "Maafkan aku, Wulan."
+"Hari ini. Sebelum siang." Dokter Suryo mengulurkan tangan, dan aku melihat ia ragu sejenak, lalu menepuk bahuku, singkat. "Maafkan aku, Wulan."
 
 "Bukan salah Dokter."
 
@@ -260,7 +260,7 @@ Aku merasa sesuatu pecah di dalam dadaku, sesuatu yang telah menahan selama enam
 
 Ia menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
 
-Dr. Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Aji, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
+Dokter Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Aji, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
 
 "Kamu kuliah," kataku. "Kamu masih harus kuliah."
 
@@ -270,7 +270,7 @@ Dr. Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolo
 
 Ibu yang terakhir.
 
-Hasil Ibu keluar pada hari Jumat. Dr. Suryo memanggil kami berdua ke ruangannya, menutup pintu, dan berbicara dengan nada paling hati-hati yang pernah kudengar darinya.
+Hasil Ibu keluar pada hari Jumat. Dokter Suryo memanggil kami berdua ke ruangannya, menutup pintu, dan berbicara dengan nada paling hati-hati yang pernah kudengar darinya.
 
 "Ibu Sumiati. Hasil Anda baik. Golongan darah cocok. Tapi fungsi ginjal Anda enam puluh delapan. Tekanan darah Anda borderline. Anda berumur lima puluh tiga, dan hampir seluruh hidup Anda bekerja di bawah matahari dengan sedikit minum." Ia menatap Ibu dengan lembut. "Untuk seorang donor, angka itu terlalu rendah. Risikonya terlalu tinggi bagi Anda."
 
@@ -280,7 +280,7 @@ Ibu menatapnya. "Tapi saya masih punya dua."
 
 "Dok..."
 
-"Kami tidak bisa, Bu." Dr. Suryo menunduk. "Maafkan kami."
+"Kami tidak bisa, Bu." Dokter Suryo menunduk. "Maafkan kami."
 
 Ibu menunduk. Ia duduk diam lama sekali, dengan kedua tangan di pangkuan, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika ia menengadah, wajahnya sama sekali kering.
 
@@ -290,7 +290,7 @@ Ibu menunduk. Ia duduk diam lama sekali, dengan kedua tangan di pangkuan, dan ak
 
 "Berapa lama?"
 
-Dr. Suryo tidak menjawab dengan cepat. "Di Indonesia, itu bisa bertahun-tahun, Bu. Banyak yang tidak sempat."
+Dokter Suryo tidak menjawab dengan cepat. "Di Indonesia, itu bisa bertahun-tahun, Bu. Banyak yang tidak sempat."
 
 Ibu mengangguk.
 

@@ -1,6 +1,6 @@
-# Novel Peremajaan Sel — Draf 1 Lengkap
+# Heliks
 
-**Heliks** — novel oleh Damar Arang (tanpa subjudul). Judul lain yang dipertimbangkan: *Diam-Diam Abadi*, *Pasien Nol*, *Sel yang Mengingat*, *Untai Waktu*.
+Novel oleh Damar Arang. Judul lain yang dipertimbangkan: *Diam-Diam Abadi*, *Pasien Nol*, *Sel yang Mengingat*, *Untai Waktu*.
 Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 interlude, epilog.
 
 ## Urutan baca
@@ -20,7 +20,7 @@ Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 inte
 
 ## Dokumen kerja
 - `07-ledger-dan-verifikasi.md` — **mulai di sini** untuk kontinuitas, daftar verifikasi fakta, dan kelemahan yang diketahui.
-- `00-konsep.md`, `01-tokoh-dan-dunia.md`, `02-panduan-suara.md`, `03-outline.md`, `04-adat-budaya.md`, `05-struktur-dan-daya-tarik.md`, `06-celah-logika.md`, `panduan-penulisan.md` — dokumen perencanaan (sebagian sudah digantikan oleh draf; lihat ledger).
+- `00-konsep.md`, `01-tokoh-dan-dunia.md`, `02-panduan-suara.md`, `03-outline.md`, `04-adat-budaya.md`, `05-struktur-dan-daya-tarik.md`, `06-celah-logika.md`, `panduan-penulisan.md` — dokumen perencanaan (sebagian sudah digantikan oleh naskah; lihat ledger).
 
 ## Terbitan (PDF dan EPUB)
 Folder `terbit/` berisi hasil kompilasi dan skrip pembuatnya.

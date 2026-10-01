@@ -156,7 +156,7 @@ Kami berdua nyaris tertawa, dan karena itu tidak berani saling menatap.
 
 Pada bulan Oktober, ketika hujan pertama jatuh dan seluruh Wonosari berbau tanah basah, Naufal tidak datang pada hari Kamis. Aku menunggu di teras sampai pukul tujuh, sampai Bu Haji menghela napas dan melipat koran, dan aku naik ke kamar.
 
-Pada Jumat, ia ada di sekolah, duduk di sebelahku, dengan wajah yang tak terbaca.
+Pada Jumat, ia ada di sekolah, duduk di sebelahku, dengan wajah seperti papan tulis yang baru dihapus.
 
 "Kemarin kamu tidak ke kos."
 

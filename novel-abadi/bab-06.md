@@ -4,11 +4,11 @@ Hari pertama aku kembali ke SD, Pak Kepala Sekolah membuka upacara dengan satu k
 
 "Kita menyambut kembali Wulan Rahayu Ningsih dari kelas enam, yang sudah sembuh dari sakitnya."
 
-Aku tidak sembuh. Tetapi kata *sembuh* adalah kata yang cukup untuk satu lapangan penuh anak-anak berseragam, dan mereka semua menoleh kepadaku di barisan belakang, di bawah pohon asam yang dipilih Bu Siti khusus agar aku tidak berdiri di terik. Di tanganku payung hitam Mbah. Di atas kepalaku, kerudung putih seragam Tika yang sudah kekecilan.
+Aku tidak sembuh. Tetapi kata *sembuh* adalah kata yang cukup untuk satu lapangan penuh anak-anak berseragam, dan mereka semua menoleh kepadaku di barisan belakang, di bawah pohon asam yang dipilih Bu Siti khusus agar aku tidak berdiri di terik. Di tanganku payung hitam Mbah. Di atas kepalaku, topi sekolah yang kebesaran.
 
 Dua ratus tiga puluh anak memandangi wajahku. Tak seorang pun bicara.
 
-Aku tahu persis apa yang mereka lihat, karena aku sudah melihatnya sendiri di cermin tiap pagi selama tiga minggu: sebuah wajah bulat penuh, yang pipinya menggembung seperti bakpao dan matanya menyipit di antara kelopak yang tebal, dengan kulit yang mengilap dan sedikit kemerahan. Steroid, kata Dr. Sumarni, menumpuk lemak di wajah. Namanya *wajah bulan*. Aku tidak percaya dokter memberi nama seindah itu untuk sesuatu yang membuatku ingin bersembunyi di bawah meja.
+Aku tahu persis apa yang mereka lihat, karena aku sudah melihatnya sendiri di cermin tiap pagi selama tiga minggu: sebuah wajah bulat penuh, yang pipinya menggembung seperti bakpao dan matanya menyipit di antara kelopak yang tebal, dengan kulit yang mengilap dan sedikit kemerahan. Steroid, kata dr. Sumarni, menumpuk lemak di wajah. Namanya *wajah bulan*. Aku tidak percaya dokter memberi nama seindah itu untuk sesuatu yang membuatku ingin bersembunyi di bawah meja.
 
 "Wulan *Bulan*!"
 
@@ -74,13 +74,13 @@ Musim kemarau datang pada bulan Juni. Dengan itu datang pula ujian lain: sekolah
 
 SMP Negeri itu berdiri empat kilometer dari dusun, di kecamatan, di atas bukit kecil yang dikelilingi pohon jati. Ada tiga ratus siswa, dua puluh guru, dan satu lapangan yang tidak punya satu pun pohon asam. Aku berjalan ke sana tiap pagi bersama Tika dan lima anak lain dari dusun, melewati ladang jagung yang dipenuhi bunyi serangga.
 
-Dua hal terjadi sebelum aku menginjakkan kaki ke sana.
+Dua hal terjadi di awal Juli itu.
 
 Yang pertama adalah rambutku. Steroid dan penyakit itu sendiri membuat rambutku rontok dari ubun-ubun dalam gumpalan-gumpalan kecil yang menempel di sisir, di bantal, di lantai kamar mandi. Pada suatu pagi di bulan Juli, ketika aku bercermin untuk mengikat rambut dan melihat kulit kepalaku tampak lewat di antara helai-helai tipis, aku diam sebentar. Lalu aku mengambil kerudung putih dari lemari, kerudung yang Tika wariskan dulu.
 
 Aku memakainya. Aku menunduk menatap bayanganku.
 
-Itu adalah wajah yang tidak kukenal, tetapi tidak terlalu asing juga. Kerudung menutup ubun-ubun yang menipis, menutup tengkuk dari matahari, membingkai pipi yang bulat sampai ia terlihat seperti sengaja dibuat bulat. Ada sesuatu yang diam di dalam bayangan itu, sesuatu yang bukan Wulan Bulan atau pasien Dr. Sumarni atau anak tifus. Hanya seseorang yang akan keluar rumah.
+Itu adalah wajah yang tidak kukenal, tetapi tidak terlalu asing juga. Kerudung menutup ubun-ubun yang menipis, menutup tengkuk dari matahari, membingkai pipi yang bulat sampai ia terlihat seperti sengaja dibuat bulat. Ada sesuatu yang diam di dalam bayangan itu, sesuatu yang bukan Wulan Bulan atau pasien dr. Sumarni atau anak tifus. Hanya seseorang yang akan keluar rumah.
 
 Ibu berdiri di pintu kamar. Ia tidak mengatakan apa-apa selama beberapa saat.
 
@@ -108,7 +108,7 @@ Aku tidak tahu dari mana ia mendapat kalimat itu. Ia tidak pernah belajar di kel
 
 Yang kedua adalah upacara hari pertama.
 
-Upacara masa orientasi di SMP itu berlangsung di lapangan tanpa naungan pada pukul sembilan pagi bulan Juli. Aku berdiri di barisan kelas tujuh, di bawah payung hitam Mbah, dengan kerudung baru yang kusam putihnya, dan wajah bulat yang sudah kuputuskan akan kuterima.
+Upacara masa orientasi di SMP itu berlangsung di lapangan tanpa naungan pada pukul sembilan pagi bulan Juli. Aku berdiri di barisan kelas tujuh, di bawah payung hitam Mbah, dengan kerudung warisan Tika yang putihnya sudah kusam, dan wajah bulat yang sudah kuputuskan akan kuterima.
 
 Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Itu payung buat apa? Kayak nenek-nenek."
 

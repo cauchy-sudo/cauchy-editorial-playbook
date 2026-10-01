@@ -48,7 +48,7 @@ Aku duduk di tepi bak mandi dan menutup mulutku dengan telapak tangan.
 
 ---
 
-Dr. Suryo membaca hasil laboratoriumku pada pertengahan Februari dengan wajah yang tidak bisa kubaca, dan kali ini itu cara terbaik dokter membacanya.
+Dokter Suryo membaca hasil laboratoriumku pada pertengahan Februari dengan wajah yang tidak bisa kubaca, dan kali ini itu cara terbaik dokter membacanya.
 
 "Kreatinin sebelum cuci darah turun," katanya. "Dari delapan koma satu menjadi empat koma dua. Produksi urin naik. Laju filtrasi..." Ia berhenti. Ia membuka mulut, menutupnya, lalu membuka mapku sekali lagi dan membaca angkanya dengan jarinya, seakan angka itu bisa berubah. "Tiga puluh dua."
 
@@ -68,7 +68,7 @@ Aku menatap meja. Aku menyusun jawabannya berkali-kali sebelum datang, dan semua
 
 "Aku makan sesuai catatan Ibu," kataku.
 
-Dr. Suryo mengerjap. Lalu, perlahan, ia tertawa, tawa besar dan hangat dan sedikit lega, yang belum pernah kudengar darinya.
+Dokter Suryo mengerjap. Lalu, perlahan, ia tertawa, tawa besar dan hangat dan sedikit lega, yang belum pernah kudengar darinya.
 
 "Catatan Ibumu pasti menyelamatkan nyawa," katanya.
 

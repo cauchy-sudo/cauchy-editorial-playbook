@@ -1,6 +1,6 @@
 # Bab 14 — Parut
 
-Dr. Sumarni membaca hasil laboratoriumku dengan wajah yang tidak berubah sama sekali, dan itu cara terburuk dokter membacanya.
+Dokter Sumarni membaca hasil laboratoriumku dengan wajah yang tidak berubah sama sekali, dan itu cara terburuk dokter membacanya.
 
 "Kreatininnya naik," katanya. "Protein di urin empat plus. Tekanan darahmu tinggi. Dan C3-nya turun lagi." Ia meletakkan kertas itu di meja dan menyatukan jemarinya. "Wulan, ini kambuh. Dan ini bukan kambuh yang kecil."
 
@@ -16,7 +16,7 @@ Aku duduk di kursi pasien dengan kedua tangan di pangkuan. Di sampingku Ibu, yan
 
 "Lalu kenapa..."
 
-"Karena kadang tidak ada kenapa." Dr. Sumarni berhenti, dan aku melihatnya memilih kata-kata dengan cermat, seperti orang melangkah di atas batu licin. "Lupus tidak selalu menunggu alasan, Wulan. Mungkin infeksi kecil yang tidak kamu sadari. Mungkin kelelahan. Mungkin tidak ada apa-apa. Itu bukan salahmu."
+"Karena kadang tidak ada kenapa." Dokter Sumarni berhenti, dan aku melihatnya memilih kata-kata dengan cermat, seperti orang melangkah di atas batu licin. "Lupus tidak selalu menunggu alasan, Wulan. Mungkin infeksi kecil yang tidak kamu sadari. Mungkin kelelahan. Mungkin tidak ada apa-apa. Itu bukan salahmu."
 
 "Iya, Dok."
 
@@ -24,7 +24,7 @@ Aku duduk di kursi pasien dengan kedua tangan di pangkuan. Di sampingku Ibu, yan
 
 Ibu menarik napas pelan. "Itu... sakit, Dok?"
 
-"Dia akan dibius lokal. Prosedurnya sekitar satu jam. Dia harus berbaring tidak bergerak selama enam jam sesudahnya." Dr. Sumarni menoleh kepadaku. "Takut?"
+"Dia akan dibius lokal. Prosedurnya sekitar satu jam. Dia harus berbaring tidak bergerak selama enam jam sesudahnya." Dokter Sumarni menoleh kepadaku. "Takut?"
 
 "Sedikit."
 
@@ -48,9 +48,9 @@ Itu cara Tika menjagaku. Bukan dengan kata-kata penghiburan, tapi dengan hal-hal
 
 ---
 
-Hasil biopsi keluar empat hari kemudian, ketika aku sudah dirawat di bangsal yang sama, di ranjang yang dulu ditempati Yuni, atau mungkin ranjang di sebelahnya. Aku tidak ingat lagi. Dr. Sumarni datang bersama seorang dokter ginjal yang aku belum kenal, dan keduanya duduk di sisi ranjang dengan wajah yang tidak bisa kuuraikan.
+Hasil biopsi keluar empat hari kemudian, ketika aku sudah dirawat di bangsal yang sama, di ranjang yang dulu ditempati Yuni, atau mungkin ranjang di sebelahnya. Aku tidak ingat lagi. Dokter Sumarni datang bersama seorang dokter ginjal yang aku belum kenal, dan keduanya duduk di sisi ranjang dengan wajah yang tidak bisa kuuraikan.
 
-"Nefritis lupus kelas empat," kata Dr. Sumarni. "Aktif."
+"Nefritis lupus kelas empat," kata dr. Sumarni. "Aktif."
 
 Aku sudah membaca tentang kelas-kelas itu di buku Biologi dan di perpustakaan Pak Karto sejak umur dua belas. Kelas empat adalah yang paling berat dari yang masih bisa ditolong. Aku tahu.
 
@@ -58,7 +58,7 @@ Aku sudah membaca tentang kelas-kelas itu di buku Biologi dan di perpustakaan Pa
 
 "Parut?"
 
-"Bekas luka. Dari serangan-serangan sebelumnya. Mungkin dari kambuh pertama, saat kamu dua belas tahun, yang tidak sempat dikendalikan cukup cepat." Ia berhenti, dan aku melihat ia memilih kata. "Jaringan yang sudah menjadi parut tidak bisa pulih. Tidak bisa disembuhkan. Ia sudah menjadi sesuatu yang lain."
+"Bekas luka. Dari serangan-serangan sebelumnya. Mungkin dari kambuh pertama, saat kamu sebelas tahun, yang tidak sempat dikendalikan cukup cepat." Ia berhenti, dan aku melihat ia memilih kata. "Jaringan yang sudah menjadi parut tidak bisa pulih. Tidak bisa disembuhkan. Ia sudah menjadi sesuatu yang lain."
 
 "Berapa banyak?"
 
@@ -82,7 +82,7 @@ Aku menulis kata itu malam itu di buku catatan. Satu kata saja, di halaman yang 
 
 ---
 
-Pengobatan baru dimulai keesokan harinya: steroid dosis tinggi lagi lewat infus, lalu obat yang lebih keras, yang dialirkan lewat jarum di lenganku selama beberapa jam setiap dua minggu. Dr. Sumarni menjelaskan bahwa obat itu pernah dibuat untuk melawan kanker, dan sekarang digunakan, dalam dosis yang jauh lebih kecil, untuk meredam sistem kekebalan yang kehilangan arah.
+Pengobatan baru dimulai keesokan harinya: steroid dosis tinggi lagi lewat infus, lalu obat yang lebih keras, yang dialirkan lewat jarum di lenganku selama beberapa jam setiap dua minggu. Dokter Sumarni menjelaskan bahwa obat itu pernah dibuat untuk melawan kanker, dan sekarang digunakan, dalam dosis yang jauh lebih kecil, untuk meredam sistem kekebalan yang kehilangan arah.
 
 "Efek sampingnya," katanya, "mual. Lemas. Dan rambutmu akan rontok."
 
@@ -106,7 +106,7 @@ Ibu duduk di kursi di samping ranjangku sepanjang malam. Aku tidak pernah meliha
 
 "Itu bukan tidur."
 
-Ibu tidak menjawab. Ia hanya menaikkan selimut sampai ke daguku, lalu duduk kembali, dan di keremangan lampu bangsal aku melihat bibirnya bergerak tanpa suara. Aku tahu ia sedang menyebut nama-nama: Pak Dukuh, Mbok Karni, Pak Modin, Pakdhe Harjo, Bu Haji, dan seluruh dusun yang menyumbang dan mendoakan, dan Dr. Sumarni, dan Mbak Nurul, dan, aku yakin, seseorang yang belum pernah kutemui.
+Ibu tidak menjawab. Ia hanya menaikkan selimut sampai ke daguku, lalu duduk kembali, dan di keremangan lampu bangsal aku melihat bibirnya bergerak tanpa suara. Aku tahu ia sedang menyebut nama-nama: Pak Dukuh, Mbok Karni, Pak Modin, Pakdhe Harjo, Bu Haji, dan seluruh dusun yang menyumbang dan mendoakan, dan dr. Sumarni, dan Mbak Nurul, dan, aku yakin, seseorang yang belum pernah kutemui.
 
 ---
 
@@ -156,7 +156,7 @@ Aku menatapnya. Aku tidak punya kata. Ibu, di belakangku, tiba-tiba menyibukkan 
 
 Malam itu, ketika semua tidur dan bangsal hanya diterangi lampu merah kecil di atas pintu, aku memasang antena panjang itu ke daun jendela, menyalakan radio, dan mendengarkan dengan volume paling pelan. Dengungan, serakan, suara-suara yang jauh. Dan di antaranya, entah dari mana, entah dari negara mana, sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, dengan nada yang menenangkan seperti ibu yang membacakan dongeng.
 
-Aku menyimak sampai pagi. Aku tidak menangis. Tetapi aku merasa seperti seseorang yang, untuk pertama kalinya, menyadari bahwa dunia adalah tempat yang memiliki banyak sekali suara yang lemah, dan seseorang yang pernah kenal membuat antena agar aku bisa mendengarnya.
+Aku menyimak sampai pagi. Aku tidak menangis. Tetapi aku merasa seperti seseorang yang, untuk pertama kalinya, menyadari bahwa dunia penuh suara yang lemah, dan bahwa seseorang telah membuatkan antena supaya aku bisa mendengarnya.
 
 ---
 

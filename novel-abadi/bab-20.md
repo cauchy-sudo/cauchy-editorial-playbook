@@ -60,7 +60,7 @@ Semua menoleh kepadanya. Ia mengangkat bahu, canggung.
 
 "Maaf. Cuma pikiran."
 
-Dr. Anindya menatap Bayu sebentar, lalu aku. Wajahnya yang biasanya datar tampak mengandung sesuatu yang tidak bisa kubaca.
+Dr. Anindya menatap Bayu sebentar, lalu aku. Wajahnya yang biasanya datar tampak menyimpan sesuatu yang belum ia putuskan untuk dikatakan.
 
 "Wulan," katanya. "Aku tidak akan menjanjikan apa-apa. Tapi aku punya satu proyek kecil. Sel kulit manusia yang sudah tua, ditaruh di cawan, diberi pulsa singkat. Kita lihat apa yang terjadi. Kamu mau ikut?"
 
@@ -74,9 +74,9 @@ Dr. Anindya menatap Bayu sebentar, lalu aku. Wajahnya yang biasanya datar tampak
 
 ---
 
-Dr. Suryo Hadi, dokter ginjal baruku, menerimaku pada Selasa pagi di sebuah ruangan yang bau obat dan kopi dan kertas lama.
+Dokter Suryo Hadi, dokter ginjal baruku, menerimaku pada Selasa pagi di sebuah ruangan yang bau obat dan kopi dan kertas lama.
 
-Ia berusia lima puluhan, dengan kumis tebal dan tangan besar, dan ia berbicara dengan nada seperti orang menjelaskan hal sederhana kepada anak yang tak perlu dibohongi. Dr. Sumarni sudah menyerahkan berkas-berkasku tahun lalu, dan di atas mejanya ada map tebal yang kukenal: seluruh hasil lab sejak umur dua belas, dirapikan, diberi indeks.
+Ia berusia lima puluhan, dengan kumis tebal dan tangan besar, dan ia berbicara dengan nada seperti orang menjelaskan hal sederhana kepada anak yang tak perlu dibohongi. Dokter Sumarni sudah menyerahkan berkas-berkasku beberapa bulan lalu, dan di atas mejanya ada map tebal yang kukenal: seluruh hasil lab sejak umur sebelas, dirapikan, diberi indeks.
 
 "Kamu mahasiswa biologi," katanya.
 
@@ -94,9 +94,9 @@ Ia memutar layar komputernya. Di layar, ada sebuah grafik dengan garis berwarna 
 
 "Berapa konsisten?"
 
-"Tiga sampai empat poin per tahun."
+"Empat sampai lima poin per tahun."
 
-Aku menghitung. Aku tidak sengaja. Itu terjadi seperti refleks, seperti menghitung ubin plafon. Lima puluh delapan, dikurangi tiga atau empat tiap tahun. Lima puluh empat. Lima puluh. Empat puluh enam. Aku menghitung sampai angka lima belas.
+Aku menghitung. Aku tidak sengaja. Itu terjadi seperti refleks, seperti menghitung ubin plafon. Lima puluh delapan, dikurangi empat atau lima tiap tahun. Lima puluh tiga. Empat puluh delapan. Empat puluh tiga. Aku menghitung sampai angka lima belas.
 
 "Dok," kataku.
 
@@ -104,7 +104,7 @@ Aku menghitung. Aku tidak sengaja. Itu terjadi seperti refleks, seperti menghitu
 
 "Kalau tren ini..."
 
-"Kalau tren ini berlanjut tanpa perubahan, dan itu 'kalau' yang besar." Dr. Suryo menutup map. "Kalau tidak ada serangan baru, kalau obat tetap bekerja, kalau tekanan darahmu terkendali, banyak 'kalau.' Maka dalam delapan sampai sepuluh tahun, kamu akan mendekati gagal ginjal tahap akhir. Cuci darah atau cangkok ginjal."
+"Kalau tren ini berlanjut tanpa perubahan, dan itu 'kalau' yang besar." Dokter Suryo menutup map. "Kalau tidak ada serangan baru, kalau obat tetap bekerja, kalau tekanan darahmu terkendali, banyak 'kalau.' Maka dalam delapan sampai sepuluh tahun, kamu akan mendekati gagal ginjal tahap akhir. Cuci darah atau cangkok ginjal."
 
 Ruangan itu sunyi.
 
@@ -114,9 +114,9 @@ Ruangan itu sunyi.
 
 "Ya."
 
-"Umur saya dua puluh tujuh. Dua puluh sembilan."
+"Umur saya dua puluh enam. Dua puluh delapan."
 
-"Kira-kira." Dr. Suryo menatapku, dan di wajahnya yang besar dan kasar ada sesuatu yang lembut. "Wulan. Kamu pasien yang pintar. Aku tidak mau menakutimu. Aku mau kamu tahu karena kamu berhak tahu. Dan karena orang yang tahu bisa merencanakan."
+"Kira-kira." Dokter Suryo menatapku, dan di wajahnya yang besar dan kasar ada sesuatu yang lembut. "Wulan. Kamu pasien yang pintar. Aku tidak mau menakutimu. Aku mau kamu tahu karena kamu berhak tahu. Dan karena orang yang tahu bisa merencanakan."
 
 Aku mengangguk. Aku menahan sesuatu yang naik ke tenggorokanku dan tidak mau turun.
 
@@ -126,7 +126,7 @@ Aku mengangguk. Aku menahan sesuatu yang naik ke tenggorokanku dan tidak mau tur
 
 "Satu." Aku menelan ludah. "Parut di ginjal itu. Yang tidak bisa pulih. Apakah suatu hari nanti... ada yang bisa memulihkannya?"
 
-Dr. Suryo diam cukup lama. "Kalau kamu tanya aku sekarang," katanya, "jawabannya tidak ada. Tapi aku sudah menjadi dokter cukup lama untuk tahu bahwa jawaban 'tidak ada' sering hanya berarti 'belum ada.'"
+Dokter Suryo diam cukup lama. "Kalau kamu tanya aku sekarang," katanya, "jawabannya tidak ada. Tapi aku sudah menjadi dokter cukup lama untuk tahu bahwa jawaban 'tidak ada' sering hanya berarti 'belum ada.'"
 
 Aku tersenyum, kecil. Kupikir itu lelucon. Ternyata bukan.
 
@@ -136,7 +136,7 @@ Aku tidak langsung pulang. Aku berjalan menyusuri jalan besar di depan rumah sak
 
 Tujuh tahun yang lalu, seorang perawat bernama Nurul merobek selembar kertas dan menggambar kolom-kolom. Kini aku, delapan belas tahun lebih beberapa bulan, duduk di sebuah halte dan menulis angka-angka di bawah baris-baris yang sudah penuh.
 
-*8–10 tahun. 2029–2031.*
+*8–10 tahun. 2028–2030. Tengahnya: 2029.*
 
 Aku menatapnya. Aku menulis ulang, dengan huruf yang lebih besar, seakan jumlah yang dipertegas bisa berubah.
 

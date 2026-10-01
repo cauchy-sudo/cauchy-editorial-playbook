@@ -62,7 +62,7 @@ Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar
 
 "dr. Raihan," kataku. "Mbak Nurul."
 
-"Wulan." Dr. Raihan tersenyum, dan senyum itu masih seperti senyum seseorang yang tak percaya ia benar-benar didengarkan. "Kamu yang pipinya kupu-kupu."
+"Wulan." Dokter Raihan tersenyum, dan senyum itu masih seperti senyum seseorang yang tak percaya ia benar-benar didengarkan. "Kamu yang pipinya kupu-kupu."
 
 "Iya, Dok."
 
@@ -80,7 +80,7 @@ Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar
 
 "Itu kecil, Mbak." Aku tersenyum. "Selembar kertas."
 
-Mbak Nurul menunduk, dan aku melihat jarinya yang ramping dan sedikit gemetar mengusap sudut matanya di balik kerudung. Dr. Raihan memerhatikan kami berdua, tidak berkata apa-apa, dan menyendok nasi ke piringnya dengan khidmat seperti seseorang yang tahu bahwa ada momen yang tidak boleh diganggu.
+Mbak Nurul menunduk, dan aku melihat jarinya yang ramping dan sedikit gemetar mengusap sudut matanya di balik kerudung. Dokter Raihan memerhatikan kami berdua, tidak berkata apa-apa, dan menyendok nasi ke piringnya dengan khidmat seperti seseorang yang tahu bahwa ada momen yang tidak boleh diganggu.
 
 Ibu menyodorkan ingkung ke arah Mbak Nurul dengan dua tangan.
 
@@ -240,4 +240,4 @@ Dan aku berlari.
 
 Aku berlari menuju ombak yang pecah, dengan kerudung biru muda yang jahitannya miring pada baris ketiga berkibar di belakang, dengan kaki yang tak pernah berlari sejauh itu di atas pasir basah, dengan dada yang naik turun, dengan air asin yang menampar betis, lutut, paha, dan aku tertawa, dengan suara yang tak kukenal sebagai suaraku sendiri, tertawa seperti seorang anak bulat dengan rambut jarang yang pernah berdiri di sebuah jendela rumah sakit dan menonton langit meledak.
 
-Matahari terbit di belakangku, dan bayanganku berlari di depanku, panjang, di atas air.
+Matahari terbit dari sisi kiriku, dan bayanganku berlari di sampingku, panjang, di atas air.

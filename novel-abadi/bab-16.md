@@ -50,7 +50,7 @@ Itu hari Selasa. Pada hari Sabtu, aku pulang ke Pucung untuk peringatan setahun 
 
 Peringatan itu jatuh pada akhir Januari, di bawah langit yang tidak memutuskan apakah akan hujan atau cerah. Seperti tahlilan tujuh hari, seluruh dusun datang. Ada kenduri kecil di halaman, dengan nasi gurih dan ayam dan sambal goreng, dan Pak Modin memimpin doa dengan suara yang sudah lebih serak daripada setahun sebelumnya.
 
-Tamu dari luar dusun juga hadir. Pakdhe Harjo datang dengan istrinya, Budhe Painem, yang sehari-hari tinggal di Wonosari, kakak tertua Ibu, perempuan enam puluhan bertubuh besar dengan kebaya bermotif bunga dan gelang emas di kedua pergelangan.
+Tamu dari luar dusun juga hadir. Pakdhe Harjo datang dengan istrinya, Budhe Painem, yang sehari-hari tinggal di Wonosari, kakak tertua Ibu, perempuan lima puluhan bertubuh besar dengan kebaya bermotif bunga dan gelang emas di kedua pergelangan.
 
 Budhe Painem adalah orang yang percaya ia selalu benar, dan sebagian besar waktu ia memang benar, dan itu yang membuatnya sulit dihadapi.
 
@@ -112,7 +112,7 @@ Aku mencium tangannya. Ia menepuk punggungku dua kali, keras, seperti menepuk ka
 
 Si Bejo dijual pada awal Februari.
 
-Aku sudah tahu itu akan terjadi, sejak malam Pak Dukuh membacakan daftar nama di teras enam tahun lalu, dan Bapak menatap kandang. Dulu ia tidak melakukannya. Dulu ia menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah ia miliki yang mengenali langkahnya dari kejauhan.
+Aku sudah tahu itu akan terjadi, sejak malam kaleng biskuit dikosongkan enam tahun lalu, dan Bapak menatap kandang. Dulu ia tidak melakukannya. Dulu ia menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah ia miliki yang mengenali langkahnya dari kejauhan.
 
 "Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Jangan."
 

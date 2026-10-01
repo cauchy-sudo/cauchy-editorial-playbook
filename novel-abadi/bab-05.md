@@ -20,13 +20,13 @@ Aku baru tahu tiga hari kemudian, ketika infus pertama yang berisi obat putih di
 
 ---
 
-Dr. Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Aji berdiri di belakang Ibu seperti tiang.
+Dokter Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Aji berdiri di belakang Ibu seperti tiang.
 
 "Wulan terkena penyakit yang namanya lupus," katanya. "Nama lengkapnya lupus eritematosus sistemik, disingkat SLE. Lupus itu bahasa Latin, artinya serigala."
 
 "Serigala?" kata Ibu.
 
-"Orang dulu melihat ruam merah di wajah pasien dan mengira itu bekas gigitan serigala. Tapi ruam di pipi Wulan..." Dr. Sumarni menoleh kepadaku. "Wulan sendiri pernah bilang bentuknya apa?"
+"Orang dulu melihat ruam merah di wajah pasien dan mengira itu bekas gigitan serigala. Tapi ruam di pipi Wulan..." Dokter Sumarni menoleh kepadaku. "Wulan sendiri pernah bilang bentuknya apa?"
 
 "Kupu-kupu, Dok," kataku. "Kata Tika."
 
@@ -44,7 +44,7 @@ Ibu menatapku. Aku menunduk.
 
 "Dokter," kata Ibu, dan suaranya sangat rendah. "Ini... menular?"
 
-"Tidak." Dr. Sumarni menjawab cepat dan tegas, tanpa jeda, seperti orang yang sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
+"Tidak." Dokter Sumarni menjawab cepat dan tegas, tanpa jeda, seperti orang yang sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
 
 "Karena... kutukan?"
 
@@ -54,7 +54,7 @@ Ibu menunduk. Aku melihat bahunya turun sedikit, seakan sesuatu yang selama tiga
 
 "Dokter," kataku. "Bisa sembuh?"
 
-Dr. Sumarni menoleh kepadaku. Ia memandangku lama, dan aku tahu dari matanya bahwa ia sedang memutuskan apakah akan berbohong.
+Dokter Sumarni menoleh kepadaku. Ia memandangku lama, dan aku tahu dari matanya bahwa ia sedang memutuskan apakah akan berbohong.
 
 "Penyakit ini bukan yang bisa dibuang, Wulan," katanya akhirnya. "Ia bisa ditenangkan. Dibuat tidur. Banyak anak dengan lupus sekolah, bekerja, punya anak, dan hidup panjang. Tapi ia tidak selesai. Ia bisa bangun lagi."
 
@@ -64,7 +64,7 @@ Dr. Sumarni menoleh kepadaku. Ia memandangku lama, dan aku tahu dari matanya bah
 
 "Apa, Dok?"
 
-"Jujur. Kepadaku. Kepada orang tuamu. Kalau ada yang terasa, apa pun, sekecil apa pun, termasuk yang kamu pikir merepotkan, katakan." Ia berhenti. "Termasuk buih."
+"Jujur. Kepada saya. Kepada orang tuamu. Kalau ada yang terasa, apa pun, sekecil apa pun, termasuk yang kamu pikir merepotkan, katakan." Ia berhenti. "Termasuk buih."
 
 Ruangan itu sunyi sebentar.
 
@@ -72,9 +72,9 @@ Ruangan itu sunyi sebentar.
 
 ---
 
-Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat putih lewat infus tiga hari untuk meredam serangan, yang membuatku tidak bisa tidur selama dua malam dan merasa seperti bisa mengerjakan semua soal ujian nasional sekaligus. Kemudian steroid dalam bentuk tablet putih besar, yang harus diminum tiap pagi, dan aku akan meminumnya, kata Dr. Sumarni, selama berbulan-bulan, mungkin bertahun-tahun. Kemudian obat lain yang lebih kuat, dialirkan lewat infus sebulan sekali selama setengah tahun. Dan satu tablet kecil tiap hari, obat yang awalnya dibuat untuk malaria, yang katanya melindungi ginjal dan menjaga lupus tetap tidur.
+Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat putih lewat infus tiga hari untuk meredam serangan, yang membuatku tidak bisa tidur selama dua malam dan merasa seperti bisa mengerjakan semua soal ujian nasional sekaligus. Kemudian steroid dalam bentuk tablet putih besar, yang harus diminum tiap pagi, dan aku akan meminumnya, kata dr. Sumarni, selama berbulan-bulan, mungkin bertahun-tahun. Kemudian obat lain yang lebih kuat, dialirkan lewat infus sebulan sekali selama setengah tahun. Dan satu tablet kecil tiap hari, obat yang awalnya dibuat untuk malaria, yang katanya melindungi ginjal dan menjaga lupus tetap tidur.
 
-"Matahari," kata Dr. Sumarni. "Kamu harus menghindarinya. Payung, topi, lengan panjang. Tabir surya."
+"Matahari," kata dr. Sumarni. "Kamu harus menghindarinya. Payung, topi, lengan panjang. Tabir surya."
 
 "Tabir apa, Dok?" kata Ibu.
 
@@ -82,9 +82,9 @@ Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat p
 
 "Berapa harganya?"
 
-Dr. Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku melihat bagaimana bahu Bapak mengencang.
+Dokter Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku melihat bagaimana bahu Bapak mengencang.
 
-"Bapak," katanya. "Soal biaya, saya paham. Saya tidak akan berpura-pura ini murah. Tapi ada program baru dari pemerintah yang mulai berlaku minggu depan. BPJS Kesehatan. Untuk keluarga yang tidak mampu, iurannya dibayar pemerintah. Kalau Wulan terdaftar, perawatan, obat, dan kontrol akan ditanggung."
+"Bapak," katanya. "Soal biaya, saya paham. Saya tidak akan berpura-pura ini murah. Tapi ada program baru dari pemerintah yang mulai berlaku pada tahun baru nanti. BPJS Kesehatan. Untuk keluarga yang tidak mampu, iurannya dibayar pemerintah. Kalau Wulan terdaftar, perawatan, obat, dan kontrol akan ditanggung."
 
 "Terdaftarnya bagaimana, Dok?" Mas Aji bertanya.
 
@@ -144,9 +144,9 @@ Kami tidak berjabat tangan. Infus kami berada di tangan yang berbeda, dan kabel-
 
 Aku pulang tanggal delapan belas Januari.
 
-Hari itu, aku menenteng sebuah kantong plastik besar berisi obat-obatan, selembar jadwal kontrol, dan formulir baru yang diberikan Dr. Sumarni: sebuah tabel catatan harian untuk pasien lupus, dengan kolom yang lebih banyak daripada kertas Mbak Nurul. TANGGAL. KELUHAN. DEMAM? OBAT. Dan di sebelah kanan, kolom baru, ditulis dengan huruf yang lebih kecil: *URIN BERBUIH? (YA / TIDAK)*
+Hari itu, aku menenteng sebuah kantong plastik besar berisi obat-obatan, selembar jadwal kontrol, dan formulir baru yang diberikan dr. Sumarni: sebuah tabel catatan harian untuk pasien lupus, dengan kolom yang lebih banyak daripada kertas Mbak Nurul. TANGGAL. KELUHAN. DEMAM? OBAT. Dan di sebelah kanan, kolom baru, ditulis dengan huruf yang lebih kecil: *URIN BERBUIH? (YA / TIDAK)*
 
-"Kolom itu penting," kata Dr. Sumarni kepadaku. "Isi jujur setiap hari."
+"Kolom itu penting," kata dr. Sumarni kepadaku. "Isi jujur setiap hari."
 
 "Iya, Dok."
 

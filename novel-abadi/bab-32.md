@@ -8,7 +8,7 @@ Ibu yang membelinya, di pasar Wonosari, pada hari kedua setelah aku keluar dari 
 
 "Itu enam ratus, Bu. Itu cuma air minum. Kuah, teh, buah, semuanya dihitung."
 
-"Ibu tahu. Dr. Suryo yang bilang." Ibu menuang air ke gelas itu sampai garis. "Ibu catat. Di kertas."
+"Ibu tahu. Dokter Suryo yang bilang." Ibu menuang air ke gelas itu sampai garis. "Ibu catat. Di kertas."
 
 Ia memang mencatat. Di kertas yang digantung di dinding dapur dengan paku, dengan pensil yang tertambat benang, ia menulis tiap gelas yang kuminum, tiap mangkuk sup, tiap potong semangka. Aku belum pernah melihat Ibu menulis sebanyak itu. Huruf-hurufnya besar dan miring dan sedikit tidak rata, seperti anak yang baru belajar. Tapi ia tidak pernah salah hitung.
 
@@ -34,7 +34,7 @@ Aku menatap angka itu setiap malam.
 
 Aku mulai menulis daftar itu pada malam keempat sejak keluar dari rumah sakit.
 
-*DAFTAR RISIKO.* Aku sudah menuliskan judul itu di rumah sakit, dengan pensil, di halaman kosong buku catatanku. Sekarang aku mengisinya. Pelan. Satu per satu. Dengan kejujuran yang kuperoleh dari Dr. Sumarni dan Prof. Whitcombe dan Dr. Anindya dan Pak Hendra dan semua orang yang pernah mengajariku bahwa menyembunyikan angka adalah cara paling cepat membuat diri sendiri celaka.
+*DAFTAR RISIKO.* Aku sudah menuliskan judul itu di rumah sakit, dengan pensil, di halaman kosong buku catatanku. Sekarang aku mengisinya. Pelan. Satu per satu. Dengan kejujuran yang kuperoleh dari dr. Sumarni dan Prof. Whitcombe dan Dr. Anindya dan Pak Hendra dan semua orang yang pernah mengajariku bahwa menyembunyikan angka adalah cara paling cepat membuat diri sendiri celaka.
 
 *1. Tumor.*
 
@@ -54,7 +54,7 @@ Sistem pembunuh alami yang kami rancang untuk mengenali sel tanpa tanda aku, di 
 
 *3. Efek jangka panjang.*
 
-Tak ada data. Dua puluh minggu adalah segalanya yang kita punya.
+Tak ada data. Lima belas minggu adalah segalanya yang kita punya.
 
 *4. Otak.*
 
@@ -70,7 +70,7 @@ Aku menulis kata itu dengan huruf yang lebih kecil. Tidak ada izin etik. Tidak a
 
 *6. Dan kalau aku tidak melakukannya?*
 
-Aku menulis angka-angka di sisi kiri halaman, bukan di sisi kanan. Dialisis seumur hidup. Daftar tunggu donor jenazah di Indonesia. Dr. Suryo sudah mengatakannya: bertahun-tahun, dan banyak yang tidak sempat. Kematian pada pasien dialisis muda dengan lupus bukanlah sesuatu yang dibahas dalam brosur rumah sakit, tapi aku membaca makalahnya di perpustakaan daring pada pukul tiga pagi, dan angkanya tidak membuatku tidur.
+Aku menulis angka-angka di sisi kiri halaman, bukan di sisi kanan. Dialisis seumur hidup. Daftar tunggu donor jenazah di Indonesia. Dokter Suryo sudah mengatakannya: bertahun-tahun, dan banyak yang tidak sempat. Kematian pada pasien dialisis muda dengan lupus bukanlah sesuatu yang dibahas dalam brosur rumah sakit, tapi aku membaca makalahnya di perpustakaan daring pada pukul tiga pagi, dan angkanya tidak membuatku tidur.
 
 Aku menatap dua sisi halaman itu. Di antara keduanya, sebuah garis lurus yang kutarik sendiri.
 
@@ -82,7 +82,7 @@ Pada malam kelima, aku melakukan sesuatu yang tidak pernah kubayangkan akan kula
 
 Namanya Barry Marshall. Seorang dokter muda di Australia pada tahun 1984, yang yakin sekali bahwa bakteri tertentu menyebabkan tukak lambung, dan yang tidak seorang pun mempercayainya. Ia tidak punya izin untuk mengujinya pada manusia. Maka ia mengambil biakan bakteri itu, mencampurnya ke dalam kaldu daging, dan meminumnya.
 
-Tiga hari kemudian ia muntah. Dua minggu kemudian, pemeriksaan menemukan bahwa lambungnya terinfeksi. Ia mengobati dirinya sendiri dan sembuh. Dua puluh satu tahun kemudian, ia menerima Hadiah Nobel.
+Beberapa hari kemudian ia muntah. Dua minggu kemudian, pemeriksaan menemukan bahwa lambungnya terinfeksi. Ia mengobati dirinya sendiri dan sembuh. Dua puluh satu tahun kemudian, ia menerima Hadiah Nobel.
 
 Aku membaca halaman itu dua kali, lalu menutup laptop.
 

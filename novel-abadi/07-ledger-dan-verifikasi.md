@@ -1,4 +1,4 @@
-# Ledger Kontinuitas dan Daftar Verifikasi (draf 1)
+# Ledger Kontinuitas dan Daftar Verifikasi
 
 ## 1. Daftar bab sebagai-dibangun (as-built)
 Perubahan dari outline v0.4: ditambah satu bab (bab 30, "Empat Belas Ekor") karena linimasa PhD, kembali ke Indonesia, dan LPDP perlu ruang sendiri. Semua nomor Babak III bergeser +1.
@@ -92,7 +92,7 @@ Ditandai **[V]**. Banyak peristiwa nyata dipakai sebagai latar; pembaca mungkin 
 - **Adat dan budaya** (lihat `04-adat-budaya.md`): bahasa Jawa, Rasulan, tahlilan, pernikahan Klaten, *bibit-bebet-bobot*: perlu pembaca lokal.
 
 ## 5. Keputusan sengaja yang perlu Anda setujui
-1. **Detail dosis dan pembuatan formula sengaja tidak ditulis** (bab 33 menyebutnya terang-terangan). Tidak ada nama senyawa, dosis, atau langkah teknis.
+1. **Detail dosis dan pembuatan formula tidak ditulis.** Bab 33 hanya menunjukkan kehati-hatian dan pencatatan; tidak ada nama senyawa, dosis, atau langkah teknis.
 2. **Percobaan pada diri sendiri tanpa persetujuan etik** digambarkan sebagai tindakan berbiaya tinggi, bukan teladan. Bab 32 menimbang risikonya; bab 33 menunjukkan teror dan kemungkinan mati; bab 35 menunjukkan harga ingatan.
 3. **Rahasia tetap utuh.** Wulan tidak bercerita kepada siapa pun; yang curiga hanya menebak.
 4. **Julian Thorne tidak dihukum.** Ia sakit, tulus, dan tetap memakai uji coba rival; Wulan memilih keterbukaan, bukan konfrontasi.
@@ -105,3 +105,6 @@ Ditandai **[V]**. Banyak peristiwa nyata dipakai sebagai latar; pembaca mungkin 
 - **Penjelasan sains** sudah dibatasi, tetapi bab 27–30 masih berat bagi pembaca umum.
 - **Banyak "tokoh pendukung baik hati":** hampir semua orang membantu. Itu disengaja (anti-penjahat), tetapi bisa terasa terlalu hangat; tambahkan satu atau dua kegagalan manusia yang tidak ditebus.
 - **Pembaca uji** belum ada. Mintalah tiga orang membaca bab 1–5 dan catat di mana mereka berhenti.
+
+## 7. Perbaikan pada pemeriksaan menyeluruh (sebelum pembacaan awal)
+Kesinambungan yang dibetulkan di naskah: usia awal sakit (sebelas tahun, bukan dua belas); BPJS "tahun baru nanti" (bab 5); bantuan PIP dan pembayaran kos (bab 10); zonasi umur Mas Aji dan "tahun kelas delapan sampai sembilan" (bab 9); laju penurunan ginjal empat sampai lima poin per tahun sehingga cocok dengan delapan sampai sepuluh tahun (bab 20), dengan perkiraan 2028–2030 dan tengahnya 2029; jadwal pulsa yang bergeser empat hari menghasilkan jeda sembilan hari (bab 23, 24, 29, 35); makalah diterima Mei 2024 (bab 24); ibu kos di Yogyakarta, bukan Bu Haji (bab 25); selisih waktu Inggris dan Pucung saat Lebaran (bab 27); sisa waktu ginjal pada 2028 (bab 29); lima belas minggu pada kelompok tikus kedua (bab 30, 32); arah matahari terbit di pantai selatan (bab 37); tanggal alarm di epilog. Gelar dokter diseragamkan (dr. di tengah kalimat, Dokter di awal kalimat). Paragraf di bab 33 yang menjelaskan mengapa langkah tidak ditulis dihapus karena terbaca sebagai catatan penulis.

@@ -16,7 +16,7 @@ Pada hari Lebaran, hujan turun tanpa jeda sejak subuh. Aku shalat Id di sebuah r
 
 "Sama." Ia tersenyum, dan matanya agak merah. "Ayo. Kutraktir kopi."
 
-Aku menelepon Ibu pukul tiga sore, ketika di Pucung sudah pukul sembilan malam dan seluruh dusun sedang bersilaturahmi. Telepon itu tersambung lewat nomor Ardi, yang sekarang punya ponsel sendiri.
+Aku menelepon Ibu pukul sepuluh pagi, ketika di Pucung sudah pukul lima sore dan seluruh dusun sedang bersilaturahmi. Telepon itu tersambung lewat nomor Ardi, yang sekarang punya ponsel sendiri.
 
 "Nduk." Suara Ibu serak. Di belakangnya ada keramaian, tawa anak-anak, suara orang-orang dewasa berbicara dalam Jawa.
 

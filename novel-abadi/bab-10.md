@@ -44,7 +44,7 @@ Tidak ada yang tidur di warung. Tapi semua orang percaya bahwa Bu Haji sanggup.
 
 Uangku habis pada minggu ketiga.
 
-Aku tidak bermaksud membiarkannya. Aku sudah menghitung semuanya di buku catatan, di halaman yang biasanya untuk pertanyaan: seratus tujuh puluh lima ribu untuk kos, tiga puluh ribu untuk transportasi kontrol tiap tiga bulan, sisanya untuk makan. Bantuan Program Indonesia Pintar sudah masuk ke rekening yang dibuatkan Bu Ratmi, tapi Bu Ratmi menyarankan agar itu dipakai membayar kos enam bulan di muka, dan aku menurut. Mas Aji sudah mengirim lima ratus ribu dari Batam di awal bulan. Ibu mengirim beras dan tiwul lewat bus setiap dua minggu.
+Aku tidak bermaksud membiarkannya. Aku sudah menghitung semuanya di buku catatan, di halaman yang biasanya untuk pertanyaan: tiga puluh ribu untuk transportasi kontrol tiap tiga bulan, sisanya untuk makan. Kos sudah dibayar enam bulan di muka dari bantuan Program Indonesia Pintar yang masuk ke rekening yang dibuatkan Bu Ratmi, dan aku menurut ketika Bu Ratmi menyarankannya. Mas Aji sudah mengirim lima ratus ribu dari Batam di awal bulan. Ibu mengirim beras dan tiwul lewat bus setiap dua minggu.
 
 Tapi rencana yang rapi biasanya tidak memperhitungkan nafsu makan anak lima belas tahun yang sedang tumbuh. Atau tidak memperhitungkan harga telur yang naik. Atau tidak memperhitungkan bahwa aku, yang terlalu lama dipelihara oleh rasa sungkan, tidak sanggup meminta tambahan.
 

@@ -3,7 +3,7 @@
 
 Pemakaian:
     python3 build.py                       # PDF + EPUB
-    python3 build.py --only pdf            # hanya PDF
+    python3 build.py --only pdf            # hanya PDF (atau epub, md)
     python3 build.py --title "Judul" --author "Nama Penulis"
 
 Prasyarat: pandoc, xelatex (TeX Live), font Linux Libertine O, Pillow (untuk sampul).
@@ -140,6 +140,25 @@ PREAMBLE = r"""
 """
 
 
+def build_manuscript_md(title, author):
+    """Himpun semua bagian menjadi satu berkas Markdown (../naskah-lengkap.md)."""
+    toc, parts = [], []
+    for item in sequence():
+        if item[0] == "part":
+            _, roman, ptitle, years = item
+            toc.append(f"- **Babak {roman} \u2014 {ptitle}** ({years})")
+            parts.append(f"# Babak {roman} \u2014 {ptitle} ({years})\n")
+            continue
+        text = item[1].read_text(encoding="utf-8").strip("\n")
+        toc.append("- " + text.partition("\n")[0].lstrip("#").strip())
+        parts.append(text + "\n")
+    out = [f"# {title}", f"*{author}*", "", "---", "", "## Daftar Isi", ""] + toc + ["", "---", ""]
+    out.append("\n\n---\n\n".join(parts))
+    path = SRC / "naskah-lengkap.md"
+    path.write_text("\n".join(out) + "\n", encoding="utf-8")
+    return path
+
+
 def build_pdf(title, subtitle, author, slug):
     BUILD.mkdir(exist_ok=True)
     out = []
@@ -172,25 +191,19 @@ def build_pdf(title, subtitle, author, slug):
 {\small\textsc{*\hspace{0.7em}*\hspace{0.7em}*}\par}
 \vfill
 {\large """ + tex_escape(author) + r"""\par}
-\vspace{8mm}
-{\footnotesize\textsc{Draf 1}\par}
-\vspace{14mm}
+\vspace{22mm}
 \end{titlepage}
-\cleardoublepage
+\clearpage
 \thispagestyle{empty}
 \vspace*{\fill}
 \begin{center}\footnotesize
 \begin{minipage}{0.82\textwidth}\raggedright\setlength{\parindent}{0pt}\setlength{\parskip}{0.6em}
-\textsc{Draf 1 — belum disunting.}
+Novel ini adalah karya fiksi. Tokoh, peristiwa, dan lembaga di dalamnya adalah rekaan
+pengarang atau dipakai secara fiktif; kemiripan dengan orang, lembaga, atau kejadian
+yang sesungguhnya adalah kebetulan. Kebijakan dan peristiwa nyata, seperti JKN, KIP Kuliah,
+dan pandemi COVID-19, dipakai sebagai latar.
 
-Novel ini adalah karya fiksi. Tokoh, peristiwa, dan lembaga tertentu (termasuk
-Institut Hartwell, Halcyon Longevity Fund, dan Kestrel Biotherapeutics) adalah rekaan.
-Latar kebijakan dan peristiwa nyata, seperti JKN, KIP Kuliah, dan pandemi COVID-19,
-dipakai sebagai latar; rinciannya belum diverifikasi.
-
-Bagian medis, ilmiah, hukum, dan budaya harus diperiksa para ahli sebelum naskah diterbitkan.
-Naskah ini sengaja tidak memuat petunjuk teknis apa pun tentang pembuatan atau
-pemberian formula yang diceritakan.
+Kisah ini tidak dimaksudkan sebagai nasihat medis.
 \end{minipage}
 \end{center}
 \vspace*{\fill}
@@ -290,8 +303,8 @@ def build_epub(title, subtitle, author, slug):
     meta = (BUILD / "epub-meta.yaml")
     meta.write_text(
         f"---\ntitle: \"{title}\"\n" + (f"subtitle: \"{subtitle}\"\n" if subtitle else "") + f"author: \"{author}\"\nlang: id\n"
-        "rights: \"Draf 1 — belum disunting. Karya fiksi.\"\n"
-        "description: \"Draf pertama novel tentang seorang anak desa di Gunungkidul, penyakit autoimun, dan sains peremajaan sel.\"\n"
+        "rights: \"Hak cipta © Damar Arang. Karya fiksi.\"\n"
+        "description: \"Novel tentang seorang anak desa di Gunungkidul, penyakit autoimun, dan sains peremajaan sel.\"\n"
         "toc-title: \"Daftar Isi\"\n---\n", encoding="utf-8")
     cmd = ["pandoc", "-f", "markdown+smart+fenced_divs+bracketed_spans+header_attributes", "-t", "epub3",
            "--metadata-file", str(meta), "--css", str(BUILD / "epub.css"),
@@ -322,11 +335,13 @@ def main():
     ap.add_argument("--subtitle", default=DEFAULT_SUBTITLE)
     ap.add_argument("--author", default=DEFAULT_AUTHOR)
     ap.add_argument("--slug", default=DEFAULT_SLUG)
-    ap.add_argument("--only", choices=["pdf", "epub"])
+    ap.add_argument("--only", choices=["pdf", "epub", "md"])
     a = ap.parse_args()
-    if a.only != "epub":
+    if a.only in (None, "md"):
+        print("[md] ->", build_manuscript_md(a.title, a.author))
+    if a.only in (None, "pdf"):
         print("[pdf] ->", build_pdf(a.title, a.subtitle, a.author, a.slug))
-    if a.only != "pdf":
+    if a.only in (None, "epub"):
         print("[epub] ->", build_epub(a.title, a.subtitle, a.author, a.slug))
 
 

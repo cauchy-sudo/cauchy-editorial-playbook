@@ -106,7 +106,7 @@ Ibu tidak berkata apa-apa lagi. Tapi jemarinya, yang menyisir rambutku, bergerak
 
 Ramadan datang pada pertengahan Juni, dan untuk pertama kalinya aku tidak bisa ikut.
 
-Dr. Sumarni sudah mengatakannya di kontrol bulan Mei, dengan nada orang yang tahu bahwa ia sedang mengatakan sesuatu yang tidak ingin kudengar. Obatku diminum pagi hari, dan obat itu tidak boleh dilewat. Steroid yang menekan penyakitku juga menekan kemampuan tubuhku menahan lapar dan haus. "Puasa itu kewajiban," katanya. "Tapi orang sakit mendapat keringanan. Kamu bisa menggantinya nanti, ketika sehat."
+Dokter Sumarni sudah mengatakannya di kontrol bulan Mei, dengan nada orang yang tahu bahwa ia sedang mengatakan sesuatu yang tidak ingin kudengar. Obatku harus diminum teratur dan tidak boleh dilewat. Steroid membuat lambungku gampang perih kalau kosong terlalu lama, dan ginjalku tidak boleh kekurangan air. "Puasa itu kewajiban," katanya. "Tapi orang sakit mendapat keringanan. Kamu bisa menggantinya nanti, ketika sehat."
 
 "Kapan itu, Dok?"
 
@@ -148,11 +148,11 @@ Aku makan. Nasi cadong itu terasa lebih asin daripada seharusnya, dan aku tidak 
 
 ---
 
-Kabar itu datang seminggu sebelum Lebaran, lewat telepon Pak Hasan, di suara yang kukenali sebagai milik Dr. Sumarni.
+Kabar itu datang seminggu sebelum Lebaran, lewat telepon Pak Hasan, di suara yang kukenali sebagai milik dr. Sumarni.
 
 "Wulan." Suaranya tenang dan rendah. "Dokter ingin menyampaikan sesuatu, dan dokter lebih suka menyampaikannya langsung, tapi kamu tidak akan kontrol sampai bulan depan, jadi dokter telepon."
 
-Aku memegang gagang telepon dengan dua tangan.
+Aku memegang gagang telepon erat-erat.
 
 "Yuni," katanya. "Teman sekamarmu. Dia meninggal hari Minggu lalu."
 
@@ -188,6 +188,6 @@ Setelah semua tamu pulang, aku duduk di ruang tengah yang sudah sepi, di atas ti
 
 *Kehilangan.*
 
-Aku menatapnya lama. Lalu aku menghapusnya, dengan penghapus di ujung pensil, sampai kertasnya mengelupas sedikit. Karena itu bukan keluhan yang biasa dicatat Dr. Sumarni, dan tak ada kolom untuknya.
+Aku menatapnya lama. Lalu aku menghapusnya, dengan penghapus di ujung pensil, sampai kertasnya mengelupas sedikit. Karena itu bukan keluhan yang biasa dicatat dr. Sumarni, dan tak ada kolom untuknya.
 
 Hanya jejak samar yang tertinggal di sana. Dan itu cukup.

@@ -46,7 +46,7 @@ Aku tidak menjawab. Ia benar, dan aku tidak punya kalimat untuk mengakuinya.
 
 Hari Sabtu itu, aku pergi ke alun-alun.
 
-Aku memakai kerudung biru muda yang Ibu jahit, rok panjang, dan jaket tebal. Sesampainya di sana, di antara kerumunan, lampu warna-warni, dan bau bakso bakar dan sosis, aku berdiri di tepi jalan dan mendengarkan band remaja memainkan lagu yang tak kukenal. Tika menarik tanganku ke depan panggung. Seseorang menyodorkan jagung bakar. Aku memakannya, dan rasanya manis dan hangat dan sedikit hangus, dan untuk pertama kalinya sejak September 2013, aku tertawa tanpa memikirkan wajahku.
+Aku memakai kerudung hijau pupus yang Ibu jahit, rok panjang, dan jaket tebal. Sesampainya di sana, di antara kerumunan, lampu warna-warni, dan bau bakso bakar dan sosis, aku berdiri di tepi jalan dan mendengarkan band remaja memainkan lagu yang tak kukenal. Tika menarik tanganku ke depan panggung. Seseorang menyodorkan jagung bakar. Aku memakannya, dan rasanya manis dan hangat dan sedikit hangus, dan untuk pertama kalinya sejak September 2013, aku tertawa tanpa memikirkan wajahku.
 
 Pada pukul sembilan kurang lima menit, kami berlari pulang, tertawa sampai lemas, dan sampai di gerbang kos pas ketika Bu Haji sedang melipat korannya.
 
@@ -58,7 +58,7 @@ Seleksi tingkat sekolah berlangsung Januari, tingkat kabupaten pada Maret.
 
 Aku lolos tingkat sekolah sebagai peringkat ketiga dari sepuluh. Pak Hendra mengumumkannya dengan suara yang sama datarnya seperti mengumumkan jadwal piket, tapi aku melihat telinganya bergerak sedikit.
 
-Tingkat kabupaten, yang disebut OSN-K, diadakan di sebuah SMA besar di pusat kota, dengan seratus tiga puluh peserta dari seluruh Gunungkidul. Kami duduk berjarak dua meter, dengan pengawas yang berjalan di antara bangku, dan soal yang dibagikan terbalik sampai bel berbunyi. Tanganku dingin. Dr. Sumarni sudah menyuruhku minum obat tepat waktu dan sarapan yang cukup, dan aku melakukan keduanya, dan masih merasa seperti orang yang akan menyeberangi sungai dengan batu yang tidak stabil.
+Tingkat kabupaten, yang disebut OSN-K, diadakan di sebuah SMA besar di pusat kota, dengan seratus tiga puluh peserta dari seluruh Gunungkidul. Kami duduk berjarak dua meter, dengan pengawas yang berjalan di antara bangku, dan soal yang dibagikan terbalik sampai bel berbunyi. Tanganku dingin. Dokter Sumarni sudah menyuruhku minum obat tepat waktu dan sarapan yang cukup, dan aku melakukan keduanya, dan masih merasa seperti orang yang akan menyeberangi sungai dengan batu yang tidak stabil.
 
 Bel berbunyi. Aku membalik kertas.
 
@@ -118,21 +118,21 @@ Hasil keluar dua minggu kemudian. Aku tidak lolos ke tingkat nasional. Peringkat
 
 "Saya belajar dari buku. Mereka belajar dari bimbingan tiga tahun."
 
-"Itu sebagian." Pak Hendra bersandar di meja. "Sebagian lagi karena kamu tidak tahu apa yang tidak kamu tahu. Itu bisa dipelajari. Tapi bukan dari saya. Aku sendiri baru tahu saat melihat soal-soal itu."
+"Itu sebagian." Pak Hendra bersandar di meja. "Sebagian lagi karena kamu tidak tahu apa yang tidak kamu tahu. Itu bisa dipelajari. Tapi bukan dari saya. Saya sendiri baru tahu saat melihat soal-soal itu."
 
 "Jadi?"
 
-"Jadi tahun depan, kamu ikut lagi. Dan kamu tidak akan kalah dengan cara yang sama." Ia berhenti, dan sebelum aku sempat membalas, ia menambahkan sesuatu yang membuatku diam. "Dr. Anindya. Yang bicara di depan tadi. Aku memperhatikan dia. Dia membaca jawaban esaimu."
+"Jadi tahun depan, kamu ikut lagi. Dan kamu tidak akan kalah dengan cara yang sama." Ia berhenti, dan sebelum aku sempat membalas, ia menambahkan sesuatu yang membuatku diam. "Dr. Anindya. Yang bicara di depan tadi. Saya memperhatikan dia. Dia membaca jawaban esaimu."
 
 "Esai saya?"
 
-"Yang terakhir. Dia mengambilnya sendiri dari tumpukan, dan membacanya sampai habis. Lalu dia bertanya padaku siapa yang menulis. Aku bilang, anak dari Gunungkidul." Pak Hendra mengangkat bahu. "Dia bilang: 'Anak itu tahu cara bertanya.' Hanya itu."
+"Yang terakhir. Dia mengambilnya sendiri dari tumpukan, dan membacanya sampai habis. Lalu dia bertanya pada saya siapa yang menulis. Saya bilang, anak dari Gunungkidul." Pak Hendra mengangkat bahu. "Dia bilang: 'Anak itu tahu cara bertanya.' Hanya itu."
 
 Aku tidak tahu harus berkata apa. Sebuah rasa hangat naik dari dada sampai ke telinga.
 
 "Siapa dia sebenarnya, Pak?"
 
-"Dosen. Peneliti. Aku tidak tahu persis." Pak Hendra tersenyum, tipis. "Tapi aku tahu satu hal: kalau seorang peneliti membaca esai seorang anak SMA sampai habis, itu pertanda baik."
+"Dosen. Peneliti. Saya tidak tahu persis." Pak Hendra tersenyum, tipis. "Tapi saya tahu satu hal: kalau seorang peneliti membaca esai seorang anak SMA sampai habis, itu pertanda baik."
 
 Malam itu, di kamar sembilan, aku menulis di buku catatan tiga hal. Pertama, kekalahan: *23/140.* Kedua, sebuah nama: *Dr. Anindya.* Ketiga, pertanyaan yang ia baca: *Bagaimana sel tahu kapan harus berhenti membaca perintah yang salah?*
 

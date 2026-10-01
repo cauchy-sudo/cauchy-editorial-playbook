@@ -190,7 +190,7 @@ Aku menatapnya.
 
 ---
 
-Aku berangkat ke Yogya pada akhir Agustus, bersama Tika, yang diterima di sebuah akademi kebidanan di kota yang sama dan akan berbagi kos denganku, di sebuah gang sempit di utara kampus. Perkuliahan dimulai secara daring. Kami pindah karena sinyal rumah tidak cukup dan karena Dr. Sumarni menghendaki kontrolku dekat.
+Aku berangkat ke Yogya pada akhir Agustus, bersama Tika, yang diterima di sebuah akademi kebidanan di kota yang sama dan akan berbagi kos denganku, di sebuah gang sempit di utara kampus. Perkuliahan dimulai secara daring. Kami pindah karena sinyal rumah tidak cukup dan karena dr. Sumarni menghendaki kontrolku dekat.
 
 Pada hari sebelum keberangkatan, Naufal mengirim pesan dari Bandung: *Aku ke Yogya hari Sabtu, naik kereta dari Tugu ke Bandung hari Minggu. Boleh ketemu sebentar?*
 

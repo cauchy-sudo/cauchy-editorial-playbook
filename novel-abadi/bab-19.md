@@ -89,7 +89,7 @@ Aku terdiam.
 
 "Aku tidak bertanya karena ingin tahu urusanmu," kata Dr. Anindya. "Aku bertanya karena aku melihat caramu memegang pintu tadi, dan karena surat dari gurumu menyebut sesuatu soal surat dokter."
 
-Aku menarik napas. "Lupus, Bu. Sejak umur dua belas."
+Aku menarik napas. "Lupus, Bu. Sejak umur sebelas."
 
 "Ginjal?"
 
@@ -117,7 +117,7 @@ Ia berbalik dan masuk ke ruangannya. Aku berdiri beberapa saat dengan perasaan s
 
 Sepuluh mikroliter itu adalah musuhku selama tiga minggu.
 
-Itu satuan yang kecil, seper-seratus tetes air. Tugasku sederhana: memindahkan sepuluh mikroliter cairan merah muda dari satu tabung ke sembilan puluh enam lubang kecil di sebuah piring plastik. Aku memegang alat yang disebut pipet, setipis pena, dengan ujung plastik sekali pakai yang harus kuganti tiap kali, dan di bawah mataku, Bu Retno memperhatikan dengan kesabaran seorang guru yang pernah mengajari ratusan tangan kikuk.
+Itu satuan yang kecil, seperlima tetes air. Tugasku sederhana: memindahkan sepuluh mikroliter cairan merah muda dari satu tabung ke sembilan puluh enam lubang kecil di sebuah piring plastik. Aku memegang alat yang disebut pipet, setipis pena, dengan ujung plastik sekali pakai yang harus kuganti tiap kali, dan di bawah mataku, Bu Retno memperhatikan dengan kesabaran seorang guru yang pernah mengajari ratusan tangan kikuk.
 
 Pada percobaan pertama, aku menumpahkan separuh cairan ke meja.
 
@@ -137,7 +137,7 @@ Pada percobaan kesembilan, tanganku gemetar begitu hebat sehingga ujung pipet me
 
 Pak Slamet, laki-laki tua berseragam biru yang ternyata teknisi lab sejak tiga puluh tahun lalu, berdiri di belakangku dengan segelas teh. "Latihan sampai tanganmu bisa jalan tanpa mata," katanya, tanpa tersenyum. "Seperti nenek-nenek menjahit."
 
-Aku teringat kerudung biru yang kujahit setengah jadi. Aku tidak mengatakannya.
+Aku teringat jahitan miring di kerudung biru milik Mbah. Aku tidak mengatakannya.
 
 Bayu mampir tiap sore pada jam istirahat. Ia tidak menawarkan bantuan. Ia hanya duduk di kursi di dekat meja dan membaca makalah, sesekali melirik ke arahku. Pada hari kedelapan, ketika aku mematahkan ujung pipet untuk ketiga kalinya, ia menutup makalahnya dan berkata:
 

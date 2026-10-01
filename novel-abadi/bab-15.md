@@ -26,13 +26,13 @@ Kami tidak berbicara lama. Tapi kami berdua diam di telepon selama dua menit pen
 
 ---
 
-Dr. Sumarni mengizinkanku pulang pada hari ketiga setelah Mbah dikuburkan, dengan syarat yang ditulis dalam tiga halaman, dan dengan satu kalimat yang diucapkannya sambil menatap mataku:
+Dokter Sumarni mengizinkanku pulang pada hari ketiga setelah Mbah dikuburkan, dengan syarat yang ditulis dalam tiga halaman, dan dengan satu kalimat yang diucapkannya sambil menatap mataku:
 
 "Kamu boleh pulang untuk tahlilan. Kamu tidak boleh ikut kerja bakti. Kamu tidak boleh angkat apa pun. Kamu tidak boleh berdiri lebih dari lima belas menit. Dan kamu harus kembali Selasa."
 
 "Saya mengerti, Dok."
 
-"Kamu tidak mengerti." Dr. Sumarni menarik napas, dan untuk pertama kalinya aku melihat ia kehilangan sedikit suaranya. "Tapi saya mengerti kamu. Nenekmu itu penting. Pergilah."
+"Kamu tidak mengerti." Dokter Sumarni menarik napas, dan untuk pertama kalinya aku melihat ia kehilangan sedikit suaranya. "Tapi saya mengerti kamu. Nenekmu itu penting. Pergilah."
 
 Aku sampai di Pucung pada sore hari, naik bus bersama Tika, yang tidak mau ditinggalkan, dan bersandar di jendela hampir sepanjang perjalanan dengan kepala yang berat. Di terminal Wonosari, Pakdhe Harjo menjemput dengan sepeda motor tuanya dan membawa kami berdua sampai ujung gang.
 
@@ -92,7 +92,7 @@ Pada malam keenam, setelah semua selesai, Pak Dukuh mendekatiku.
 
 "Sudah dirawat?"
 
-"Sudah, Pak. Dr. Sumarni."
+"Sudah, Pak. Dokter Sumarni."
 
 "Warga..." Ia berhenti, menggaruk lehernya. "Warga sudah tahu. Mbok Karni yang kasih kabar ke semua orang. Kami sudah bicara. Kami mau kumpulkan lagi."
 

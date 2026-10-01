@@ -68,7 +68,7 @@ Layar menjadi hitam. Aku duduk di mejaku dengan tangan membeku di atas papan ket
 
 "Aku tidak tahu."
 
-Dr. Anindya muncul dari ruangannya, menyandarkan bahunya pada kusen pintu, dan menatapku dengan wajah yang tak terbaca.
+Dr. Anindya muncul dari ruangannya, menyandarkan bahunya pada kusen pintu, dan menatapku tanpa mengatakan apa pun.
 
 "Kamu dapat tawaran?"
 
@@ -140,7 +140,7 @@ Aku menatap angka itu. Tidak ada yang kurasakan. Lalu aku mulai tertawa. Lalu ak
 
 "Tujuh koma nol."
 
-Tika melompat dari kasur dan memelukku, dan kami berguling di lantai kamar kos yang dingin sampai Bu Haji, yang kini tinggal di lantai satu dan mendengar semuanya, mengetuk dinding dengan sapu.
+Tika melompat dari kasur dan memelukku, dan kami berguling di lantai kamar kos yang dingin sampai ibu kos, yang tinggal di lantai satu dan mendengar semuanya, mengetuk langit-langit dengan gagang sapu.
 
 ---
 

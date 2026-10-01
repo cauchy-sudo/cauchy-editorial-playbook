@@ -18,11 +18,11 @@ Dapur kami pada hari Rasulan lebih ramai daripada saat hajatan apa pun. Para per
 
 Aku suka rewang. Di sana orang membicarakan hal-hal yang tak pernah dibahas di depan anak-anak, dengan suara yang tak pernah dipelankan cukup. Aku sudah tahu siapa menantu siapa yang pulang ke rumah ibunya, harga cabai di Wonosari, dan alasan Pak Modin tidak lagi bicara dengan adiknya. Hari itu aku juga tahu sesuatu tentang diriku.
 
-"...pipinya itu lho, Yu," kata sebuah suara di sebelah kananku. Mbok Karni, tetangga sebelah, enam puluhan, yang tangannya bergerak sangat cepat dan mulutnya sedikit lebih cepat. "Kok bisa begitu ya. Jangan-jangan kena kiriman."
+"...pipinya itu lho, Yu," kata sebuah suara di sebelah kananku. Mbok Karni, tetangga seberang jalan, enam puluhan, yang tangannya bergerak sangat cepat dan mulutnya sedikit lebih cepat. "Kok bisa begitu ya. Jangan-jangan kena kiriman."
 
 "Husy," kata seseorang.
 
-"Aku cuma bilang. Dulu kan Sumiati sempat ribut tanah dengan..."
+"Aku cuma bilang. Dulu kan Sarmi sempat ribut tanah dengan..."
 
 "Mbok."
 
@@ -96,7 +96,7 @@ Mbah tidak menjawab. Ia mengupas kulit singkong dengan kuku, perlahan. "Ada oran
 
 "Mbah."
 
-Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak bisa kubaca. Mungkin ia sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ia memakai kata yang lebih halus daripada yang ia pakai pada siapa pun.
+Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak memihak siapa pun. Mungkin ia sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ia memakai kata yang lebih halus daripada yang ia pakai pada siapa pun.
 
 "Kami nanti dulu, Mbah. Besok Bapak mau bawa Wulan ke dokter lagi."
 

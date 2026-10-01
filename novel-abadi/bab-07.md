@@ -24,7 +24,7 @@ Aku menemukan buku itu pada Sabtu kedua bulan Agustus, ketika aku mengintip lema
 
 "Bukan ringkasan. Bukan kesan. Satu pertanyaan, yang kamu tidak bisa jawab sendiri setelah membaca buku itu." Ia menutup matanya lagi. "Kalau kamu tidak punya pertanyaan, berarti kamu belum membaca."
 
-Aku membawa pulang buku itu dengan dua tangan, seperti membawa sesuatu yang bisa tumpah.
+Aku membawa pulang buku itu, dipeluk di dada, sepanjang jalan.
 
 ---
 
@@ -62,7 +62,7 @@ Pak Karto membuka matanya. Kali ini keduanya. Ia menatapku lama.
 
 Sekolah juga berubah, pelan-pelan, seperti permukaan air yang sedikit demi sedikit berhenti beriak.
 
-Pelajaran olahraga adalah masalah pertama. Lapangan SMP tidak punya satu pohon pun, dan tiga puluh menit berdiri di bawah sinar matahari bulan Agustus cukup untuk membuat pipiku mengeluarkan kupu-kupu yang paling marah. Dr. Sumarni sudah menulis surat, yang kubawa kepada wali kelas, yang membawanya kepada kepala sekolah, yang membawanya kepada seorang guru muda berkacamata bulat yang kebetulan mengajar IPA: Bu Ratmi.
+Pelajaran olahraga adalah masalah pertama. Lapangan SMP tidak punya satu pohon pun, dan tiga puluh menit berdiri di bawah sinar matahari bulan Agustus cukup untuk membuat pipiku mengeluarkan kupu-kupu yang paling marah. Dokter Sumarni sudah menulis surat, yang kubawa kepada wali kelas, yang membawanya kepada kepala sekolah, yang membawanya kepada seorang guru muda berkacamata bulat yang kebetulan mengajar IPA: Bu Ratmi.
 
 "Wulan boleh tidak ikut olahraga," kata Bu Ratmi, ketika aku dipanggil ke ruang guru. "Tapi bukan berarti Wulan boleh bengong di kelas."
 
@@ -100,7 +100,7 @@ Bu Siti berdiri di sana, di dekat lemari kaca. Dan di atas meja, di tengah, dile
 
 Mikroskop itu hitam, kokoh, dengan cat yang sedikit mengelupas di lehernya. Lensanya bersih, entah kapan dibersihkan. Di sampingnya, sebuah piring kecil berisi bawang merah yang dikupas selapis dan sebuah botol kecil obat merah.
 
-"Delapan tahun," kata Bu Siti.
+"Sembilan tahun," kata Bu Siti.
 
 "Dikeluarkan hari ini."
 

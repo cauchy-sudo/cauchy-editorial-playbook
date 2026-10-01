@@ -1,12 +1,12 @@
 # Bab 9 — Pintu Kos
 
-Ada tahun-tahun yang pendek, dan tahun kelas sembilan adalah salah satunya.
+Ada tahun-tahun yang pendek, dan dua tahun terakhir di SMP adalah salah satunya.
 
-Dua belas bulan itu lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali Dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
+Dua tahun itu lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
 
 Aku tidak lagi dipanggil Wulan Bulan. Rina yang pertama berhenti. Dimas yang terakhir, dan ia melakukannya dengan mengucapkan namaku penuh pada suatu pagi tanpa alasan, lalu menghilang ke kantin sebelum aku sempat berkomentar.
 
-Tapi tahun itu bukan milikku. Tahun itu milik Mas Aji.
+Tapi bagian yang paling besar dari tahun-tahun itu bukan milikku. Itu milik Mas Aji.
 
 ---
 
@@ -18,7 +18,7 @@ Ia pulang ke Pucung pada Sabtu sore dengan ransel di punggung dan wajah orang ya
 
 Bapak tidak menjawab.
 
-"Aku sudah bicara dengan Pakdhe Danu. Dia di Batam. Ada kerjaan di galangan kapal. Gajinya dua juta lebih. Aku bisa kirim tiap bulan."
+"Aku sudah bicara dengan Pakdhe Danu. Dia di Batam. Ada kerjaan di galangan kapal, bagian angkut-angkut. Kata Pakdhe, aku sudah cukup tinggi untuk dibilang tujuh belas. Gajinya dua juta lebih. Aku bisa kirim tiap bulan."
 
 "Sekolahmu?" Suara Ibu sangat tipis.
 
@@ -60,9 +60,9 @@ Aku membuka bungkusan itu. Sebuah radio kecil, sebesar buku saku, dengan antena 
 
 "Mas tahu aku suka dengar?"
 
-"Tiap malam kamu nyalain radio Pak Karto lewat jendela dari sini." Ia masih tidak menatapku. "Kamu pikir aku nggak dengar?"
+"Tiap malam kamu duduk di jendela, dengerin radio Pak Karto dari seberang." Ia masih tidak menatapku. "Kamu pikir aku nggak lihat?"
 
-Aku memegang radio itu dengan dua tangan. Ia hangat, seakan baru dipegang orang. Antenanya sedikit goyah.
+Aku memegang radio itu. Ia hangat, seakan baru dipegang orang. Antenanya sedikit goyah.
 
 "Mas," kataku. "Makasih."
 
@@ -78,7 +78,7 @@ Aku menyalakan radio itu malam itu, dan memutar tombolnya pelan-pelan, melewati 
 
 Ujian akhir SMP diadakan April 2017, dan untuk pertama kalinya, ujian itu berbasis komputer. SMP kami tidak punya satu pun komputer yang bisa dipakai, jadi seluruh kelas sembilan menumpang di sekolah lain di kecamatan sebelah dengan sebuah truk pinjaman. Kami tiba terlalu awal, duduk berderet di tangga masjid sampai gerbang dibuka, memegang kartu peserta seperti tiket menuju tempat yang tidak kami mengerti.
 
-Aku mengerjakan soal dengan mata perih menatap layar. Sendiku tidak kaku, untuk pertama kali. Dr. Sumarni sudah menurunkan obatku sampai level yang katanya "cukup aman untuk beberapa bulan, kalau tidak ada kejutan", dan aku mengerjakan tiap soal seperti anak yang berjalan di tepi jurang yang sudah ia hafal.
+Aku mengerjakan soal dengan mata perih menatap layar. Sendiku tidak kaku, untuk pertama kali. Dokter Sumarni sudah menurunkan obatku sampai level yang katanya "cukup aman untuk beberapa bulan, kalau tidak ada kejutan", dan aku mengerjakan tiap soal seperti anak yang berjalan di tepi jurang yang sudah ia hafal.
 
 Nilaiku, ketika pengumuman keluar dua minggu kemudian, adalah salah satu yang tertinggi di sekolah. Bu Ratmi memelukku di koridor dengan gerakan tak terduga, lalu melepaskanku buru-buru dan membetulkan kacamatanya.
 
@@ -150,7 +150,7 @@ Ibu berdiri di samping bus, memegang sebuah kaleng biskuit kecil yang lebih mung
 
 "Jangan bilang tidak." Suaranya sangat tegak. "Kamu bilang tidak, Ibu bawa pulang lagi, dan malam-malam Ibu nggak bisa tidur."
 
-Aku menerima kaleng itu dengan dua tangan, seperti menerima sesuatu yang tak boleh tumpah.
+Aku menerima kaleng itu, dan tidak membantah lagi, karena Ibu benar: kalau aku menolak, malam itu ia tidak akan tidur.
 
 Bus datang. Aku naik. Dari jendela, aku melihat Ibu berdiri dengan kedua tangan di depan dada, Bapak di sampingnya dengan topi di tangan, Ardi yang melambai dengan seluruh lengan, dan Mbah Darmi yang melepas sarung dari bahu dan mengangkatnya tinggi-tinggi, seakan sedang mengibarkan bendera.
 

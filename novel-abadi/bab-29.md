@@ -196,7 +196,7 @@ Aku merasa dingin menjalar dari tengkuk ke punggung.
 
 "Do you?"
 
-"My grandmother died of a fall. My friend died of an infection." Aku bicara perlahan. "My kidney will fail in about three years. I know exactly what delay costs, Julian. That's why I won't do this."
+"My grandmother died of a fall. My friend died of an infection." Aku bicara perlahan. "My kidney will fail in about two years. I know exactly what delay costs, Julian. That's why I won't do this."
 
 Ia terdiam. Di wajahnya, sesuatu bergerak, bukan marah, bukan kecewa, tetapi sesuatu yang lebih mirip pengakuan bahwa ia sedang menatap seseorang yang tidak akan ia ubah.
 

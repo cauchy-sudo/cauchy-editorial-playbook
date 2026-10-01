@@ -180,9 +180,9 @@ Tidak sedikit berbeda. Sangat berbeda.
 
 Cawan nomor delapan puluh tujuh, dari serangkaian eksperimen yang kupikir sudah gagal dan kututup tiga bulan lalu, memperlihatkan sel-sel yang tiga puluh satu persen lebih sedikit berwarna biru daripada kontrolnya. Di cawan sebelahnya, yang diberi perlakuan hampir sama, perbedaannya nol.
 
-Aku menatap angka itu. Aku membuka kembali catatan harianku. Aku mencari nomor delapan puluh tujuh. Pulsa pada hari Selasa dan Rabu, dua hari. Jeda lima hari. Pulsa lagi. Aku mencatat sesuatu yang kini kuingat dengan jelas: pada minggu ketiga, ketika aku sakit flu dan terlambat memberikan pulsa kedua, aku menggesernya dari hari Selasa ke hari Kamis.
+Aku menatap angka itu. Aku membuka kembali catatan harianku. Aku mencari nomor delapan puluh tujuh. Pulsa pada hari Selasa dan Rabu, dua hari. Jeda lima hari. Pulsa lagi. Aku mencatat sesuatu yang kini kuingat dengan jelas: pada minggu ketiga, ketika aku sakit flu dan terlambat memberikan pulsa kedua, aku menggesernya dari hari Selasa ke hari Sabtu.
 
-Satu kesalahan. Dua hari.
+Satu kesalahan. Empat hari.
 
 Dan pada cawan itu, kesalahan itu telah menciptakan sesuatu yang tidak pernah kami rencanakan.
 

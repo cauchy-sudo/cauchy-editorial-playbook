@@ -24,7 +24,7 @@ Mbak Nurul sedang di jendela apotek. Ia melihat kami dan senyumnya langsung mele
 
 Ibu mengeluarkan kertas itu dari tas dengan dua tangan, seperti saat pertama dulu. Mbak Nurul membacanya sekilas, dan wajahnya berubah makin serius, makin lambat.
 
-"Ini bagus sekali, Bu. Ini lebih bagus dari yang saya harapkan." Ia menatap Ibu. "Ada dokter baru. dr. Raihan, baru dua minggu. Anaknya masih muda, tapi mau mendengarkan. Tunjukkan catatan ini kepadanya. Jangan berikan ke dokter yang lain."
+"Ini bagus sekali, Bu. Ini lebih bagus dari yang saya harapkan." Ia menatap Ibu. "Ada dokter baru. Dokter Raihan, baru dua minggu. Anaknya masih muda, tapi mau mendengarkan. Tunjukkan catatan ini kepadanya. Jangan berikan ke dokter yang lain."
 
 "Dokter yang lama...?"
 
@@ -32,7 +32,7 @@ Ibu mengeluarkan kertas itu dari tas dengan dua tangan, seperti saat pertama dul
 
 ---
 
-dr. Raihan tidak seperti dokter yang kuingat dari bulan September. Ia kurus dan masih muda, dengan rambut yang tidak disisir benar, jas putih yang bahunya agak kebesaran, dan sepasang sandal yang kelihatan dari bawah meja. Di mejanya ada secangkir teh yang sudah dingin dan sebuah buku tebal yang terbuka, dengan potongan tisu sebagai pembatas.
+Dokter Raihan tidak seperti dokter yang kuingat dari bulan September. Ia kurus dan masih muda, dengan rambut yang tidak disisir benar, jas putih yang bahunya agak kebesaran, dan sepasang sandal yang kelihatan dari bawah meja. Di mejanya ada secangkir teh yang sudah dingin dan sebuah buku tebal yang terbuka, dengan potongan tisu sebagai pembatas.
 
 Ia tidak bertanya apa keluhanku. Ia melihat kertas di tangan Ibu, lalu bertanya, "Boleh saya baca semuanya?"
 
@@ -56,7 +56,7 @@ Ruangan mendadak sunyi, seperti saat dua orang menunggu seseorang melompat dari 
 
 "Tidak ada apa-apa," kataku.
 
-dr. Raihan mengangkat kepalanya. Ia memandangku. Tidak lama, tidak tajam. Hanya memandang, seakan sedang menunggu seseorang yang yakin akan datang.
+Dokter Raihan mengangkat kepalanya. Ia memandangku. Tidak lama, tidak tajam. Hanya memandang, seakan sedang menunggu seseorang yang yakin akan datang.
 
 "Wulan," katanya pelan. "Dokter tidak akan marah. Apa pun yang kamu katakan. Dan kalau saya tahu sekarang, mungkin kita bisa menghemat banyak hal."
 
@@ -78,7 +78,7 @@ Ibu tidak marah. Itu yang membuatku makin ingin menangis. Ia hanya menutup mulut
 
 Aku mengangguk. Aku tidak percaya, tetapi aku mengangguk.
 
-dr. Raihan menarik napas. Ia menunduk dan menulis, cepat tapi tidak terburu-buru, di atas selembar kertas berkop yang kemudian dilipatnya dua dan dimasukkan ke dalam amplop putih.
+Dokter Raihan menarik napas. Ia menunduk dan menulis, cepat tapi tidak terburu-buru, di atas selembar kertas berkop yang kemudian dilipatnya dua dan dimasukkan ke dalam amplop putih.
 
 "Saya belum bisa memastikan apa-apa," katanya. "Saya hanya dokter umum, dan baru dua minggu di sini. Tapi saya ingin Wulan diperiksa di rumah sakit besar di Yogya. Tes darah lengkap, tes urin lengkap, dan ditangani dokter anak yang paham ginjal dan sendi. Saya tulis rujukan. Surat ini harus dibawa."
 
@@ -126,7 +126,7 @@ Dokter anak yang menerima kami bernama dr. Sumarni. Ia berusia lima puluhan, ber
 
 "Wulan yang menulis, Dok," kata Ibu. "Mbak perawat di puskesmas yang menyuruh."
 
-"Perawat itu pintar." Dr. Sumarni menatap kami. "Jarang pasien datang membawa ini. Ini mempercepat banyak hal."
+"Perawat itu pintar." Dokter Sumarni menatap kami. "Jarang pasien datang membawa ini. Ini mempercepat banyak hal."
 
 Ia mengirimku ke laboratorium.
 
@@ -156,7 +156,7 @@ Bapak makan sedikit. Ia memandangi pintu ruangan dr. Sumarni dari jarak jauh sep
 
 Aku mencoba menghitung orang yang lewat, tetapi mereka terlalu banyak.
 
-Ketika kami dipanggil, ruangan itu sudah diterangi lampu sore. Dr. Sumarni duduk di balik mejanya dengan beberapa lembar kertas di depannya, dan wajahnya telah berubah. Tidak panik. Hanya lebih tenang daripada tadi, dengan jenis ketenangan orang yang sudah memutuskan sesuatu.
+Ketika kami dipanggil, ruangan itu sudah diterangi lampu sore. Dokter Sumarni duduk di balik mejanya dengan beberapa lembar kertas di depannya, dan wajahnya telah berubah. Tidak panik. Hanya lebih tenang daripada tadi, dengan jenis ketenangan orang yang sudah memutuskan sesuatu.
 
 "Bapak, Ibu," katanya. "Saya akan bicara jelas, ya."
 

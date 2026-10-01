@@ -62,7 +62,7 @@ Kami berangkat naik kereta lokal pagi-pagi pada hari Sabtu, aku dengan kebaya bi
 
 "Itu ukuran paling besar yang ada!"
 
-Rumah keluarga Bayu di Klaten adalah rumah joglo tua, dengan pendopo luas dan halaman penuh bunga melati dan sebuah tenda putih besar dengan deretan kursi. Gamelan dimainkan di pojok, pelan, dengan irama yang membuat dada terasa lapang. Di pintu masuk, dua gadis kecil berkebaya membagikan tisu dan pandang yang ramah.
+Rumah keluarga Bayu di Klaten adalah rumah joglo tua, dengan pendopo luas dan halaman penuh bunga melati dan sebuah tenda putih besar dengan deretan kursi. Gamelan dimainkan di pojok, pelan, dengan irama yang membuat dada terasa lapang. Di pintu masuk, dua gadis kecil berkebaya membagikan tisu dan senyum.
 
 Bayu menunggu kami di pagar. Ia mengenakan beskap hitam dan blangkon, dan aku nyaris tidak mengenalinya. Ia tampak lebih tinggi, lebih dewasa, dan sedikit canggung, seperti orang yang berpakaian dengan bagian dirinya yang lain.
 
@@ -132,7 +132,7 @@ Aku menarik napas. Aku sudah menjelaskan hal ini ratusan kali, dengan berbagai c
 
 "Seberapa sering?"
 
-"Tidak tentu. Saya kambuh dua kali. Satu waktu saya dua belas, satu waktu enam belas. Sekarang terkendali."
+"Tidak tentu. Saya kambuh dua kali. Satu waktu saya sebelas, satu waktu enam belas. Sekarang terkendali."
 
 "Syukurlah." Bu Wahyuni mengangguk pelan, dan di wajahnya ada sesuatu yang bergerak, bukan kejahatan, bukan kebencian, hanya semacam perhitungan yang tidak ingin diakui. "Dan kalau nanti... kalau nanti kamu menikah, Nduk. Kalau punya anak. Kata orang, yang seperti itu sulit."
 

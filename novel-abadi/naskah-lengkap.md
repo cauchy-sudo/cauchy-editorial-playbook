@@ -1,12 +1,12 @@
-# NASKAH LENGKAP — Draf 1
-
-*Judul kerja belum ditetapkan. Sudut pandang orang pertama. Dihimpun dari berkas-berkas terpisah di folder ini.*
+# Heliks
+*Damar Arang*
 
 ---
 
 ## Daftar Isi
 
 - Prolog — Dusun Pucung, 2031
+- **Babak I — Kupu-kupu di Pipi** (2013–2017)
 - Bab 1 — Kupu-kupu yang Tersesat
 - Bab 2 — Dua Kambing dan Seporsi Bakso
 - Bab 3 — Rasulan
@@ -17,6 +17,7 @@
 - Interlude I — Dusun Pucung, 2031
 - Bab 8 — Titip Salam
 - Bab 9 — Pintu Kos
+- **Babak II — Tangga** (2017–2025)
 - Bab 10 — Kamar Nomor Sembilan
 - Bab 11 — Soal yang Tidak Ada di Buku
 - Bab 12 — Gelombang yang Dipilih
@@ -36,6 +37,7 @@
 - Bab 25 — Tujuh Koma Nol
 - Bab 26 — Dingin yang Pertama
 - Interlude III — Yogyakarta, 2031
+- **Babak III — Formula** (2026–2031)
 - Bab 27 — Sel yang Kehilangan Tanda "Aku"
 - Bab 28 — Lumen
 - Bab 29 — Tikus Nomor Tiga Belas
@@ -74,6 +76,12 @@ Ibu mengangguk pelan, seperti orang mengangguk pada kata-kata yang tidak ia meng
 "Pakai yang banyak," katanya, membelakangiku. "Yang mahal juga tidak apa-apa. Sekarang kamu sudah bisa beli."
 
 Aku tertawa, dan Ibu ikut tertawa tanpa menoleh, dan di atas tungku air mulai berbunyi. Aku menatap punggungnya yang sedikit lebih bungkuk daripada tahun lalu dan menghitung, dalam hati, sesuatu yang tidak bisa kukatakan kepada siapa pun di dapur itu: berapa kali lagi aku bisa pulang sebelum pertanyaan Ibu berubah menjadi pertanyaan yang tidak bisa kujawab dengan tabir surya.
+
+
+---
+
+# Babak I — Kupu-kupu di Pipi (2013–2017)
+
 
 ---
 
@@ -180,6 +188,7 @@ Ibu menghitung pelan. Aku tidak mendengar angkanya, hanya bunyinya. Receh lima r
 Pipiku terasa panas seperti ada yang meniup bara di bawah kulitnya. Aku berbaring menatap langit-langit bambu, mendengar bunyi receh yang dimasukkan kembali ke dalam kaleng, satu per satu, dan mencoba mengingat sejak kapan aku mulai bertanya mengapa tubuh bisa marah kepada pemiliknya sendiri.
 
 Mungkin sejak malam itu.
+
 
 ---
 
@@ -357,6 +366,7 @@ Pagi harinya, di cermin retak yang tergantung di dekat pintu, aku melihat kelopa
 
 Padahal aku tidak menangis.
 
+
 ---
 
 # Bab 3 — Rasulan
@@ -379,11 +389,11 @@ Dapur kami pada hari Rasulan lebih ramai daripada saat hajatan apa pun. Para per
 
 Aku suka rewang. Di sana orang membicarakan hal-hal yang tak pernah dibahas di depan anak-anak, dengan suara yang tak pernah dipelankan cukup. Aku sudah tahu siapa menantu siapa yang pulang ke rumah ibunya, harga cabai di Wonosari, dan alasan Pak Modin tidak lagi bicara dengan adiknya. Hari itu aku juga tahu sesuatu tentang diriku.
 
-"...pipinya itu lho, Yu," kata sebuah suara di sebelah kananku. Mbok Karni, tetangga sebelah, enam puluhan, yang tangannya bergerak sangat cepat dan mulutnya sedikit lebih cepat. "Kok bisa begitu ya. Jangan-jangan kena kiriman."
+"...pipinya itu lho, Yu," kata sebuah suara di sebelah kananku. Mbok Karni, tetangga seberang jalan, enam puluhan, yang tangannya bergerak sangat cepat dan mulutnya sedikit lebih cepat. "Kok bisa begitu ya. Jangan-jangan kena kiriman."
 
 "Husy," kata seseorang.
 
-"Aku cuma bilang. Dulu kan Sumiati sempat ribut tanah dengan..."
+"Aku cuma bilang. Dulu kan Sarmi sempat ribut tanah dengan..."
 
 "Mbok."
 
@@ -457,7 +467,7 @@ Mbah tidak menjawab. Ia mengupas kulit singkong dengan kuku, perlahan. "Ada oran
 
 "Mbah."
 
-Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak bisa kubaca. Mungkin ia sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ia memakai kata yang lebih halus daripada yang ia pakai pada siapa pun.
+Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak memihak siapa pun. Mungkin ia sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ia memakai kata yang lebih halus daripada yang ia pakai pada siapa pun.
 
 "Kami nanti dulu, Mbah. Besok Bapak mau bawa Wulan ke dokter lagi."
 
@@ -525,6 +535,7 @@ Aku tidak menulis tentang buih.
 
 Itu rahasia pertamaku.
 
+
 ---
 
 # Bab 4 — Dokter yang Membaca Catatan
@@ -553,7 +564,7 @@ Mbak Nurul sedang di jendela apotek. Ia melihat kami dan senyumnya langsung mele
 
 Ibu mengeluarkan kertas itu dari tas dengan dua tangan, seperti saat pertama dulu. Mbak Nurul membacanya sekilas, dan wajahnya berubah makin serius, makin lambat.
 
-"Ini bagus sekali, Bu. Ini lebih bagus dari yang saya harapkan." Ia menatap Ibu. "Ada dokter baru. dr. Raihan, baru dua minggu. Anaknya masih muda, tapi mau mendengarkan. Tunjukkan catatan ini kepadanya. Jangan berikan ke dokter yang lain."
+"Ini bagus sekali, Bu. Ini lebih bagus dari yang saya harapkan." Ia menatap Ibu. "Ada dokter baru. Dokter Raihan, baru dua minggu. Anaknya masih muda, tapi mau mendengarkan. Tunjukkan catatan ini kepadanya. Jangan berikan ke dokter yang lain."
 
 "Dokter yang lama...?"
 
@@ -561,7 +572,7 @@ Ibu mengeluarkan kertas itu dari tas dengan dua tangan, seperti saat pertama dul
 
 ---
 
-dr. Raihan tidak seperti dokter yang kuingat dari bulan September. Ia kurus dan masih muda, dengan rambut yang tidak disisir benar, jas putih yang bahunya agak kebesaran, dan sepasang sandal yang kelihatan dari bawah meja. Di mejanya ada secangkir teh yang sudah dingin dan sebuah buku tebal yang terbuka, dengan potongan tisu sebagai pembatas.
+Dokter Raihan tidak seperti dokter yang kuingat dari bulan September. Ia kurus dan masih muda, dengan rambut yang tidak disisir benar, jas putih yang bahunya agak kebesaran, dan sepasang sandal yang kelihatan dari bawah meja. Di mejanya ada secangkir teh yang sudah dingin dan sebuah buku tebal yang terbuka, dengan potongan tisu sebagai pembatas.
 
 Ia tidak bertanya apa keluhanku. Ia melihat kertas di tangan Ibu, lalu bertanya, "Boleh saya baca semuanya?"
 
@@ -585,7 +596,7 @@ Ruangan mendadak sunyi, seperti saat dua orang menunggu seseorang melompat dari 
 
 "Tidak ada apa-apa," kataku.
 
-dr. Raihan mengangkat kepalanya. Ia memandangku. Tidak lama, tidak tajam. Hanya memandang, seakan sedang menunggu seseorang yang yakin akan datang.
+Dokter Raihan mengangkat kepalanya. Ia memandangku. Tidak lama, tidak tajam. Hanya memandang, seakan sedang menunggu seseorang yang yakin akan datang.
 
 "Wulan," katanya pelan. "Dokter tidak akan marah. Apa pun yang kamu katakan. Dan kalau saya tahu sekarang, mungkin kita bisa menghemat banyak hal."
 
@@ -607,7 +618,7 @@ Ibu tidak marah. Itu yang membuatku makin ingin menangis. Ia hanya menutup mulut
 
 Aku mengangguk. Aku tidak percaya, tetapi aku mengangguk.
 
-dr. Raihan menarik napas. Ia menunduk dan menulis, cepat tapi tidak terburu-buru, di atas selembar kertas berkop yang kemudian dilipatnya dua dan dimasukkan ke dalam amplop putih.
+Dokter Raihan menarik napas. Ia menunduk dan menulis, cepat tapi tidak terburu-buru, di atas selembar kertas berkop yang kemudian dilipatnya dua dan dimasukkan ke dalam amplop putih.
 
 "Saya belum bisa memastikan apa-apa," katanya. "Saya hanya dokter umum, dan baru dua minggu di sini. Tapi saya ingin Wulan diperiksa di rumah sakit besar di Yogya. Tes darah lengkap, tes urin lengkap, dan ditangani dokter anak yang paham ginjal dan sendi. Saya tulis rujukan. Surat ini harus dibawa."
 
@@ -655,7 +666,7 @@ Dokter anak yang menerima kami bernama dr. Sumarni. Ia berusia lima puluhan, ber
 
 "Wulan yang menulis, Dok," kata Ibu. "Mbak perawat di puskesmas yang menyuruh."
 
-"Perawat itu pintar." Dr. Sumarni menatap kami. "Jarang pasien datang membawa ini. Ini mempercepat banyak hal."
+"Perawat itu pintar." Dokter Sumarni menatap kami. "Jarang pasien datang membawa ini. Ini mempercepat banyak hal."
 
 Ia mengirimku ke laboratorium.
 
@@ -685,7 +696,7 @@ Bapak makan sedikit. Ia memandangi pintu ruangan dr. Sumarni dari jarak jauh sep
 
 Aku mencoba menghitung orang yang lewat, tetapi mereka terlalu banyak.
 
-Ketika kami dipanggil, ruangan itu sudah diterangi lampu sore. Dr. Sumarni duduk di balik mejanya dengan beberapa lembar kertas di depannya, dan wajahnya telah berubah. Tidak panik. Hanya lebih tenang daripada tadi, dengan jenis ketenangan orang yang sudah memutuskan sesuatu.
+Ketika kami dipanggil, ruangan itu sudah diterangi lampu sore. Dokter Sumarni duduk di balik mejanya dengan beberapa lembar kertas di depannya, dan wajahnya telah berubah. Tidak panik. Hanya lebih tenang daripada tadi, dengan jenis ketenangan orang yang sudah memutuskan sesuatu.
 
 "Bapak, Ibu," katanya. "Saya akan bicara jelas, ya."
 
@@ -700,6 +711,7 @@ Ibu menggenggam tas kainnya.
 Aku memikirkan buih itu. Buih yang kusembunyikan, yang kusiram sebelum ada yang melihat, yang tidak kutuliskan di kertas mana pun. Ia ternyata punya nama. Tiga plus.
 
 "Kami akan merawat Wulan," kata dr. Sumarni. "Hari ini."
+
 
 ---
 
@@ -725,13 +737,13 @@ Aku baru tahu tiga hari kemudian, ketika infus pertama yang berisi obat putih di
 
 ---
 
-Dr. Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Aji berdiri di belakang Ibu seperti tiang.
+Dokter Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Aji berdiri di belakang Ibu seperti tiang.
 
 "Wulan terkena penyakit yang namanya lupus," katanya. "Nama lengkapnya lupus eritematosus sistemik, disingkat SLE. Lupus itu bahasa Latin, artinya serigala."
 
 "Serigala?" kata Ibu.
 
-"Orang dulu melihat ruam merah di wajah pasien dan mengira itu bekas gigitan serigala. Tapi ruam di pipi Wulan..." Dr. Sumarni menoleh kepadaku. "Wulan sendiri pernah bilang bentuknya apa?"
+"Orang dulu melihat ruam merah di wajah pasien dan mengira itu bekas gigitan serigala. Tapi ruam di pipi Wulan..." Dokter Sumarni menoleh kepadaku. "Wulan sendiri pernah bilang bentuknya apa?"
 
 "Kupu-kupu, Dok," kataku. "Kata Tika."
 
@@ -749,7 +761,7 @@ Ibu menatapku. Aku menunduk.
 
 "Dokter," kata Ibu, dan suaranya sangat rendah. "Ini... menular?"
 
-"Tidak." Dr. Sumarni menjawab cepat dan tegas, tanpa jeda, seperti orang yang sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
+"Tidak." Dokter Sumarni menjawab cepat dan tegas, tanpa jeda, seperti orang yang sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
 
 "Karena... kutukan?"
 
@@ -759,7 +771,7 @@ Ibu menunduk. Aku melihat bahunya turun sedikit, seakan sesuatu yang selama tiga
 
 "Dokter," kataku. "Bisa sembuh?"
 
-Dr. Sumarni menoleh kepadaku. Ia memandangku lama, dan aku tahu dari matanya bahwa ia sedang memutuskan apakah akan berbohong.
+Dokter Sumarni menoleh kepadaku. Ia memandangku lama, dan aku tahu dari matanya bahwa ia sedang memutuskan apakah akan berbohong.
 
 "Penyakit ini bukan yang bisa dibuang, Wulan," katanya akhirnya. "Ia bisa ditenangkan. Dibuat tidur. Banyak anak dengan lupus sekolah, bekerja, punya anak, dan hidup panjang. Tapi ia tidak selesai. Ia bisa bangun lagi."
 
@@ -769,7 +781,7 @@ Dr. Sumarni menoleh kepadaku. Ia memandangku lama, dan aku tahu dari matanya bah
 
 "Apa, Dok?"
 
-"Jujur. Kepadaku. Kepada orang tuamu. Kalau ada yang terasa, apa pun, sekecil apa pun, termasuk yang kamu pikir merepotkan, katakan." Ia berhenti. "Termasuk buih."
+"Jujur. Kepada saya. Kepada orang tuamu. Kalau ada yang terasa, apa pun, sekecil apa pun, termasuk yang kamu pikir merepotkan, katakan." Ia berhenti. "Termasuk buih."
 
 Ruangan itu sunyi sebentar.
 
@@ -777,9 +789,9 @@ Ruangan itu sunyi sebentar.
 
 ---
 
-Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat putih lewat infus tiga hari untuk meredam serangan, yang membuatku tidak bisa tidur selama dua malam dan merasa seperti bisa mengerjakan semua soal ujian nasional sekaligus. Kemudian steroid dalam bentuk tablet putih besar, yang harus diminum tiap pagi, dan aku akan meminumnya, kata Dr. Sumarni, selama berbulan-bulan, mungkin bertahun-tahun. Kemudian obat lain yang lebih kuat, dialirkan lewat infus sebulan sekali selama setengah tahun. Dan satu tablet kecil tiap hari, obat yang awalnya dibuat untuk malaria, yang katanya melindungi ginjal dan menjaga lupus tetap tidur.
+Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat putih lewat infus tiga hari untuk meredam serangan, yang membuatku tidak bisa tidur selama dua malam dan merasa seperti bisa mengerjakan semua soal ujian nasional sekaligus. Kemudian steroid dalam bentuk tablet putih besar, yang harus diminum tiap pagi, dan aku akan meminumnya, kata dr. Sumarni, selama berbulan-bulan, mungkin bertahun-tahun. Kemudian obat lain yang lebih kuat, dialirkan lewat infus sebulan sekali selama setengah tahun. Dan satu tablet kecil tiap hari, obat yang awalnya dibuat untuk malaria, yang katanya melindungi ginjal dan menjaga lupus tetap tidur.
 
-"Matahari," kata Dr. Sumarni. "Kamu harus menghindarinya. Payung, topi, lengan panjang. Tabir surya."
+"Matahari," kata dr. Sumarni. "Kamu harus menghindarinya. Payung, topi, lengan panjang. Tabir surya."
 
 "Tabir apa, Dok?" kata Ibu.
 
@@ -787,9 +799,9 @@ Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat p
 
 "Berapa harganya?"
 
-Dr. Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku melihat bagaimana bahu Bapak mengencang.
+Dokter Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku melihat bagaimana bahu Bapak mengencang.
 
-"Bapak," katanya. "Soal biaya, saya paham. Saya tidak akan berpura-pura ini murah. Tapi ada program baru dari pemerintah yang mulai berlaku minggu depan. BPJS Kesehatan. Untuk keluarga yang tidak mampu, iurannya dibayar pemerintah. Kalau Wulan terdaftar, perawatan, obat, dan kontrol akan ditanggung."
+"Bapak," katanya. "Soal biaya, saya paham. Saya tidak akan berpura-pura ini murah. Tapi ada program baru dari pemerintah yang mulai berlaku pada tahun baru nanti. BPJS Kesehatan. Untuk keluarga yang tidak mampu, iurannya dibayar pemerintah. Kalau Wulan terdaftar, perawatan, obat, dan kontrol akan ditanggung."
 
 "Terdaftarnya bagaimana, Dok?" Mas Aji bertanya.
 
@@ -849,9 +861,9 @@ Kami tidak berjabat tangan. Infus kami berada di tangan yang berbeda, dan kabel-
 
 Aku pulang tanggal delapan belas Januari.
 
-Hari itu, aku menenteng sebuah kantong plastik besar berisi obat-obatan, selembar jadwal kontrol, dan formulir baru yang diberikan Dr. Sumarni: sebuah tabel catatan harian untuk pasien lupus, dengan kolom yang lebih banyak daripada kertas Mbak Nurul. TANGGAL. KELUHAN. DEMAM? OBAT. Dan di sebelah kanan, kolom baru, ditulis dengan huruf yang lebih kecil: *URIN BERBUIH? (YA / TIDAK)*
+Hari itu, aku menenteng sebuah kantong plastik besar berisi obat-obatan, selembar jadwal kontrol, dan formulir baru yang diberikan dr. Sumarni: sebuah tabel catatan harian untuk pasien lupus, dengan kolom yang lebih banyak daripada kertas Mbak Nurul. TANGGAL. KELUHAN. DEMAM? OBAT. Dan di sebelah kanan, kolom baru, ditulis dengan huruf yang lebih kecil: *URIN BERBUIH? (YA / TIDAK)*
 
-"Kolom itu penting," kata Dr. Sumarni kepadaku. "Isi jujur setiap hari."
+"Kolom itu penting," kata dr. Sumarni kepadaku. "Isi jujur setiap hari."
 
 "Iya, Dok."
 
@@ -875,6 +887,7 @@ Malam itu, di bawah lampu minyak, aku mengisi kolom baru di kertas catatan.
 
 Aku menulis TIDAK dengan huruf besar. Aku belum tahu apakah itu akan tetap benar besok pagi. Aku hanya tahu bahwa kalau suatu hari kolom itu harus diisi YA, aku tidak akan menyiram dan pura-pura lagi.
 
+
 ---
 
 # Bab 6 — Wulan Bulan
@@ -883,11 +896,11 @@ Hari pertama aku kembali ke SD, Pak Kepala Sekolah membuka upacara dengan satu k
 
 "Kita menyambut kembali Wulan Rahayu Ningsih dari kelas enam, yang sudah sembuh dari sakitnya."
 
-Aku tidak sembuh. Tetapi kata *sembuh* adalah kata yang cukup untuk satu lapangan penuh anak-anak berseragam, dan mereka semua menoleh kepadaku di barisan belakang, di bawah pohon asam yang dipilih Bu Siti khusus agar aku tidak berdiri di terik. Di tanganku payung hitam Mbah. Di atas kepalaku, kerudung putih seragam Tika yang sudah kekecilan.
+Aku tidak sembuh. Tetapi kata *sembuh* adalah kata yang cukup untuk satu lapangan penuh anak-anak berseragam, dan mereka semua menoleh kepadaku di barisan belakang, di bawah pohon asam yang dipilih Bu Siti khusus agar aku tidak berdiri di terik. Di tanganku payung hitam Mbah. Di atas kepalaku, topi sekolah yang kebesaran.
 
 Dua ratus tiga puluh anak memandangi wajahku. Tak seorang pun bicara.
 
-Aku tahu persis apa yang mereka lihat, karena aku sudah melihatnya sendiri di cermin tiap pagi selama tiga minggu: sebuah wajah bulat penuh, yang pipinya menggembung seperti bakpao dan matanya menyipit di antara kelopak yang tebal, dengan kulit yang mengilap dan sedikit kemerahan. Steroid, kata Dr. Sumarni, menumpuk lemak di wajah. Namanya *wajah bulan*. Aku tidak percaya dokter memberi nama seindah itu untuk sesuatu yang membuatku ingin bersembunyi di bawah meja.
+Aku tahu persis apa yang mereka lihat, karena aku sudah melihatnya sendiri di cermin tiap pagi selama tiga minggu: sebuah wajah bulat penuh, yang pipinya menggembung seperti bakpao dan matanya menyipit di antara kelopak yang tebal, dengan kulit yang mengilap dan sedikit kemerahan. Steroid, kata dr. Sumarni, menumpuk lemak di wajah. Namanya *wajah bulan*. Aku tidak percaya dokter memberi nama seindah itu untuk sesuatu yang membuatku ingin bersembunyi di bawah meja.
 
 "Wulan *Bulan*!"
 
@@ -953,13 +966,13 @@ Musim kemarau datang pada bulan Juni. Dengan itu datang pula ujian lain: sekolah
 
 SMP Negeri itu berdiri empat kilometer dari dusun, di kecamatan, di atas bukit kecil yang dikelilingi pohon jati. Ada tiga ratus siswa, dua puluh guru, dan satu lapangan yang tidak punya satu pun pohon asam. Aku berjalan ke sana tiap pagi bersama Tika dan lima anak lain dari dusun, melewati ladang jagung yang dipenuhi bunyi serangga.
 
-Dua hal terjadi sebelum aku menginjakkan kaki ke sana.
+Dua hal terjadi di awal Juli itu.
 
 Yang pertama adalah rambutku. Steroid dan penyakit itu sendiri membuat rambutku rontok dari ubun-ubun dalam gumpalan-gumpalan kecil yang menempel di sisir, di bantal, di lantai kamar mandi. Pada suatu pagi di bulan Juli, ketika aku bercermin untuk mengikat rambut dan melihat kulit kepalaku tampak lewat di antara helai-helai tipis, aku diam sebentar. Lalu aku mengambil kerudung putih dari lemari, kerudung yang Tika wariskan dulu.
 
 Aku memakainya. Aku menunduk menatap bayanganku.
 
-Itu adalah wajah yang tidak kukenal, tetapi tidak terlalu asing juga. Kerudung menutup ubun-ubun yang menipis, menutup tengkuk dari matahari, membingkai pipi yang bulat sampai ia terlihat seperti sengaja dibuat bulat. Ada sesuatu yang diam di dalam bayangan itu, sesuatu yang bukan Wulan Bulan atau pasien Dr. Sumarni atau anak tifus. Hanya seseorang yang akan keluar rumah.
+Itu adalah wajah yang tidak kukenal, tetapi tidak terlalu asing juga. Kerudung menutup ubun-ubun yang menipis, menutup tengkuk dari matahari, membingkai pipi yang bulat sampai ia terlihat seperti sengaja dibuat bulat. Ada sesuatu yang diam di dalam bayangan itu, sesuatu yang bukan Wulan Bulan atau pasien dr. Sumarni atau anak tifus. Hanya seseorang yang akan keluar rumah.
 
 Ibu berdiri di pintu kamar. Ia tidak mengatakan apa-apa selama beberapa saat.
 
@@ -987,7 +1000,7 @@ Aku tidak tahu dari mana ia mendapat kalimat itu. Ia tidak pernah belajar di kel
 
 Yang kedua adalah upacara hari pertama.
 
-Upacara masa orientasi di SMP itu berlangsung di lapangan tanpa naungan pada pukul sembilan pagi bulan Juli. Aku berdiri di barisan kelas tujuh, di bawah payung hitam Mbah, dengan kerudung baru yang kusam putihnya, dan wajah bulat yang sudah kuputuskan akan kuterima.
+Upacara masa orientasi di SMP itu berlangsung di lapangan tanpa naungan pada pukul sembilan pagi bulan Juli. Aku berdiri di barisan kelas tujuh, di bawah payung hitam Mbah, dengan kerudung warisan Tika yang putihnya sudah kusam, dan wajah bulat yang sudah kuputuskan akan kuterima.
 
 Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Itu payung buat apa? Kayak nenek-nenek."
 
@@ -1021,6 +1034,7 @@ Aku tidak menjawab. Sepanjang sisa upacara, aku memegang payung dengan sangat ha
 
 Pada hari itu, aku mendapat kupu-kupu yang kedua. Dan yang ini tidak bersarang di pipiku, melainkan di perutku.
 
+
 ---
 
 # Bab 7 — Titik di Tengah Sel
@@ -1049,7 +1063,7 @@ Aku menemukan buku itu pada Sabtu kedua bulan Agustus, ketika aku mengintip lema
 
 "Bukan ringkasan. Bukan kesan. Satu pertanyaan, yang kamu tidak bisa jawab sendiri setelah membaca buku itu." Ia menutup matanya lagi. "Kalau kamu tidak punya pertanyaan, berarti kamu belum membaca."
 
-Aku membawa pulang buku itu dengan dua tangan, seperti membawa sesuatu yang bisa tumpah.
+Aku membawa pulang buku itu, dipeluk di dada, sepanjang jalan.
 
 ---
 
@@ -1087,7 +1101,7 @@ Pak Karto membuka matanya. Kali ini keduanya. Ia menatapku lama.
 
 Sekolah juga berubah, pelan-pelan, seperti permukaan air yang sedikit demi sedikit berhenti beriak.
 
-Pelajaran olahraga adalah masalah pertama. Lapangan SMP tidak punya satu pohon pun, dan tiga puluh menit berdiri di bawah sinar matahari bulan Agustus cukup untuk membuat pipiku mengeluarkan kupu-kupu yang paling marah. Dr. Sumarni sudah menulis surat, yang kubawa kepada wali kelas, yang membawanya kepada kepala sekolah, yang membawanya kepada seorang guru muda berkacamata bulat yang kebetulan mengajar IPA: Bu Ratmi.
+Pelajaran olahraga adalah masalah pertama. Lapangan SMP tidak punya satu pohon pun, dan tiga puluh menit berdiri di bawah sinar matahari bulan Agustus cukup untuk membuat pipiku mengeluarkan kupu-kupu yang paling marah. Dokter Sumarni sudah menulis surat, yang kubawa kepada wali kelas, yang membawanya kepada kepala sekolah, yang membawanya kepada seorang guru muda berkacamata bulat yang kebetulan mengajar IPA: Bu Ratmi.
 
 "Wulan boleh tidak ikut olahraga," kata Bu Ratmi, ketika aku dipanggil ke ruang guru. "Tapi bukan berarti Wulan boleh bengong di kelas."
 
@@ -1125,7 +1139,7 @@ Bu Siti berdiri di sana, di dekat lemari kaca. Dan di atas meja, di tengah, dile
 
 Mikroskop itu hitam, kokoh, dengan cat yang sedikit mengelupas di lehernya. Lensanya bersih, entah kapan dibersihkan. Di sampingnya, sebuah piring kecil berisi bawang merah yang dikupas selapis dan sebuah botol kecil obat merah.
 
-"Delapan tahun," kata Bu Siti.
+"Sembilan tahun," kata Bu Siti.
 
 "Dikeluarkan hari ini."
 
@@ -1175,6 +1189,7 @@ Malam itu aku menggambar apa yang kulihat di buku catatan, di bawah kolom TANGGA
 
 Pertanyaan kedua kutulis lebih kecil, dengan ragu, seperti menulis sesuatu yang tidak seharusnya dituliskan. Aku menaruh pensil. Dua pertanyaan itu baru berumur satu jam, dan sudah lebih besar daripada aku.
 
+
 ---
 
 # Interlude I — Dusun Pucung, 2031
@@ -1210,6 +1225,7 @@ Tika mendesah, mengalah, dan berlari kembali ke barisan. Aku menekan tombol. Sat
 Di saku gamisku, ponselku sendiri bergetar sekali, singkat. Aku tidak perlu melihatnya. Alarm itu kuberi nama yang tidak mencurigakan, yang bisa dibaca siapa pun tanpa bertanya: *Kontrol*.
 
 Aku membiarkannya mati sendiri.
+
 
 ---
 
@@ -1321,7 +1337,7 @@ Ibu tidak berkata apa-apa lagi. Tapi jemarinya, yang menyisir rambutku, bergerak
 
 Ramadan datang pada pertengahan Juni, dan untuk pertama kalinya aku tidak bisa ikut.
 
-Dr. Sumarni sudah mengatakannya di kontrol bulan Mei, dengan nada orang yang tahu bahwa ia sedang mengatakan sesuatu yang tidak ingin kudengar. Obatku diminum pagi hari, dan obat itu tidak boleh dilewat. Steroid yang menekan penyakitku juga menekan kemampuan tubuhku menahan lapar dan haus. "Puasa itu kewajiban," katanya. "Tapi orang sakit mendapat keringanan. Kamu bisa menggantinya nanti, ketika sehat."
+Dokter Sumarni sudah mengatakannya di kontrol bulan Mei, dengan nada orang yang tahu bahwa ia sedang mengatakan sesuatu yang tidak ingin kudengar. Obatku harus diminum teratur dan tidak boleh dilewat. Steroid membuat lambungku gampang perih kalau kosong terlalu lama, dan ginjalku tidak boleh kekurangan air. "Puasa itu kewajiban," katanya. "Tapi orang sakit mendapat keringanan. Kamu bisa menggantinya nanti, ketika sehat."
 
 "Kapan itu, Dok?"
 
@@ -1363,11 +1379,11 @@ Aku makan. Nasi cadong itu terasa lebih asin daripada seharusnya, dan aku tidak 
 
 ---
 
-Kabar itu datang seminggu sebelum Lebaran, lewat telepon Pak Hasan, di suara yang kukenali sebagai milik Dr. Sumarni.
+Kabar itu datang seminggu sebelum Lebaran, lewat telepon Pak Hasan, di suara yang kukenali sebagai milik dr. Sumarni.
 
 "Wulan." Suaranya tenang dan rendah. "Dokter ingin menyampaikan sesuatu, dan dokter lebih suka menyampaikannya langsung, tapi kamu tidak akan kontrol sampai bulan depan, jadi dokter telepon."
 
-Aku memegang gagang telepon dengan dua tangan.
+Aku memegang gagang telepon erat-erat.
 
 "Yuni," katanya. "Teman sekamarmu. Dia meninggal hari Minggu lalu."
 
@@ -1403,21 +1419,22 @@ Setelah semua tamu pulang, aku duduk di ruang tengah yang sudah sepi, di atas ti
 
 *Kehilangan.*
 
-Aku menatapnya lama. Lalu aku menghapusnya, dengan penghapus di ujung pensil, sampai kertasnya mengelupas sedikit. Karena itu bukan keluhan yang biasa dicatat Dr. Sumarni, dan tak ada kolom untuknya.
+Aku menatapnya lama. Lalu aku menghapusnya, dengan penghapus di ujung pensil, sampai kertasnya mengelupas sedikit. Karena itu bukan keluhan yang biasa dicatat dr. Sumarni, dan tak ada kolom untuknya.
 
 Hanya jejak samar yang tertinggal di sana. Dan itu cukup.
+
 
 ---
 
 # Bab 9 — Pintu Kos
 
-Ada tahun-tahun yang pendek, dan tahun kelas sembilan adalah salah satunya.
+Ada tahun-tahun yang pendek, dan dua tahun terakhir di SMP adalah salah satunya.
 
-Dua belas bulan itu lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali Dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
+Dua tahun itu lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
 
 Aku tidak lagi dipanggil Wulan Bulan. Rina yang pertama berhenti. Dimas yang terakhir, dan ia melakukannya dengan mengucapkan namaku penuh pada suatu pagi tanpa alasan, lalu menghilang ke kantin sebelum aku sempat berkomentar.
 
-Tapi tahun itu bukan milikku. Tahun itu milik Mas Aji.
+Tapi bagian yang paling besar dari tahun-tahun itu bukan milikku. Itu milik Mas Aji.
 
 ---
 
@@ -1429,7 +1446,7 @@ Ia pulang ke Pucung pada Sabtu sore dengan ransel di punggung dan wajah orang ya
 
 Bapak tidak menjawab.
 
-"Aku sudah bicara dengan Pakdhe Danu. Dia di Batam. Ada kerjaan di galangan kapal. Gajinya dua juta lebih. Aku bisa kirim tiap bulan."
+"Aku sudah bicara dengan Pakdhe Danu. Dia di Batam. Ada kerjaan di galangan kapal, bagian angkut-angkut. Kata Pakdhe, aku sudah cukup tinggi untuk dibilang tujuh belas. Gajinya dua juta lebih. Aku bisa kirim tiap bulan."
 
 "Sekolahmu?" Suara Ibu sangat tipis.
 
@@ -1471,9 +1488,9 @@ Aku membuka bungkusan itu. Sebuah radio kecil, sebesar buku saku, dengan antena 
 
 "Mas tahu aku suka dengar?"
 
-"Tiap malam kamu nyalain radio Pak Karto lewat jendela dari sini." Ia masih tidak menatapku. "Kamu pikir aku nggak dengar?"
+"Tiap malam kamu duduk di jendela, dengerin radio Pak Karto dari seberang." Ia masih tidak menatapku. "Kamu pikir aku nggak lihat?"
 
-Aku memegang radio itu dengan dua tangan. Ia hangat, seakan baru dipegang orang. Antenanya sedikit goyah.
+Aku memegang radio itu. Ia hangat, seakan baru dipegang orang. Antenanya sedikit goyah.
 
 "Mas," kataku. "Makasih."
 
@@ -1489,7 +1506,7 @@ Aku menyalakan radio itu malam itu, dan memutar tombolnya pelan-pelan, melewati 
 
 Ujian akhir SMP diadakan April 2017, dan untuk pertama kalinya, ujian itu berbasis komputer. SMP kami tidak punya satu pun komputer yang bisa dipakai, jadi seluruh kelas sembilan menumpang di sekolah lain di kecamatan sebelah dengan sebuah truk pinjaman. Kami tiba terlalu awal, duduk berderet di tangga masjid sampai gerbang dibuka, memegang kartu peserta seperti tiket menuju tempat yang tidak kami mengerti.
 
-Aku mengerjakan soal dengan mata perih menatap layar. Sendiku tidak kaku, untuk pertama kali. Dr. Sumarni sudah menurunkan obatku sampai level yang katanya "cukup aman untuk beberapa bulan, kalau tidak ada kejutan", dan aku mengerjakan tiap soal seperti anak yang berjalan di tepi jurang yang sudah ia hafal.
+Aku mengerjakan soal dengan mata perih menatap layar. Sendiku tidak kaku, untuk pertama kali. Dokter Sumarni sudah menurunkan obatku sampai level yang katanya "cukup aman untuk beberapa bulan, kalau tidak ada kejutan", dan aku mengerjakan tiap soal seperti anak yang berjalan di tepi jurang yang sudah ia hafal.
 
 Nilaiku, ketika pengumuman keluar dua minggu kemudian, adalah salah satu yang tertinggi di sekolah. Bu Ratmi memelukku di koridor dengan gerakan tak terduga, lalu melepaskanku buru-buru dan membetulkan kacamatanya.
 
@@ -1561,13 +1578,19 @@ Ibu berdiri di samping bus, memegang sebuah kaleng biskuit kecil yang lebih mung
 
 "Jangan bilang tidak." Suaranya sangat tegak. "Kamu bilang tidak, Ibu bawa pulang lagi, dan malam-malam Ibu nggak bisa tidur."
 
-Aku menerima kaleng itu dengan dua tangan, seperti menerima sesuatu yang tak boleh tumpah.
+Aku menerima kaleng itu, dan tidak membantah lagi, karena Ibu benar: kalau aku menolak, malam itu ia tidak akan tidur.
 
 Bus datang. Aku naik. Dari jendela, aku melihat Ibu berdiri dengan kedua tangan di depan dada, Bapak di sampingnya dengan topi di tangan, Ardi yang melambai dengan seluruh lengan, dan Mbah Darmi yang melepas sarung dari bahu dan mengangkatnya tinggi-tinggi, seakan sedang mengibarkan bendera.
 
 Aku menempelkan dahi di kaca. Pucung mengecil di belakang, ladang jagung, kandang, pohon asam, dan jalan yang kukenal tiap batu dan tiap lubangnya.
 
 Di pangkuanku, kaleng biskuit kecil itu berbunyi sekali, pelan, ketika bus melewati lubang pertama.
+
+
+---
+
+# Babak II — Tangga (2017–2025)
+
 
 ---
 
@@ -1617,7 +1640,7 @@ Tidak ada yang tidur di warung. Tapi semua orang percaya bahwa Bu Haji sanggup.
 
 Uangku habis pada minggu ketiga.
 
-Aku tidak bermaksud membiarkannya. Aku sudah menghitung semuanya di buku catatan, di halaman yang biasanya untuk pertanyaan: seratus tujuh puluh lima ribu untuk kos, tiga puluh ribu untuk transportasi kontrol tiap tiga bulan, sisanya untuk makan. Bantuan Program Indonesia Pintar sudah masuk ke rekening yang dibuatkan Bu Ratmi, tapi Bu Ratmi menyarankan agar itu dipakai membayar kos enam bulan di muka, dan aku menurut. Mas Aji sudah mengirim lima ratus ribu dari Batam di awal bulan. Ibu mengirim beras dan tiwul lewat bus setiap dua minggu.
+Aku tidak bermaksud membiarkannya. Aku sudah menghitung semuanya di buku catatan, di halaman yang biasanya untuk pertanyaan: tiga puluh ribu untuk transportasi kontrol tiap tiga bulan, sisanya untuk makan. Kos sudah dibayar enam bulan di muka dari bantuan Program Indonesia Pintar yang masuk ke rekening yang dibuatkan Bu Ratmi, dan aku menurut ketika Bu Ratmi menyarankannya. Mas Aji sudah mengirim lima ratus ribu dari Batam di awal bulan. Ibu mengirim beras dan tiwul lewat bus setiap dua minggu.
 
 Tapi rencana yang rapi biasanya tidak memperhitungkan nafsu makan anak lima belas tahun yang sedang tumbuh. Atau tidak memperhitungkan harga telur yang naik. Atau tidak memperhitungkan bahwa aku, yang terlalu lama dipelihara oleh rasa sungkan, tidak sanggup meminta tambahan.
 
@@ -1687,6 +1710,7 @@ Aku menunduk menatap kertas. Di kepalaku, dua pertanyaan di buku catatan menungg
 
 "Saya daftar, Pak," kataku.
 
+
 ---
 
 # Bab 11 — Soal yang Tidak Ada di Buku
@@ -1737,7 +1761,7 @@ Aku tidak menjawab. Ia benar, dan aku tidak punya kalimat untuk mengakuinya.
 
 Hari Sabtu itu, aku pergi ke alun-alun.
 
-Aku memakai kerudung biru muda yang Ibu jahit, rok panjang, dan jaket tebal. Sesampainya di sana, di antara kerumunan, lampu warna-warni, dan bau bakso bakar dan sosis, aku berdiri di tepi jalan dan mendengarkan band remaja memainkan lagu yang tak kukenal. Tika menarik tanganku ke depan panggung. Seseorang menyodorkan jagung bakar. Aku memakannya, dan rasanya manis dan hangat dan sedikit hangus, dan untuk pertama kalinya sejak September 2013, aku tertawa tanpa memikirkan wajahku.
+Aku memakai kerudung hijau pupus yang Ibu jahit, rok panjang, dan jaket tebal. Sesampainya di sana, di antara kerumunan, lampu warna-warni, dan bau bakso bakar dan sosis, aku berdiri di tepi jalan dan mendengarkan band remaja memainkan lagu yang tak kukenal. Tika menarik tanganku ke depan panggung. Seseorang menyodorkan jagung bakar. Aku memakannya, dan rasanya manis dan hangat dan sedikit hangus, dan untuk pertama kalinya sejak September 2013, aku tertawa tanpa memikirkan wajahku.
 
 Pada pukul sembilan kurang lima menit, kami berlari pulang, tertawa sampai lemas, dan sampai di gerbang kos pas ketika Bu Haji sedang melipat korannya.
 
@@ -1749,7 +1773,7 @@ Seleksi tingkat sekolah berlangsung Januari, tingkat kabupaten pada Maret.
 
 Aku lolos tingkat sekolah sebagai peringkat ketiga dari sepuluh. Pak Hendra mengumumkannya dengan suara yang sama datarnya seperti mengumumkan jadwal piket, tapi aku melihat telinganya bergerak sedikit.
 
-Tingkat kabupaten, yang disebut OSN-K, diadakan di sebuah SMA besar di pusat kota, dengan seratus tiga puluh peserta dari seluruh Gunungkidul. Kami duduk berjarak dua meter, dengan pengawas yang berjalan di antara bangku, dan soal yang dibagikan terbalik sampai bel berbunyi. Tanganku dingin. Dr. Sumarni sudah menyuruhku minum obat tepat waktu dan sarapan yang cukup, dan aku melakukan keduanya, dan masih merasa seperti orang yang akan menyeberangi sungai dengan batu yang tidak stabil.
+Tingkat kabupaten, yang disebut OSN-K, diadakan di sebuah SMA besar di pusat kota, dengan seratus tiga puluh peserta dari seluruh Gunungkidul. Kami duduk berjarak dua meter, dengan pengawas yang berjalan di antara bangku, dan soal yang dibagikan terbalik sampai bel berbunyi. Tanganku dingin. Dokter Sumarni sudah menyuruhku minum obat tepat waktu dan sarapan yang cukup, dan aku melakukan keduanya, dan masih merasa seperti orang yang akan menyeberangi sungai dengan batu yang tidak stabil.
 
 Bel berbunyi. Aku membalik kertas.
 
@@ -1809,25 +1833,26 @@ Hasil keluar dua minggu kemudian. Aku tidak lolos ke tingkat nasional. Peringkat
 
 "Saya belajar dari buku. Mereka belajar dari bimbingan tiga tahun."
 
-"Itu sebagian." Pak Hendra bersandar di meja. "Sebagian lagi karena kamu tidak tahu apa yang tidak kamu tahu. Itu bisa dipelajari. Tapi bukan dari saya. Aku sendiri baru tahu saat melihat soal-soal itu."
+"Itu sebagian." Pak Hendra bersandar di meja. "Sebagian lagi karena kamu tidak tahu apa yang tidak kamu tahu. Itu bisa dipelajari. Tapi bukan dari saya. Saya sendiri baru tahu saat melihat soal-soal itu."
 
 "Jadi?"
 
-"Jadi tahun depan, kamu ikut lagi. Dan kamu tidak akan kalah dengan cara yang sama." Ia berhenti, dan sebelum aku sempat membalas, ia menambahkan sesuatu yang membuatku diam. "Dr. Anindya. Yang bicara di depan tadi. Aku memperhatikan dia. Dia membaca jawaban esaimu."
+"Jadi tahun depan, kamu ikut lagi. Dan kamu tidak akan kalah dengan cara yang sama." Ia berhenti, dan sebelum aku sempat membalas, ia menambahkan sesuatu yang membuatku diam. "Dr. Anindya. Yang bicara di depan tadi. Saya memperhatikan dia. Dia membaca jawaban esaimu."
 
 "Esai saya?"
 
-"Yang terakhir. Dia mengambilnya sendiri dari tumpukan, dan membacanya sampai habis. Lalu dia bertanya padaku siapa yang menulis. Aku bilang, anak dari Gunungkidul." Pak Hendra mengangkat bahu. "Dia bilang: 'Anak itu tahu cara bertanya.' Hanya itu."
+"Yang terakhir. Dia mengambilnya sendiri dari tumpukan, dan membacanya sampai habis. Lalu dia bertanya pada saya siapa yang menulis. Saya bilang, anak dari Gunungkidul." Pak Hendra mengangkat bahu. "Dia bilang: 'Anak itu tahu cara bertanya.' Hanya itu."
 
 Aku tidak tahu harus berkata apa. Sebuah rasa hangat naik dari dada sampai ke telinga.
 
 "Siapa dia sebenarnya, Pak?"
 
-"Dosen. Peneliti. Aku tidak tahu persis." Pak Hendra tersenyum, tipis. "Tapi aku tahu satu hal: kalau seorang peneliti membaca esai seorang anak SMA sampai habis, itu pertanda baik."
+"Dosen. Peneliti. Saya tidak tahu persis." Pak Hendra tersenyum, tipis. "Tapi saya tahu satu hal: kalau seorang peneliti membaca esai seorang anak SMA sampai habis, itu pertanda baik."
 
 Malam itu, di kamar sembilan, aku menulis di buku catatan tiga hal. Pertama, kekalahan: *23/140.* Kedua, sebuah nama: *Dr. Anindya.* Ketiga, pertanyaan yang ia baca: *Bagaimana sel tahu kapan harus berhenti membaca perintah yang salah?*
 
 Dari jendela, lewat tembok rumah sebelah, aku mendengar radio Tika yang menyiarkan lagu pop. Aku mematikan lampu. Dan di dalam gelap, untuk pertama kalinya, aku tidak merasa seperti anak desa yang kalah. Aku merasa seperti seseorang yang baru saja tahu bahwa ada orang lain di dunia yang mengajukan pertanyaan yang sama.
+
 
 ---
 
@@ -1989,7 +2014,7 @@ Kami berdua nyaris tertawa, dan karena itu tidak berani saling menatap.
 
 Pada bulan Oktober, ketika hujan pertama jatuh dan seluruh Wonosari berbau tanah basah, Naufal tidak datang pada hari Kamis. Aku menunggu di teras sampai pukul tujuh, sampai Bu Haji menghela napas dan melipat koran, dan aku naik ke kamar.
 
-Pada Jumat, ia ada di sekolah, duduk di sebelahku, dengan wajah yang tak terbaca.
+Pada Jumat, ia ada di sekolah, duduk di sebelahku, dengan wajah seperti papan tulis yang baru dihapus.
 
 "Kemarin kamu tidak ke kos."
 
@@ -2022,6 +2047,7 @@ Kami berdua tidak berkata apa-apa lagi. Di luar jendela, hujan turun dengan iram
 Dan di kos malam itu, ketika Tika bertanya apakah sesuatu terjadi, aku menjawab, dengan jujur, "Tidak ada yang terjadi."
 
 Itu juga benar. Tidak ada yang terjadi. Dan justru itu, aku mulai mengerti, yang membuatnya sulit dilupakan.
+
 
 ---
 
@@ -2163,7 +2189,7 @@ Tika berhenti sebentar di meja sebelah, melihat ke arah suara itu, lalu berjalan
 
 Tak ada yang menjawab.
 
-"Aku sekamar sama dia dua tahun. Dia makan sekali sehari waktu uangnya habis dan tidak pernah minta ke siapa pun. Dia sapu halaman Bu Haji tiap pagi supaya bisa makan malam. Dia nyanyi di pentas dengan kaki gemetar. Dia nolak Daffa, dan dia nolaknya dengan lebih sopan daripada yang bisa kalian lakukan kalau ditanya sesuatu yang kalian nggak mau." Tika menarik napas. "Kalau itu sombong, ya aku mau juga."
+"Aku sekamar sama dia setahun lebih. Dia makan sekali sehari waktu uangnya habis dan tidak pernah minta ke siapa pun. Dia sapu halaman Bu Haji tiap pagi supaya bisa makan malam. Dia nyanyi di pentas dengan kaki gemetar. Dia nolak Daffa, dan dia nolaknya dengan lebih sopan daripada yang bisa kalian lakukan kalau ditanya sesuatu yang kalian nggak mau." Tika menarik napas. "Kalau itu sombong, ya aku mau juga."
 
 Seisi kantin hening. Penjual bakso di pojok berhenti mengaduk. Seseorang menjatuhkan sendok.
 
@@ -2217,11 +2243,12 @@ Aku tidak menyiram dan pura-pura. Aku tidak menyembunyikan apa pun. Aku membangu
 
 "Tik. Aku harus ke rumah sakit di Yogya. Hari ini. Tolong bilang ke Bu Haji."
 
+
 ---
 
 # Bab 14 — Parut
 
-Dr. Sumarni membaca hasil laboratoriumku dengan wajah yang tidak berubah sama sekali, dan itu cara terburuk dokter membacanya.
+Dokter Sumarni membaca hasil laboratoriumku dengan wajah yang tidak berubah sama sekali, dan itu cara terburuk dokter membacanya.
 
 "Kreatininnya naik," katanya. "Protein di urin empat plus. Tekanan darahmu tinggi. Dan C3-nya turun lagi." Ia meletakkan kertas itu di meja dan menyatukan jemarinya. "Wulan, ini kambuh. Dan ini bukan kambuh yang kecil."
 
@@ -2237,7 +2264,7 @@ Aku duduk di kursi pasien dengan kedua tangan di pangkuan. Di sampingku Ibu, yan
 
 "Lalu kenapa..."
 
-"Karena kadang tidak ada kenapa." Dr. Sumarni berhenti, dan aku melihatnya memilih kata-kata dengan cermat, seperti orang melangkah di atas batu licin. "Lupus tidak selalu menunggu alasan, Wulan. Mungkin infeksi kecil yang tidak kamu sadari. Mungkin kelelahan. Mungkin tidak ada apa-apa. Itu bukan salahmu."
+"Karena kadang tidak ada kenapa." Dokter Sumarni berhenti, dan aku melihatnya memilih kata-kata dengan cermat, seperti orang melangkah di atas batu licin. "Lupus tidak selalu menunggu alasan, Wulan. Mungkin infeksi kecil yang tidak kamu sadari. Mungkin kelelahan. Mungkin tidak ada apa-apa. Itu bukan salahmu."
 
 "Iya, Dok."
 
@@ -2245,7 +2272,7 @@ Aku duduk di kursi pasien dengan kedua tangan di pangkuan. Di sampingku Ibu, yan
 
 Ibu menarik napas pelan. "Itu... sakit, Dok?"
 
-"Dia akan dibius lokal. Prosedurnya sekitar satu jam. Dia harus berbaring tidak bergerak selama enam jam sesudahnya." Dr. Sumarni menoleh kepadaku. "Takut?"
+"Dia akan dibius lokal. Prosedurnya sekitar satu jam. Dia harus berbaring tidak bergerak selama enam jam sesudahnya." Dokter Sumarni menoleh kepadaku. "Takut?"
 
 "Sedikit."
 
@@ -2269,9 +2296,9 @@ Itu cara Tika menjagaku. Bukan dengan kata-kata penghiburan, tapi dengan hal-hal
 
 ---
 
-Hasil biopsi keluar empat hari kemudian, ketika aku sudah dirawat di bangsal yang sama, di ranjang yang dulu ditempati Yuni, atau mungkin ranjang di sebelahnya. Aku tidak ingat lagi. Dr. Sumarni datang bersama seorang dokter ginjal yang aku belum kenal, dan keduanya duduk di sisi ranjang dengan wajah yang tidak bisa kuuraikan.
+Hasil biopsi keluar empat hari kemudian, ketika aku sudah dirawat di bangsal yang sama, di ranjang yang dulu ditempati Yuni, atau mungkin ranjang di sebelahnya. Aku tidak ingat lagi. Dokter Sumarni datang bersama seorang dokter ginjal yang aku belum kenal, dan keduanya duduk di sisi ranjang dengan wajah yang tidak bisa kuuraikan.
 
-"Nefritis lupus kelas empat," kata Dr. Sumarni. "Aktif."
+"Nefritis lupus kelas empat," kata dr. Sumarni. "Aktif."
 
 Aku sudah membaca tentang kelas-kelas itu di buku Biologi dan di perpustakaan Pak Karto sejak umur dua belas. Kelas empat adalah yang paling berat dari yang masih bisa ditolong. Aku tahu.
 
@@ -2279,7 +2306,7 @@ Aku sudah membaca tentang kelas-kelas itu di buku Biologi dan di perpustakaan Pa
 
 "Parut?"
 
-"Bekas luka. Dari serangan-serangan sebelumnya. Mungkin dari kambuh pertama, saat kamu dua belas tahun, yang tidak sempat dikendalikan cukup cepat." Ia berhenti, dan aku melihat ia memilih kata. "Jaringan yang sudah menjadi parut tidak bisa pulih. Tidak bisa disembuhkan. Ia sudah menjadi sesuatu yang lain."
+"Bekas luka. Dari serangan-serangan sebelumnya. Mungkin dari kambuh pertama, saat kamu sebelas tahun, yang tidak sempat dikendalikan cukup cepat." Ia berhenti, dan aku melihat ia memilih kata. "Jaringan yang sudah menjadi parut tidak bisa pulih. Tidak bisa disembuhkan. Ia sudah menjadi sesuatu yang lain."
 
 "Berapa banyak?"
 
@@ -2303,7 +2330,7 @@ Aku menulis kata itu malam itu di buku catatan. Satu kata saja, di halaman yang 
 
 ---
 
-Pengobatan baru dimulai keesokan harinya: steroid dosis tinggi lagi lewat infus, lalu obat yang lebih keras, yang dialirkan lewat jarum di lenganku selama beberapa jam setiap dua minggu. Dr. Sumarni menjelaskan bahwa obat itu pernah dibuat untuk melawan kanker, dan sekarang digunakan, dalam dosis yang jauh lebih kecil, untuk meredam sistem kekebalan yang kehilangan arah.
+Pengobatan baru dimulai keesokan harinya: steroid dosis tinggi lagi lewat infus, lalu obat yang lebih keras, yang dialirkan lewat jarum di lenganku selama beberapa jam setiap dua minggu. Dokter Sumarni menjelaskan bahwa obat itu pernah dibuat untuk melawan kanker, dan sekarang digunakan, dalam dosis yang jauh lebih kecil, untuk meredam sistem kekebalan yang kehilangan arah.
 
 "Efek sampingnya," katanya, "mual. Lemas. Dan rambutmu akan rontok."
 
@@ -2327,7 +2354,7 @@ Ibu duduk di kursi di samping ranjangku sepanjang malam. Aku tidak pernah meliha
 
 "Itu bukan tidur."
 
-Ibu tidak menjawab. Ia hanya menaikkan selimut sampai ke daguku, lalu duduk kembali, dan di keremangan lampu bangsal aku melihat bibirnya bergerak tanpa suara. Aku tahu ia sedang menyebut nama-nama: Pak Dukuh, Mbok Karni, Pak Modin, Pakdhe Harjo, Bu Haji, dan seluruh dusun yang menyumbang dan mendoakan, dan Dr. Sumarni, dan Mbak Nurul, dan, aku yakin, seseorang yang belum pernah kutemui.
+Ibu tidak menjawab. Ia hanya menaikkan selimut sampai ke daguku, lalu duduk kembali, dan di keremangan lampu bangsal aku melihat bibirnya bergerak tanpa suara. Aku tahu ia sedang menyebut nama-nama: Pak Dukuh, Mbok Karni, Pak Modin, Pakdhe Harjo, Bu Haji, dan seluruh dusun yang menyumbang dan mendoakan, dan dr. Sumarni, dan Mbak Nurul, dan, aku yakin, seseorang yang belum pernah kutemui.
 
 ---
 
@@ -2377,7 +2404,7 @@ Aku menatapnya. Aku tidak punya kata. Ibu, di belakangku, tiba-tiba menyibukkan 
 
 Malam itu, ketika semua tidur dan bangsal hanya diterangi lampu merah kecil di atas pintu, aku memasang antena panjang itu ke daun jendela, menyalakan radio, dan mendengarkan dengan volume paling pelan. Dengungan, serakan, suara-suara yang jauh. Dan di antaranya, entah dari mana, entah dari negara mana, sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, dengan nada yang menenangkan seperti ibu yang membacakan dongeng.
 
-Aku menyimak sampai pagi. Aku tidak menangis. Tetapi aku merasa seperti seseorang yang, untuk pertama kalinya, menyadari bahwa dunia adalah tempat yang memiliki banyak sekali suara yang lemah, dan seseorang yang pernah kenal membuat antena agar aku bisa mendengarnya.
+Aku menyimak sampai pagi. Aku tidak menangis. Tetapi aku merasa seperti seseorang yang, untuk pertama kalinya, menyadari bahwa dunia penuh suara yang lemah, dan bahwa seseorang telah membuatkan antena supaya aku bisa mendengarnya.
 
 ---
 
@@ -2404,6 +2431,7 @@ Ia meletakkan gagang telepon dengan hati-hati, seakan benda itu bisa pecah. Ia b
 "Mbah." Suaranya tercekat. "Mbah jatuh di kamar mandi. Pak Hasan bilang... sudah tidak..."
 
 Ia tidak menyelesaikan kalimatnya. Dan aku, di ranjang dengan jarum infus di lengan dan kerudung yang menutup kepalaku yang botak, tidak bisa berdiri.
+
 
 ---
 
@@ -2435,13 +2463,13 @@ Kami tidak berbicara lama. Tapi kami berdua diam di telepon selama dua menit pen
 
 ---
 
-Dr. Sumarni mengizinkanku pulang pada hari ketiga setelah Mbah dikuburkan, dengan syarat yang ditulis dalam tiga halaman, dan dengan satu kalimat yang diucapkannya sambil menatap mataku:
+Dokter Sumarni mengizinkanku pulang pada hari ketiga setelah Mbah dikuburkan, dengan syarat yang ditulis dalam tiga halaman, dan dengan satu kalimat yang diucapkannya sambil menatap mataku:
 
 "Kamu boleh pulang untuk tahlilan. Kamu tidak boleh ikut kerja bakti. Kamu tidak boleh angkat apa pun. Kamu tidak boleh berdiri lebih dari lima belas menit. Dan kamu harus kembali Selasa."
 
 "Saya mengerti, Dok."
 
-"Kamu tidak mengerti." Dr. Sumarni menarik napas, dan untuk pertama kalinya aku melihat ia kehilangan sedikit suaranya. "Tapi saya mengerti kamu. Nenekmu itu penting. Pergilah."
+"Kamu tidak mengerti." Dokter Sumarni menarik napas, dan untuk pertama kalinya aku melihat ia kehilangan sedikit suaranya. "Tapi saya mengerti kamu. Nenekmu itu penting. Pergilah."
 
 Aku sampai di Pucung pada sore hari, naik bus bersama Tika, yang tidak mau ditinggalkan, dan bersandar di jendela hampir sepanjang perjalanan dengan kepala yang berat. Di terminal Wonosari, Pakdhe Harjo menjemput dengan sepeda motor tuanya dan membawa kami berdua sampai ujung gang.
 
@@ -2501,7 +2529,7 @@ Pada malam keenam, setelah semua selesai, Pak Dukuh mendekatiku.
 
 "Sudah dirawat?"
 
-"Sudah, Pak. Dr. Sumarni."
+"Sudah, Pak. Dokter Sumarni."
 
 "Warga..." Ia berhenti, menggaruk lehernya. "Warga sudah tahu. Mbok Karni yang kasih kabar ke semua orang. Kami sudah bicara. Kami mau kumpulkan lagi."
 
@@ -2559,6 +2587,7 @@ Aku menyelesaikan kerudung itu tengah malam, dan meletakkannya di kamar bersama 
 
 Pada hari Selasa, aku kembali ke rumah sakit dengan payung dan kerudung di tas, dan tidak ada yang menanyakan mengapa barang-barang itu ada di sana.
 
+
 ---
 
 # Bab 16 — Si Bejo
@@ -2613,7 +2642,7 @@ Itu hari Selasa. Pada hari Sabtu, aku pulang ke Pucung untuk peringatan setahun 
 
 Peringatan itu jatuh pada akhir Januari, di bawah langit yang tidak memutuskan apakah akan hujan atau cerah. Seperti tahlilan tujuh hari, seluruh dusun datang. Ada kenduri kecil di halaman, dengan nasi gurih dan ayam dan sambal goreng, dan Pak Modin memimpin doa dengan suara yang sudah lebih serak daripada setahun sebelumnya.
 
-Tamu dari luar dusun juga hadir. Pakdhe Harjo datang dengan istrinya, Budhe Painem, yang sehari-hari tinggal di Wonosari, kakak tertua Ibu, perempuan enam puluhan bertubuh besar dengan kebaya bermotif bunga dan gelang emas di kedua pergelangan.
+Tamu dari luar dusun juga hadir. Pakdhe Harjo datang dengan istrinya, Budhe Painem, yang sehari-hari tinggal di Wonosari, kakak tertua Ibu, perempuan lima puluhan bertubuh besar dengan kebaya bermotif bunga dan gelang emas di kedua pergelangan.
 
 Budhe Painem adalah orang yang percaya ia selalu benar, dan sebagian besar waktu ia memang benar, dan itu yang membuatnya sulit dihadapi.
 
@@ -2675,7 +2704,7 @@ Aku mencium tangannya. Ia menepuk punggungku dua kali, keras, seperti menepuk ka
 
 Si Bejo dijual pada awal Februari.
 
-Aku sudah tahu itu akan terjadi, sejak malam Pak Dukuh membacakan daftar nama di teras enam tahun lalu, dan Bapak menatap kandang. Dulu ia tidak melakukannya. Dulu ia menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah ia miliki yang mengenali langkahnya dari kejauhan.
+Aku sudah tahu itu akan terjadi, sejak malam kaleng biskuit dikosongkan enam tahun lalu, dan Bapak menatap kandang. Dulu ia tidak melakukannya. Dulu ia menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah ia miliki yang mengenali langkahnya dari kejauhan.
 
 "Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Jangan."
 
@@ -2715,6 +2744,7 @@ Tika masuk, membawa tas penuh fotokopi. "Kenapa semua diam?"
 
 Aku tidak menjawab. Aku menaruh sendok di mangkuk. Di benakku, dengan kejernihan yang tiba-tiba mengerikan, terbayang sebuah rumah sakit dan daftar obat yang kuminum tiap pagi, dan nama-nama obat itu, satu per satu, tentang apa yang mereka lakukan pada sistem kekebalan seorang anak yang sebentar lagi berumur delapan belas tahun.
 
+
 ---
 
 # Bab 17 — Bukit Sinyal
@@ -2725,7 +2755,7 @@ Pengumuman datang pada Senin pagi, di tengah upacara bendera yang dipotong menja
 
 Tak ada yang bersorak. Itu yang kuingat paling jelas. Dalam kesunyian dua ratus anak yang berdiri di lapangan, aku merasa seperti seluruh dunia baru saja mengambil napas dan lupa mengembuskannya.
 
-Dr. Sumarni menelepon malam itu, ke nomor Pak Hasan, dan Pak Hasan berjalan tiga ratus meter dalam gelap untuk memanggilku.
+Dokter Sumarni menelepon malam itu, ke nomor Pak Hasan, dan Pak Hasan berjalan tiga ratus meter dalam gelap untuk memanggilku.
 
 "Wulan." Suaranya kurang hangat dari biasa dan lebih jelas, seperti seseorang yang memegang pisau bedah. "Dengar baik-baik. Kamu termasuk orang dengan kekebalan yang ditekan. Penyakit ini, kalau menyerangmu, bisa jauh lebih berat daripada orang lain. Kamu tidak boleh keluar rumah kecuali perlu. Tidak ke pasar, tidak ke kerumunan. Pakai masker setiap kali. Cuci tangan. Dan kalau ada yang batuk di dekatmu, kamu menjauh."
 
@@ -2749,7 +2779,7 @@ Aku kembali ke kos Bu Haji pada Selasa untuk mengambil barang. Bu Haji menunggu 
 
 "Aku tahu semuanya." Matanya menyipit dalam senyum yang tidak kelihatan di balik kain. "Pergilah."
 
-Aku membawa kaleng biskuit kecil yang masih berbunyi, radio, payung Mbah, dan kerudung biru yang kujahit setengah. Tika pulang ke rumah orang tuanya di Pucung hari itu juga, dan kami berdua duduk berdampingan di bus yang nyaris kosong, mengenakan masker yang terlalu besar untuk wajah kami.
+Aku membawa kaleng biskuit kecil yang masih berbunyi, radio, payung Mbah, dan kerudung biru yang kuselesaikan jahitannya. Tika pulang ke rumah orang tuanya di Pucung hari itu juga, dan kami berdua duduk berdampingan di bus yang nyaris kosong, mengenakan masker yang terlalu besar untuk wajah kami.
 
 ---
 
@@ -2783,7 +2813,7 @@ Aku menoleh. Dari ketinggian itu, Pucung kelihatan kecil dan rapi seperti maket.
 
 "Kecil," kataku.
 
-"Ibu tidak pernah naik ke sini," kata Ibu. "Selama tiga puluh tahun tinggal di sini."
+"Ibu tidak pernah naik ke sini," kata Ibu. "Selama dua puluh lima tahun tinggal di sini."
 
 Aku menatapnya.
 
@@ -2825,7 +2855,7 @@ Tak ada perayaan. Ibu memasak nasi kuning kecil dan mengirimkannya ke Bukit Siny
 
 Aku menyimpan buku itu di ransel. Aku tidak memakainya untuk waktu yang lama, karena aku takut menodainya.
 
-Sore itu Dr. Sumarni menelepon.
+Sore itu dr. Sumarni menelepon.
 
 "Selamat ulang tahun, Wulan."
 
@@ -2839,13 +2869,13 @@ Sore itu Dr. Sumarni menelepon.
 
 "Saya tidak merasa."
 
-"Itu karena kamu terlalu dekat." Dr. Sumarni terdengar tersenyum. "Dari sini, kelihatan jelas."
+"Itu karena kamu terlalu dekat." Dokter Sumarni terdengar tersenyum. "Dari sini, kelihatan jelas."
 
 ---
 
 Hajatan dilarang di dusun pada tahun itu. Kenduri dikecilkan, dan Rasulan dipindahkan ke bulan yang belum ditentukan.
 
-Ujian tertulis berbasis komputer berlangsung pada awal Juli, di sebuah kampus di Yogyakarta yang berubah menjadi lautan masker dan botol cairan pembersih tangan. Aku tiba pukul enam pagi, diantar Pak Hendra dengan sepeda motornya, dengan surat dari Dr. Sumarni di tas dan masker berlapis dua di wajah. Aku diizinkan duduk di ruang terpisah, bersama dua peserta lain yang punya kondisi kesehatan serupa, dengan jarak lebih lebar dan pengawas yang mengenakan pelindung wajah.
+Ujian tertulis berbasis komputer berlangsung pada awal Juli, di sebuah kampus di Yogyakarta yang berubah menjadi lautan masker dan botol cairan pembersih tangan. Aku tiba pukul enam pagi, diantar Pak Hendra dengan sepeda motornya, dengan surat dari dr. Sumarni di tas dan masker berlapis dua di wajah. Aku diizinkan duduk di ruang terpisah, bersama dua peserta lain yang punya kondisi kesehatan serupa, dengan jarak lebih lebar dan pengawas yang mengenakan pelindung wajah.
 
 Soal-soalnya sulit. Tidak ada soal seperti soal olimpiade yang kuhafal pola penalarannya, tapi ada ratusan soal penalaran yang meminta aku berpikir dengan cara yang sama: dari nol, dari yang sudah kutahu. Aku mengerjakannya pelan, tanpa terburu-buru, dengan tangan yang tetap hangat.
 
@@ -2856,6 +2886,7 @@ Aku keluar dari ruangan pada pukul sebelas, dengan kepala berdenyut dan perut ko
 "Itu bukan nasihat."
 
 "Bukan." Ia menyalakan motor. "Itu cuma roti."
+
 
 ---
 
@@ -3051,7 +3082,7 @@ Aku menatapnya.
 
 ---
 
-Aku berangkat ke Yogya pada akhir Agustus, bersama Tika, yang diterima di sebuah akademi kebidanan di kota yang sama dan akan berbagi kos denganku, di sebuah gang sempit di utara kampus. Perkuliahan dimulai secara daring. Kami pindah karena sinyal rumah tidak cukup dan karena Dr. Sumarni menghendaki kontrolku dekat.
+Aku berangkat ke Yogya pada akhir Agustus, bersama Tika, yang diterima di sebuah akademi kebidanan di kota yang sama dan akan berbagi kos denganku, di sebuah gang sempit di utara kampus. Perkuliahan dimulai secara daring. Kami pindah karena sinyal rumah tidak cukup dan karena dr. Sumarni menghendaki kontrolku dekat.
 
 Pada hari sebelum keberangkatan, Naufal mengirim pesan dari Bandung: *Aku ke Yogya hari Sabtu, naik kereta dari Tugu ke Bandung hari Minggu. Boleh ketemu sebentar?*
 
@@ -3107,6 +3138,7 @@ Di dalam angkot menuju kos baru, aku membuka tas dan menyalakan radio kecil itu.
 
 Aku mendengarkannya sampai angkot berhenti.
 
+
 ---
 
 # Interlude II — Dusun Pucung, 2031
@@ -3140,6 +3172,7 @@ Pukul tiga, ketika Ibu keluar membawa mangkuk tiwul untuk Bapak, aku mengambil p
 Aku mematikannya. Aku mengunci layar. Aku tidak mendengarkan rekaman itu. Belum.
 
 Aku hanya menyimpannya, dengan nama yang tidak mencurigakan, di folder yang sudah penuh dengan nama-nama lain: *Ibu — dapur — Rasulan*. *Bapak — singkong.* *Tika — gelak.* *Mbah — Lir-ilir (dari kenangan)*, yang hanya berisi satu kalimat, ditulis dengan tanganku sendiri, dan tidak lagi bisa kuingat nadanya.
+
 
 ---
 
@@ -3234,7 +3267,7 @@ Aku terdiam.
 
 "Aku tidak bertanya karena ingin tahu urusanmu," kata Dr. Anindya. "Aku bertanya karena aku melihat caramu memegang pintu tadi, dan karena surat dari gurumu menyebut sesuatu soal surat dokter."
 
-Aku menarik napas. "Lupus, Bu. Sejak umur dua belas."
+Aku menarik napas. "Lupus, Bu. Sejak umur sebelas."
 
 "Ginjal?"
 
@@ -3262,7 +3295,7 @@ Ia berbalik dan masuk ke ruangannya. Aku berdiri beberapa saat dengan perasaan s
 
 Sepuluh mikroliter itu adalah musuhku selama tiga minggu.
 
-Itu satuan yang kecil, seper-seratus tetes air. Tugasku sederhana: memindahkan sepuluh mikroliter cairan merah muda dari satu tabung ke sembilan puluh enam lubang kecil di sebuah piring plastik. Aku memegang alat yang disebut pipet, setipis pena, dengan ujung plastik sekali pakai yang harus kuganti tiap kali, dan di bawah mataku, Bu Retno memperhatikan dengan kesabaran seorang guru yang pernah mengajari ratusan tangan kikuk.
+Itu satuan yang kecil, seperlima tetes air. Tugasku sederhana: memindahkan sepuluh mikroliter cairan merah muda dari satu tabung ke sembilan puluh enam lubang kecil di sebuah piring plastik. Aku memegang alat yang disebut pipet, setipis pena, dengan ujung plastik sekali pakai yang harus kuganti tiap kali, dan di bawah mataku, Bu Retno memperhatikan dengan kesabaran seorang guru yang pernah mengajari ratusan tangan kikuk.
 
 Pada percobaan pertama, aku menumpahkan separuh cairan ke meja.
 
@@ -3282,7 +3315,7 @@ Pada percobaan kesembilan, tanganku gemetar begitu hebat sehingga ujung pipet me
 
 Pak Slamet, laki-laki tua berseragam biru yang ternyata teknisi lab sejak tiga puluh tahun lalu, berdiri di belakangku dengan segelas teh. "Latihan sampai tanganmu bisa jalan tanpa mata," katanya, tanpa tersenyum. "Seperti nenek-nenek menjahit."
 
-Aku teringat kerudung biru yang kujahit setengah jadi. Aku tidak mengatakannya.
+Aku teringat jahitan miring di kerudung biru milik Mbah. Aku tidak mengatakannya.
 
 Bayu mampir tiap sore pada jam istirahat. Ia tidak menawarkan bantuan. Ia hanya duduk di kursi di dekat meja dan membaca makalah, sesekali melirik ke arahku. Pada hari kedelapan, ketika aku mematahkan ujung pipet untuk ketiga kalinya, ia menutup makalahnya dan berkata:
 
@@ -3358,6 +3391,7 @@ Esok paginya, ketika aku tiba di laboratorium dengan sepatu tertutup dan masker 
 
 Kertas itu adalah salinan sebuah makalah. Judulnya berbunyi: *In Vivo Amelioration of Age-Associated Hallmarks by Partial Reprogramming.*
 
+
 ---
 
 # Bab 20 — Delapan Sampai Sepuluh
@@ -3422,7 +3456,7 @@ Semua menoleh kepadanya. Ia mengangkat bahu, canggung.
 
 "Maaf. Cuma pikiran."
 
-Dr. Anindya menatap Bayu sebentar, lalu aku. Wajahnya yang biasanya datar tampak mengandung sesuatu yang tidak bisa kubaca.
+Dr. Anindya menatap Bayu sebentar, lalu aku. Wajahnya yang biasanya datar tampak menyimpan sesuatu yang belum ia putuskan untuk dikatakan.
 
 "Wulan," katanya. "Aku tidak akan menjanjikan apa-apa. Tapi aku punya satu proyek kecil. Sel kulit manusia yang sudah tua, ditaruh di cawan, diberi pulsa singkat. Kita lihat apa yang terjadi. Kamu mau ikut?"
 
@@ -3436,9 +3470,9 @@ Dr. Anindya menatap Bayu sebentar, lalu aku. Wajahnya yang biasanya datar tampak
 
 ---
 
-Dr. Suryo Hadi, dokter ginjal baruku, menerimaku pada Selasa pagi di sebuah ruangan yang bau obat dan kopi dan kertas lama.
+Dokter Suryo Hadi, dokter ginjal baruku, menerimaku pada Selasa pagi di sebuah ruangan yang bau obat dan kopi dan kertas lama.
 
-Ia berusia lima puluhan, dengan kumis tebal dan tangan besar, dan ia berbicara dengan nada seperti orang menjelaskan hal sederhana kepada anak yang tak perlu dibohongi. Dr. Sumarni sudah menyerahkan berkas-berkasku tahun lalu, dan di atas mejanya ada map tebal yang kukenal: seluruh hasil lab sejak umur dua belas, dirapikan, diberi indeks.
+Ia berusia lima puluhan, dengan kumis tebal dan tangan besar, dan ia berbicara dengan nada seperti orang menjelaskan hal sederhana kepada anak yang tak perlu dibohongi. Dokter Sumarni sudah menyerahkan berkas-berkasku beberapa bulan lalu, dan di atas mejanya ada map tebal yang kukenal: seluruh hasil lab sejak umur sebelas, dirapikan, diberi indeks.
 
 "Kamu mahasiswa biologi," katanya.
 
@@ -3456,9 +3490,9 @@ Ia memutar layar komputernya. Di layar, ada sebuah grafik dengan garis berwarna 
 
 "Berapa konsisten?"
 
-"Tiga sampai empat poin per tahun."
+"Empat sampai lima poin per tahun."
 
-Aku menghitung. Aku tidak sengaja. Itu terjadi seperti refleks, seperti menghitung ubin plafon. Lima puluh delapan, dikurangi tiga atau empat tiap tahun. Lima puluh empat. Lima puluh. Empat puluh enam. Aku menghitung sampai angka lima belas.
+Aku menghitung. Aku tidak sengaja. Itu terjadi seperti refleks, seperti menghitung ubin plafon. Lima puluh delapan, dikurangi empat atau lima tiap tahun. Lima puluh tiga. Empat puluh delapan. Empat puluh tiga. Aku menghitung sampai angka lima belas.
 
 "Dok," kataku.
 
@@ -3466,7 +3500,7 @@ Aku menghitung. Aku tidak sengaja. Itu terjadi seperti refleks, seperti menghitu
 
 "Kalau tren ini..."
 
-"Kalau tren ini berlanjut tanpa perubahan, dan itu 'kalau' yang besar." Dr. Suryo menutup map. "Kalau tidak ada serangan baru, kalau obat tetap bekerja, kalau tekanan darahmu terkendali, banyak 'kalau.' Maka dalam delapan sampai sepuluh tahun, kamu akan mendekati gagal ginjal tahap akhir. Cuci darah atau cangkok ginjal."
+"Kalau tren ini berlanjut tanpa perubahan, dan itu 'kalau' yang besar." Dokter Suryo menutup map. "Kalau tidak ada serangan baru, kalau obat tetap bekerja, kalau tekanan darahmu terkendali, banyak 'kalau.' Maka dalam delapan sampai sepuluh tahun, kamu akan mendekati gagal ginjal tahap akhir. Cuci darah atau cangkok ginjal."
 
 Ruangan itu sunyi.
 
@@ -3476,9 +3510,9 @@ Ruangan itu sunyi.
 
 "Ya."
 
-"Umur saya dua puluh tujuh. Dua puluh sembilan."
+"Umur saya dua puluh enam. Dua puluh delapan."
 
-"Kira-kira." Dr. Suryo menatapku, dan di wajahnya yang besar dan kasar ada sesuatu yang lembut. "Wulan. Kamu pasien yang pintar. Aku tidak mau menakutimu. Aku mau kamu tahu karena kamu berhak tahu. Dan karena orang yang tahu bisa merencanakan."
+"Kira-kira." Dokter Suryo menatapku, dan di wajahnya yang besar dan kasar ada sesuatu yang lembut. "Wulan. Kamu pasien yang pintar. Aku tidak mau menakutimu. Aku mau kamu tahu karena kamu berhak tahu. Dan karena orang yang tahu bisa merencanakan."
 
 Aku mengangguk. Aku menahan sesuatu yang naik ke tenggorokanku dan tidak mau turun.
 
@@ -3488,7 +3522,7 @@ Aku mengangguk. Aku menahan sesuatu yang naik ke tenggorokanku dan tidak mau tur
 
 "Satu." Aku menelan ludah. "Parut di ginjal itu. Yang tidak bisa pulih. Apakah suatu hari nanti... ada yang bisa memulihkannya?"
 
-Dr. Suryo diam cukup lama. "Kalau kamu tanya aku sekarang," katanya, "jawabannya tidak ada. Tapi aku sudah menjadi dokter cukup lama untuk tahu bahwa jawaban 'tidak ada' sering hanya berarti 'belum ada.'"
+Dokter Suryo diam cukup lama. "Kalau kamu tanya aku sekarang," katanya, "jawabannya tidak ada. Tapi aku sudah menjadi dokter cukup lama untuk tahu bahwa jawaban 'tidak ada' sering hanya berarti 'belum ada.'"
 
 Aku tersenyum, kecil. Kupikir itu lelucon. Ternyata bukan.
 
@@ -3498,7 +3532,7 @@ Aku tidak langsung pulang. Aku berjalan menyusuri jalan besar di depan rumah sak
 
 Tujuh tahun yang lalu, seorang perawat bernama Nurul merobek selembar kertas dan menggambar kolom-kolom. Kini aku, delapan belas tahun lebih beberapa bulan, duduk di sebuah halte dan menulis angka-angka di bawah baris-baris yang sudah penuh.
 
-*8–10 tahun. 2029–2031.*
+*8–10 tahun. 2028–2030. Tengahnya: 2029.*
 
 Aku menatapnya. Aku menulis ulang, dengan huruf yang lebih besar, seakan jumlah yang dipertegas bisa berubah.
 
@@ -3529,6 +3563,7 @@ Dan di bawahnya, lebih kecil:
 *Sebelum 2029.*
 
 Aku menutup buku. Di luar jendela, matahari sore menyiram atap-atap kota dengan warna jingga. Aku mengambil teh dari Bayu, dan meminumnya, dan itu sedikit terlalu manis.
+
 
 ---
 
@@ -3692,6 +3727,7 @@ Aku mengeluarkan buku catatan biru muda pemberian Tika, yang belum pernah kupaka
 
 Aku menatap kalimat itu lama. Kemudian, perlahan, aku tersenyum.
 
+
 ---
 
 # Bab 22 — Bibit, Bebet, Bobot
@@ -3758,7 +3794,7 @@ Kami berangkat naik kereta lokal pagi-pagi pada hari Sabtu, aku dengan kebaya bi
 
 "Itu ukuran paling besar yang ada!"
 
-Rumah keluarga Bayu di Klaten adalah rumah joglo tua, dengan pendopo luas dan halaman penuh bunga melati dan sebuah tenda putih besar dengan deretan kursi. Gamelan dimainkan di pojok, pelan, dengan irama yang membuat dada terasa lapang. Di pintu masuk, dua gadis kecil berkebaya membagikan tisu dan pandang yang ramah.
+Rumah keluarga Bayu di Klaten adalah rumah joglo tua, dengan pendopo luas dan halaman penuh bunga melati dan sebuah tenda putih besar dengan deretan kursi. Gamelan dimainkan di pojok, pelan, dengan irama yang membuat dada terasa lapang. Di pintu masuk, dua gadis kecil berkebaya membagikan tisu dan senyum.
 
 Bayu menunggu kami di pagar. Ia mengenakan beskap hitam dan blangkon, dan aku nyaris tidak mengenalinya. Ia tampak lebih tinggi, lebih dewasa, dan sedikit canggung, seperti orang yang berpakaian dengan bagian dirinya yang lain.
 
@@ -3828,7 +3864,7 @@ Aku menarik napas. Aku sudah menjelaskan hal ini ratusan kali, dengan berbagai c
 
 "Seberapa sering?"
 
-"Tidak tentu. Saya kambuh dua kali. Satu waktu saya dua belas, satu waktu enam belas. Sekarang terkendali."
+"Tidak tentu. Saya kambuh dua kali. Satu waktu saya sebelas, satu waktu enam belas. Sekarang terkendali."
 
 "Syukurlah." Bu Wahyuni mengangguk pelan, dan di wajahnya ada sesuatu yang bergerak, bukan kejahatan, bukan kebencian, hanya semacam perhitungan yang tidak ingin diakui. "Dan kalau nanti... kalau nanti kamu menikah, Nduk. Kalau punya anak. Kata orang, yang seperti itu sulit."
 
@@ -3953,6 +3989,7 @@ Aku mengepalkan tanganku di bawah meja, kuku menekan telapak. Aku tidak menoleh.
 Malam itu, di kamar kos, aku menyalakan radio kecil dari Mas Aji, dengan antena dari Naufal, dan memutar tombolnya pelan sekali, sampai kutemukan sebuah suara yang lemah dan jauh. Aku mendengarkannya sampai pagi, tanpa menangis, hanya duduk di dalam gelap dengan buku catatan terbuka di pangkuanku, dan menulis di halaman yang kosong, dengan pensil:
 
 *Yang pertama pergi sendiri. Yang ini aku yang memilih.*
+
 
 ---
 
@@ -4138,9 +4175,9 @@ Tidak sedikit berbeda. Sangat berbeda.
 
 Cawan nomor delapan puluh tujuh, dari serangkaian eksperimen yang kupikir sudah gagal dan kututup tiga bulan lalu, memperlihatkan sel-sel yang tiga puluh satu persen lebih sedikit berwarna biru daripada kontrolnya. Di cawan sebelahnya, yang diberi perlakuan hampir sama, perbedaannya nol.
 
-Aku menatap angka itu. Aku membuka kembali catatan harianku. Aku mencari nomor delapan puluh tujuh. Pulsa pada hari Selasa dan Rabu, dua hari. Jeda lima hari. Pulsa lagi. Aku mencatat sesuatu yang kini kuingat dengan jelas: pada minggu ketiga, ketika aku sakit flu dan terlambat memberikan pulsa kedua, aku menggesernya dari hari Selasa ke hari Kamis.
+Aku menatap angka itu. Aku membuka kembali catatan harianku. Aku mencari nomor delapan puluh tujuh. Pulsa pada hari Selasa dan Rabu, dua hari. Jeda lima hari. Pulsa lagi. Aku mencatat sesuatu yang kini kuingat dengan jelas: pada minggu ketiga, ketika aku sakit flu dan terlambat memberikan pulsa kedua, aku menggesernya dari hari Selasa ke hari Sabtu.
 
-Satu kesalahan. Dua hari.
+Satu kesalahan. Empat hari.
 
 Dan pada cawan itu, kesalahan itu telah menciptakan sesuatu yang tidak pernah kami rencanakan.
 
@@ -4151,6 +4188,7 @@ Aku duduk. Jantungku berdebar sampai terasa di tenggorokan. Aku mengulang hitung
 Aku menutup buku catatanku dan membukanya lagi. Aku tidak berani menelepon siapa pun. Aku tidak berani menyebutnya keras-keras, seakan kalimat itu bisa pecah di udara dan hilang.
 
 Di luar jendela, beringin kampus bergoyang pelan dalam angin malam.
+
 
 ---
 
@@ -4192,7 +4230,7 @@ Dr. Anindya mengangguk perlahan.
 
 Menulis makalah ternyata lebih sulit daripada menemukan sesuatu.
 
-Kami menulis selama lima bulan. Setiap kalimat diperdebatkan: apakah ini terlalu kuat, terlalu lemah, terlalu berani. Dr. Anindya menghapus tiga kata dari tiap kalimat yang kutulis, dan menggantinya dengan satu yang lebih tepat. Bu Retno menyusun grafik, dan menggambar ulang empat belas kali. Bayu menulis metode dengan ketelitian orang yang tidak mau dituduh menyembunyikan apa pun. Dan aku menulis hasil, bagian yang tidak boleh ada kata sifatnya.
+Kami menulis selama tiga bulan. Setiap kalimat diperdebatkan: apakah ini terlalu kuat, terlalu lemah, terlalu berani. Dr. Anindya menghapus tiga kata dari tiap kalimat yang kutulis, dan menggantinya dengan satu yang lebih tepat. Bu Retno menyusun grafik, dan menggambar ulang empat belas kali. Bayu menulis metode dengan ketelitian orang yang tidak mau dituduh menyembunyikan apa pun. Dan aku menulis hasil, bagian yang tidak boleh ada kata sifatnya.
 
 "Siapa penulis pertama?" tanya Bu Retno, di suatu rapat.
 
@@ -4244,7 +4282,7 @@ Mereka menyebutnya *reset*. Sistem kekebalan yang dimulai ulang.
 
 Aku membaca sampai fajar. Tidak semua kalimat kupahami. Tetapi aku memahami bentuknya: seseorang, di suatu tempat, sudah membuktikan bahwa tubuh bisa diajari ulang. Bahwa pertanyaan kedua di buku catatanku, yang kutulis dengan ragu di bawah lampu minyak sepuluh tahun lalu, punya jawaban. Mungkin tidak sempurna. Mungkin mahal dan berisiko dan hanya untuk beberapa orang. Tetapi ada.
 
-Aku menelepon Dr. Suryo pada pukul delapan pagi.
+Aku menelepon dr. Suryo pada pukul delapan pagi.
 
 "Wulan." Suaranya serak dan hangat. "Aku sudah baca. Pasienku yang lain mengirimkannya padaku semalam."
 
@@ -4276,7 +4314,7 @@ Aku menulis kedua kata itu di buku catatan, dan menggaris bawahi yang kedua.
 
 ---
 
-Makalah kami diterima pada hari Rabu di bulan Maret 2024, lewat sebuah surel tiga baris yang dingin dan sopan. Aku membacanya di mejaku dan tidak merasakan apa pun selama sepuluh detik. Lalu seluruh tubuhku bergetar.
+Makalah kami diterima pada hari Rabu di bulan Mei 2024, lewat sebuah surel tiga baris yang dingin dan sopan. Aku membacanya di mejaku dan tidak merasakan apa pun selama sepuluh detik. Lalu seluruh tubuhku bergetar.
 
 Bu Retno berdiri dari kursinya dan memelukku. Bayu bertepuk tangan sekali dari seberang ruangan, pelan, lalu berhenti dengan malu. Pak Slamet menyodorkan segelas teh dan berkata, "Nah."
 
@@ -4296,7 +4334,7 @@ Aku menelepon Ibu dari tangga gedung biologi, lewat telepon Pak Hasan yang masih
 
 "Nomor dua." Ibu terdiam. "Nomor satu siapa?"
 
-"Mbak Retno, Bu. Dia senior."
+"Bu Retno, Bu. Dia senior."
 
 "Oh." Jeda. "Nomor dua itu bagus?"
 
@@ -4334,7 +4372,7 @@ Aku menyerahkan delapan halaman itu lewat jendela apotek. Mbak Nurul memegangnya
 
 Ia membaca judulnya. Ia membaca nama-nama penulis. Ia berhenti pada nama kedua. Lalu, pelan, ia membalik ke halaman terakhir, bagian ucapan terima kasih yang kutulis dua malam sebelumnya, dan kutulis ulang tiga kali karena aku tidak bisa menemukan kata-kata yang benar.
 
-*Kepada Nurul, perawat di Puskesmas Wonosari, yang pada Oktober 2013 menyobek selembar kertas dari buku catatannya dan menggambar empat kolom: TANGGAL. KELUHAN. DEMAM? OBAT. Tanpa kertas itu, penulis mungkin tidak berada di sini.*
+*Kepada Nurul, perawat di Puskesmas Wonosari, yang pada September 2013 menyobek selembar kertas dari buku catatannya dan menggambar empat kolom: TANGGAL. KELUHAN. DEMAM? OBAT. Tanpa kertas itu, penulis mungkin tidak berada di sini.*
 
 Mbak Nurul membacanya. Ia membacanya lagi. Wajahnya berubah, perlahan, dari bingung menjadi sesuatu yang lain.
 
@@ -4397,6 +4435,7 @@ Ia menatapku sebentar, dan di sela-sela gurauan dan kerumunan dan suara orang be
 "Siapa?"
 
 "Seorang kenalan di Inggris. Aku sudah menulis padanya." Ia menepuk bahuku sekali. "Tapi kamu yang harus melakukan sisanya."
+
 
 ---
 
@@ -4470,7 +4509,7 @@ Layar menjadi hitam. Aku duduk di mejaku dengan tangan membeku di atas papan ket
 
 "Aku tidak tahu."
 
-Dr. Anindya muncul dari ruangannya, menyandarkan bahunya pada kusen pintu, dan menatapku dengan wajah yang tak terbaca.
+Dr. Anindya muncul dari ruangannya, menyandarkan bahunya pada kusen pintu, dan menatapku tanpa mengatakan apa pun.
 
 "Kamu dapat tawaran?"
 
@@ -4542,7 +4581,7 @@ Aku menatap angka itu. Tidak ada yang kurasakan. Lalu aku mulai tertawa. Lalu ak
 
 "Tujuh koma nol."
 
-Tika melompat dari kasur dan memelukku, dan kami berguling di lantai kamar kos yang dingin sampai Bu Haji, yang kini tinggal di lantai satu dan mendengar semuanya, mengetuk dinding dengan sapu.
+Tika melompat dari kasur dan memelukku, dan kami berguling di lantai kamar kos yang dingin sampai ibu kos, yang tinggal di lantai satu dan mendengar semuanya, mengetuk langit-langit dengan gagang sapu.
 
 ---
 
@@ -4698,6 +4737,7 @@ Ibu menatap koin itu, lalu aku, dan dengan satu gerakan lembut, ia menutup jemar
 
 Aku memasukkan koin itu ke dalam dompet kecil di saku jaketku. Bus datang. Aku naik, dan dari jendela, aku melihat seluruh dusun berdiri di tepi jalan, dengan tangan melambai, dan di barisan paling depan Ibu dan Bapak, dan Ibu, yang tidak mengangkat tangan, hanya menyilangkan kedua tangannya di dada dan menatapku dengan wajah yang mulai kukenal lebih baik daripada wajahku sendiri.
 
+
 ---
 
 # Bab 26 — Dingin yang Pertama
@@ -4774,7 +4814,7 @@ Aku tidak bisa menjawab. Aku hanya mengangguk dan meminum teh susu yang terlalu 
 
 Minggu pertamaku di Cambridge terdiri dari daftar yang harus kuselesaikan dengan urutan yang tak masuk akal.
 
-Mendaftar ke seorang dokter umum. Itu tidak seperti yang kubayangkan. Aku tidak langsung diperiksa. Aku mengisi formulir, menyerahkan surat dari Dr. Suryo, yang dengan hati-hati kujaga dalam map plastik sepanjang perjalanan, dan menyatakan bahwa aku butuh dirujuk ke dokter reumatologi dan ginjal secepatnya. Resepsionis, seorang perempuan paruh baya bernama Margaret dengan kacamata berbingkai merah, membaca suratnya tiga kali dan menatapku.
+Mendaftar ke seorang dokter umum. Itu tidak seperti yang kubayangkan. Aku tidak langsung diperiksa. Aku mengisi formulir, menyerahkan surat dari dr. Suryo, yang dengan hati-hati kujaga dalam map plastik sepanjang perjalanan, dan menyatakan bahwa aku butuh dirujuk ke dokter reumatologi dan ginjal secepatnya. Resepsionis, seorang perempuan paruh baya bernama Margaret dengan kacamata berbingkai merah, membaca suratnya tiga kali dan menatapku.
 
 "You have lupus nephritis," katanya.
 
@@ -4786,9 +4826,9 @@ Mendaftar ke seorang dokter umum. Itu tidak seperti yang kubayangkan. Aku tidak 
 
 "All of them?"
 
-"Since I was twelve. In a notebook." Aku menyodorkan buku catatan, buku catatan pertama, dengan sampul yang sudah lengket.
+"Since I was eleven. In a notebook." Aku menyodorkan buku catatan, buku catatan pertama, dengan sampul yang sudah lengket.
 
-Margaret membukanya. Ia membalik beberapa halaman, berhenti pada kolom-kolom tulisan tangan anak berumur dua belas tahun, dan wajahnya yang tadinya birokratis berubah.
+Margaret membukanya. Ia membalik beberapa halaman, berhenti pada kolom-kolom tulisan tangan anak berumur sebelas tahun, dan wajahnya yang tadinya birokratis berubah.
 
 "I'll ask the doctor to see you this week," katanya. "No one brings me this. Ever."
 
@@ -4894,6 +4934,7 @@ Aku menatap angka itu lama.
 
 Dua ribu dua puluh sembilan. Tahun yang kuhitung sendirian di dalam gelap sejak umur delapan belas. Tahun yang kutulis di buku catatan dengan huruf besar, dengan satu kata: *JAM.* Aku membacanya di layar yang bukan milikku, di dalam dokumen seorang laki-laki yang tak pernah kutemui sebelum hari ini, dan merasa seperti melihat namaku ditulis oleh orang lain, di tempat yang tak pernah kuduga.
 
+
 ---
 
 # Interlude III — Yogyakarta, 2031
@@ -4911,6 +4952,12 @@ Di jendela, bayanganku tampak samar di antara kaca dan malam: seorang perempuan 
 Aku menekan layar sampai mati.
 
 Pesan itu tidak kubalas. Ia masih ada di sana, di antara pesan-pesan lain yang belum kubalas, di antara angka-angka yang kuhitung tiap pagi tanpa perlu kucatat.
+
+
+---
+
+# Babak III — Formula (2026–2031)
+
 
 ---
 
@@ -4932,7 +4979,7 @@ Pada hari Lebaran, hujan turun tanpa jeda sejak subuh. Aku shalat Id di sebuah r
 
 "Sama." Ia tersenyum, dan matanya agak merah. "Ayo. Kutraktir kopi."
 
-Aku menelepon Ibu pukul tiga sore, ketika di Pucung sudah pukul sembilan malam dan seluruh dusun sedang bersilaturahmi. Telepon itu tersambung lewat nomor Ardi, yang sekarang punya ponsel sendiri.
+Aku menelepon Ibu pukul sepuluh pagi, ketika di Pucung sudah pukul lima sore dan seluruh dusun sedang bersilaturahmi. Telepon itu tersambung lewat nomor Ardi, yang sekarang punya ponsel sendiri.
 
 "Nduk." Suara Ibu serak. Di belakangnya ada keramaian, tawa anak-anak, suara orang-orang dewasa berbicara dalam Jawa.
 
@@ -5099,6 +5146,7 @@ Dan di bawahnya, kecil, seperti sebuah doa:
 *Tiga setengah tahun.*
 
 Aku menutup buku. Radio kecil di meja berdesis pelan, sendiri, seperti seseorang yang berbicara di kamar sebelah dalam bahasa yang tak bisa kupahami. Aku tidak mematikannya.
+
 
 ---
 
@@ -5293,6 +5341,7 @@ Kami duduk di bawah pohon willow dan makan tempe yang digoreng di dapur mahasisw
 "Kerupuk melempem adalah makanan para dewa." Rizal mengunyah dengan serius. "Kamu hanya belum cukup tua untuk mengerti."
 
 Aku tertawa, dan tawa itu terasa ringan, dan untuk satu sore, di tepi sungai asing di bawah pohon willow, aku lupa menghitung.
+
 
 ---
 
@@ -5494,7 +5543,7 @@ Aku merasa dingin menjalar dari tengkuk ke punggung.
 
 "Do you?"
 
-"My grandmother died of a fall. My friend died of an infection." Aku bicara perlahan. "My kidney will fail in about three years. I know exactly what delay costs, Julian. That's why I won't do this."
+"My grandmother died of a fall. My friend died of an infection." Aku bicara perlahan. "My kidney will fail in about two years. I know exactly what delay costs, Julian. That's why I won't do this."
 
 Ia terdiam. Di wajahnya, sesuatu bergerak, bukan marah, bukan kecewa, tetapi sesuatu yang lebih mirip pengakuan bahwa ia sedang menatap seseorang yang tidak akan ia ubah.
 
@@ -5565,6 +5614,7 @@ Aku tidak menjawab selama beberapa saat.
 "I'll try," kataku.
 
 Itu bukan janji. Kami berdua tahu itu.
+
 
 ---
 
@@ -5650,7 +5700,7 @@ Tidak ada massa. Tidak di perut, tidak di dada, tidak di kaki, tidak di leher.
 
 "Tumor-free."
 
-"At twenty weeks."
+"At fifteen weeks."
 
 Aku tidak merasa gembira. Aku merasa hampa dan sangat ringan, seperti orang yang baru saja menurunkan beban yang ia bawa terlalu lama. Aku duduk di kursi di ruang hewan dan menutup mataku.
 
@@ -5768,6 +5818,7 @@ Aku menerima kotak itu dengan dua tangan. Ia berat, dingin, dan berdesis pelan d
 
 "Good." Ia berbalik. "Go home."
 
+
 ---
 
 # Bab 31 — Dokter Wulan
@@ -5852,7 +5903,7 @@ Dr. Anindya mengambil kotak itu, membaca surat perjanjian pemindahan bahan yang 
 
 Aku tidak menjawab.
 
-"Wulan." Dr. Anindya meletakkan tangannya di tutup kotak. "Aku tidak bodoh. Aku tahu angka yang kamu simpan sejak umur sembilan belas. Aku melihatmu mengintip hasil laboratoriummu di tangga setiap kali selesai kontrol." Ia terdiam. "Aku hanya ingin kamu tahu. Kalau ada sesuatu yang kamu pikirkan, sesuatu yang bodoh, kamu bilang padaku dulu."
+"Wulan." Dr. Anindya meletakkan tangannya di tutup kotak. "Aku tidak bodoh. Aku tahu angka yang kamu simpan sejak umur delapan belas. Aku melihatmu mengintip hasil laboratoriummu di tangga setiap kali selesai kontrol." Ia terdiam. "Aku hanya ingin kamu tahu. Kalau ada sesuatu yang kamu pikirkan, sesuatu yang bodoh, kamu bilang padaku dulu."
 
 "Tidak ada, Bu."
 
@@ -5884,11 +5935,11 @@ Aku menatapnya sebentar. Kemudian aku berdiri, mencuci tangan, mengambil buku ca
 
 *Rabu. Urin berbuih? YA.*
 
-Aku tidak menunggu esok. Aku menelepon Dr. Suryo.
+Aku tidak menunggu esok. Aku menelepon dr. Suryo.
 
 ---
 
-Hasil laboratoriumku keluar sore itu, dan Dr. Suryo, yang kini beruban tapi masih berkumis tebal, membacanya dengan wajah yang tidak bisa kubaca, dan itu cara terburuk dokter membacanya.
+Hasil laboratoriumku keluar sore itu, dan dr. Suryo, yang kini beruban tapi masih berkumis tebal, membacanya dengan wajah yang tidak bisa kubaca, dan itu cara terburuk dokter membacanya.
 
 "Laju filtrasi dua puluh dua," katanya.
 
@@ -5918,7 +5969,7 @@ Aku tersenyum. Aku tidak tahu mengapa. Mungkin karena aku sudah menghitung angka
 
 "Aku menghitungnya sejak 2020. Anda yang bilang delapan sampai sepuluh."
 
-"Aku tahu." Dr. Suryo menutup map. "Aku berharap salah."
+"Aku tahu." Dokter Suryo menutup map. "Aku berharap salah."
 
 ---
 
@@ -5926,7 +5977,7 @@ Pengobatan tidak berhasil.
 
 Aku dirawat di rumah sakit yang sama, di bangsal dewasa, dengan Ibu yang tidur di kursi di sebelah ranjangku, mengenakan kebaya yang sama, dengan wajah yang berubah dari hari ke hari, dari khawatir menjadi sesuatu yang lebih tua dan lebih tenang. Aku mendapat infus steroid tiga hari. Aku mendapat obat yang lebih keras. Rambutku rontok lagi, dan kali ini aku tidak menangis. Ibu duduk di tepi ranjang dan menyisir rambutku yang tersisa dengan jari, pelan-pelan, tanpa berkata apa-apa.
 
-Pada hari kesepuluh, pagi-pagi, Dr. Suryo masuk membawa hasil. Ia duduk di kursi di sisi ranjang. Ia menatap Ibu, lalu aku.
+Pada hari kesepuluh, pagi-pagi, dr. Suryo masuk membawa hasil. Ia duduk di kursi di sisi ranjang. Ia menatap Ibu, lalu aku.
 
 "Kalium dalam darah naik," katanya. "Ginjal tidak membuangnya. Itu berbahaya. Jantung bisa terpengaruh." Ia berhenti. "Laju filtrasinya sepuluh. Kita harus mulai cuci darah. Hari ini."
 
@@ -5934,7 +5985,7 @@ Ibu menggenggam jemariku sampai sakit.
 
 "Hari ini?" kataku.
 
-"Hari ini. Sebelum siang." Dr. Suryo mengulurkan tangan, dan aku melihat ia ragu sejenak, lalu menepuk bahuku, singkat. "Maafkan aku, Wulan."
+"Hari ini. Sebelum siang." Dokter Suryo mengulurkan tangan, dan aku melihat ia ragu sejenak, lalu menepuk bahuku, singkat. "Maafkan aku, Wulan."
 
 "Bukan salah Dokter."
 
@@ -6032,7 +6083,7 @@ Aku merasa sesuatu pecah di dalam dadaku, sesuatu yang telah menahan selama enam
 
 Ia menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
 
-Dr. Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Aji, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
+Dokter Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Aji, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
 
 "Kamu kuliah," kataku. "Kamu masih harus kuliah."
 
@@ -6042,7 +6093,7 @@ Dr. Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolo
 
 Ibu yang terakhir.
 
-Hasil Ibu keluar pada hari Jumat. Dr. Suryo memanggil kami berdua ke ruangannya, menutup pintu, dan berbicara dengan nada paling hati-hati yang pernah kudengar darinya.
+Hasil Ibu keluar pada hari Jumat. Dokter Suryo memanggil kami berdua ke ruangannya, menutup pintu, dan berbicara dengan nada paling hati-hati yang pernah kudengar darinya.
 
 "Ibu Sumiati. Hasil Anda baik. Golongan darah cocok. Tapi fungsi ginjal Anda enam puluh delapan. Tekanan darah Anda borderline. Anda berumur lima puluh tiga, dan hampir seluruh hidup Anda bekerja di bawah matahari dengan sedikit minum." Ia menatap Ibu dengan lembut. "Untuk seorang donor, angka itu terlalu rendah. Risikonya terlalu tinggi bagi Anda."
 
@@ -6052,7 +6103,7 @@ Ibu menatapnya. "Tapi saya masih punya dua."
 
 "Dok..."
 
-"Kami tidak bisa, Bu." Dr. Suryo menunduk. "Maafkan kami."
+"Kami tidak bisa, Bu." Dokter Suryo menunduk. "Maafkan kami."
 
 Ibu menunduk. Ia duduk diam lama sekali, dengan kedua tangan di pangkuan, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika ia menengadah, wajahnya sama sekali kering.
 
@@ -6062,7 +6113,7 @@ Ibu menunduk. Ia duduk diam lama sekali, dengan kedua tangan di pangkuan, dan ak
 
 "Berapa lama?"
 
-Dr. Suryo tidak menjawab dengan cepat. "Di Indonesia, itu bisa bertahun-tahun, Bu. Banyak yang tidak sempat."
+Dokter Suryo tidak menjawab dengan cepat. "Di Indonesia, itu bisa bertahun-tahun, Bu. Banyak yang tidak sempat."
 
 Ibu mengangguk.
 
@@ -6076,6 +6127,7 @@ Aku membuka halaman kosong. Aku menulis sebuah judul dengan pensil.
 
 Di bawahnya, satu per satu, aku menuliskan semua yang kutahu.
 
+
 ---
 
 # Bab 32 — Daftar Risiko
@@ -6088,7 +6140,7 @@ Ibu yang membelinya, di pasar Wonosari, pada hari kedua setelah aku keluar dari 
 
 "Itu enam ratus, Bu. Itu cuma air minum. Kuah, teh, buah, semuanya dihitung."
 
-"Ibu tahu. Dr. Suryo yang bilang." Ibu menuang air ke gelas itu sampai garis. "Ibu catat. Di kertas."
+"Ibu tahu. Dokter Suryo yang bilang." Ibu menuang air ke gelas itu sampai garis. "Ibu catat. Di kertas."
 
 Ia memang mencatat. Di kertas yang digantung di dinding dapur dengan paku, dengan pensil yang tertambat benang, ia menulis tiap gelas yang kuminum, tiap mangkuk sup, tiap potong semangka. Aku belum pernah melihat Ibu menulis sebanyak itu. Huruf-hurufnya besar dan miring dan sedikit tidak rata, seperti anak yang baru belajar. Tapi ia tidak pernah salah hitung.
 
@@ -6114,7 +6166,7 @@ Aku menatap angka itu setiap malam.
 
 Aku mulai menulis daftar itu pada malam keempat sejak keluar dari rumah sakit.
 
-*DAFTAR RISIKO.* Aku sudah menuliskan judul itu di rumah sakit, dengan pensil, di halaman kosong buku catatanku. Sekarang aku mengisinya. Pelan. Satu per satu. Dengan kejujuran yang kuperoleh dari Dr. Sumarni dan Prof. Whitcombe dan Dr. Anindya dan Pak Hendra dan semua orang yang pernah mengajariku bahwa menyembunyikan angka adalah cara paling cepat membuat diri sendiri celaka.
+*DAFTAR RISIKO.* Aku sudah menuliskan judul itu di rumah sakit, dengan pensil, di halaman kosong buku catatanku. Sekarang aku mengisinya. Pelan. Satu per satu. Dengan kejujuran yang kuperoleh dari dr. Sumarni dan Prof. Whitcombe dan Dr. Anindya dan Pak Hendra dan semua orang yang pernah mengajariku bahwa menyembunyikan angka adalah cara paling cepat membuat diri sendiri celaka.
 
 *1. Tumor.*
 
@@ -6134,7 +6186,7 @@ Sistem pembunuh alami yang kami rancang untuk mengenali sel tanpa tanda aku, di 
 
 *3. Efek jangka panjang.*
 
-Tak ada data. Dua puluh minggu adalah segalanya yang kita punya.
+Tak ada data. Lima belas minggu adalah segalanya yang kita punya.
 
 *4. Otak.*
 
@@ -6150,7 +6202,7 @@ Aku menulis kata itu dengan huruf yang lebih kecil. Tidak ada izin etik. Tidak a
 
 *6. Dan kalau aku tidak melakukannya?*
 
-Aku menulis angka-angka di sisi kiri halaman, bukan di sisi kanan. Dialisis seumur hidup. Daftar tunggu donor jenazah di Indonesia. Dr. Suryo sudah mengatakannya: bertahun-tahun, dan banyak yang tidak sempat. Kematian pada pasien dialisis muda dengan lupus bukanlah sesuatu yang dibahas dalam brosur rumah sakit, tapi aku membaca makalahnya di perpustakaan daring pada pukul tiga pagi, dan angkanya tidak membuatku tidur.
+Aku menulis angka-angka di sisi kiri halaman, bukan di sisi kanan. Dialisis seumur hidup. Daftar tunggu donor jenazah di Indonesia. Dokter Suryo sudah mengatakannya: bertahun-tahun, dan banyak yang tidak sempat. Kematian pada pasien dialisis muda dengan lupus bukanlah sesuatu yang dibahas dalam brosur rumah sakit, tapi aku membaca makalahnya di perpustakaan daring pada pukul tiga pagi, dan angkanya tidak membuatku tidur.
 
 Aku menatap dua sisi halaman itu. Di antara keduanya, sebuah garis lurus yang kutarik sendiri.
 
@@ -6162,7 +6214,7 @@ Pada malam kelima, aku melakukan sesuatu yang tidak pernah kubayangkan akan kula
 
 Namanya Barry Marshall. Seorang dokter muda di Australia pada tahun 1984, yang yakin sekali bahwa bakteri tertentu menyebabkan tukak lambung, dan yang tidak seorang pun mempercayainya. Ia tidak punya izin untuk mengujinya pada manusia. Maka ia mengambil biakan bakteri itu, mencampurnya ke dalam kaldu daging, dan meminumnya.
 
-Tiga hari kemudian ia muntah. Dua minggu kemudian, pemeriksaan menemukan bahwa lambungnya terinfeksi. Ia mengobati dirinya sendiri dan sembuh. Dua puluh satu tahun kemudian, ia menerima Hadiah Nobel.
+Beberapa hari kemudian ia muntah. Dua minggu kemudian, pemeriksaan menemukan bahwa lambungnya terinfeksi. Ia mengobati dirinya sendiri dan sembuh. Dua puluh satu tahun kemudian, ia menerima Hadiah Nobel.
 
 Aku membaca halaman itu dua kali, lalu menutup laptop.
 
@@ -6280,6 +6332,7 @@ Lalu, dengan suara yang sangat pelan, aku mengatakan keputusan itu keras-keras, 
 
 "Besok."
 
+
 ---
 
 # Bab 33 — Malam Minggu
@@ -6326,11 +6379,7 @@ Ketika aku mengangkat kepala, hujan di jendela sudah berhenti.
 
 ---
 
-Aku tidak akan menjelaskan di sini bagaimana persiapannya.
-
-Itu bukan karena aku lupa. Aku ingat setiap langkahnya dengan jelas, karena aku telah melakukannya seribu kali dalam enam tahun di meja-meja yang lain, dengan tikus-tikus yang kuberi nomor dan tidak kuberi nama, di bawah lampu yang sama. Aku hanya tidak ingin langkah-langkah itu ditulis sebagai petunjuk bagi siapa pun yang tidak punya enam tahun itu. Orang yang tidak mengenal kesalahan-kesalahan yang kukenal akan melakukannya dengan percaya diri, dan itulah yang paling berbahaya.
-
-Aku hanya akan mengatakan ini: aku bekerja pelan. Aku memeriksa tiap tabung dua kali. Aku mencatat tiap tindakan di buku catatan, di kolom yang kuberi judul sendiri, dan di tiap kolom itu aku menuliskan tanggal, waktu, dan sebuah kata yang telah menjadi doaku: *Jujur.*
+Aku mengerjakan persiapannya seperti mengerjakan semua yang pernah kupercayakan pada tanganku: pelan. Aku memeriksa tiap tabung dua kali. Aku mencatat tiap tindakan di buku catatan, di kolom yang kuberi judul sendiri, dan di tiap kolom itu aku menuliskan tanggal, waktu, dan sebuah kata yang telah menjadi doaku: *Jujur.*
 
 Pukul sebelas malam, aku duduk di kursi di dekat jendela, dengan lengan kananku terbuka di bawah lampu. Radio kecil dari Mas Aji, dengan antena dari Naufal, kunyalakan dengan volume paling pelan di sebelahku. Ia berdesis. Di antara desisnya, entah dari mana, ada sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, lemah dan jauh dan sangat tenang.
 
@@ -6374,7 +6423,7 @@ Aku berdiri dan nyaris jatuh. Dinding berputar. Aku memegang pinggir meja, denga
 
 Aku memegang telepon.
 
-Di layar, ada nomor yang sudah kutulis dengan huruf besar di atas sebuah kertas dua hari yang lalu. Ambulans. Rumah sakit. Dr. Suryo. Aku menatapnya.
+Di layar, ada nomor yang sudah kutulis dengan huruf besar di atas sebuah kertas dua hari yang lalu. Ambulans. Rumah sakit. Dokter Suryo. Aku menatapnya.
 
 Aku bisa menelepon. Aku bisa menyelesaikan semuanya sekarang. Aku bisa mengatakan bahwa aku keracunan sesuatu. Mereka akan datang. Mereka akan menolongku. Dan mereka akan bertanya, dan aku akan harus menjawab, dan semua yang kulakukan akan terbuka.
 
@@ -6382,7 +6431,7 @@ Aku bisa mati dalam dua jam.
 
 Aku bisa mati dalam dua puluh menit.
 
-Aku menekan layar telepon dengan ibu jari yang gemetar, dan, di antara dua getar yang memecah kesadaranku, sebuah ingatan melintas, begitu jelas seolah-olah ia berada di ruangan itu: suara Pak Hendra, di tempat parkir sebuah kampus di Yogyakarta, sebelas tahun lalu. *Kalau soalnya tidak ada di buku, itu bukan berarti tidak ada jawabannya.*
+Aku menekan layar telepon dengan ibu jari yang gemetar, dan, di antara dua getar yang memecah kesadaranku, sebuah ingatan melintas, begitu jelas seolah-olah ia berada di ruangan itu: suara Pak Hendra, di tempat parkir sebuah gedung di Yogyakarta, sebelas tahun lalu. *Kalau soalnya tidak ada di buku, itu bukan berarti tidak ada jawabannya.*
 
 Aku meletakkan telepon.
 
@@ -6448,6 +6497,7 @@ Ia menatapku lama. Matanya menyipit, dan aku merasa sesuatu dalam dirinya tahu, 
 
 "Nah," kata Pak Slamet.
 
+
 ---
 
 # Bab 34 — Remisi
@@ -6500,7 +6550,7 @@ Aku duduk di tepi bak mandi dan menutup mulutku dengan telapak tangan.
 
 ---
 
-Dr. Suryo membaca hasil laboratoriumku pada pertengahan Februari dengan wajah yang tidak bisa kubaca, dan kali ini itu cara terbaik dokter membacanya.
+Dokter Suryo membaca hasil laboratoriumku pada pertengahan Februari dengan wajah yang tidak bisa kubaca, dan kali ini itu cara terbaik dokter membacanya.
 
 "Kreatinin sebelum cuci darah turun," katanya. "Dari delapan koma satu menjadi empat koma dua. Produksi urin naik. Laju filtrasi..." Ia berhenti. Ia membuka mulut, menutupnya, lalu membuka mapku sekali lagi dan membaca angkanya dengan jarinya, seakan angka itu bisa berubah. "Tiga puluh dua."
 
@@ -6520,7 +6570,7 @@ Aku menatap meja. Aku menyusun jawabannya berkali-kali sebelum datang, dan semua
 
 "Aku makan sesuai catatan Ibu," kataku.
 
-Dr. Suryo mengerjap. Lalu, perlahan, ia tertawa, tawa besar dan hangat dan sedikit lega, yang belum pernah kudengar darinya.
+Dokter Suryo mengerjap. Lalu, perlahan, ia tertawa, tawa besar dan hangat dan sedikit lega, yang belum pernah kudengar darinya.
 
 "Catatan Ibumu pasti menyelamatkan nyawa," katanya.
 
@@ -6706,13 +6756,14 @@ Aku menekan tombol simpan.
 
 Aku tidak sembuh. Aku baru memahaminya malam itu, sepenuhnya. Aku tidak dibebaskan. Aku hanya disewakan waktu, sebulan demi sebulan, dari sesuatu yang tidak bisa kulihat dan tidak akan pernah bisa kuhentikan.
 
+
 ---
 
 # Bab 35 — Yang Tidak Boleh Kulupa
 
 Setahun pertama berlalu dengan tenang, dan itu yang paling menakutkan.
 
-Tanggal sembilan tiap bulan, aku memberi diriku pulsa itu, di laboratorium yang kosong atau di kamar kos yang kusewa kembali dengan alasan yang tidak pernah kujelaskan pada pemiliknya, sendirian, dengan tangan yang makin terampil dan hati yang tak pernah makin tenang. Aku sudah belajar mengatur dosisnya. Demam yang tadinya tiga puluh sembilan menjadi tiga puluh delapan, lalu tiga puluh tujuh koma lima, lalu hanya rasa dingin singkat di punggung. Jeda pemulihan sembilan hari, sesuai catatan di pinggir buku. Aku memeriksa tubuhku setiap pagi, setiap sore, dengan kolom-kolom tulisan tangan yang makin rapi.
+Tanggal sembilan tiap bulan, aku memberi diriku pulsa itu, di laboratorium yang kosong atau di kamar kos yang kusewa kembali dengan alasan yang tidak pernah kujelaskan pada pemiliknya, sendirian, dengan tangan yang makin terampil dan hati yang tak pernah makin tenang. Aku sudah belajar mengatur dosisnya. Demam yang tadinya tiga puluh sembilan menjadi tiga puluh delapan, lalu tiga puluh tujuh koma lima, lalu hanya rasa dingin singkat di punggung. Pulsa kedua menyusul sembilan hari kemudian: jeda pemulihan, sesuai catatan di pinggir buku. Aku memeriksa tubuhku setiap pagi, setiap sore, dengan kolom-kolom tulisan tangan yang makin rapi.
 
 *TANGGAL. KELUHAN. DEMAM? OBAT.*
 
@@ -6976,6 +7027,7 @@ Aku menahan sesuatu yang naik ke dadaku.
 
 Itu bukan dusta. Tapi itu bukan seluruhnya.
 
+
 ---
 
 # Bab 36 — Terbuka untuk Semua
@@ -7104,7 +7156,7 @@ Hening lagi. Lalu terdengar bunyi seseorang bangun dari ranjang, langkah kaki di
 
 ---
 
-Prof. Whitcombe, di layar pada pukul tiga pagi waktu Yogyakarta dan delapan malam waktu Cambridge, mendengarkan seluruhnya tanpa menyela, dengan teh di tangannya dan wajah yang tak terbaca.
+Prof. Whitcombe, di layar pada pukul tiga pagi waktu Yogyakarta dan delapan malam waktu Cambridge, mendengarkan seluruhnya tanpa menyela, dengan teh di tangannya yang tidak ia minum.
 
 "A defensive publication," katanya, ketika aku selesai.
 
@@ -7262,9 +7314,10 @@ Aku menutup mulutku dengan tangan.
 
 Layar menjadi gelap.
 
-Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan telepon di pangkuan dan radio kecil di jendela yang berdesis pelan tanpa suara apa pun. Di luar, hujan turun untuk pertama kalinya setelah dua minggu kemarau.
+Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan telepon di pangkuan dan radio kecil di jendela yang berdesis pelan tanpa suara apa pun. Di luar, hujan turun untuk pertama kalinya setelah dua minggu tanpa setetes pun.
 
 Aku tidak merasa menang. Aku merasa seperti seseorang yang baru saja meletakkan sesuatu yang sangat berat di atas meja dan menyadari bahwa tak seorang pun, bahkan dirinya sendiri, bisa mengangkatnya kembali.
+
 
 ---
 
@@ -7332,7 +7385,7 @@ Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar
 
 "dr. Raihan," kataku. "Mbak Nurul."
 
-"Wulan." Dr. Raihan tersenyum, dan senyum itu masih seperti senyum seseorang yang tak percaya ia benar-benar didengarkan. "Kamu yang pipinya kupu-kupu."
+"Wulan." Dokter Raihan tersenyum, dan senyum itu masih seperti senyum seseorang yang tak percaya ia benar-benar didengarkan. "Kamu yang pipinya kupu-kupu."
 
 "Iya, Dok."
 
@@ -7350,7 +7403,7 @@ Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar
 
 "Itu kecil, Mbak." Aku tersenyum. "Selembar kertas."
 
-Mbak Nurul menunduk, dan aku melihat jarinya yang ramping dan sedikit gemetar mengusap sudut matanya di balik kerudung. Dr. Raihan memerhatikan kami berdua, tidak berkata apa-apa, dan menyendok nasi ke piringnya dengan khidmat seperti seseorang yang tahu bahwa ada momen yang tidak boleh diganggu.
+Mbak Nurul menunduk, dan aku melihat jarinya yang ramping dan sedikit gemetar mengusap sudut matanya di balik kerudung. Dokter Raihan memerhatikan kami berdua, tidak berkata apa-apa, dan menyendok nasi ke piringnya dengan khidmat seperti seseorang yang tahu bahwa ada momen yang tidak boleh diganggu.
 
 Ibu menyodorkan ingkung ke arah Mbak Nurul dengan dua tangan.
 
@@ -7510,7 +7563,8 @@ Dan aku berlari.
 
 Aku berlari menuju ombak yang pecah, dengan kerudung biru muda yang jahitannya miring pada baris ketiga berkibar di belakang, dengan kaki yang tak pernah berlari sejauh itu di atas pasir basah, dengan dada yang naik turun, dengan air asin yang menampar betis, lutut, paha, dan aku tertawa, dengan suara yang tak kukenal sebagai suaraku sendiri, tertawa seperti seorang anak bulat dengan rambut jarang yang pernah berdiri di sebuah jendela rumah sakit dan menonton langit meledak.
 
-Matahari terbit di belakangku, dan bayanganku berlari di depanku, panjang, di atas air.
+Matahari terbit dari sisi kiriku, dan bayanganku berlari di sampingku, panjang, di atas air.
+
 
 ---
 
@@ -7528,7 +7582,7 @@ Tika menelepon pukul tujuh malam, dan aku mengenali dari nada suaranya, bahkan s
 
 Aku duduk di tepi dipan. Aku mendengar bunyi pintu, langkah, suara perawat menyebut sebuah nomor.
 
-"Dokter bilang ini langka," lanjut Tika. "Biasanya anak-anak datang terlambat. Yang pertama dikira alergi. Yang kedua dikira tifus. Yang ketiga baru ketahuan, dan itu pun ginjalnya sudah..." Ia berhenti. "Tapi Sekar datang membawa kertas. Kertas yang kamu cetak itu. Yang dibagikan ke puskesmas. Dia mencatat tiap hari, sejak Tika memberinya kertas itu sepuluh hari lalu. Sampai dokternya... Wulan, dokternya membaca semuanya sampai habis."
+"Dokter bilang ini langka," lanjut Tika. "Biasanya anak-anak datang terlambat. Yang pertama dikira alergi. Yang kedua dikira tifus. Yang ketiga baru ketahuan, dan itu pun ginjalnya sudah..." Ia berhenti. "Tapi Sekar datang membawa kertas. Kertas yang kamu cetak itu. Yang dibagikan ke puskesmas. Dia mencatat tiap hari, sejak aku memberinya kertas itu sepuluh hari lalu. Sampai dokternya... Wulan, dokternya membaca semuanya sampai habis."
 
 "Seperti dr. Raihan."
 
@@ -7536,7 +7590,7 @@ Aku duduk di tepi dipan. Aku mendengar bunyi pintu, langkah, suara perawat menye
 
 Aku menutup mataku.
 
-"Sekarang dia di bangsal anak. Dengan dokter yang sama dengan dokter kita dulu, Dr. Sumarni, yang sudah pensiun tapi dipanggil untuk satu kasus ini. Sekar bilang..." Suara Tika menghilang sesaat. "Sekar bilang dia mau lihat laut kalau sudah sembuh."
+"Sekarang dia di bangsal anak. Dengan dokter yang sama dengan dokter kita dulu, dr. Sumarni, yang sudah pensiun tapi dipanggil untuk satu kasus ini. Sekar bilang..." Suara Tika menghilang sesaat. "Sekar bilang dia mau lihat laut kalau sudah sembuh."
 
 Aku tidak menjawab.
 
@@ -7570,7 +7624,7 @@ Aku menyimpan pertanyaan yang tak sempat kukembalikan. Satu per satu. Aku menuli
 
 *Jumat, 7 November.*
 
-Alarm itu berbunyi kemarin, pada tanggal sembilan, dua hari lebih awal dari seharusnya, karena aku mengubah jadwalnya untuk bulan ini. Kontrol. Aku memberikan pulsa itu pada diriku, dengan tangan yang telah terampil dan hati yang telah belajar tidak bertanya.
+Alarm itu berbunyi pagi ini, dua hari lebih awal dari tanggal sembilan, karena aku mengubah jadwalnya untuk bulan ini. Kontrol. Aku memberikan pulsa itu pada diriku, dengan tangan yang telah terampil dan hati yang telah belajar tidak bertanya.
 
 Setelah itu aku membuka aplikasi lain di ponselku dan mengirim sejumlah kecil uang ke sebuah rekening atas nama sebuah puskesmas di Wonosari, dengan catatan yang kutulis tanpa nama. *Untuk mencetak kertas.*
 
@@ -7592,7 +7646,7 @@ Aku memotretnya sendiri. Dengan timer.
 
 Aku tidak tahu kenapa aku mengizinkan foto itu ada. Mungkin karena hari itu aku lupa mengingat bahwa aku tak boleh. Mungkin karena aku ingin satu bukti, di dinding sebuah rumah bambu, bahwa pada suatu hari di bulan Agustus tahun 2031, seseorang berumur dua puluh sembilan tahun berdiri di antara dua orang yang sangat ia cintai, dan tersenyum.
 
-Aku tahu foto itu akan kelihatan sama dalam dua puluh tahun. Tidak apa-apa. Aku akan menguranginya dengan hal lain.
+Aku tahu foto itu akan kelihatan sama dalam dua puluh tahun. Tidak apa-apa. Aku akan mengimbanginya dengan hal lain.
 
 Ibu tidur di dipan di sebelahku, di bawah selimut tipis dengan kain sarung menutupi kakinya. Napasnya teratur. Di kamar sebelah, Bapak mendengkur dalam nada yang lebih rendah. Di luar, hujan jatuh dari atap yang berbeda, sedikit tidak serempak, sedikit seperti orang bernyanyi.
 
@@ -7633,3 +7687,4 @@ Aku membiarkannya. Aku menatap langit-langit bambu dan mendengarkan hujan, dan p
 Aku berhenti di sana.
 
 Ada hal-hal yang tidak perlu dihitung.
+

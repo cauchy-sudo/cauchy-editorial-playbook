@@ -12,7 +12,7 @@ Tika menelepon pukul tujuh malam, dan aku mengenali dari nada suaranya, bahkan s
 
 Aku duduk di tepi dipan. Aku mendengar bunyi pintu, langkah, suara perawat menyebut sebuah nomor.
 
-"Dokter bilang ini langka," lanjut Tika. "Biasanya anak-anak datang terlambat. Yang pertama dikira alergi. Yang kedua dikira tifus. Yang ketiga baru ketahuan, dan itu pun ginjalnya sudah..." Ia berhenti. "Tapi Sekar datang membawa kertas. Kertas yang kamu cetak itu. Yang dibagikan ke puskesmas. Dia mencatat tiap hari, sejak Tika memberinya kertas itu sepuluh hari lalu. Sampai dokternya... Wulan, dokternya membaca semuanya sampai habis."
+"Dokter bilang ini langka," lanjut Tika. "Biasanya anak-anak datang terlambat. Yang pertama dikira alergi. Yang kedua dikira tifus. Yang ketiga baru ketahuan, dan itu pun ginjalnya sudah..." Ia berhenti. "Tapi Sekar datang membawa kertas. Kertas yang kamu cetak itu. Yang dibagikan ke puskesmas. Dia mencatat tiap hari, sejak aku memberinya kertas itu sepuluh hari lalu. Sampai dokternya... Wulan, dokternya membaca semuanya sampai habis."
 
 "Seperti dr. Raihan."
 
@@ -20,7 +20,7 @@ Aku duduk di tepi dipan. Aku mendengar bunyi pintu, langkah, suara perawat menye
 
 Aku menutup mataku.
 
-"Sekarang dia di bangsal anak. Dengan dokter yang sama dengan dokter kita dulu, Dr. Sumarni, yang sudah pensiun tapi dipanggil untuk satu kasus ini. Sekar bilang..." Suara Tika menghilang sesaat. "Sekar bilang dia mau lihat laut kalau sudah sembuh."
+"Sekarang dia di bangsal anak. Dengan dokter yang sama dengan dokter kita dulu, dr. Sumarni, yang sudah pensiun tapi dipanggil untuk satu kasus ini. Sekar bilang..." Suara Tika menghilang sesaat. "Sekar bilang dia mau lihat laut kalau sudah sembuh."
 
 Aku tidak menjawab.
 
@@ -54,7 +54,7 @@ Aku menyimpan pertanyaan yang tak sempat kukembalikan. Satu per satu. Aku menuli
 
 *Jumat, 7 November.*
 
-Alarm itu berbunyi kemarin, pada tanggal sembilan, dua hari lebih awal dari seharusnya, karena aku mengubah jadwalnya untuk bulan ini. Kontrol. Aku memberikan pulsa itu pada diriku, dengan tangan yang telah terampil dan hati yang telah belajar tidak bertanya.
+Alarm itu berbunyi pagi ini, dua hari lebih awal dari tanggal sembilan, karena aku mengubah jadwalnya untuk bulan ini. Kontrol. Aku memberikan pulsa itu pada diriku, dengan tangan yang telah terampil dan hati yang telah belajar tidak bertanya.
 
 Setelah itu aku membuka aplikasi lain di ponselku dan mengirim sejumlah kecil uang ke sebuah rekening atas nama sebuah puskesmas di Wonosari, dengan catatan yang kutulis tanpa nama. *Untuk mencetak kertas.*
 
@@ -76,7 +76,7 @@ Aku memotretnya sendiri. Dengan timer.
 
 Aku tidak tahu kenapa aku mengizinkan foto itu ada. Mungkin karena hari itu aku lupa mengingat bahwa aku tak boleh. Mungkin karena aku ingin satu bukti, di dinding sebuah rumah bambu, bahwa pada suatu hari di bulan Agustus tahun 2031, seseorang berumur dua puluh sembilan tahun berdiri di antara dua orang yang sangat ia cintai, dan tersenyum.
 
-Aku tahu foto itu akan kelihatan sama dalam dua puluh tahun. Tidak apa-apa. Aku akan menguranginya dengan hal lain.
+Aku tahu foto itu akan kelihatan sama dalam dua puluh tahun. Tidak apa-apa. Aku akan mengimbanginya dengan hal lain.
 
 Ibu tidur di dipan di sebelahku, di bawah selimut tipis dengan kain sarung menutupi kakinya. Napasnya teratur. Di kamar sebelah, Bapak mendengkur dalam nada yang lebih rendah. Di luar, hujan jatuh dari atap yang berbeda, sedikit tidak serempak, sedikit seperti orang bernyanyi.
 

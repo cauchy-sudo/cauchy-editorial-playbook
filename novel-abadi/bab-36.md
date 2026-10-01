@@ -124,7 +124,7 @@ Hening lagi. Lalu terdengar bunyi seseorang bangun dari ranjang, langkah kaki di
 
 ---
 
-Prof. Whitcombe, di layar pada pukul tiga pagi waktu Yogyakarta dan delapan malam waktu Cambridge, mendengarkan seluruhnya tanpa menyela, dengan teh di tangannya dan wajah yang tak terbaca.
+Prof. Whitcombe, di layar pada pukul tiga pagi waktu Yogyakarta dan delapan malam waktu Cambridge, mendengarkan seluruhnya tanpa menyela, dengan teh di tangannya yang tidak ia minum.
 
 "A defensive publication," katanya, ketika aku selesai.
 
@@ -282,6 +282,6 @@ Aku menutup mulutku dengan tangan.
 
 Layar menjadi gelap.
 
-Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan telepon di pangkuan dan radio kecil di jendela yang berdesis pelan tanpa suara apa pun. Di luar, hujan turun untuk pertama kalinya setelah dua minggu kemarau.
+Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan telepon di pangkuan dan radio kecil di jendela yang berdesis pelan tanpa suara apa pun. Di luar, hujan turun untuk pertama kalinya setelah dua minggu tanpa setetes pun.
 
 Aku tidak merasa menang. Aku merasa seperti seseorang yang baru saja meletakkan sesuatu yang sangat berat di atas meja dan menyadari bahwa tak seorang pun, bahkan dirinya sendiri, bisa mengangkatnya kembali.

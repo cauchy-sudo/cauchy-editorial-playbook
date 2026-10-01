@@ -36,7 +36,7 @@ Dr. Anindya mengangguk perlahan.
 
 Menulis makalah ternyata lebih sulit daripada menemukan sesuatu.
 
-Kami menulis selama lima bulan. Setiap kalimat diperdebatkan: apakah ini terlalu kuat, terlalu lemah, terlalu berani. Dr. Anindya menghapus tiga kata dari tiap kalimat yang kutulis, dan menggantinya dengan satu yang lebih tepat. Bu Retno menyusun grafik, dan menggambar ulang empat belas kali. Bayu menulis metode dengan ketelitian orang yang tidak mau dituduh menyembunyikan apa pun. Dan aku menulis hasil, bagian yang tidak boleh ada kata sifatnya.
+Kami menulis selama tiga bulan. Setiap kalimat diperdebatkan: apakah ini terlalu kuat, terlalu lemah, terlalu berani. Dr. Anindya menghapus tiga kata dari tiap kalimat yang kutulis, dan menggantinya dengan satu yang lebih tepat. Bu Retno menyusun grafik, dan menggambar ulang empat belas kali. Bayu menulis metode dengan ketelitian orang yang tidak mau dituduh menyembunyikan apa pun. Dan aku menulis hasil, bagian yang tidak boleh ada kata sifatnya.
 
 "Siapa penulis pertama?" tanya Bu Retno, di suatu rapat.
 
@@ -88,7 +88,7 @@ Mereka menyebutnya *reset*. Sistem kekebalan yang dimulai ulang.
 
 Aku membaca sampai fajar. Tidak semua kalimat kupahami. Tetapi aku memahami bentuknya: seseorang, di suatu tempat, sudah membuktikan bahwa tubuh bisa diajari ulang. Bahwa pertanyaan kedua di buku catatanku, yang kutulis dengan ragu di bawah lampu minyak sepuluh tahun lalu, punya jawaban. Mungkin tidak sempurna. Mungkin mahal dan berisiko dan hanya untuk beberapa orang. Tetapi ada.
 
-Aku menelepon Dr. Suryo pada pukul delapan pagi.
+Aku menelepon dr. Suryo pada pukul delapan pagi.
 
 "Wulan." Suaranya serak dan hangat. "Aku sudah baca. Pasienku yang lain mengirimkannya padaku semalam."
 
@@ -120,7 +120,7 @@ Aku menulis kedua kata itu di buku catatan, dan menggaris bawahi yang kedua.
 
 ---
 
-Makalah kami diterima pada hari Rabu di bulan Maret 2024, lewat sebuah surel tiga baris yang dingin dan sopan. Aku membacanya di mejaku dan tidak merasakan apa pun selama sepuluh detik. Lalu seluruh tubuhku bergetar.
+Makalah kami diterima pada hari Rabu di bulan Mei 2024, lewat sebuah surel tiga baris yang dingin dan sopan. Aku membacanya di mejaku dan tidak merasakan apa pun selama sepuluh detik. Lalu seluruh tubuhku bergetar.
 
 Bu Retno berdiri dari kursinya dan memelukku. Bayu bertepuk tangan sekali dari seberang ruangan, pelan, lalu berhenti dengan malu. Pak Slamet menyodorkan segelas teh dan berkata, "Nah."
 
@@ -140,7 +140,7 @@ Aku menelepon Ibu dari tangga gedung biologi, lewat telepon Pak Hasan yang masih
 
 "Nomor dua." Ibu terdiam. "Nomor satu siapa?"
 
-"Mbak Retno, Bu. Dia senior."
+"Bu Retno, Bu. Dia senior."
 
 "Oh." Jeda. "Nomor dua itu bagus?"
 
@@ -178,7 +178,7 @@ Aku menyerahkan delapan halaman itu lewat jendela apotek. Mbak Nurul memegangnya
 
 Ia membaca judulnya. Ia membaca nama-nama penulis. Ia berhenti pada nama kedua. Lalu, pelan, ia membalik ke halaman terakhir, bagian ucapan terima kasih yang kutulis dua malam sebelumnya, dan kutulis ulang tiga kali karena aku tidak bisa menemukan kata-kata yang benar.
 
-*Kepada Nurul, perawat di Puskesmas Wonosari, yang pada Oktober 2013 menyobek selembar kertas dari buku catatannya dan menggambar empat kolom: TANGGAL. KELUHAN. DEMAM? OBAT. Tanpa kertas itu, penulis mungkin tidak berada di sini.*
+*Kepada Nurul, perawat di Puskesmas Wonosari, yang pada September 2013 menyobek selembar kertas dari buku catatannya dan menggambar empat kolom: TANGGAL. KELUHAN. DEMAM? OBAT. Tanpa kertas itu, penulis mungkin tidak berada di sini.*
 
 Mbak Nurul membacanya. Ia membacanya lagi. Wajahnya berubah, perlahan, dari bingung menjadi sesuatu yang lain.
 

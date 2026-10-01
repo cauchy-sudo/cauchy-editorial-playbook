@@ -80,7 +80,7 @@ Tidak ada massa. Tidak di perut, tidak di dada, tidak di kaki, tidak di leher.
 
 "Tumor-free."
 
-"At twenty weeks."
+"At fifteen weeks."
 
 Aku tidak merasa gembira. Aku merasa hampa dan sangat ringan, seperti orang yang baru saja menurunkan beban yang ia bawa terlalu lama. Aku duduk di kursi di ruang hewan dan menutup mataku.
 

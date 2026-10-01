@@ -42,11 +42,7 @@ Ketika aku mengangkat kepala, hujan di jendela sudah berhenti.
 
 ---
 
-Aku tidak akan menjelaskan di sini bagaimana persiapannya.
-
-Itu bukan karena aku lupa. Aku ingat setiap langkahnya dengan jelas, karena aku telah melakukannya seribu kali dalam enam tahun di meja-meja yang lain, dengan tikus-tikus yang kuberi nomor dan tidak kuberi nama, di bawah lampu yang sama. Aku hanya tidak ingin langkah-langkah itu ditulis sebagai petunjuk bagi siapa pun yang tidak punya enam tahun itu. Orang yang tidak mengenal kesalahan-kesalahan yang kukenal akan melakukannya dengan percaya diri, dan itulah yang paling berbahaya.
-
-Aku hanya akan mengatakan ini: aku bekerja pelan. Aku memeriksa tiap tabung dua kali. Aku mencatat tiap tindakan di buku catatan, di kolom yang kuberi judul sendiri, dan di tiap kolom itu aku menuliskan tanggal, waktu, dan sebuah kata yang telah menjadi doaku: *Jujur.*
+Aku mengerjakan persiapannya seperti mengerjakan semua yang pernah kupercayakan pada tanganku: pelan. Aku memeriksa tiap tabung dua kali. Aku mencatat tiap tindakan di buku catatan, di kolom yang kuberi judul sendiri, dan di tiap kolom itu aku menuliskan tanggal, waktu, dan sebuah kata yang telah menjadi doaku: *Jujur.*
 
 Pukul sebelas malam, aku duduk di kursi di dekat jendela, dengan lengan kananku terbuka di bawah lampu. Radio kecil dari Mas Aji, dengan antena dari Naufal, kunyalakan dengan volume paling pelan di sebelahku. Ia berdesis. Di antara desisnya, entah dari mana, ada sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, lemah dan jauh dan sangat tenang.
 
@@ -90,7 +86,7 @@ Aku berdiri dan nyaris jatuh. Dinding berputar. Aku memegang pinggir meja, denga
 
 Aku memegang telepon.
 
-Di layar, ada nomor yang sudah kutulis dengan huruf besar di atas sebuah kertas dua hari yang lalu. Ambulans. Rumah sakit. Dr. Suryo. Aku menatapnya.
+Di layar, ada nomor yang sudah kutulis dengan huruf besar di atas sebuah kertas dua hari yang lalu. Ambulans. Rumah sakit. Dokter Suryo. Aku menatapnya.
 
 Aku bisa menelepon. Aku bisa menyelesaikan semuanya sekarang. Aku bisa mengatakan bahwa aku keracunan sesuatu. Mereka akan datang. Mereka akan menolongku. Dan mereka akan bertanya, dan aku akan harus menjawab, dan semua yang kulakukan akan terbuka.
 
@@ -98,7 +94,7 @@ Aku bisa mati dalam dua jam.
 
 Aku bisa mati dalam dua puluh menit.
 
-Aku menekan layar telepon dengan ibu jari yang gemetar, dan, di antara dua getar yang memecah kesadaranku, sebuah ingatan melintas, begitu jelas seolah-olah ia berada di ruangan itu: suara Pak Hendra, di tempat parkir sebuah kampus di Yogyakarta, sebelas tahun lalu. *Kalau soalnya tidak ada di buku, itu bukan berarti tidak ada jawabannya.*
+Aku menekan layar telepon dengan ibu jari yang gemetar, dan, di antara dua getar yang memecah kesadaranku, sebuah ingatan melintas, begitu jelas seolah-olah ia berada di ruangan itu: suara Pak Hendra, di tempat parkir sebuah gedung di Yogyakarta, sebelas tahun lalu. *Kalau soalnya tidak ada di buku, itu bukan berarti tidak ada jawabannya.*
 
 Aku meletakkan telepon.
 

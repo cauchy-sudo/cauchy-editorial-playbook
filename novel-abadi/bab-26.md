@@ -72,7 +72,7 @@ Aku tidak bisa menjawab. Aku hanya mengangguk dan meminum teh susu yang terlalu 
 
 Minggu pertamaku di Cambridge terdiri dari daftar yang harus kuselesaikan dengan urutan yang tak masuk akal.
 
-Mendaftar ke seorang dokter umum. Itu tidak seperti yang kubayangkan. Aku tidak langsung diperiksa. Aku mengisi formulir, menyerahkan surat dari Dr. Suryo, yang dengan hati-hati kujaga dalam map plastik sepanjang perjalanan, dan menyatakan bahwa aku butuh dirujuk ke dokter reumatologi dan ginjal secepatnya. Resepsionis, seorang perempuan paruh baya bernama Margaret dengan kacamata berbingkai merah, membaca suratnya tiga kali dan menatapku.
+Mendaftar ke seorang dokter umum. Itu tidak seperti yang kubayangkan. Aku tidak langsung diperiksa. Aku mengisi formulir, menyerahkan surat dari dr. Suryo, yang dengan hati-hati kujaga dalam map plastik sepanjang perjalanan, dan menyatakan bahwa aku butuh dirujuk ke dokter reumatologi dan ginjal secepatnya. Resepsionis, seorang perempuan paruh baya bernama Margaret dengan kacamata berbingkai merah, membaca suratnya tiga kali dan menatapku.
 
 "You have lupus nephritis," katanya.
 
@@ -84,9 +84,9 @@ Mendaftar ke seorang dokter umum. Itu tidak seperti yang kubayangkan. Aku tidak 
 
 "All of them?"
 
-"Since I was twelve. In a notebook." Aku menyodorkan buku catatan, buku catatan pertama, dengan sampul yang sudah lengket.
+"Since I was eleven. In a notebook." Aku menyodorkan buku catatan, buku catatan pertama, dengan sampul yang sudah lengket.
 
-Margaret membukanya. Ia membalik beberapa halaman, berhenti pada kolom-kolom tulisan tangan anak berumur dua belas tahun, dan wajahnya yang tadinya birokratis berubah.
+Margaret membukanya. Ia membalik beberapa halaman, berhenti pada kolom-kolom tulisan tangan anak berumur sebelas tahun, dan wajahnya yang tadinya birokratis berubah.
 
 "I'll ask the doctor to see you this week," katanya. "No one brings me this. Ever."
 

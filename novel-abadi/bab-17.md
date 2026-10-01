@@ -6,7 +6,7 @@ Pengumuman datang pada Senin pagi, di tengah upacara bendera yang dipotong menja
 
 Tak ada yang bersorak. Itu yang kuingat paling jelas. Dalam kesunyian dua ratus anak yang berdiri di lapangan, aku merasa seperti seluruh dunia baru saja mengambil napas dan lupa mengembuskannya.
 
-Dr. Sumarni menelepon malam itu, ke nomor Pak Hasan, dan Pak Hasan berjalan tiga ratus meter dalam gelap untuk memanggilku.
+Dokter Sumarni menelepon malam itu, ke nomor Pak Hasan, dan Pak Hasan berjalan tiga ratus meter dalam gelap untuk memanggilku.
 
 "Wulan." Suaranya kurang hangat dari biasa dan lebih jelas, seperti seseorang yang memegang pisau bedah. "Dengar baik-baik. Kamu termasuk orang dengan kekebalan yang ditekan. Penyakit ini, kalau menyerangmu, bisa jauh lebih berat daripada orang lain. Kamu tidak boleh keluar rumah kecuali perlu. Tidak ke pasar, tidak ke kerumunan. Pakai masker setiap kali. Cuci tangan. Dan kalau ada yang batuk di dekatmu, kamu menjauh."
 
@@ -30,7 +30,7 @@ Aku kembali ke kos Bu Haji pada Selasa untuk mengambil barang. Bu Haji menunggu 
 
 "Aku tahu semuanya." Matanya menyipit dalam senyum yang tidak kelihatan di balik kain. "Pergilah."
 
-Aku membawa kaleng biskuit kecil yang masih berbunyi, radio, payung Mbah, dan kerudung biru yang kujahit setengah. Tika pulang ke rumah orang tuanya di Pucung hari itu juga, dan kami berdua duduk berdampingan di bus yang nyaris kosong, mengenakan masker yang terlalu besar untuk wajah kami.
+Aku membawa kaleng biskuit kecil yang masih berbunyi, radio, payung Mbah, dan kerudung biru yang kuselesaikan jahitannya. Tika pulang ke rumah orang tuanya di Pucung hari itu juga, dan kami berdua duduk berdampingan di bus yang nyaris kosong, mengenakan masker yang terlalu besar untuk wajah kami.
 
 ---
 
@@ -64,7 +64,7 @@ Aku menoleh. Dari ketinggian itu, Pucung kelihatan kecil dan rapi seperti maket.
 
 "Kecil," kataku.
 
-"Ibu tidak pernah naik ke sini," kata Ibu. "Selama tiga puluh tahun tinggal di sini."
+"Ibu tidak pernah naik ke sini," kata Ibu. "Selama dua puluh lima tahun tinggal di sini."
 
 Aku menatapnya.
 
@@ -106,7 +106,7 @@ Tak ada perayaan. Ibu memasak nasi kuning kecil dan mengirimkannya ke Bukit Siny
 
 Aku menyimpan buku itu di ransel. Aku tidak memakainya untuk waktu yang lama, karena aku takut menodainya.
 
-Sore itu Dr. Sumarni menelepon.
+Sore itu dr. Sumarni menelepon.
 
 "Selamat ulang tahun, Wulan."
 
@@ -120,13 +120,13 @@ Sore itu Dr. Sumarni menelepon.
 
 "Saya tidak merasa."
 
-"Itu karena kamu terlalu dekat." Dr. Sumarni terdengar tersenyum. "Dari sini, kelihatan jelas."
+"Itu karena kamu terlalu dekat." Dokter Sumarni terdengar tersenyum. "Dari sini, kelihatan jelas."
 
 ---
 
 Hajatan dilarang di dusun pada tahun itu. Kenduri dikecilkan, dan Rasulan dipindahkan ke bulan yang belum ditentukan.
 
-Ujian tertulis berbasis komputer berlangsung pada awal Juli, di sebuah kampus di Yogyakarta yang berubah menjadi lautan masker dan botol cairan pembersih tangan. Aku tiba pukul enam pagi, diantar Pak Hendra dengan sepeda motornya, dengan surat dari Dr. Sumarni di tas dan masker berlapis dua di wajah. Aku diizinkan duduk di ruang terpisah, bersama dua peserta lain yang punya kondisi kesehatan serupa, dengan jarak lebih lebar dan pengawas yang mengenakan pelindung wajah.
+Ujian tertulis berbasis komputer berlangsung pada awal Juli, di sebuah kampus di Yogyakarta yang berubah menjadi lautan masker dan botol cairan pembersih tangan. Aku tiba pukul enam pagi, diantar Pak Hendra dengan sepeda motornya, dengan surat dari dr. Sumarni di tas dan masker berlapis dua di wajah. Aku diizinkan duduk di ruang terpisah, bersama dua peserta lain yang punya kondisi kesehatan serupa, dengan jarak lebih lebar dan pengawas yang mengenakan pelindung wajah.
 
 Soal-soalnya sulit. Tidak ada soal seperti soal olimpiade yang kuhafal pola penalarannya, tapi ada ratusan soal penalaran yang meminta aku berpikir dengan cara yang sama: dari nol, dari yang sudah kutahu. Aku mengerjakannya pelan, tanpa terburu-buru, dengan tangan yang tetap hangat.
 
