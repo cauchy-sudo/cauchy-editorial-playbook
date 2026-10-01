@@ -16,6 +16,8 @@ Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 inte
 | `bab-27.md` … `bab-37.md` | Babak III: gagasan, Lumen, tikus, kambuh, dosis pertama, ingatan, rilis terbuka, Rasulan, laut | 2026–2031 |
 | `epilog.md` | Arsip | 2031 |
 
+**Versi satu berkas:** `naskah-lengkap.md` (semua bagian berurutan, dengan daftar isi).
+
 ## Dokumen kerja
 - `07-ledger-dan-verifikasi.md` — **mulai di sini** untuk kontinuitas, daftar verifikasi fakta, dan kelemahan yang diketahui.
 - `00-konsep.md`, `01-tokoh-dan-dunia.md`, `02-panduan-suara.md`, `03-outline.md`, `04-adat-budaya.md`, `05-struktur-dan-daya-tarik.md`, `06-celah-logika.md`, `panduan-penulisan.md` — dokumen perencanaan (sebagian sudah digantikan oleh draf; lihat ledger).
