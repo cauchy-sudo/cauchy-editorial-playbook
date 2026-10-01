@@ -1,5 +1,7 @@
 # Outline (v0.4)
 
+> **Catatan (draf 1 selesai):** daftar bab final sebagai-dibangun ada di `07-ledger-dan-verifikasi.md`. Bab 30 ditambahkan; nomor Babak III bergeser +1. Outline di bawah adalah rencana v0.4.
+
 Perubahan dari v0.3: Babak I dipadatkan (9 bab); titik tengah diperkuat (bab 20); tiga *interlude* 2031; lawan manusia diperkenalkan di bab 26; "all is lost" lebih awal. Alasan dan peta beat: `05-struktur-dan-daya-tarik.md`. Jawaban untuk bantahan pembaca: `06-celah-logika.md`. Adat dan budaya: `04-adat-budaya.md`.
 
 Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi/adat/romansa**. **Pengait akhir bab** = apa yang membuat pembaca membuka bab berikutnya.

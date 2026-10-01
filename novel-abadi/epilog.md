@@ -12,7 +12,7 @@ Tika menelepon pukul tujuh malam, dan aku mengenali dari nada suaranya, bahkan s
 
 Aku duduk di tepi dipan. Aku mendengar bunyi pintu, langkah, suara perawat menyebut sebuah nomor.
 
-"Dokter bilang ini langka," lanjut Tika. "Biasanya anak-anak datang terlambat. Yang pertama dikira alergi. Yang kedua dikira tifus. Yang ketiga baru ketahuan, dan itu pun ginjalnya sudah..." Ia berhenti. "Tapi Sekar datang membawa kertas. Kertas yang kamu cetak itu. Yang dibagikan ke puskesmas. Dia mencatat tiap hari sejak pipinya merah. Sampai dokternya... Wulan, dokternya membaca semuanya sampai habis."
+"Dokter bilang ini langka," lanjut Tika. "Biasanya anak-anak datang terlambat. Yang pertama dikira alergi. Yang kedua dikira tifus. Yang ketiga baru ketahuan, dan itu pun ginjalnya sudah..." Ia berhenti. "Tapi Sekar datang membawa kertas. Kertas yang kamu cetak itu. Yang dibagikan ke puskesmas. Dia mencatat tiap hari, sejak Tika memberinya kertas itu sepuluh hari lalu. Sampai dokternya... Wulan, dokternya membaca semuanya sampai habis."
 
 "Seperti dr. Raihan."
 

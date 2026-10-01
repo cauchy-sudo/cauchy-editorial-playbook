@@ -26,7 +26,7 @@ Ia duduk dengan hati-hati, seperti seseorang yang sudah mempelajari bahwa tubuhn
 
 "You're well informed."
 
-"It's what I do." Ia menarik napas, dan napas itu menyangkut sedikit di tengah. "And I've heard something else. A rumor. That a young scientist in Yogyakarta, who was on dialysis eighteen months ago, is no longer."
+"It's what I do." Ia menarik napas, dan napas itu menyangkut sedikit di tengah. "And I've heard something else. A rumor. That a young scientist in Yogyakarta, who was on dialysis not so long ago, is no longer."
 
 Aku menatap tehku.
 
