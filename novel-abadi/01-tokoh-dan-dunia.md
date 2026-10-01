@@ -18,6 +18,7 @@
 | 11 | Tidak menggurui. |
 | 12 | Tidak ada penjelasan diri penulis atau curhat penulis di dalam teks. |
 | 13 | Wulan **tidak menceritakan rahasianya kepada siapa pun**. |
+| 13b | Penghalang manusia: **pendana yang menekan**. Akhir: pahit-manis dengan **secercah warna** (Sekar, Ardi, dana kartu catatan keluhan). |
 | 14 | Semua jejak proyek sebelumnya dihapus. |
 | 15 | Romansa **sedikit**: dari naksir remaja sampai cinta yang tak bisa dijalani. |
 | 16 | Cerita **tidak boleh bertentangan dengan adat dan budaya Indonesia**; pedoman di `04-adat-budaya.md`. |
@@ -50,6 +51,7 @@ Alasan pilihan [P]:
 | **Naufal Hidayat** (lahir 2001) | Teman sebangku SMA; anak pedagang kelontong di Wonosari; pendiam, pandai memperbaiki radio. Cinta pertama yang sederhana dan getir. Diterima di kampus teknik di Bandung (2020). |
 | **Daffa Pratama** | Ketua OSIS, ramah, populer, keluarga mampu. Menyukai Wulan; ia menolak dengan halus dan mereka tetap berteman. |
 | **Bayu Prakoso** (lahir 1998) | Kakak tingkat S1, asisten lab; dari Klaten; hangat. Ibunya halus menanyakan *bibit, bebet, bobot*. |
+| **Julian Thorne** (pertengahan 50-an) | Pendana utama lab Wulan lewat *Halcyon Longevity Fund* (fiktif). Santun, cerdas, percaya bahwa setiap hari penundaan berarti kematian orang lain. Menekan agar uji manusia dipercepat di yurisdiksi longgar, formula dipatenkan dan dijual mahal. Bukan penjahat kartun; ia tulus, dan ia sendiri takut pada kematiannya. Wulan menolak mempercepat; dana dipotong (bab 29), ia kembali menekan (bab 35). |
 | **Rizal Firmansyah** | Mahasiswa S3 Indonesia di kampus lain di Inggris; mereka cocok. Wulan menolaknya karena rahasianya. |
 | **Dr. Anindya Prameswari** | Dosen biologi sel di kampus S1; pembimbing riset. (Nama fiktif.) |
 | **Prof. Eleanor Whitcombe** | Pembimbing S3 di Inggris. (Nama fiktif; institusi fiktif: *Institut Peremajaan Sel Hartwell*.) |

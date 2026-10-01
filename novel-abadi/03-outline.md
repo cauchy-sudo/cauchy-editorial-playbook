@@ -10,8 +10,8 @@ Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi
 | # | Peristiwa | Peta jalan | Manusiawi / adat / romansa | Pengait akhir bab |
 |---|---|---|---|---|
 | 1 | Ruam kupu-kupu saat upacara; bidan berkata "bukan kerja saya" *(selesai)* | Mengenali batas pertolongan di desa | Tika, es lilin, humor | Bunyi receh: "Besok kita ke Wonosari." |
-| 2 | Dua kambing dijual; puskesmas; dokter tak sempat mendengar; perawat menyobek kertas catatan | Mencatat keluhan sebelum ke dokter | Bakso yang tak dimakan Bapak | Kelopak mata membengkak |
-| 3 | Rasulan: kenduri, ingkung; Wulan lemas di tengah pesta | Meminta izin sakit tanpa mempermalukan keluarga | Bisik tetangga ("kutukan?"); Mbah menawarkan jalan lain | Air seni berbuih dan Ibu belum tahu |
+| 2 | *(selesai)* Dua kambing dijual; puskesmas; dokter tak sempat mendengar; perawat menyobek kertas catatan | Mencatat keluhan sebelum ke dokter | Bakso yang tak dimakan Bapak | Kelopak mata membengkak |
+| 3 | *(selesai)* Rasulan: kenduri, ingkung; Wulan lemas di tengah pesta | Meminta izin sakit tanpa mempermalukan keluarga | Bisik tetangga ("kutukan?"); Mbah menawarkan jalan lain | Air seni berbuih dan Ibu belum tahu |
 | 4 | Diagnosis salah kedua; dr. Raihan mencurigai lupus; rujukan | Membawa catatan lengkap; tes darah | Perjalanan pertama ke kota | Hasil lab: "ANA positif" |
 | 5 | Diagnosis lupus dengan ginjal; JKN baru berlaku | Mengurus kepesertaan JKN/PBI | Ibu yang diam di lorong rumah sakit | Dokter: "Ini bukan penyakit yang selesai." |
 | 6 | SMP: steroid, wajah bulat, rambut rontok; jilbab; payung hitam; **naksir Bagus**; "Wulan Bulan" | Meminta guru mengirim tugas ke rumah | Humor sebagai tameng; titip salam bocor | Bagus tertawa, tapi bukan pada dia |
@@ -40,7 +40,7 @@ Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi
 | 23 | AI mulai dipakai (2022): membantu, juga salah | Menguji AI; tidak menyalin | Kebanggaan kecil yang bocor |
 | 24 | Publikasi pertama; wisuda; Ibu mengira surel kampus penipuan | Menulis naskah; revisi | Bapak memakai kemeja |
 | 25 | IELTS tiga kali; rekomendasi; wawancara beasiswa; gagal dulu | Tahapan seleksi | Gagal, ulang, lolos |
-| 26 | Dingin pertama di Inggris; Amara; **penghalang manusia diperkenalkan** (senior peneliti/pendana) | Beradaptasi; meminta bantuan | Tiwul untuk teman lab; Idul Fitri jauh dari rumah |
+| 26 | Dingin pertama di Inggris; Amara; **Julian Thorne, pendana, diperkenalkan** | Beradaptasi; meminta bantuan | Tiwul untuk teman lab; Idul Fitri jauh dari rumah |
 | *Interlude III (2031)* | Pesan Rizal yang tak dibalas | | |
 
 ## Babak III — Formula (2026–2031, usia 24–29)
@@ -57,14 +57,16 @@ Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi
 | 35 | Pesaing dan pendana menekan; pengumuman sebagian | Menyembunyikan sebagian |
 | 36 | 2031: pengumuman; pulang ke Pucung; Rasulan | Menyambung prolog |
 
-**Epilog.** Arsip. Wulan menuliskan hal yang tidak ingin ia lupakan. Tangan Ibu, lagi.
+**Epilog.** Arsip. Wulan menuliskan hal yang tidak ingin ia lupakan. Tangan Ibu, lagi. **Secercah warna:** Tika, kini bidan, bercerita bahwa seorang anak perempuan di Pucung, Sekar, datang ke puskesmas dengan buku catatan keluhan dan dirujuk lebih awal; Ardi, adik Wulan, kuliah lewat KIP Kuliah. Wulan tidak mengatakan apa pun tentang dirinya, tetapi ia mendirikan dana kecil tanpa nama untuk kartu catatan keluhan di puskesmas Gunungkidul. Lingkaran *kupu-kupu* menutup tanpa melanggar rahasianya.
 
 ## Keputusan yang sudah dikunci
 - Wulan tidak menceritakan rahasianya kepada siapa pun.
 - Jilbab mulai di SMP.
 - Tidak ada rujukan ke proyek sebelumnya.
 - Romansa sedikit; adat dan budaya Indonesia dihormati.
+- Akhir: pahit-manis dengan **secercah warna** (lihat epilog).
+- Penghalang manusia: **pendana yang menekan** (Julian Thorne).
 
 ## Pertanyaan terbuka
 - Akhir: pahit-manis murni, atau ada secercah (misalnya makna lewat Ardi, adiknya, atau lewat anak-anak yang kelak ditolong formula, tanpa melanggar keputusan di atas)?
-- Identitas dan motif penghalang manusia (bab 26).
+- Detail Julian Thorne (lihat `01-tokoh-dan-dunia.md`): seberapa dekat ia pada kebenaran tentang tubuh Wulan?
