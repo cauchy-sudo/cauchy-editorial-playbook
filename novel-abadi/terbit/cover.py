@@ -1,336 +1,324 @@
 #!/usr/bin/env python3
-"""Sampul novel: seekor kupu-kupu yang tersusun dari sel-sel berpendar,
-seperti foto mikroskop imunofluoresensi (inti sel, membran, mitokondria).
+"""Sampul novel: plat ilmiah berlatar terang. Enam tahap siklus sel
+(interfase, profase, metafase, anafase, telofase, sitokinesis) mengelilingi
+heliks DNA, digambar bergaya diagram buku biologi dengan warna cerah.
 
-Hanya memakai Pillow. Hasil deterministik (seed tetap).
-    python3 cover.py "Judul|baris|baris" "Nama Penulis" keluaran.jpg
+Hanya memakai Pillow; hasil deterministik.
+    python3 cover.py "Baris1|Baris2" "Nama Penulis" keluaran.jpg
 """
 import math, random, sys
 from pathlib import Path
 from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 
 W, H = 1600, 2400
-SS = 2                                   # supersampling lapisan sel
+S = 2                                        # supersampling
 FD = "/usr/share/fonts/opentype/linux-libertine/"
-CX, CY = W // 2, 1440                    # pusat kupu-kupu
+RC, RR, CR = (800, 1520), 455, 128           # pusat cincin, jari-jari cincin, jari-jari sel
+
+NAVY = (27, 38, 74)
+MAGENTA = (226, 48, 134)
+CYAN = (22, 160, 216)
+ORANGE = (245, 150, 24)
+GREEN = (66, 182, 104)
+VIOLET = (112, 80, 196)
+YELLOW = (250, 200, 40)
+CHROMS = [MAGENTA, CYAN, ORANGE, GREEN, VIOLET]
 
 
 def font(name, size):
     return ImageFont.truetype(FD + name, size)
 
 
-def lerp(a, b, t):
-    return tuple(a[i] + (b[i] - a[i]) * t for i in range(3))
+def mix(c, t, base=(255, 255, 255)):
+    """Campur warna c dengan putih: t=0 -> c, t=1 -> putih."""
+    return tuple(int(c[i] * (1 - t) + base[i] * t) for i in range(3))
 
 
-def teardrop(cx, cy, a, b, angle, skew=0.28, n=240):
-    """Poligon sayap: elips yang meruncing ke satu ujung, diputar `angle`."""
+class Pen:
+    """Penggambar dengan koordinat logis (W x H) pada kanvas S kali lebih besar."""
+
+    def __init__(self, img):
+        self.d = ImageDraw.Draw(img)
+
+    def circle(self, x, y, r, fill=None, outline=None, width=0):
+        self.d.ellipse([(x - r) * S, (y - r) * S, (x + r) * S, (y + r) * S],
+                       fill=fill, outline=outline, width=int(width * S))
+
+    def ellipse(self, x, y, rx, ry, fill=None, outline=None, width=0):
+        self.d.ellipse([(x - rx) * S, (y - ry) * S, (x + rx) * S, (y + ry) * S],
+                       fill=fill, outline=outline, width=int(width * S))
+
+    def line(self, pts, fill, width, round_caps=True):
+        sp = [(x * S, y * S) for x, y in pts]
+        self.d.line(sp, fill=fill, width=int(width * S), joint="curve")
+        if round_caps:
+            for (x, y) in (pts[0], pts[-1]):
+                self.circle(x, y, width / 2, fill=fill)
+
+    def poly(self, pts, fill=None, outline=None, width=0):
+        sp = [(x * S, y * S) for x, y in pts]
+        if fill:
+            self.d.polygon(sp, fill=fill)
+        if outline:
+            self.line(pts + [pts[0]], outline, width)
+
+
+def chromosome(p, x, y, size, ang, col):
+    """Kromosom berbentuk X (dua kromatid dengan sentromer)."""
+    a = math.radians(ang)
+    for s in (+1, -1):
+        b = a + s * math.radians(24)
+        dx, dy = math.cos(b) * size, math.sin(b) * size
+        p.line([(x - dx, y - dy), (x + dx, y + dy)], col, size * 0.34)
+    p.circle(x, y, size * 0.2, fill=mix(col, 0.35))
+
+
+def chromatid_v(p, x, y, size, toward, col):
+    """Kromatid anafase: V dengan ujung menuju kutub (toward = +1 kanan / -1 kiri)."""
+    for s in (+1, -1):
+        p.line([(x, y), (x - toward * size * 0.75, y + s * size * 0.8)], col, size * 0.3)
+    p.circle(x, y, size * 0.2, fill=mix(col, 0.35))
+
+
+def nucleus(p, x, y, r, col=VIOLET, squiggles=True):
+    p.circle(x, y, r, fill=mix(col, 0.72), outline=col, width=r * 0.09)
+    p.circle(x - r * 0.18, y - r * 0.12, r * 0.24, fill=mix(col, 0.15))      # anak inti
+    if squiggles:
+        rng = random.Random(int(x * 7 + y))
+        for _ in range(5):
+            a = rng.uniform(0, 2 * math.pi)
+            sx, sy = x + r * 0.45 * math.cos(a), y + r * 0.45 * math.sin(a)
+            pts = [(sx + k * r * 0.08 * (1 if rng.random() < 0.5 else -1) + r * 0.06 * math.sin(k),
+                    sy + k * r * 0.07 + r * 0.05 * math.cos(k * 1.7)) for k in range(5)]
+            p.line(pts, mix(col, 0.15), r * 0.045)
+
+
+def mitochondrion(p, x, y, size, ang):
+    a = math.radians(ang)
+    cs, sn = math.cos(a), math.sin(a)
     pts = []
-    ca, sa = math.cos(angle), math.sin(angle)
-    for k in range(n):
-        t = 2 * math.pi * k / n
-        x = a * math.cos(t)
-        y = b * math.sin(t) * (1 - skew * math.cos(t))
-        pts.append((cx + x * ca - y * sa, cy + x * sa + y * ca))
+    for k in range(24):
+        t = 2 * math.pi * k / 24
+        ex, ey = size * math.cos(t), size * 0.5 * math.sin(t)
+        pts.append((x + ex * cs - ey * sn, y + ex * sn + ey * cs))
+    p.poly(pts, fill=mix(ORANGE, 0.45), outline=ORANGE, width=size * 0.14)
+    p.line([(x - cs * size * 0.5, y - sn * size * 0.5), (x + cs * size * 0.5, y + sn * size * 0.5)],
+           mix(ORANGE, 0.1), size * 0.1, round_caps=False)
+
+
+def membrane_cell(p, x, y, rx, ry, col):
+    p.ellipse(x, y, rx, ry, fill=mix(col, 0.82), outline=col, width=6)
+    p.ellipse(x, y, rx - 12, ry - 12, outline=mix(col, 0.55), width=2)
+
+
+def dumbbell(x, y, rx, ry, pinch):
+    pts = []
+    n = 60
+    for k in range(n + 1):
+        px = -rx + 2 * rx * k / n
+        h = ry * math.sqrt(max(0.0, 1 - (px / rx) ** 2)) * (1 - pinch * math.exp(-(px / (0.28 * rx)) ** 2))
+        pts.append((x + px, y - h))
+    for k in range(n, -1, -1):
+        px = -rx + 2 * rx * k / n
+        h = ry * math.sqrt(max(0.0, 1 - (px / rx) ** 2)) * (1 - pinch * math.exp(-(px / (0.28 * rx)) ** 2))
+        pts.append((x + px, y + h))
     return pts
 
 
-def wing_polys():
-    """(sayap atas, sayap bawah) untuk sisi kanan; sisi kiri dicerminkan."""
-    up = teardrop(CX + 318, CY - 195, 430, 245, math.radians(-34), skew=-0.42)
-    lo = teardrop(CX + 235, CY + 265, 300, 175, math.radians(38), skew=-0.30)
-    return up, lo
+def stage(p, kind, x, y, r, col):
+    if kind == "interfase":
+        membrane_cell(p, x, y, r, r, col)
+        for (a, d, s, an) in ((200, 0.78, 20, 20), (320, 0.74, 18, -40), (95, 0.78, 19, 70), (20, 0.8, 16, 10)):
+            mitochondrion(p, x + r * d * math.cos(math.radians(a)), y + r * d * math.sin(math.radians(a)), s, an)
+        nucleus(p, x, y, r * 0.5)
+    elif kind == "profase":
+        membrane_cell(p, x, y, r, r, col)
+        for k in range(36):                                  # selaput inti putus-putus
+            if k % 2 == 0:
+                a0, a1 = 2 * math.pi * k / 36, 2 * math.pi * (k + 1) / 36
+                p.line([(x + r * 0.55 * math.cos(a0 + t * (a1 - a0)), y + r * 0.55 * math.sin(a0 + t * (a1 - a0)))
+                        for t in (0, .5, 1)], VIOLET, 3.5, round_caps=False)
+        for i, (dx, dy, an) in enumerate(((-0.22, -0.18, 20), (0.2, -0.22, 80), (-0.12, 0.2, 140), (0.24, 0.16, 55))):
+            chromosome(p, x + r * dx, y + r * dy, r * 0.22, an, CHROMS[i])
+        for sx in (-1, 1):
+            p.circle(x + sx * r * 0.76, y - r * 0.05, 6.5, fill=NAVY)
+    elif kind == "metafase":
+        membrane_cell(p, x, y, r, r, col)
+        poles = [(x - r * 0.82, y), (x + r * 0.82, y)]
+        ys = [-0.56, -0.28, 0, 0.28, 0.56]
+        for i, dy in enumerate(ys):
+            for (px, py) in poles:
+                p.line([(px, py), (x, y + r * dy)], mix(NAVY, 0.55), 2.2, round_caps=False)
+        for px, py in poles:
+            p.circle(px, py, 7, fill=NAVY)
+        for i, dy in enumerate(ys):
+            chromosome(p, x, y + r * dy, r * 0.17, 90 + (i - 2) * 6, CHROMS[i % 5])
+    elif kind == "anafase":
+        rx, ry = r * 1.22, r * 0.92
+        membrane_cell(p, x, y, rx, ry, col)
+        poles = [(x - rx * 0.86, y), (x + rx * 0.86, y)]
+        ys = [-0.5, -0.25, 0, 0.25, 0.5]
+        for i, dy in enumerate(ys):
+            for side, (px, py) in zip((-1, 1), poles):
+                p.line([(px, py), (x + side * rx * 0.38, y + ry * dy)], mix(NAVY, 0.55), 2.2, round_caps=False)
+        for px, py in poles:
+            p.circle(px, py, 7, fill=NAVY)
+        for i, dy in enumerate(ys):
+            for side in (-1, 1):
+                chromatid_v(p, x + side * rx * 0.38, y + ry * dy, r * 0.17, side, CHROMS[i % 5])
+    elif kind == "telofase":
+        rx, ry = r * 1.28, r * 0.86
+        pts = dumbbell(x, y, rx, ry, 0.42)
+        p.poly(pts, fill=mix(col, 0.82), outline=col, width=6)
+        for sx in (-1, 1):
+            nucleus(p, x + sx * rx * 0.52, y, r * 0.36, squiggles=False)
+            mitochondrion(p, x + sx * rx * 0.5, y + r * 0.6 * (1 if sx < 0 else -1), 13, 25 * sx)
+    elif kind == "sitokinesis":
+        for sx in (-1, 1):
+            cx = x + sx * r * 0.66
+            membrane_cell(p, cx, y, r * 0.66, r * 0.66, col)
+            nucleus(p, cx, y, r * 0.32, squiggles=False)
+            mitochondrion(p, cx + sx * r * 0.28, y + r * 0.38, 12, -20 * sx)
 
 
-def mirror(poly):
-    return [(2 * CX - x, y) for x, y in poly]
+def arrow_arc(p, a0, a1, col):
+    pts = []
+    n = 14
+    for k in range(n + 1):
+        a = math.radians(a0 + (a1 - a0) * k / n)
+        pts.append((RC[0] + RR * math.cos(a), RC[1] + RR * math.sin(a)))
+    p.line(pts, col, 5)
+    (x1, y1), (x0, y0) = pts[-1], pts[-3]
+    ang = math.atan2(y1 - y0, x1 - x0)
+    tip = (x1 + math.cos(ang) * 14, y1 + math.sin(ang) * 14)
+    wing = [(x1 + math.cos(ang + s * 2.5) * 22, y1 + math.sin(ang + s * 2.5) * 22) for s in (-1, 1)]
+    p.poly([tip, wing[0], wing[1]], fill=col)
 
 
-def make_masks():
-    up, lo = wing_polys()
-    m_up = Image.new("L", (W, H), 0)
-    m_lo = Image.new("L", (W, H), 0)
-    m_bd = Image.new("L", (W, H), 0)
-    for poly in (up, mirror(up)):
-        ImageDraw.Draw(m_up).polygon(poly, fill=255)
-    for poly in (lo, mirror(lo)):
-        ImageDraw.Draw(m_lo).polygon(poly, fill=255)
-    d = ImageDraw.Draw(m_bd)
-    d.ellipse([CX - 36, CY - 330, CX + 36, CY - 200], fill=255)          # kepala + dada
-    d.ellipse([CX - 44, CY - 230, CX + 44, CY + 180], fill=255)          # toraks
-    d.ellipse([CX - 34, CY + 120, CX + 34, CY + 470], fill=255)          # perut
-    return m_up, m_lo, m_bd
-
-
-def place_cells(masks, rng):
-    m_up, m_lo, m_bd = masks
-    cells, grid, g = [], {}, 40
-    px = {k: m.load() for k, m in zip("ulb", masks)}
-
-    def region(x, y):
-        if not (0 <= x < W and 0 <= y < H):
-            return None
-        if px["b"][x, y]:
-            return "b"
-        if px["u"][x, y]:
-            return "u"
-        if px["l"][x, y]:
-            return "l"
-        return None
-
-    def free(x, y, r):
-        gx, gy = int(x // g), int(y // g)
-        for i in range(gx - 2, gx + 3):
-            for j in range(gy - 2, gy + 3):
-                for (ox, oy, orr) in grid.get((i, j), ()):
-                    if (ox - x) ** 2 + (oy - y) ** 2 < (orr + r - 3) ** 2:
-                        return False
-        return True
-
-    for rad_hi, rad_lo, tries in ((46, 30, 9000), (30, 18, 22000), (18, 11, 40000)):
-        for _ in range(tries):
-            x, y = rng.randrange(CX - 760, CX + 760), rng.randrange(CY - 520, CY + 560)
-            r = rng.uniform(rad_lo, rad_hi)
-            reg = region(x, y)
-            if reg is None:
-                continue
-            # tepi sel harus berada di dalam bentuk (uji 8 titik)
-            ok = True
-            for a in range(0, 360, 45):
-                if region(int(x + r * 0.9 * math.cos(math.radians(a))),
-                          int(y + r * 0.9 * math.sin(math.radians(a)))) is None:
-                    ok = False
-                    break
-            if not ok or not free(x, y, r):
-                continue
-            cells.append((x, y, r, reg))
-            grid.setdefault((int(x // g), int(y // g)), []).append((x, y, r))
-    return cells
-
-
-PAL = {
-    "u_in": (255, 70, 175), "u_out": (255, 165, 40),     # sayap atas: magenta -> jingga
-    "l_in": (40, 190, 255), "l_out": (110, 245, 120),    # sayap bawah: sian -> hijau
-    "b": (255, 214, 90),                                  # tubuh: kuning emas
-}
-
-
-def cell_color(x, y, reg, rng):
-    dist = abs(x - CX)
-    if reg == "u":
-        t = min(1.0, max(0.0, (dist - 60) / 640))
-        c = lerp(PAL["u_in"], PAL["u_out"], t)
-    elif reg == "l":
-        t = min(1.0, max(0.0, (dist - 40) / 420))
-        c = lerp(PAL["l_in"], PAL["l_out"], t)
-    else:
-        c = PAL["b"]
-    j = rng.uniform(-18, 18)
-    return tuple(max(0, min(255, int(v + j))) for v in c)
-
-
-def draw_cell(d, x, y, r, col, rng):
-    s = SS
-    X, Y, R = x * s, y * s, r * s
-    dark = tuple(int(v * 0.12) for v in col)
-    mid = tuple(int(v * 0.30) for v in col)
-    d.ellipse([X - R, Y - R, X + R, Y + R], fill=dark)
-    d.ellipse([X - R * 0.86, Y - R * 0.86, X + R * 0.86, Y + R * 0.86], fill=mid)
-    d.ellipse([X - R, Y - R, X + R, Y + R], outline=col, width=max(2, int(R * 0.09)))
-    # mitokondria: lonjong kecil di cincin luar
-    if r > 17:
-        for _ in range(rng.randint(3, 6)):
-            a = rng.uniform(0, 2 * math.pi)
-            dd = R * rng.uniform(0.58, 0.78)
-            mx, my = X + dd * math.cos(a), Y + dd * math.sin(a)
-            mr = R * 0.09
-            mit = (255, 235, 150) if rng.random() < 0.5 else (255, 140, 60)
-            d.ellipse([mx - mr * 1.8, my - mr, mx + mr * 1.8, my + mr], fill=mit)
-    # inti sel (biru-ungu seperti pewarna DAPI), sedikit bergeser
-    nr = R * rng.uniform(0.34, 0.44)
-    nx, ny = X + R * rng.uniform(-0.1, 0.1), Y + R * rng.uniform(-0.1, 0.1)
-    nuc = (rng.randint(70, 110), rng.randint(110, 150), 255)
-    d.ellipse([nx - nr, ny - nr, nx + nr, ny + nr], fill=nuc)
-    if r > 15:
-        k = nr * 0.32
-        d.ellipse([nx - k * 0.6, ny - k * 0.4, nx + k * 0.6, ny + k * 0.8], fill=(20, 28, 90))
+def helix(p, cx, cy, half_h, amp, turns):
+    items = []
+    n = 220
+    for k in range(n + 1):
+        t = k / n
+        y = cy - half_h + 2 * half_h * t
+        ph = 2 * math.pi * turns * t
+        xa, za = cx + amp * math.sin(ph), math.cos(ph)
+        xb, zb = cx - amp * math.sin(ph), -math.cos(ph)
+        items.append((za, "s", xa, y, MAGENTA, za))
+        items.append((zb, "s", xb, y, CYAN, zb))
+        if k % 7 == 3:
+            c1, c2 = ((ORANGE, GREEN), (YELLOW, VIOLET))[(k // 7) % 2]
+            items.append((0, "r", xa, y, (xb, c1, c2), 0))
+    items.sort(key=lambda it: it[0])
+    for z, kind, x, y, col, depth in items:
+        if kind == "s":
+            p.circle(x, y, 10 + 3.5 * depth, fill=mix(col, 0.0 if depth > 0 else 0.28))
+        else:
+            xb, c1, c2 = col
+            xm = (x + xb) / 2
+            p.line([(x, y), (xm, y)], c1, 7)
+            p.line([(xm, y), (xb, y)], c2, 7)
 
 
 def background(rng):
-    bg = Image.new("RGB", (W, H))
-    d = ImageDraw.Draw(bg)
-    top, mid, bot = (10, 14, 38), (24, 20, 58), (8, 26, 44)
-    for y in range(H):
-        t = y / (H - 1)
-        c = lerp(top, mid, t * 2) if t < 0.5 else lerp(mid, bot, (t - 0.5) * 2)
-        d.line([(0, y), (W, y)], fill=tuple(int(v) for v in c))
-    # sel di luar fokus, besar dan samar
-    far = Image.new("RGB", (W, H), (0, 0, 0))
-    fd = ImageDraw.Draw(far)
-    cols = [(120, 40, 140), (30, 90, 150), (150, 70, 40), (30, 120, 100), (90, 50, 160)]
-    for _ in range(46):
-        x, y = rng.randrange(-100, W + 100), rng.randrange(-100, H + 100)
-        r = rng.randint(50, 190)
+    img = Image.new("RGB", (W * S, H * S))
+    d = ImageDraw.Draw(img)
+    top, bot = (252, 248, 239), (243, 235, 221)
+    for y in range(0, H * S, 4):
+        t = y / (H * S - 1)
+        d.rectangle([0, y, W * S, y + 4], fill=tuple(int(top[i] + (bot[i] - top[i]) * t) for i in range(3)))
+    p = Pen(img)
+    # halo di balik cincin, bergaya lensa mikroskop
+    p.circle(RC[0], RC[1], 640, fill=(255, 253, 249))
+    p.circle(RC[0], RC[1], 640, outline=mix(CYAN, 0.7), width=3)
+    p.circle(RC[0], RC[1], 622, outline=mix(MAGENTA, 0.8), width=2)
+    for k in range(120):
+        a = 2 * math.pi * k / 120
+        l = 18 if k % 5 == 0 else 9
+        p.line([(RC[0] + 640 * math.cos(a), RC[1] + 640 * math.sin(a)),
+                (RC[0] + (640 + l) * math.cos(a), RC[1] + (640 + l) * math.sin(a))], mix(NAVY, 0.55), 2.5, round_caps=False)
+    # konfeti: sel dan molekul kecil pucat
+    cols = [MAGENTA, CYAN, ORANGE, GREEN, VIOLET, YELLOW]
+    placed = 0
+    while placed < 70:
+        x, y = rng.randrange(90, W - 90), rng.randrange(90, H - 90)
+        if math.hypot(x - RC[0], y - RC[1]) < 700 or (y < 880 and 120 < x < W - 120) or y > 2240:
+            continue
         c = rng.choice(cols)
-        fd.ellipse([x - r, y - r, x + r, y + r], outline=c, width=rng.randint(6, 16))
-        if rng.random() < 0.7:
-            q = int(r * 0.35)
-            fd.ellipse([x - q, y - q, x + q, y + q], fill=tuple(int(v * 0.8) for v in c))
-    far = far.filter(ImageFilter.GaussianBlur(26))
-    far = ImageEnhance.Brightness(far).enhance(0.75)
-    return ImageChops.screen(bg, far)
+        r = rng.choice((10, 14, 20, 28, 40))
+        if rng.random() < 0.55:
+            p.circle(x, y, r, fill=mix(c, 0.78), outline=mix(c, 0.35), width=3)
+            p.circle(x + r * 0.15, y - r * 0.1, r * 0.38, fill=mix(c, 0.35))
+        else:
+            p.line([(x - r, y), (x + r, y)], mix(c, 0.35), 4)
+            p.line([(x, y - r), (x, y + r)], mix(c, 0.35), 4)
+        placed += 1
+    return img, p
 
 
-def vignette(img):
-    mask = Image.radial_gradient("L").resize((W, H))           # 0 di pusat, 255 di tepi
-    mask = mask.point(lambda v: int(max(0, v - 90) * 0.9))
-    black = Image.new("RGB", (W, H), (2, 4, 14))
-    return Image.composite(black, img, mask)
+def draw_plate(p):
+    kinds = ["interfase", "profase", "metafase", "anafase", "telofase", "sitokinesis"]
+    names = ["Interfase", "Profase", "Metafase", "Anafase", "Telofase", "Sitokinesis"]
+    accents = [CYAN, VIOLET, MAGENTA, ORANGE, GREEN, CYAN]
+    angs = [-90, -30, 30, 90, 150, 210]
+    for a in angs:                                    # panah antar tahap
+        arrow_arc(p, a + 25, a + 35, mix(NAVY, 0.25))
+    # heliks DNA di tengah, dalam lingkaran perbesaran
+    p.circle(RC[0], RC[1], 262, fill=(255, 255, 255), outline=mix(NAVY, 0.4), width=3)
+    p.circle(RC[0], RC[1], 248, outline=mix(YELLOW, 0.3), width=2)
+    helix(p, RC[0], RC[1], 205, 66, 2.6)
+    lab = ImageFont.truetype(FD + "LinLibertine_RI.otf", 40 * S)
+    for i, a in enumerate(angs):
+        ca, sa = math.cos(math.radians(a)), math.sin(math.radians(a))
+        stage(p, kinds[i], RC[0] + RR * ca, RC[1] + RR * sa, CR, accents[i])
+        txt = f"{i + 1}  {names[i]}"
+        w = p.d.textlength(txt, font=lab) / S
+        cx, cy = RC[0] + RR * ca, RC[1] + RR * sa
+        above = sa < 0.2 and not (a == 90)          # sel di bagian atas: label di atasnya
+        reach = CR + 34
+        ty = cy - reach - 24 if above else cy + reach - 20
+        p.d.text(((cx - w / 2) * S, ty * S), txt, font=lab, fill=NAVY)
 
 
-def cells_layer(masks, rng):
-    cells = place_cells(masks, rng)
-    layer = Image.new("RGB", (W * SS, H * SS), (0, 0, 0))
-    d = ImageDraw.Draw(layer)
-    cells.sort(key=lambda c: -c[2])                    # besar dulu, kecil di atas
-    for x, y, r, reg in cells:
-        draw_cell(d, x, y, r, cell_color(x, y, reg, rng), rng)
-    layer = layer.resize((W, H), Image.LANCZOS)
-    # urat sayap: garis tipis memancar dari tubuh
-    vein = Image.new("RGB", (W, H), (0, 0, 0))
-    vd = ImageDraw.Draw(vein)
-    for side in (1, -1):
-        for ang, ln, y0 in ((-58, 700, -120), (-42, 780, -100), (-26, 760, -80), (-10, 700, -50),
-                            (14, 520, 10), (32, 470, 40), (50, 400, 70)):
-            a = math.radians(ang)
-            x0, y0_ = CX + side * 30, CY + y0
-            x1, y1 = x0 + side * ln * math.cos(a), y0_ + ln * math.sin(a)
-            vd.line([(x0, y0_), (x1, y1)], fill=(255, 255, 255), width=3)
-    vein = vein.filter(ImageFilter.GaussianBlur(1.2))
-    vein = ImageEnhance.Brightness(vein).enhance(0.28)
-    layer = ImageChops.screen(layer, vein)
-    # antena
-    ant = ImageDraw.Draw(layer)
-    for side in (1, -1):
-        pts = [(CX + side * 14, CY - 318)]
-        for k in range(1, 40):
-            t = k / 39
-            pts.append((CX + side * (14 + 150 * t - 40 * t * t), CY - 318 - 330 * t + 70 * t * t))
-        ant.line(pts, fill=(255, 224, 140), width=5)
-        ex, ey = pts[-1]
-        ant.ellipse([ex - 14, ey - 14, ex + 14, ey + 14], fill=(255, 140, 70))
-        ant.ellipse([ex - 6, ey - 6, ex + 6, ey + 6], fill=(255, 245, 200))
-    return layer
-
-
-def glow(layer):
-    out = layer
-    for rad, gain in ((8, 0.14), (26, 0.20), (70, 0.22)):
-        b = layer.filter(ImageFilter.GaussianBlur(rad))
-        b = ImageEnhance.Brightness(b).enhance(gain * 2)
-        out = ImageChops.screen(out, b)
-    return out
-
-
-def sparkle(img, rng):
-    """Titik terang kecil: debu sel dan butir pendar."""
-    layer = Image.new("RGB", (W, H), (0, 0, 0))
-    d = ImageDraw.Draw(layer)
-    cols = [(255, 90, 180), (60, 210, 255), (255, 200, 80), (130, 255, 150), (160, 140, 255)]
-    for _ in range(420):
-        x, y = rng.randrange(W), rng.randrange(H)
-        r = rng.choice((1, 1, 2, 2, 3, 4))
-        c = rng.choice(cols)
-        d.ellipse([x - r, y - r, x + r, y + r], fill=c)
-    layer = ImageChops.screen(layer, layer.filter(ImageFilter.GaussianBlur(5)))
-    layer = ImageEnhance.Brightness(layer).enhance(0.7)
-    return ImageChops.screen(img, layer)
-
-
-def grain(img):
-    noise = Image.effect_noise((W, H), 38).convert("RGB")
-    noise = ImageEnhance.Brightness(noise).enhance(0.9)
-    noise = ImageEnhance.Contrast(noise).enhance(0.35)
-    return ImageChops.add(img, noise, scale=1.0, offset=-128 + 6)
-
-
-def text_layer(title_lines, author, subtitle="SEBUAH NOVEL"):
-    """Teks digambar pada lapisan hitam agar bisa diberi pendar halus."""
-    layer = Image.new("RGB", (W, H), (0, 0, 0))
-    d = ImageDraw.Draw(layer)
-
+def draw_text(p, title_lines, author, subtitle="SEBUAH NOVEL"):
     def centered(txt, y, f, fill, track=0):
         if track:
-            widths = [d.textlength(ch, font=f) for ch in txt]
+            widths = [p.d.textlength(ch, font=f) / S for ch in txt]
             total = sum(widths) + track * (len(txt) - 1)
             x = (W - total) / 2
             for ch, w in zip(txt, widths):
-                d.text((x, y), ch, font=f, fill=fill)
+                p.d.text((x * S, y * S), ch, font=f, fill=fill)
                 x += w + track
         else:
-            d.text(((W - d.textlength(txt, font=f)) / 2, y), txt, font=f, fill=fill)
+            p.d.text(((W - p.d.textlength(txt, font=f) / S) / 2 * S, y * S), txt, font=f, fill=fill)
 
-    cream = (250, 240, 218)
-    centered(subtitle, 128, font("LinLibertine_R.otf", 46), (206, 196, 230), track=14)
-    y = 215
-    for txt, size in title_lines:
-        f = font("LinLibertine_RI.otf", size)
-        centered(txt, y, f, cream)
-        y += int(size * 1.02)
-    centered(author.upper(), H - 235, font("LinLibertine_R.otf", 76), (255, 226, 160), track=22)
-    return layer
+    centered(subtitle, 118, font("LinLibertine_R.otf", 44 * S), mix(NAVY, 0.25), track=16)
+    y = 175
+    cols = [NAVY, MAGENTA]
+    for i, (txt, size) in enumerate(title_lines):
+        centered(txt, y, font("LinLibertine_RBI.otf", size * S), cols[i % 2])
+        y += int(size * 1.0)
+    centered(author.upper(), H - 150, font("LinLibertine_R.otf", 66 * S), NAVY, track=20)
 
 
-def science_marks():
-    """Penanda ala mikrograf: batang skala, bidik silang, keterangan."""
-    layer = Image.new("RGB", (W, H), (0, 0, 0))
-    d = ImageDraw.Draw(layer)
-    ink = (225, 225, 240)
-    # batang skala 20 µm (kiri bawah gambar)
-    y = 2050
-    x0, x1 = 150, 150 + 220
-    d.line([(x0, y), (x1, y)], fill=ink, width=6)
-    d.line([(x0, y - 14), (x0, y + 14)], fill=ink, width=4)
-    d.line([(x1, y - 14), (x1, y + 14)], fill=ink, width=4)
-    fs = font("LinBiolinum_R.otf", 40)
-    d.text((x0, y + 22), "20 µm", font=fs, fill=ink)
-    # keterangan kanan bawah
-    fc = font("LinBiolinum_R.otf", 34)
-    lines = ["imunofluoresensi · ×630", "DAPI · FITC · TRITC"]
-    for i, ln in enumerate(lines):
-        w = d.textlength(ln, font=fc)
-        d.text((W - 150 - w, y - 20 + i * 46), ln, font=fc, fill=(190, 190, 215))
-    # penanda sudut tipis
-    for (ax, ay, sx, sy) in ((90, 90, 1, 1), (W - 90, 90, -1, 1), (90, H - 90, 1, -1), (W - 90, H - 90, -1, -1)):
-        d.line([(ax, ay), (ax + sx * 70, ay)], fill=(200, 175, 110), width=3)
-        d.line([(ax, ay), (ax, ay + sy * 70)], fill=(200, 175, 110), width=3)
-    # tanda ukur di sisi gambar
-    for k in range(-6, 7):
-        yy = CY + k * 100
-        ln = 22 if k % 2 == 0 else 12
-        d.line([(100, yy), (100 + ln, yy)], fill=(120, 120, 160), width=2)
-        d.line([(W - 100, yy), (W - 100 - ln, yy)], fill=(120, 120, 160), width=2)
-    return layer
+def frame(p):
+    p.d.rectangle([48 * S, 48 * S, (W - 48) * S, (H - 48) * S], outline=mix(NAVY, 0.3), width=3 * S)
+    p.d.rectangle([62 * S, 62 * S, (W - 62) * S, (H - 62) * S], outline=mix(MAGENTA, 0.5), width=2 * S)
 
 
 def make_cover(title_lines, author, path):
-    rng = random.Random(2002)                  # tahun lahir tokoh
-    img = background(rng)
-    masks = make_masks()
-    lay = cells_layer(masks, rng)
-    img = ImageChops.screen(img, glow(lay))
-    img = ImageChops.screen(img, lay)
-    img = sparkle(img, rng)
-    img = vignette(img)
-    txt = text_layer(title_lines, author)
-    soft = ImageEnhance.Brightness(txt.filter(ImageFilter.GaussianBlur(14))).enhance(1.2)
-    img = ImageChops.screen(img, soft)
-    img = ImageChops.screen(img, txt)
-    img = ImageChops.screen(img, science_marks())
-    img = grain(img)
+    rng = random.Random(2002)
+    img, p = background(rng)
+    draw_plate(p)
+    draw_text(p, title_lines, author)
+    frame(p)
+    img = img.resize((W, H), Image.LANCZOS)
+    noise = Image.effect_noise((W, H), 12).convert("RGB")
+    noise = ImageEnhance.Contrast(noise).enhance(0.25)
+    img = ImageChops.add(img, noise, scale=1.0, offset=-128 + 2)
     path = Path(path)
     if path.suffix.lower() in (".jpg", ".jpeg"):
-        img.save(path, quality=92, optimize=True, subsampling=0)
+        img.save(path, quality=93, optimize=True, subsampling=0)
     else:
         img.save(path)
     return path
@@ -338,6 +326,5 @@ def make_cover(title_lines, author, path):
 
 if __name__ == "__main__":
     spec = sys.argv[1].split("|")
-    sizes = [220, 120, 220]
-    lines = list(zip(spec, sizes))
-    make_cover(lines, sys.argv[2], sys.argv[3])
+    sizes = [260, 340, 260]
+    make_cover(list(zip(spec, sizes)), sys.argv[2], sys.argv[3])

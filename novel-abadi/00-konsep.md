@@ -1,6 +1,6 @@
 # Novel Penemuan Peremajaan Sel — Konsep (v0.1)
 
-> Judul: *Kupu-Kupu yang Salah Hinggap* (penulis: Damar Arang).
+> Judul: *Diam-Diam Abadi* (penulis: Damar Arang).
 
 > **Status v0.4.** Outline diperbarui (`03-outline.md`), struktur dan daya tarik di `05-struktur-dan-daya-tarik.md`, daftar bantahan dan jawaban di `06-celah-logika.md`; `bab-02.md` ditambahkan.
 > **Status v0.3.** Semua jejak proyek sebelumnya telah dihapus. Wulan **tidak menceritakan rahasianya kepada siapa pun**. Ditambah `04-adat-budaya.md` dan alur romansa.

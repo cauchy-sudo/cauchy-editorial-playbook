@@ -17,11 +17,11 @@ HERE = Path(__file__).resolve().parent
 SRC = HERE.parent
 BUILD = HERE / "_build"
 
-DEFAULT_TITLE = "Kupu-Kupu yang Salah Hinggap"
+DEFAULT_TITLE = "Diam-Diam Abadi"
 DEFAULT_SUBTITLE = "Sebuah novel"
 DEFAULT_AUTHOR = "Damar Arang"
-DEFAULT_SLUG = "kupu-kupu-yang-salah-hinggap"
-COVER_LINES = [("Kupu-Kupu", 220), ("yang Salah", 120), ("Hinggap", 220)]   # pemenggalan judul pada sampul
+DEFAULT_SLUG = "diam-diam-abadi"
+COVER_LINES = [("Diam-Diam", 260), ("Abadi", 340)]   # pemenggalan judul pada sampul
 
 # ---------------------------------------------------------------- struktur
 PARTS = [
