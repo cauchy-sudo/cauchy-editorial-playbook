@@ -28,7 +28,7 @@ Kami tidak berbicara lama. Tapi kami berdua diam di telepon selama dua menit pen
 
 Dr. Sumarni mengizinkanku pulang pada hari ketiga setelah Mbah dikuburkan, dengan syarat yang ditulis dalam tiga halaman, dan dengan satu kalimat yang diucapkannya sambil menatap mataku:
 
-"Kamu boleh pulang untuk tahlilan. Kamu tidak boleh ikut kerja bakti. Kamu tidak boleh angkat apa pun. Kamu tidak boleh berdiri lebih dari lima belas menit. Dan kamu harus kembali Senin."
+"Kamu boleh pulang untuk tahlilan. Kamu tidak boleh ikut kerja bakti. Kamu tidak boleh angkat apa pun. Kamu tidak boleh berdiri lebih dari lima belas menit. Dan kamu harus kembali Selasa."
 
 "Saya mengerti, Dok."
 
