@@ -1,8 +1,8 @@
 # Novel Penemuan Peremajaan Sel — Konsep (v0.1)
 
 > Judul kerja belum ada. Usulan: *Usia yang Tidak Dihitung* / *Sel yang Mengingat Muda* / *Jam Biologis*.
-> Folder ini terpisah dari `novel/` (*Bandar Lupa*), yang tidak diubah.
 
+> **Status v0.3.** Semua jejak proyek sebelumnya telah dihapus. Wulan **tidak menceritakan rahasianya kepada siapa pun**. Ditambah `04-adat-budaya.md` dan alur romansa.
 > **Status v0.2.** Keputusan penulis sudah mengunci banyak hal; lihat `01-tokoh-dan-dunia.md` (tokoh, linimasa, aturan formula), `02-panduan-suara.md` (suara orang pertama, anti-menggurui), `03-outline.md`, `prolog.md`, dan `bab-01.md`.
 > Perubahan terhadap dokumen ini: bagian 2 dan 9 sudah terjawab; di bagian 4.3 usulan "otak dikecualikan" **digantikan** oleh keputusan penulis: seluruh tubuh dan otak diremajakan, yang terbatas adalah kapasitas ingatan.
 
@@ -23,7 +23,6 @@
 - **Apakah tokoh akhirnya menjadi abadi?** Di ide awal tokohnya abadi dan tak ada yang tahu. Di ide baru dia penemu. Saya usulkan keduanya bersatu: *dia pasien nol*. Formula pertama kali dipakai pada dirinya sendiri karena penyakitnya, dan dia merahasiakannya. Lihat bagian 5.
 - **Gender tokoh.** Anda memakai "dia", jadi dokumen ini netral. Tapi pilihan penyakit (bagian 6) dipengaruhi gender.
 - **Tahun cerita.** Hari ini Oktober 2026. Lihat bagian 7.
-- **Nasib *Bandar Lupa*:** dilanjutkan, dijeda, atau digabung?
 
 ---
 
@@ -156,7 +155,6 @@ Prototipe, pengaman kanker, tekanan waktu (penyakitnya kambuh parah, atau pendan
 4. Rentang tahun cerita (bagian 7)?
 5. Kota/desa asal (nama dan wilayah) yang ingin Anda pakai?
 6. Pembaca sasaran dan nada: drama menyentuh, thriller ilmiah, atau keduanya?
-7. Nasib *Bandar Lupa*.
 
 ---
 

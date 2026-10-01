@@ -1,6 +1,6 @@
 # Panduan Suara dan Gaya (v0.2)
 
-Berlaku untuk seluruh novel ini. Melengkapi `novel/panduan-penulisan.md` (kalimat, dialog, logika, daya tarik).
+Berlaku untuk seluruh novel ini. Melengkapi `panduan-penulisan.md` (kalimat, dialog, logika, daya tarik) dan `04-adat-budaya.md` (adat dan budaya).
 
 ## 1. Suara narator
 - **Orang pertama, "aku"**, kala lampau, ditulis dari dalam adegan. Pengetahuan narator = pengetahuan Wulan *pada saat itu*. Tidak ada ramalan ("kelak aku akan...") kecuali satu dua kali dengan sangat hemat.
@@ -51,3 +51,11 @@ Perlihatkan pengakuan sebagai peristiwa kecil dan nyata: nama di daftar, surat p
 
 ## 7. Akurasi peta jalan
 Pembaca mungkin menirunya. Semua detail prosedur (program beasiswa, syarat, istilah seleksi, tenggat) harus diperiksa ulang pada tahun cerita dan pada saat terbit. Tandai di `01-tokoh-dan-dunia.md` dengan **[V]** dan catat sumber.
+
+## 8. Romansa
+- **Sedikit dan getir-manis.** Romansa menghidupkan Wulan, bukan menjadi alur utama.
+- **Naksir** ditulis dari dalam: salah tingkah, memperhatikan hal kecil, humor yang bocor.
+- **Tata krama setempat:** batas berduaan, ibu kos, tetangga, rasa malu. Wulan menyiasati, tidak menantang.
+- Tidak ada adegan seksual. Pada tokoh di bawah 18 tahun tidak ada adegan romantis fisik berlebihan.
+- Tidak ada rival jahat. Tidak ada tokoh pria yang menjadi "hadiah" cerita.
+- Setiap hubungan berakhir karena alasan yang masuk akal dan manusiawi, bukan karena kebetulan.

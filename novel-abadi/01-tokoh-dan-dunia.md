@@ -17,6 +17,10 @@
 | 10 | Tokoh menarik bagi sesama perempuan dan lawan jenis, tetapi punya keterbatasan. |
 | 11 | Tidak menggurui. |
 | 12 | Tidak ada penjelasan diri penulis atau curhat penulis di dalam teks. |
+| 13 | Wulan **tidak menceritakan rahasianya kepada siapa pun**. |
+| 14 | Semua jejak proyek sebelumnya dihapus. |
+| 15 | Romansa **sedikit**: dari naksir remaja sampai cinta yang tak bisa dijalani. |
+| 16 | Cerita **tidak boleh bertentangan dengan adat dan budaya Indonesia**; pedoman di `04-adat-budaya.md`. |
 
 ## 2. Latar tempat
 **Dusun Pucung, Gunungkidul, DI Yogyakarta** (nama dusun rekaan; wilayah nyata).
@@ -42,7 +46,11 @@ Alasan pilihan [P]:
 | **dr. Raihan** | Dokter PTT muda di Puskesmas; menyadari lupus dan merujuk. |
 | **Bu Ratmi** | Guru IPA SMP; mentor pertama. |
 | **Pak Karto** | Penjaga taman bacaan desa. |
-| **Naufal** | Teman SMA; cinta pertama yang sederhana dan getir. |
+| **Bagus Setiawan** | Teman sekelas SMP (kelas VIII); jago voli, baik hati, tidak peka. Naksir pertama Wulan. |
+| **Naufal Hidayat** (lahir 2001) | Teman sebangku SMA; anak pedagang kelontong di Wonosari; pendiam, pandai memperbaiki radio. Cinta pertama yang sederhana dan getir. Diterima di kampus teknik di Bandung (2020). |
+| **Daffa Pratama** | Ketua OSIS, ramah, populer, keluarga mampu. Menyukai Wulan; ia menolak dengan halus dan mereka tetap berteman. |
+| **Bayu Prakoso** (lahir 1998) | Kakak tingkat S1, asisten lab; dari Klaten; hangat. Ibunya halus menanyakan *bibit, bebet, bobot*. |
+| **Rizal Firmansyah** | Mahasiswa S3 Indonesia di kampus lain di Inggris; mereka cocok. Wulan menolaknya karena rahasianya. |
 | **Dr. Anindya Prameswari** | Dosen biologi sel di kampus S1; pembimbing riset. (Nama fiktif.) |
 | **Prof. Eleanor Whitcombe** | Pembimbing S3 di Inggris. (Nama fiktif; institusi fiktif: *Institut Peremajaan Sel Hartwell*.) |
 | **Amara** | Teman satu lab di luar negeri; pengganti "rumah". |
@@ -58,12 +66,12 @@ Nama untuk anak lahir sekitar 2002 [P]: Wulan, Tika/Fitriana, Rizki, Dinda, Nabi
 
 **Harga dan batas.**
 - **Kapasitas ingatan terbatas** [P: asumsi fiksi]. Seluruh otak berfungsi muda, tetapi tempat menyimpan ingatan jangka panjang tidak bertambah. Seiring tahun, ingatan lama **memadat**: peristiwa bertahan, detail memudar. Yang pertama hilang: suara, bau, wajah yang jarang diingat. Yang bertahan: emosi kuat dan hal yang sering diulang.
-- **Alat melawan lupa:** jurnal, foto, rekaman, dan AI sebagai memori eksternal. Ini menyambung ke tema arsip dan ingatan di *Bandar Lupa*.
+- **Alat melawan lupa:** jurnal, foto, rekaman, dan AI sebagai memori eksternal.
 - **Pengaman yang aus:** tiap tahun ada peluang kecil mutasi yang membuat pengaman gagal, lalu kanker lolos. Hidupnya tanpa batas usia, bukan tanpa risiko.
 - **Ketergantungan dosis:** bila pulsa terhenti terlalu lama, "utang penuaan" tertagih cepat.
 - **Trauma besar** tetap dapat membunuhnya.
 
-**Mengapa tidak ada yang tahu.** Dia pasien nol tanpa persetujuan etik; mengakuinya bisa menghentikan formula dan karirnya. Dia belum yakin aman bagi orang lain. Ada pihak yang akan mengejarnya.
+**Mengapa tidak ada yang tahu.** Wulan tidak menceritakannya kepada siapa pun, termasuk keluarga, sahabat, dan kekasih. Dia pasien nol tanpa persetujuan etik; mengakuinya bisa menghentikan formula dan karirnya. Dia belum yakin aman bagi orang lain. Ada pihak yang akan mengejarnya.
 
 ## 5. Linimasa 2002–2031 (usia dan jangkar dunia nyata)
 
@@ -76,7 +84,8 @@ Nama untuk anak lahir sekitar 2002 [P]: Wulan, Tika/Fitriana, Rizki, Dinda, Nabi
 | **Jan 2014** | 11 | Rujukan ke RS di Yogyakarta; diagnosis lupus dengan ginjal terlibat | JKN dimulai 1 Jan 2014 [V] |
 | 2014 | 12 | SMP; steroid, wajah bulat, rambut rontok, payung hitam | |
 | 2017 | 15 | SMA negeri di Wonosari; kos | |
-| 2017–19 | 15–17 | Olimpiade biologi, cinta pertama, kambuh besar kelas XI | |
+| 2017–19 | 15–17 | Olimpiade biologi, Naufal, Daffa, kambuh besar kelas XI | |
+| 2019 | 17 | Mbah Darmi wafat; tahlilan | |
 | **Mar 2020** | 17–18 | Pandemi; belajar daring dari bukit sinyal | COVID-19 di Indonesia [V] |
 | 2020 | 18 | Masuk kampus top nasional dengan KIP Kuliah | Bidikmisi digantikan KIP Kuliah 2020 [V]; seleksi SNMPTN/SBMPTN saat itu [V] |
 | 2020–24 | 18–22 | S1 biologi/biokimia; riset dengan Dr. Anindya | |
@@ -90,6 +99,17 @@ Nama untuk anak lahir sekitar 2002 [P]: Wulan, Tika/Fitriana, Rizki, Dinda, Nabi
 | 2029 | 27 | **Dosis pertama pada diri sendiri**; ginjal pulih | |
 | 2030 | 28 | Menyadari tubuh tak lagi menua; ingatan mulai memadat | |
 | **2031** | 29 | Penemuan diumumkan; pulang ke Pucung | |
+
+## 5b. Alur romansa (sedikit, tidak mengambil alih cerita)
+| Usia | Tokoh | Apa yang terjadi | Mengapa tidak jadi |
+|---|---|---|---|
+| 13 (SMP, 2015) | **Bagus** | Naksir diam-diam; titip salam lewat Tika bocor; ditertawakan sebentar | Ia cuma menganggap Wulan lucu; wajah steroid membuat Wulan malu |
+| 15–18 (SMA, 2017–20) | **Naufal** | Sebangku, radio, buku; dekat tanpa *jadian* | Ia diterima kuliah di Bandung; mereka menjauh pelan. "Kami tidak putus karena tidak pernah jadian." |
+| 15–18 | **Daffa** | Mengajak Wulan *jadian* | Wulan menolak halus; mengenali batas dirinya |
+| 21–22 (S1, 2022) | **Bayu** | Dekat, ke Klaten, ibunya menanyakan *bibit, bebet, bobot*; Wulan mendengar *sing sehat wae* | Wulan mundur lebih dulu |
+| 27–29 (S3, 2029–30) | **Rizal** | Cocok; ia ingin serius setelah Wulan sembuh | Wulan tidak bisa menjalani hidup yang akan ia tinggalkan menua; rahasia tidak dibagi |
+
+Semua adegan romantis ditulis dengan tata krama setempat dan dalam batas usia (lihat `04-adat-budaya.md` bagian 6 dan `02-panduan-suara.md`).
 
 ## 6. Buku besar logika (isi terus)
 | Pertanyaan pembaca skeptis | Jawaban yang harus ada di halaman |

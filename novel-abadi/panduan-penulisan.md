@@ -1,6 +1,6 @@
 # Panduan Penulisan Novel Berbahasa Indonesia (v0.1)
 
-Panduan kerja untuk proyek *Bandar Lupa*. Dibuat dari riset daring (Oktober 2026) dan praktik penulisan umum.
+Panduan kerja untuk novel ini. Dibuat dari riset daring (Oktober 2026) dan praktik penulisan umum.
 
 **Penanda sumber.** Setiap bagian diberi tanda:
 - **[S]** didukung hasil pencarian yang tercantum di bagian Sumber.
@@ -15,27 +15,27 @@ Panduan kerja untuk proyek *Bandar Lupa*. Dibuat dari riset daring (Oktober 2026
 ## 1. Kalimat dalam Bahasa Indonesia
 
 ### 1.1 Unsur dan pola dasar [S]
-Unsur kalimat: **S**ubjek, **P**redikat, **O**bjek, **Pel**engkap, **K**eterangan. Pola dasar S–P bisa berkembang menjadi S–P–O, S–P–K, S–P–O–K, dan S–P–O–Pel; kalimat juga bisa berupa predikat saja. Contoh dengan bahan dunia *Bandar Lupa*:
+Unsur kalimat: **S**ubjek, **P**redikat, **O**bjek, **Pel**engkap, **K**eterangan. Pola dasar S–P bisa berkembang menjadi S–P–O, S–P–K, S–P–O–K, dan S–P–O–Pel; kalimat juga bisa berupa predikat saja. Contoh dengan bahan dunia novel ini:
 
 | Pola | Contoh |
 |---|---|
-| S–P | Air pasang. / Laras tersenyum. |
-| S–P–O | Laras membaca label itu. |
-| S–P–Pel | Wira bermain petak umpet. |
-| S–P–K | Laras bekerja di gudang arsip. |
-| S–P–O–K | Laras menyimpan kerang itu di saku apronnya. |
-| S–P–O–Pel | Nenek Sumi memberi Laras sebuah kunci. |
+| S–P | Hujan turun. / Wulan tersenyum. |
+| S–P–O | Wulan membaca surat itu. |
+| S–P–Pel | Tika bermain petak umpet. |
+| S–P–K | Wulan belajar di perpustakaan desa. |
+| S–P–O–K | Wulan menyimpan uang itu di saku roknya. |
+| S–P–O–Pel | Mbah memberi Wulan sebuah kunci. |
 | P saja | Hujan. / Berhenti! |
 
 Hal praktis [P]:
-- **Predikat tidak harus kata kerja.** Boleh nomina (*Laras arsiparis*), adjektiva (*Gudang itu lembap*), atau frasa depan (*Kerang itu di laci*).
-- **Objek bisa jadi subjek kalimat pasif, pelengkap tidak.** *Label itu dibaca Laras* sah. *Petak umpet dimainkan Wira* terdengar janggal karena "petak umpet" pelengkap yang melekat pada kata kerjanya.
-- **Keterangan paling lincah posisinya.** Ia bisa dipindah ke depan, tengah, atau belakang. Inilah alat ritme utama: *Tiga hari sebelum Pasang Lupa, Gudang Arsip berbau garam.* / *Gudang Arsip berbau garam, tiga hari sebelum Pasang Lupa.*
+- **Predikat tidak harus kata kerja.** Boleh nomina (*Wulan murid baru*), adjektiva (*Dapur itu lembap*), atau frasa depan (*Uangnya di kaleng*).
+- **Objek bisa jadi subjek kalimat pasif, pelengkap tidak.** *Surat itu dibaca Wulan* sah. *Petak umpet dimainkan Tika* terdengar janggal karena "petak umpet" pelengkap yang melekat pada kata kerjanya.
+- **Keterangan paling lincah posisinya.** Ia bisa dipindah ke depan, tengah, atau belakang. Inilah alat ritme utama: *Saat upacara, lapangan itu berdebu.* / *Lapangan itu berdebu saat upacara.*
 
 ### 1.2 Kalimat tunggal dan majemuk [S]
-- **Tunggal**: satu klausa. *Laras membuka laci.*
-- **Majemuk setara**: klausa sejajar, dihubungkan *dan, tetapi, atau, lalu, sedangkan*. *Laras membuka laci, tetapi laci itu kosong.*
-- **Majemuk bertingkat**: ada klausa inti dan klausa bawahan, dihubungkan *karena, ketika, meskipun, sehingga, agar, bahwa, yang*. *Karena lampu padam, Laras meraba rak satu per satu.*
+- **Tunggal**: satu klausa. *Wulan membuka lemari.*
+- **Majemuk setara**: klausa sejajar, dihubungkan *dan, tetapi, atau, lalu, sedangkan*. *Wulan membuka lemari, tetapi lemari itu kosong.*
+- **Majemuk bertingkat**: ada klausa inti dan klausa bawahan, dihubungkan *karena, ketika, meskipun, sehingga, agar, bahwa, yang*. *Karena lampu padam, Wulan meraba dinding satu per satu.*
 
 ### 1.3 Jenis kalimat menurut fungsi [S]
 | Fungsi | Ciri | Pemakaian dalam fiksi [P] |
@@ -46,10 +46,10 @@ Hal praktis [P]:
 | Seru | Tanda seru, *alangkah, betapa* | Hemat; seruan berlebihan terasa murahan |
 
 ### 1.4 Aktif, pasif, dan pasif persona [P]
-- **Aktif (meN-)**: *Laras membaca surat itu.*
-- **Pasif di-**: *Surat itu dibaca Laras.* Cocok bila pelaku tak penting atau tak diketahui: *Laci itu dikunci.*
+- **Aktif (meN-)**: *Wulan membaca surat itu.*
+- **Pasif di-**: *Surat itu dibaca Wulan.* Cocok bila pelaku tak penting atau tak diketahui: *Pintu itu dikunci.*
 - **Pasif persona** (pelaku orang pertama atau kedua, ditulis melekat): *Surat itu kubaca sekali lagi. Pintu itu kaututup?* Ini ciri khas bahasa Indonesia yang membuat prosa sudut pandang orang pertama atau orang ketiga terbatas terasa dekat dan mengalir. Tulis *kubaca, kaubaca* serangkai, bukan *aku baca* di narasi baku.
-- **Inversi (P–S)** untuk penekanan: *Datanglah pasang itu.* / *Di anak tangga terakhir berdiri Wira.* Pakai sesekali.
+- **Inversi (P–S)** untuk penekanan: *Datanglah hujan itu.* / *Di ambang pintu berdiri Bapak.* Pakai sesekali.
 - **Kalimat minor** (satu kata atau frasa): *Hening. Dingin.* Efektif untuk jeda, tetapi makin sering dipakai makin tumpul.
 
 ### 1.5 Kalimat efektif [S]
@@ -59,13 +59,13 @@ Kesalahan yang sering muncul [P] beserta perbaikannya:
 
 | Masalah | Salah | Benar |
 |---|---|---|
-| Subjek tertimbun kata depan | *Dalam gudang itu menyimpan banyak kerang.* | *Gudang itu menyimpan banyak kerang.* |
+| Subjek tertimbun kata depan | *Di dalam kaleng itu menyimpan banyak receh.* | *Kaleng itu menyimpan banyak receh.* |
 | Pleonasme | *naik ke atas, maju ke depan, para hadirin sekalian* | *naik, maju, para hadirin* |
-| Jamak ganda | *banyak kerang-kerang, para tamu-tamu* | *banyak kerang, para tamu* |
+| Jamak ganda | *banyak receh-receh, para tamu-tamu* | *banyak receh, para tamu* |
 | Tak paralel | *Ia suka membaca, menulis, dan musik.* | *Ia suka membaca, menulis, dan bermain musik.* |
-| *di mana / yang mana* gaya terjemahan | *gudang di mana ia bekerja* | *gudang tempat ia bekerja* |
+| *di mana / yang mana* gaya terjemahan | *sekolah di mana ia belajar* | *sekolah tempat ia belajar* |
 | Imbuhan salah | *merubah, nampak, resiko, praktek, analisa* | *mengubah, tampak, risiko, praktik, analisis* |
-| Ambigu | *Wira melihat kerang Laras yang jatuh.* (siapa/apa yang jatuh?) | *Wira melihat kerang yang jatuh dari tangan Laras.* |
+| Ambigu | *Tika melihat uang Wulan yang jatuh.* (siapa/apa yang jatuh?) | *Tika melihat uang yang jatuh dari tangan Wulan.* |
 | Penulisan *di* | *di laci* (kata depan, pisah) vs *dibaca* (awalan, serangkai) | konsisten |
 
 ### 1.6 Menulis dialog [S]
@@ -73,9 +73,9 @@ Kaidah ejaan dari sumber:
 1. Dialog diapit tanda petik dua tanpa spasi.
 2. Huruf pertama dialog kapital.
 3. Tanda baca akhir dialog diletakkan **sebelum** tanda petik penutup.
-4. Setelah *tag dialog* (kata, tanya, bisik, seru, sahut), gunakan koma dan huruf kecil: *"Aku tidak percaya," kata Laras.*
-5. Bila yang mengikuti bukan tag dialog melainkan aksi, akhiri dialog dengan titik lalu kapital: *"Aku tidak percaya." Laras menutup buku.*
-6. Dialog yang dijeda: *"Kerang itu," katanya, "tidak seharusnya ada di sana."*
+4. Setelah *tag dialog* (kata, tanya, bisik, seru, sahut), gunakan koma dan huruf kecil: *"Aku tidak percaya," kata Wulan.*
+5. Bila yang mengikuti bukan tag dialog melainkan aksi, akhiri dialog dengan titik lalu kapital: *"Aku tidak percaya." Wulan menutup buku.*
+6. Dialog yang dijeda: *"Kaleng itu," katanya, "tidak boleh kosong."*
 
 Tambahan [P]:
 - Biarkan tokoh berbicara dalam ragam lisan (*nggak, kok, sih*) bila itu cocok dengan karakternya; narasi tetap baku-luwes. Tulis kata daerah/asing dengan huruf miring.
@@ -105,12 +105,12 @@ Pilih satu halaman dari tiga penulis di atas. Untuk tiap halaman catat:
 3. Berapa kalimat pasif persona, berapa inversi, berapa kalimat minor.
 4. Jenis majas yang dominan.
 5. Kapan penulis memberi informasi dan kapan menahan.
-Lalu tulis ulang adegan bab 1 *Bandar Lupa* dengan tiga gaya itu, dan lihat mana yang terasa paling benar. Jangan menyalin teks bertak cipta ke repo; cukup catat statistik dan temuan Anda.
+Lalu tulis ulang adegan bab 1 novel ini dengan tiga gaya itu, dan lihat mana yang terasa paling benar. Jangan menyalin teks bertak cipta ke repo; cukup catat statistik dan temuan Anda.
 
-### Arah gaya untuk *Bandar Lupa* [P]
-- Narasi tenang dan sensorik (garam, lilin, kertas); kalimat rata-rata sekitar 8–20 kata dengan beberapa kalimat panjang untuk adegan lambat dan kalimat pendek untuk ketegangan.
-- Pasif persona dipakai di batin Laras (*Kerang itu kudengar sampai habis*) untuk kedekatan.
-- Humor kecil lewat Wira dan Raka sebagai penyeimbang suasana muram.
+### Arah gaya untuk novel ini [P]
+- Narasi hangat dan sensorik (bau tanah, tiwul, minyak kayu putih); kalimat rata-rata sekitar 8–20 kata dengan beberapa kalimat panjang untuk adegan lambat dan kalimat pendek untuk ketegangan.
+- Pasif persona dipakai di batin Wulan (*Surat itu kubaca sampai habis*) untuk kedekatan.
+- Humor kecil lewat Tika dan Wulan sendiri sebagai penyeimbang suasana muram.
 - Hindari majas bertumpuk: satu perbandingan kuat per paragraf sudah cukup.
 
 ---
@@ -128,11 +128,11 @@ Lalu tulis ulang adegan bab 1 *Bandar Lupa* dengan tiga gaya itu, dan lihat mana
 Kesuksesan = kualitas cerita × kemudahan ditemukan × waktu × keberuntungan. Penulis mengendalikan yang pertama, dan sebagian yang kedua (judul, kalimat pembuka, premis satu kalimat, komunitas pembaca awal).
 
 Yang harus ada di naskah:
-1. **Premis satu kalimat yang bisa diceritakan ke orang lain** dalam 10 detik. Bandar Lupa: *"Di kota yang dihapus lautnya tiap 40 hari, seorang arsiparis menemukan pesan dari dirinya sendiri."*
+1. **Premis satu kalimat yang bisa diceritakan ke orang lain** dalam 10 detik. Novel ini: *"Seorang anak dusun yang tubuhnya menyerang dirinya sendiri tumbuh menjadi peneliti yang menemukan cara memulai ulang tubuh manusia."*
 2. **Tokoh yang menginginkan sesuatu sekarang** dan bertindak untuk itu, bukan hanya mengalami.
 3. **Emosi inti yang jelas** (kehilangan, rasa ingin pulang, pengkhianatan oleh yang dipercaya). Pembaca mengingat perasaan lebih lama daripada plot.
 4. **Kekhasan tempat dan bahasa.** Dunia yang hanya mungkin ada di sini, bukan salinan fantasi Eropa.
-5. **Hubungan yang dekat** antar tokoh (Laras–Nenek Sumi, Laras–Wira, Laras–Raka), karena temuan tema kedekatan dan karena hubungan menahan pembaca.
+5. **Hubungan yang dekat** antar tokoh (Wulan–Ibu, Wulan–Tika, Wulan–Naufal), karena temuan tema kedekatan dan karena hubungan menahan pembaca.
 
 ---
 
@@ -151,8 +151,8 @@ Yang harus ada di naskah:
 5. **Memberi bahasa baru** untuk pengalaman yang tadinya tak bernama.
 
 ### Konsekuensi untuk proyek ini [P]
-- Dampak adalah akibat, bukan target yang bisa dijadwalkan. Fokuskan niat pada **satu pertanyaan moral** yang sungguh-sungguh Anda pedulikan; jawaban biarlah muncul dari cerita. Untuk *Bandar Lupa* pertanyaannya: *siapa yang berhak menentukan apa yang boleh diingat sebuah masyarakat, dan apa harga kebenaran yang datang sekaligus?*
-- Hindari novel sebagai pidato. Tokoh antagonis (Ardhana) harus punya alasan yang bisa membuat pembaca ragu.
+- Dampak adalah akibat, bukan target yang bisa dijadwalkan. Fokuskan niat pada **satu pertanyaan moral** yang sungguh-sungguh Anda pedulikan; jawaban biarlah muncul dari cerita. Untuk novel ini pertanyaannya bisa: *apa yang berani dipertaruhkan seseorang agar tak ada lagi anak yang kalah karena terlambat ditolong, dan apa harga yang ia bayar sendirian?*
+- Hindari novel sebagai pidato. Tokoh penghalang (pesaing, pendana, pihak berwenang) harus punya alasan yang bisa membuat pembaca ragu.
 - Biarkan akhir menanggung biaya. Cerita yang mengubah orang biasanya tidak menghibur terlalu murah.
 
 ---
@@ -166,17 +166,17 @@ Yang harus ada di naskah:
 2. **Hukum kedua:** batasan, harga, dan kelemahan lebih menarik daripada kekuatan.
 3. **Hukum ketiga:** sebelum menambah unsur baru, gali dulu yang sudah ada, termasuk dampaknya pada masyarakat, ekonomi, dan kehidupan sehari-hari.
 
-Penerapan ke Bandar Lupa [P]: aturan Pasang Lupa (`00-dunia-dan-tokoh.md`) sudah punya harga (satu kerang ≈ satu jam), jadi gali dampaknya: ekonomi kerang, pencuri kerang, orang miskin yang kehilangan hari-hari biasa, pekerjaan arsiparis, hukum waris kerang.
+Penerapan ke novel ini [P]: aturan formula dan memori (`01-tokoh-dan-dunia.md`) sudah punya harga (pengaman yang aus, kapasitas ingatan terbatas), jadi gali dampaknya: biaya dosis, jejak medis yang harus disembunyikan, dan siapa yang bisa curiga.
 
 ### 5.2 Praktik menjaga logika [P]
-1. **Satu kebohongan besar.** Pembaca mau menerima satu keajaiban di awal (Pasang Lupa). Jangan menambah keajaiban baru untuk menyelamatkan plot.
+1. **Satu kebohongan besar.** Pembaca mau menerima satu keajaiban di awal (formula peremajaan sel). Jangan menambah keajaiban baru untuk menyelamatkan plot.
 2. **Rantai sebab-akibat.** Hubungkan adegan dengan *karena itu* atau *tetapi*, bukan *lalu*. Jika dua adegan hanya bisa disambung dengan *lalu*, adegan kedua mungkin tidak perlu.
 3. **Tokoh bertindak menurut apa yang ia tahu saat itu**, bukan apa yang penulis tahu. Uji: kalau tokoh bisa menyelesaikan masalah dengan satu pesan atau satu pertanyaan, penulis harus punya alasan mengapa ia tidak melakukannya, dan alasan itu harus tertulis.
 4. **Setup dan payoff** [S]. Unsur yang diberi perhatian besar harus berbuah setara; unsur yang tak pernah dipakai terasa seperti lubang. Catat siapa tahu apa, dan apakah benang itu disegarkan sebelum dipakai.
 5. **Buku besar (ledger).** Simpan tabel: aturan dunia, lini waktu, siapa tahu apa kapan, dan benda penting beserta lokasinya. Perbarui tiap bab.
 6. **Pertanyaan pembaca skeptis.** Untuk tiap twist, tulis 10 pertanyaan "kenapa tidak...?" dan pastikan ada jawabannya di halaman.
 7. **Twist yang adil.** Pembaca harus bisa membaca ulang dan melihat petunjuknya sudah ada.
-8. **Fakta nyata dibuat benar** (laut, kerang, kearsipan, sejarah) agar kepercayaan pembaca pada bagian rekaan tetap utuh.
+8. **Fakta nyata dibuat benar** (biologi sel, lupus, sistem JKN, beasiswa, adat) agar kepercayaan pembaca pada bagian rekaan tetap utuh.
 
 ---
 
@@ -188,7 +188,7 @@ Penerapan ke Bandar Lupa [P]: aturan Pasang Lupa (`00-dunia-dan-tokoh.md`) sudah
 - **Rumus akhir bab:** potong di tengah krisis; jatuhkan pengungkapan lalu potong sebelum ada yang bereaksi; kedatangan tak terduga.
 - **Taruhan jelas:** tunjukkan apa yang penting bagi tokoh dan apa yang bisa hilang.
 - **Bayarannya wajib.** Bab berikutnya harus menepati; jika kalimat mengagetkan berujung kecewa, pembaca merasa ditipu. Tulis dulu adegan bayarannya sebelum memutuskan untuk memotong.
-- **Menurut genre:** misteri dan thriller memakai pengait pertanyaan, pengungkapan, dan ancaman; fiksi sastra lebih memakai perubahan emosi dan keputusan. Bandar Lupa berada di antara keduanya.
+- **Menurut genre:** misteri dan thriller memakai pengait pertanyaan, pengungkapan, dan ancaman; fiksi sastra lebih memakai perubahan emosi dan keputusan. Novel ini berada di antara keduanya: drama emosi dengan unsur thriller ilmiah.
 
 ### Resep kerja [P]
 1. **Mulai terlambat, keluar lebih awal.** Masuk adegan saat sudah ada sesuatu yang bergerak, keluar sebelum semuanya tuntas.
@@ -201,7 +201,7 @@ Penerapan ke Bandar Lupa [P]: aturan Pasang Lupa (`00-dunia-dan-tokoh.md`) sudah
 
 ### Templat bab [P]
 ```
-Tujuan Laras di bab ini:
+Tujuan Wulan di bab ini:
 Penghalang:
 Apa yang berubah (nilai/taruhan/informasi):
 Loop yang dibuka:
@@ -212,29 +212,7 @@ Bayaran di bab berikutnya:
 
 ---
 
-## 7. Audit Bab 1 terhadap Panduan [P]
-
-**Yang sudah bekerja**
-- Pengait kuat di akhir (*"berarti aku berhasil menyelinap lagi"*, *"jangan ikat apa pun"*).
-- Loop terbuka: laci keenam, tulisan tangan Laras, tanggal di masa depan, kata *lagi*, nyanyian yang didengar Wira, debu dan sungai kering, larangan mengikat.
-- Tokoh punya keinginan segera: Laras menyelidiki.
-
-**Lubang logika yang harus diputuskan (penting)**
-1. **Paradoks tanggal.** Label bertanggal hari Pasang dan Laras menyimpulkan kerang itu "baru akan diikat nanti", tetapi isinya sudah rekaman. Ada dua jalan:
-   - **A (disarankan):** tanggal di label berarti *"untuk didengar pada hari itu"*, bukan tanggal diikat. Laras-lama merekamnya sebelum ia dihapus. Tidak ada paradoks, dan *"lagi"* menjadi petunjuk bahwa ini terjadi berulang.
-   - **B:** kerang benar-benar datang dari masa depan. Ini menuntut aturan baru dengan biaya dan batas (kena Hukum 1 dan 2), dan menambah "kebohongan besar" kedua.
-2. **Judul bab keliru.** *"Kerang yang Bukan Milik Siapa-siapa"* bertentangan dengan isi: kerang itu justru milik Laras. Ganti, mis. *"Laci Keenam"*.
-3. **"Daftar" belum diperkenalkan.** Suara di kerang menyuruh Laras tak percaya Daftar, tetapi bab ini tak pernah menyebut Daftar Resmi lebih dulu. Tanam satu penyebutan sebelumnya (setup).
-4. **Mengapa selama sebelas tahun Laras tak pernah melihat laci itu?** Perlu aturan: laci hanya terlihat bila kerang jatuh, atau ia pernah tahu dan lupa. Jawabannya harus ada di bab 3–5.
-5. **Mengapa Wira tak melihatnya?** Bila itu disengaja, nanti harus terbayar.
-
-**Prosa**
-- Empat paragraf prosedur di awal cenderung menjelaskan. Pecah menjadi dua dan sisipkan lewat tindakan atau dialog.
-- Paragraf penutup (*"mencari sesuatu yang belum ia ketahui namanya"*) lebih lemah daripada pengait sebelumnya. Pertimbangkan berhenti pada kata *"Lagi."*
-
----
-
-## 8. Daftar Periksa
+## 7. Daftar Periksa
 
 **Per bab**
 - [ ] Ada tujuan, penghalang, dan perubahan keadaan.
