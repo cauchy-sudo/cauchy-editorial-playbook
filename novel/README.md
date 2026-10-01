@@ -17,6 +17,7 @@
 ## Isi folder
 | Berkas | Isi |
 |---|---|
+| `panduan-penulisan.md` | Panduan menulis: kalimat Bahasa Indonesia, gaya novelis, daya tarik, logika cerita, audit bab 1 |
 | `00-dunia-dan-tokoh.md` | Aturan dunia, tempat, daftar tokoh |
 | `01-outline.md` | Kerangka tiga babak, 24 bab |
 | `bab-01.md` | Draf bab 1 |
@@ -26,4 +27,5 @@
 - [x] Dunia & tokoh (v0.1)
 - [x] Outline (v0.1)
 - [x] Bab 1 (draf 1)
+- [x] Panduan penulisan (v0.1)
 - [ ] Bab 2 dan seterusnya
