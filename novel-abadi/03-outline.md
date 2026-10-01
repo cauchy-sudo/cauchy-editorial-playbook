@@ -68,5 +68,4 @@ Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi
 - Penghalang manusia: **pendana yang menekan** (Julian Thorne).
 
 ## Pertanyaan terbuka
-- Akhir: pahit-manis murni, atau ada secercah (misalnya makna lewat Ardi, adiknya, atau lewat anak-anak yang kelak ditolong formula, tanpa melanggar keputusan di atas)?
 - Detail Julian Thorne (lihat `01-tokoh-dan-dunia.md`): seberapa dekat ia pada kebenaran tentang tubuh Wulan?
