@@ -1,6 +1,6 @@
 # Novel Peremajaan Sel — Draf 1 Lengkap
 
-Judul kerja belum ditetapkan (usulan: *Usia yang Tidak Dihitung*, *Sel yang Mengingat Muda*, *Jam Biologis*).
+**Kupu-Kupu yang Salah Hinggap** — novel oleh Damar Arang. (Alternatif judul yang dipertimbangkan: *Masih Sama*, *Usia yang Tidak Dihitung*, *Dengar yang Lemah*.)
 Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 interlude, epilog.
 
 ## Urutan baca
@@ -26,9 +26,11 @@ Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 inte
 Folder `terbit/` berisi hasil kompilasi dan skrip pembuatnya.
 | Berkas | Keterangan |
 |---|---|
-| `terbit/usia-yang-tidak-dihitung.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±333 halaman, daftar isi dan penanda bacaan |
-| `terbit/usia-yang-tidak-dihitung.epub` | EPUB 3 dengan sampul; lolos EpubCheck (0 galat, 0 peringatan) |
-| `terbit/usia-yang-tidak-dihitung.tex` | sumber LaTeX hasil pembangkitan (untuk diperiksa atau disunting) |
+| `terbit/kupu-kupu-yang-salah-hinggap.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±335 halaman, sampul penuh, daftar isi dan penanda bacaan |
+| `terbit/kupu-kupu-yang-salah-hinggap.epub` | EPUB 3 dengan sampul sel berpendar; lolos EpubCheck (0 galat, 0 peringatan) |
+| `terbit/kupu-kupu-yang-salah-hinggap.tex` | sumber LaTeX hasil pembangkitan (untuk diperiksa atau disunting) |
+| `terbit/sampul.jpg` | gambar sampul (kupu-kupu dari sel-sel berpendar ala mikrograf imunofluoresensi) |
+| `terbit/cover.py` | pembuat sampul (Pillow saja, deterministik) |
 | `terbit/build.py` | skrip build ulang |
 
 Bangun ulang setelah merevisi naskah:

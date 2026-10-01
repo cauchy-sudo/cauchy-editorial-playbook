@@ -17,9 +17,11 @@ HERE = Path(__file__).resolve().parent
 SRC = HERE.parent
 BUILD = HERE / "_build"
 
-DEFAULT_TITLE = "Usia yang Tidak Dihitung"      # judul kerja
+DEFAULT_TITLE = "Kupu-Kupu yang Salah Hinggap"
 DEFAULT_SUBTITLE = "Sebuah novel"
-DEFAULT_AUTHOR = "Nama Penulis"                  # ganti sebelum terbit
+DEFAULT_AUTHOR = "Damar Arang"
+DEFAULT_SLUG = "kupu-kupu-yang-salah-hinggap"
+COVER_LINES = [("Kupu-Kupu", 220), ("yang Salah", 120), ("Hinggap", 220)]   # pemenggalan judul pada sampul
 
 # ---------------------------------------------------------------- struktur
 PARTS = [
@@ -96,6 +98,7 @@ PREAMBLE = r"""
   \renewcommand{\partname}{Babak}%
   \renewcommand{\contentsname}{Daftar Isi}}
 \usepackage{microtype}
+\usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 \usepackage{etoolbox}
@@ -150,10 +153,17 @@ def build_pdf(title, subtitle, author, slug):
                       + r"\newcommand{\bookauthorplain}{" + tex_escape(author) + "}\n", 1)
     out = [pre]
     out.append(r"\begin{document}")
-    # halaman judul
+    # sampul (halaman penuh, tanpa margin) lalu halaman judul
+    cover_img = make_cover(title, subtitle, author, BUILD / "sampul.jpg")
+    cover_tex = ""
+    if cover_img:
+        cover_tex = (r"\newgeometry{margin=0pt}\thispagestyle{empty}\noindent"
+                     r"\includegraphics[width=\paperwidth,height=\paperheight]{" + str(cover_img) + "}"
+                     r"\cleardoublepage\restoregeometry")
     out.append(r"""
 \frontmatter
 \pagestyle{empty}
+""" + cover_tex + r"""
 \begin{titlepage}
 \centering
 \vspace*{26mm}
@@ -253,49 +263,12 @@ section.titlepage, div.titlepage { text-align: center; }
 
 def make_cover(title, subtitle, author, path: Path):
     try:
-        from PIL import Image, ImageDraw, ImageFont
+        import cover
     except ImportError:
-        print("[epub] Pillow tidak ada; sampul dilewati")
+        print("[sampul] Pillow tidak ada; sampul dilewati")
         return None
-    W, H = 1600, 2400
-    img = Image.new("RGB", (W, H), (18, 32, 48))
-    d = ImageDraw.Draw(img)
-    # gradien vertikal
-    top, bot = (16, 30, 46), (46, 40, 58)
-    for y in range(H):
-        t = y / (H - 1)
-        d.line([(0, y), (W, y)], fill=tuple(int(top[i] + (bot[i] - top[i]) * t) for i in range(3)))
-    # bulan (lingkaran pucat) + cincin sel
-    cx, cy, r = W // 2, 1400, 360
-    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(231, 222, 200))
-    d.ellipse([cx - 100, cy - 100, cx + 100, cy + 100], outline=(120, 108, 92), width=6)
-    d.ellipse([cx - 40, cy - 40, cx + 40, cy + 40], fill=(120, 108, 92))
-    for k, rr in enumerate((440, 520, 600)):
-        d.ellipse([cx - rr, cy - rr, cx + rr, cy + rr], outline=(150 - 25 * k, 140 - 22 * k, 130 - 20 * k), width=3)
-    fd = "/usr/share/fonts/opentype/linux-libertine/"
-    f_it = ImageFont.truetype(fd + "LinLibertine_RI.otf", 150)
-    f_sm = ImageFont.truetype(fd + "LinLibertine_R.otf", 56)
-    f_au = ImageFont.truetype(fd + "LinLibertine_R.otf", 84)
-
-    def centered(text, y, font, fill, spacing=0):
-        # perataan tengah dengan wrap sederhana
-        words, lines, cur = text.split(), [], ""
-        for w in words:
-            test = (cur + " " + w).strip()
-            if d.textlength(test, font=font) > W - 240 and cur:
-                lines.append(cur); cur = w
-            else:
-                cur = test
-        lines.append(cur)
-        for ln in lines:
-            d.text(((W - d.textlength(ln, font=font)) / 2, y), ln, font=font, fill=fill)
-            y += int(font.size * 1.18)
-        return y
-    centered(subtitle.upper(), 170, f_sm, (200, 190, 170))
-    centered(title, 300, f_it, (240, 232, 214))
-    centered(author, H - 270, f_au, (225, 216, 196))
-    img.save(path)
-    return path
+    lines = COVER_LINES if "".join(t for t, _ in COVER_LINES).replace(" ", "") == title.replace(" ", "") else [(title, 150)]
+    return cover.make_cover(lines, author, path)
 
 
 def build_epub(title, subtitle, author, slug):
@@ -327,7 +300,7 @@ def build_epub(title, subtitle, author, slug):
            "--metadata-file", str(meta), "--css", str(BUILD / "epub.css"),
            "--toc", "--toc-depth=2", "--split-level=2", "--wrap=none",
            "-o", str(HERE / f"{slug}.epub"), str(BUILD / "epub.md")]
-    cover = make_cover(title, subtitle, author, BUILD / "cover.png")
+    cover = make_cover(title, subtitle, author, BUILD / "sampul.jpg")
     if cover:
         cmd[1:1] = ["--epub-cover-image", str(cover)]
     r = subprocess.run(cmd, capture_output=True, text=True)
@@ -351,7 +324,7 @@ def main():
     ap.add_argument("--title", default=DEFAULT_TITLE)
     ap.add_argument("--subtitle", default=DEFAULT_SUBTITLE)
     ap.add_argument("--author", default=DEFAULT_AUTHOR)
-    ap.add_argument("--slug", default="usia-yang-tidak-dihitung")
+    ap.add_argument("--slug", default=DEFAULT_SLUG)
     ap.add_argument("--only", choices=["pdf", "epub"])
     a = ap.parse_args()
     if a.only != "epub":
