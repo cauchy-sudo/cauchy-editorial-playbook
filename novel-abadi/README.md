@@ -1,6 +1,6 @@
 # Heliks
 
-Novel oleh Damar Arang. Judul lain yang dipertimbangkan: *Diam-Diam Abadi*, *Pasien Nol*, *Sel yang Mengingat*, *Untai Waktu*.
+*Heliks: sebuah novel*, oleh Damar Arang. Judul lain yang dipertimbangkan: *Diam-Diam Abadi*, *Pasien Nol*, *Sel yang Mengingat*, *Untai Waktu*.
 Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 interlude, epilog.
 
 ## Urutan baca

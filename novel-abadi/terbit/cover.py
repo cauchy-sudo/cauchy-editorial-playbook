@@ -4,7 +4,7 @@
 di atas kertas krem, dengan keterangan bergaya buku biologi lama.
 
 Hanya memakai Pillow; hasil deterministik.
-    python3 cover.py "Judul" "Nama Penulis" keluaran.jpg
+    python3 cover.py "Judul" "Nama Penulis" keluaran.jpg ["Subjudul"]
 """
 import math, random, sys
 from pathlib import Path
@@ -191,9 +191,11 @@ def tracked(p, txt, y, f, fill, track):
         x += w + track
 
 
-def draw_text(p, title, author):
+def draw_text(p, title, author, subtitle=""):
     tracked(p, title.upper(), 190, font("LinLibertine_R.otf", 300), INK, 46)
-    p.line([(W / 2 - 90, 565), (W / 2 + 90, 565)], RED, 4, round_caps=False)
+    if subtitle:
+        tracked(p, subtitle.upper(), 500, font("LinLibertine_R.otf", 46), mix(INK, 0.2), 20)
+    p.line([(W / 2 - 90, 590), (W / 2 + 90, 590)], RED, 4, round_caps=False)
     tracked(p, author.upper(), H - 215, font("LinLibertine_R.otf", 62), INK, 22)
 
 
@@ -202,14 +204,14 @@ def frame(p):
     p.d.rectangle([68 * S, 68 * S, (W - 68) * S, (H - 68) * S], outline=mix(RED, 0.55), width=2 * S)
 
 
-def make_cover(title, author, path):
+def make_cover(title, author, path, subtitle=""):
     img, p = background()
     draw_helix(p)
     paper_fade(img, Y0 - 30, Y0 + 130, True)       # ujung atas memudar
     paper_fade(img, Y1 - 150, Y1 + 20, False)      # ujung bawah memudar
     p = Pen(img)
     annotations(p)
-    draw_text(p, title, author)
+    draw_text(p, title, author, subtitle)
     frame(p)
     img = img.resize((W, H), Image.LANCZOS)
     noise = Image.effect_noise((W, H), 14).convert("RGB")
@@ -224,4 +226,4 @@ def make_cover(title, author, path):
 
 
 if __name__ == "__main__":
-    make_cover(sys.argv[1], sys.argv[2], sys.argv[3])
+    make_cover(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4] if len(sys.argv) > 4 else "")

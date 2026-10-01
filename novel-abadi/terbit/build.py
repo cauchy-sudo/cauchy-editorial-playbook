@@ -18,7 +18,7 @@ SRC = HERE.parent
 BUILD = HERE / "_build"
 
 DEFAULT_TITLE = "Heliks"
-DEFAULT_SUBTITLE = ""                       # tanpa subjudul
+DEFAULT_SUBTITLE = "Sebuah novel"
 DEFAULT_AUTHOR = "Damar Arang"
 DEFAULT_SLUG = "heliks"
 
@@ -185,8 +185,8 @@ def build_pdf(title, subtitle, author, slug):
 \begin{titlepage}
 \centering
 \vspace*{26mm}
-""" + (r"{\small\textsc{" + tex_escape(subtitle) + r"}\par}" + "\n" + r"\vspace{10mm}" if subtitle else "") + r"""
 {\fontsize{30}{34}\selectfont\itshape """ + tex_escape(title) + r"""\par}
+""" + (r"\vspace{6mm}" + "\n" + r"{\small\textsc{" + tex_escape(subtitle) + r"}\par}" if subtitle else "") + r"""
 \vspace{10mm}
 {\small\textsc{*\hspace{0.7em}*\hspace{0.7em}*}\par}
 \vfill
@@ -278,7 +278,7 @@ def make_cover(title, subtitle, author, path: Path):
     except ImportError:
         print("[sampul] Pillow tidak ada; sampul dilewati")
         return None
-    return cover.make_cover(title, author, path)
+    return cover.make_cover(title, author, path, subtitle)
 
 
 def build_epub(title, subtitle, author, slug):
