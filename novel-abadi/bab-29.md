@@ -248,7 +248,7 @@ Ia tampak lebih tua daripada pagi hari. Kantung di bawah matanya lebih gelap. Ra
 
 Aku duduk.
 
-"You have fourteen mice," katanya. "A notebook. Thirteen months of LPDP funding left for your stipend. A supervisor with no budget. And a clock that I suspect you've been keeping for years."
+"You have funds for fourteen mice," katanya. "A notebook. Thirteen months of LPDP funding left for your stipend. A supervisor with no budget. And a clock that I suspect you've been keeping for years."
 
 Aku menatap meja.
 
