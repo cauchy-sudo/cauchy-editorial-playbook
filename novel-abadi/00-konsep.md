@@ -3,6 +3,9 @@
 > Judul kerja belum ada. Usulan: *Usia yang Tidak Dihitung* / *Sel yang Mengingat Muda* / *Jam Biologis*.
 > Folder ini terpisah dari `novel/` (*Bandar Lupa*), yang tidak diubah.
 
+> **Status v0.2.** Keputusan penulis sudah mengunci banyak hal; lihat `01-tokoh-dan-dunia.md` (tokoh, linimasa, aturan formula), `02-panduan-suara.md` (suara orang pertama, anti-menggurui), `03-outline.md`, `prolog.md`, dan `bab-01.md`.
+> Perubahan terhadap dokumen ini: bagian 2 dan 9 sudah terjawab; di bagian 4.3 usulan "otak dikecualikan" **digantikan** oleh keputusan penulis: seluruh tubuh dan otak diremajakan, yang terbatas adalah kapasitas ingatan.
+
 **Penanda sumber.** **[S]** didukung hasil pencarian (tercantum di akhir). **[P]** praktik/penalaran umum saya sendiri, belum diverifikasi sumber; sebagian perlu diperiksa ahli (biologi, kedokteran, pendidikan tinggi) sebelum dipakai.
 
 ---
