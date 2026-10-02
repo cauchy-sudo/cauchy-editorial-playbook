@@ -2223,7 +2223,7 @@ Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika ak
 
 "Pulanglah kalau kamu bisa. Orang tua tidak menunggu lama." Bu Haji membuka korannya.
 
-Aku tertawa. Ia tidak.
+Aku mengangguk. Ia tidak menoleh.
 
 ---
 
@@ -5696,7 +5696,7 @@ Sembilan tikus mendapat rancangan baru, dan lima tikus menjadi kontrol, dan aku 
 
 Sembilan tidak banyak. Aku tahu itu. Prof. Whitcombe pun tahu. Sembilan bukan hasil; sembilan adalah harapan yang diberi angka. Tapi aku tidak punya yang lain. Pada bulan April aku mulai menyuntik. Pada bulan Mei aku memeriksa mereka tiap pagi dan tiap sore, mengisi kolom *COMPLAINTS?* dengan huruf kecil yang rapi. Pada bulan Juni, tikus nomor tiga, yang berumur dua puluh bulan dan nyaris tak bisa berdiri ketika tiba, mulai berlari di rodanya pada malam hari.
 
-Tikus nomor lima kutemukan mati pada minggu kesebelas, meringkuk di sudut kandang dengan mata terbuka. Tidak ada massa. Dr. Patel membukanya sendiri sore itu, dan pada akhir pekan hasil patologinya datang: *penyebab kematian tidak dapat ditentukan.* Mungkin infeksi, kata Dr. Patel. Mungkin jantung. Mungkin kami. Aku membaca satu baris itu sampai kertasnya lecek, dan tidak ada cara untuk membuatnya mengatakan yang lain.
+Tikus nomor lima, salah satu dari kesembilan itu, kutemukan mati pada minggu kesebelas, meringkuk di sudut kandang dengan mata terbuka. Tidak ada massa. Dr. Patel membukanya sendiri sore itu, dan pada akhir pekan hasil patologinya datang: *penyebab kematian tidak dapat ditentukan.* Mungkin infeksi, kata Dr. Patel. Mungkin jantung. Mungkin kami. Aku membaca satu baris itu sampai kertasnya lecek, dan tidak ada cara untuk membuatnya mengatakan yang lain.
 
 Pada bulan Juli, aku memeriksa semuanya dengan USG, satu per satu, di bawah lampu redup, dengan Dr. Patel berdiri di sampingku seperti saksi. Aku menahan napas sepanjang pemeriksaan.
 
@@ -6901,7 +6901,7 @@ Dan aku menulis. Setiap malam, selama satu jam, aku menulis tentang hari itu, de
 
 Dokter Suryo memanggilku ke ruangannya pada bulan Oktober, di luar jadwal kontrol, dan sebelum ia mengatakan apa pun aku tahu dari cara ia menutup pintu bahwa ini bukan tentang angka.
 
-"Laju filtrasi lima puluh delapan," katanya juga, seperti dokter yang tak tahan melewatkan kebiasaan. "Stabil sebelas bulan. Duduklah."
+"Laju filtrasi lima puluh delapan," katanya juga, seperti dokter yang tak tahan melewatkan kebiasaan. "Stabil tujuh bulan. Duduklah."
 
 Di mejanya ada dua lembar kertas yang diketik rapat dan dijepit.
 
@@ -7384,7 +7384,7 @@ Layar menjadi gelap.
 
 Surel Prof. Whitcombe sudah menunggu di kotak masukku, dikirim satu jam sebelum Julian menelepon. Tidak ada salam.
 
-*Wulan. Hartwell's compliance office has asked about the sample register for 2029. The box you took is on it, under my signature, with the word "reagents." I have told them what is true: that I sent reagents to a collaborating laboratory under a transfer agreement, and that I am not in the habit of auditing what my students do after they leave me. This is accurate. It is also not the whole of it, and they know that I know it. The institute has offered me early retirement in June. I have accepted. I am not telling you this to make you feel anything. I am telling you because you once said a person must be told the truth. Do not write to me for a year. — E.W.*
+*Wulan. Hartwell's compliance office has asked about the sample register for 2029. The box I sent you is on it, under my signature, with the word "reagents." I have told them what is true: that I sent reagents to a collaborating laboratory under a transfer agreement, and that I am not in the habit of auditing what my students do after they leave me. This is accurate. It is also not the whole of it, and they know that I know it. The institute has offered me early retirement in June. I have accepted. I am not telling you this to make you feel anything. I am telling you because you once said a person must be told the truth. Do not write to me for a year. — E.W.*
 
 Aku membacanya tiga kali. Aku mengetik *I'm sorry*, dan teringat bahwa ia pernah menyuruhku tidak mengucapkannya, dan menghapusnya. Aku mengetik *Thank you*, dan menghapusnya juga.
 
@@ -7394,7 +7394,7 @@ Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan laptop yan
 
 Radio itu mati sebelum aku sempat berdiri, di tengah desisnya, dengan bunyi seperti orang bersin.
 
-Aku membuka laci dan mengeluarkan kantong plastik bening yang sepuluh tahun lalu diletakkan seseorang di bangku stasiun Tugu. Enam tong biru mungil, kakinya bengkok, bagian atasnya menggembung seperti perut. Yang ketujuh sudah kupakai di Cambridge dan sudah mati lagi.
+Aku membuka laci dan mengeluarkan kantong plastik bening yang sepuluh tahun lalu diletakkan seseorang di bangku stasiun Tugu. Tujuh tong biru mungil, kakinya bengkok, bagian atasnya menggembung seperti perut. Belum ada yang terpakai.
 
 *Kali ini kamu yang ganti.*
 

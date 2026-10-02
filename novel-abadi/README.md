@@ -1,7 +1,7 @@
 # Heliks
 
 *Heliks: sebuah novel*, oleh Damar Arang. Judul lain yang dipertimbangkan: *Diam-Diam Abadi*, *Pasien Nol*, *Sel yang Mengingat*, *Untai Waktu*.
-Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 interlude, epilog.
+Sudut pandang orang pertama (Wulan). Sekitar 65.000 kata: prolog, 37 bab, 3 interlude, epilog.
 
 ## Urutan baca
 | Berkas | Isi | Tahun |
@@ -28,8 +28,9 @@ Sudut pandang orang pertama (Wulan). Sekitar 64.000 kata: prolog, 37 bab, 3 inte
 Folder `terbit/` berisi hasil kompilasi dan skrip pembuatnya.
 | Berkas | Keterangan |
 |---|---|
-| `terbit/heliks.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±335 halaman, sampul penuh, daftar isi dan penanda bacaan |
+| `terbit/heliks.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±340 halaman, sampul penuh, daftar isi dan penanda bacaan |
 | `terbit/heliks.epub` | EPUB 3 dengan sampul replikasi DNA; lolos EpubCheck (0 galat, 0 peringatan) |
+| `terbit/heliks-latex.zip` | paket LaTeX mandiri (.tex, sampul, font Linux Libertine); diuji kompilasi dari nol dengan XeLaTeX |
 | `terbit/heliks.tex` | sumber LaTeX hasil pembangkitan (untuk diperiksa atau disunting) |
 | `terbit/sampul.jpg` | gambar sampul (latar krem; heliks DNA yang membelah, untai induk biru tinta dan untai baru merah tua) |
 | `terbit/cover.py` | pembuat sampul (Pillow saja, deterministik) |
@@ -38,8 +39,8 @@ Folder `terbit/` berisi hasil kompilasi dan skrip pembuatnya.
 Bangun ulang setelah merevisi naskah:
 ```
 python3 terbit/build.py                                   # PDF + EPUB
-python3 terbit/build.py --title "Judul" --author "Nama"   # ganti judul dan penulis
-python3 terbit/build.py --only pdf                        # atau --only epub
+python3 terbit/build.py --title "Judul" --subtitle "Subjudul" --author "Nama"   # ganti judul, subjudul, penulis
+python3 terbit/build.py --only pdf                        # atau --only epub / --only md
 ```
 Prasyarat: `pandoc`, TeX Live (`xelatex`), font Linux Libertine O, `Pillow` (sampul), opsional `epubcheck`.
-**Judul dan nama penulis masih placeholder**: "Usia yang Tidak Dihitung" (judul kerja) dan "Nama Penulis".
+Judul, subjudul, dan nama penulis bawaan: *Heliks*, *Sebuah novel*, Damar Arang (dapat diganti lewat opsi di atas).

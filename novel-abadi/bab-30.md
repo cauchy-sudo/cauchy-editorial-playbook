@@ -72,7 +72,7 @@ Sembilan tikus mendapat rancangan baru, dan lima tikus menjadi kontrol, dan aku 
 
 Sembilan tidak banyak. Aku tahu itu. Prof. Whitcombe pun tahu. Sembilan bukan hasil; sembilan adalah harapan yang diberi angka. Tapi aku tidak punya yang lain. Pada bulan April aku mulai menyuntik. Pada bulan Mei aku memeriksa mereka tiap pagi dan tiap sore, mengisi kolom *COMPLAINTS?* dengan huruf kecil yang rapi. Pada bulan Juni, tikus nomor tiga, yang berumur dua puluh bulan dan nyaris tak bisa berdiri ketika tiba, mulai berlari di rodanya pada malam hari.
 
-Tikus nomor lima kutemukan mati pada minggu kesebelas, meringkuk di sudut kandang dengan mata terbuka. Tidak ada massa. Dr. Patel membukanya sendiri sore itu, dan pada akhir pekan hasil patologinya datang: *penyebab kematian tidak dapat ditentukan.* Mungkin infeksi, kata Dr. Patel. Mungkin jantung. Mungkin kami. Aku membaca satu baris itu sampai kertasnya lecek, dan tidak ada cara untuk membuatnya mengatakan yang lain.
+Tikus nomor lima, salah satu dari kesembilan itu, kutemukan mati pada minggu kesebelas, meringkuk di sudut kandang dengan mata terbuka. Tidak ada massa. Dr. Patel membukanya sendiri sore itu, dan pada akhir pekan hasil patologinya datang: *penyebab kematian tidak dapat ditentukan.* Mungkin infeksi, kata Dr. Patel. Mungkin jantung. Mungkin kami. Aku membaca satu baris itu sampai kertasnya lecek, dan tidak ada cara untuk membuatnya mengatakan yang lain.
 
 Pada bulan Juli, aku memeriksa semuanya dengan USG, satu per satu, di bawah lampu redup, dengan Dr. Patel berdiri di sampingku seperti saksi. Aku menahan napas sepanjang pemeriksaan.
 

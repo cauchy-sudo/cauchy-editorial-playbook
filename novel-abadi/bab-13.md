@@ -170,7 +170,7 @@ Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika ak
 
 "Pulanglah kalau kamu bisa. Orang tua tidak menunggu lama." Bu Haji membuka korannya.
 
-Aku tertawa. Ia tidak.
+Aku mengangguk. Ia tidak menoleh.
 
 ---
 

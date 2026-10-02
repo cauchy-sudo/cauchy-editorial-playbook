@@ -38,15 +38,15 @@ Perubahan dari outline v0.4: ditambah satu bab (bab 30, "Empat Belas Ekor") kare
 | 27 | Sel yang Kehilangan Tanda "Aku" | Feb–Mar 2026 | 23 | Ramadan; *missing self*; lima cara gagal |
 | 28 | Lumen | 2027 | 24–25 | Cloud lab; artefak; Kestrel; Rizal dan mesin cuci darah |
 | 29 | Tikus Nomor Tiga Belas | Okt 2027–Agu 2028 | 25–26 | Teratoma; Thorne; dana dipotong; Amara pergi |
-| 30 | Empat Belas Ekor | 2028–Sep 2029 | 26–27 | Tiga kunci; sidang; kotak sampel |
-| 31 | Dokter Wulan | Sep–Nov 2029 | 27 | Pulang; kambuh; cuci darah; ginjal Bapak/Ibu |
+| 30 | Empat Belas Ekor | 2028–Sep 2029 | 26–27 | Tiga kunci; tikus nomor lima mati; sidang; sampel dikirim lewat kurir 96 jam |
+| 31 | Dokter Wulan | Sep–Nov 2029 | 27 | Pulang; sampel tiba hari ketiga; kambuh (ginjal 28 → 22); cuci darah; ginjal Bapak/Ibu |
 | 32 | Daftar Risiko | Nov–Des 2029 | 27 | Gelas air; statistik; kursi kosong; Pak Karto |
 | 33 | Malam Minggu | 8–9 Des 2029 | 27 | Dua surat; dosis pertama; subuh |
 | 34 | Remisi | Des 2029–Mar 2030 | 27 | Buih hilang; Dr. Suryo; tempe; tiwul; alarm "Kontrol" |
-| 35 | Yang Tidak Boleh Kulupa | 2030 | 28 | Nada hilang; ingatan memadat; Rizal ditolak; tangan Ibu |
-| 36 | Terbuka untuk Semua | Feb–Mar 2031 | 28–29 | Thorne sakit; publikasi terbuka; konferensi pers |
-| 37 | Rasulan | 11–12 Okt 2031 | 29 | Payung untuk Ibu; Bejo kedua; laut |
-| E | Arsip | Nov 2031 | 29 | Sekar; kertas dicetak; daftar; tangan Ibu |
+| 35 | Yang Tidak Boleh Kulupa | 2030 | 28 | Nada hilang; ingatan memadat; laporan kasus dr. Suryo; Bu Ning wafat (Agu 2030); Rizal ditolak (tempe); tangan Ibu |
+| 36 | Terbuka untuk Semua | Feb–Mar 2031 | 28–29 | Thorne sakit; publikasi terbuka; log pembeku Dr. Anindya; Whitcombe pensiun (Jun 2031); konferensi pers; kapasitor radio dan balasan Naufal |
+| 37 | Rasulan | 11–12 Okt 2031 | 29 | Payung untuk Ibu; Bejo kedua; Ibu lupa nama Mbak Nurul; heliks di tepi laut |
+| E | Arsip | Nov 2031 | 29 | Sekar; kertas dicetak; dana anonim untuk laboratorium Rizal; daftar; tangan Ibu |
 
 ## 2. Fakta tetap (ledger)
 - **Wulan Rahayu Ningsih**, lahir Mei 2002. Dipanggil Wulan, Wulan Bulan (2014–2016), Dokter Wulan (2029+).
@@ -65,10 +65,14 @@ Perubahan dari outline v0.4: ditambah satu bab (bab 30, "Empat Belas Ekor") kare
 | Payung hitam | Bab 1 | Bab 6, 15, 37 |
 | Catatan Mbak Nurul | Bab 2 | Bab 4, 24, 25, 37, epilog |
 | Janji laut ke Yuni | Bab 5 | Bab 37 |
-| Naufal dan radio | Bab 12 | Bab 18, 33 |
+| Naufal dan radio | Bab 12 | Bab 18, 33, akhir bab 36 (kapasitor: "Bunyi." / "Oke.") |
 | Suara Mbah/nada *Lir-ilir* | Bab 13 | Bab 35 |
 | Menghindari foto | Interlude I | Epilog |
-| Pesan Rizal | Interlude III | **Belum ditutup (disengaja)** |
+| Pesan Rizal | Interlude III | **Belum ditutup (disengaja)**; mesin cuci darahnya kembali di epilog |
+| Kata "heliks" | Bab 7 (buku Pak Karto) | Bab 37 (gambar di tepi laut) |
+| Mesin cuci darah Rizal | Bab 28 | Epilog (didanai anonim, diuji di puskesmas) |
+| Ibu lupa | Interlude II | Bab 37 (nama Mbak Nurul) |
+| Suara perempuan di radio | Bab 9 | Dibiarkan terbuka; muncul lagi di akhir bab 36 |
 
 ## 4. Daftar verifikasi fakta (wajib sebelum terbit)
 Ditandai **[V]**. Banyak peristiwa nyata dipakai sebagai latar; pembaca mungkin meniru langkahnya.

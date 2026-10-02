@@ -302,7 +302,7 @@ Layar menjadi gelap.
 
 Surel Prof. Whitcombe sudah menunggu di kotak masukku, dikirim satu jam sebelum Julian menelepon. Tidak ada salam.
 
-*Wulan. Hartwell's compliance office has asked about the sample register for 2029. The box you took is on it, under my signature, with the word "reagents." I have told them what is true: that I sent reagents to a collaborating laboratory under a transfer agreement, and that I am not in the habit of auditing what my students do after they leave me. This is accurate. It is also not the whole of it, and they know that I know it. The institute has offered me early retirement in June. I have accepted. I am not telling you this to make you feel anything. I am telling you because you once said a person must be told the truth. Do not write to me for a year. — E.W.*
+*Wulan. Hartwell's compliance office has asked about the sample register for 2029. The box I sent you is on it, under my signature, with the word "reagents." I have told them what is true: that I sent reagents to a collaborating laboratory under a transfer agreement, and that I am not in the habit of auditing what my students do after they leave me. This is accurate. It is also not the whole of it, and they know that I know it. The institute has offered me early retirement in June. I have accepted. I am not telling you this to make you feel anything. I am telling you because you once said a person must be told the truth. Do not write to me for a year. — E.W.*
 
 Aku membacanya tiga kali. Aku mengetik *I'm sorry*, dan teringat bahwa ia pernah menyuruhku tidak mengucapkannya, dan menghapusnya. Aku mengetik *Thank you*, dan menghapusnya juga.
 
@@ -312,7 +312,7 @@ Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan laptop yan
 
 Radio itu mati sebelum aku sempat berdiri, di tengah desisnya, dengan bunyi seperti orang bersin.
 
-Aku membuka laci dan mengeluarkan kantong plastik bening yang sepuluh tahun lalu diletakkan seseorang di bangku stasiun Tugu. Enam tong biru mungil, kakinya bengkok, bagian atasnya menggembung seperti perut. Yang ketujuh sudah kupakai di Cambridge dan sudah mati lagi.
+Aku membuka laci dan mengeluarkan kantong plastik bening yang sepuluh tahun lalu diletakkan seseorang di bangku stasiun Tugu. Tujuh tong biru mungil, kakinya bengkok, bagian atasnya menggembung seperti perut. Belum ada yang terpakai.
 
 *Kali ini kamu yang ganti.*
 

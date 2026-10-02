@@ -128,7 +128,7 @@ Dan aku menulis. Setiap malam, selama satu jam, aku menulis tentang hari itu, de
 
 Dokter Suryo memanggilku ke ruangannya pada bulan Oktober, di luar jadwal kontrol, dan sebelum ia mengatakan apa pun aku tahu dari cara ia menutup pintu bahwa ini bukan tentang angka.
 
-"Laju filtrasi lima puluh delapan," katanya juga, seperti dokter yang tak tahan melewatkan kebiasaan. "Stabil sebelas bulan. Duduklah."
+"Laju filtrasi lima puluh delapan," katanya juga, seperti dokter yang tak tahan melewatkan kebiasaan. "Stabil tujuh bulan. Duduklah."
 
 Di mejanya ada dua lembar kertas yang diketik rapat dan dijepit.
 
