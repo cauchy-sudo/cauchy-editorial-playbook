@@ -8,7 +8,7 @@ Pemakaian:
 
 Prasyarat: pandoc, xelatex (TeX Live), font Linux Libertine O, Pillow (untuk sampul).
 Sumber: ../prolog.md, ../bab-NN.md, ../interlude-N.md, ../epilog.md
-Keluaran: terbit/<slug>.pdf, terbit/<slug>.epub (+ berkas .tex untuk diperiksa)
+Keluaran: terbit/<slug>.pdf, terbit/<slug>.epub, terbit/<slug>-latex.zip (sumber LaTeX mandiri)
 """
 import argparse, re, subprocess, sys, shutil, zipfile
 from pathlib import Path
@@ -159,6 +159,58 @@ def build_manuscript_md(title, author):
     return path
 
 
+LIBERTINE_DIR = Path("/usr/share/fonts/opentype/linux-libertine")
+LIBERTINE_FILES = ["LinLibertine_R.otf", "LinLibertine_RB.otf", "LinLibertine_RI.otf", "LinLibertine_RBI.otf"]
+
+LATEX_README = """HELIKS (sumber LaTeX)
+=====================
+
+Isi paket:
+  {slug}.tex   sumber dokumen (XeLaTeX)
+  sampul.jpg   gambar sampul (halaman pertama)
+  fonts/       font Linux Libertine O (bebas dipakai; lihat lisensi di bawah)
+
+Cara mengompilasi (perlu TeX Live atau MiKTeX dengan XeLaTeX dan paket babel):
+  xelatex {slug}.tex
+  xelatex {slug}.tex
+  xelatex {slug}.tex      # tiga kali agar daftar isi dan penanda benar
+
+Di Overleaf: unggah zip ini, buka {slug}.tex, pilih kompiler XeLaTeX.
+
+Font Linux Libertine O: dilisensikan di bawah GNU GPL dengan pengecualian font dan SIL OFL.
+"""
+
+
+def build_latex_zip(slug, cover_img):
+    """Paket LaTeX mandiri: .tex dengan jalur relatif + font + sampul, diuji kompilasi."""
+    pkg = BUILD / "latex_pkg"
+    if pkg.exists():
+        shutil.rmtree(pkg)
+    (pkg / "fonts").mkdir(parents=True)
+    tex = (BUILD / f"{slug}.tex").read_text(encoding="utf-8")
+    tex = tex.replace(str(LIBERTINE_DIR) + "/", "fonts/")
+    if cover_img:
+        tex = tex.replace(str(cover_img), "sampul.jpg")
+        shutil.copy(cover_img, pkg / "sampul.jpg")
+    for f in LIBERTINE_FILES:
+        shutil.copy(LIBERTINE_DIR / f, pkg / "fonts" / f)
+    (pkg / f"{slug}.tex").write_text(tex, encoding="utf-8")
+    (pkg / "BACA-SAYA.txt").write_text(LATEX_README.format(slug=slug), encoding="utf-8")
+    for _ in range(3):  # uji: paket harus bisa dikompilasi sendiri
+        r = subprocess.run(["xelatex", "-interaction=nonstopmode", "-halt-on-error", f"{slug}.tex"],
+                           cwd=pkg, capture_output=True, text=True)
+        if r.returncode != 0:
+            print(r.stdout[-3000:])
+            sys.exit("kompilasi paket LaTeX gagal")
+    zip_path = HERE / f"{slug}-latex.zip"
+    with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
+        for name in [f"{slug}.tex", "sampul.jpg", "BACA-SAYA.txt"] + [f"fonts/{f}" for f in LIBERTINE_FILES]:
+            if (pkg / name).exists():
+                z.write(pkg / name, f"{slug}/{name}")
+    print(f"[latex] paket diuji dan dibuat: {zip_path.name}")
+    return zip_path
+
+
 def build_pdf(title, subtitle, author, slug):
     BUILD.mkdir(exist_ok=True)
     out = []
@@ -245,7 +297,7 @@ Kisah ini tidak dimaksudkan sebagai nasihat medis.
     bad = [x for x in overfull if float(x) > 8]
     print(f"[pdf] karakter hilang: {len(missing)}; overfull>8pt: {len(bad)}")
     shutil.copy(BUILD / f"{slug}.pdf", HERE / f"{slug}.pdf")
-    shutil.copy(tex_path, HERE / f"{slug}.tex")
+    build_latex_zip(slug, cover_img)
     return HERE / f"{slug}.pdf"
 
 
