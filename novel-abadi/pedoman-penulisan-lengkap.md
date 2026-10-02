@@ -128,6 +128,8 @@ Tidak boleh ada di dalam teks:
 - Menembus dinding keempat; menyapa pembaca.
 - Penjelasan ilmiah sebagai kuliah. Tiap penjelasan harus (a) diperlukan Wulan untuk memutuskan sesuatu, (b) memakai kosakatanya pada usia itu, (c) singkat.
 - **Pembenaran untuk keputusan penulis.** Contoh yang sudah kita hapus: paragraf yang menjelaskan mengapa langkah persiapan "tidak ditulis supaya tidak jadi petunjuk". Bila sesuatu sengaja tidak diperlihatkan, cukup **jangan perlihatkan**, tanpa menjelaskan alasannya kepada pembaca.
+- **Pengetahuan yang belum dimiliki Wulan pada saat adegan.** Jangan menyebut nama yang baru ia ketahui kemudian (contoh yang sudah dihapus: "Bukan karena lupus. Aku belum tahu nama itu" di bab 2, sebelum diagnosis). Kalimat "aku belum tahu bahwa…" yang meramalkan nasib juga dibuang.
+- **Hikmah umum di akhir paragraf**, terutama yang memakai "kamu" generik atau berbunyi "ada hal yang…", "itu hal paling… tentang…". Biarkan tindakan atau benda yang menutup adegan.
 - Penanda "draf", "catatan", atau "[V]" di dalam naskah yang dibagikan.
 
 Uji cepat: tanya, *"Apakah kalimat ini diucapkan Wulan, atau penulis?"* Bila penulis, hapus.
@@ -327,7 +329,7 @@ Aturan: "sejak umur…" untuk **awal sakit = sebelas**. Hitung jarak tahun denga
 - Nama yang berulang pada orang berbeda (jangan memakai "Sumiati" untuk tokoh lain, karena itu nama Ibu).
 
 ### 10.6 Cara menjalankan putaran pemeriksaan
-1. Baca satu kali penuh untuk **suara dan suara penulis** (Bagian 4.3).
+1. Baca satu kali penuh, **bab demi bab**, untuk **suara dan suara penulis** (Bagian 4.3). Pencarian kata kunci saja tidak cukup: kebocoran paling halus hanya tampak saat dibaca utuh.
 2. Baca dengan **ledger terbuka** untuk usia, tanggal, angka, tempat, benda.
 3. Cari frasa berulang (Bagian 7.5) dengan pencarian teks; ganti sepertiganya.
 4. Cari penanda terlarang: *draf, catatan, pembaca, penulis, [V]* di dalam teks.

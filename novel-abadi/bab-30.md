@@ -152,7 +152,7 @@ Beasiswa pemerintahku mewajibkan aku pulang.
 
 Surat perjanjiannya sudah kutandatangani empat tahun sebelumnya, dengan tangan yang gemetar, di sebuah kantor di Jakarta, dengan seorang laki-laki tua yang pernah memegang selembar kertas kuning dan membacanya dengan dua tangan. Aku akan kembali. Aku akan mengabdi. Itu bukan paksaan; itu janji.
 
-Tapi aku tidak tahu betapa beratnya janji itu sampai hari keberangkatan.
+Tapi janji itu terasa lain pada hari keberangkatan.
 
 Rizal sudah kembali ke Indonesia dua bulan sebelumnya, ke sebuah universitas di Bandung yang menerimanya sebagai dosen, dengan rencana membangun laboratorium kecil di loteng rumahnya. Ia mengantarku ke stasiun kereta pada hari terakhirku di Cambridge lewat video, dengan wajah di layar yang agak buram dan latar belakang kamar yang berantakan.
 
@@ -200,7 +200,7 @@ Prof. Whitcombe menungguku di lobi institut keesokan paginya. Di sampingnya, di 
 
 Aku menerima map itu. Ringan. Di belakang Prof. Whitcombe, kurir itu mengangkat kotak dari troli ke dalam vannya dengan hati-hati, seperti mengangkat bayi, dan pintu van menutup dengan bunyi yang terlalu pelan.
 
-"Do not do anything stupid," katanya, untuk ketiga kalinya.
+"Do not do anything stupid," katanya, untuk kedua kalinya.
 
 "No, Professor."
 

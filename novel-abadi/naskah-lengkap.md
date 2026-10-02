@@ -208,7 +208,7 @@ Bapak diam. Dari celah dinding, aku melihat rahangnya bergerak sekali, seperti o
 
 "Dua juta lima puluh ribu," kata Pak Mul akhirnya, dan menambahkan, lebih pelan, "yang lima puluh buat jajan Nduk Wulan."
 
-Aku tidak tahu apakah itu kebaikan atau cara untuk menenangkan hati sendiri. Mungkin dua-duanya. Orang dewasa sering melakukan dua hal dengan satu gerakan.
+Aku tidak tahu apakah itu kebaikan atau cara untuk menenangkan hati sendiri. Mungkin dua-duanya.
 
 Si Ireng naik ke bak pikap tanpa melawan. Si Belang mengembik sekali, panjang, dan suara itu tertinggal di udara lama setelah pikap hilang di tikungan. Ardi, yang berdiri di pintu dapur dengan rambut berdiri dan mata setengah terbuka, bertanya apakah mereka akan pulang. Tak ada yang menjawab. Ibu mengambil sapu dan mulai menyapu halaman yang sudah bersih.
 
@@ -284,7 +284,7 @@ Aku mulai dari pergelangan tangan, seperti yang kuhafal. Ia mengangguk dan menul
 
 "Sudah, ya, Nduk. Kasih nomor berikutnya."
 
-Aku sempat berpikir lama sesudahnya, di tempat yang lebih tenang, bahwa ia pasti tidak bermaksud buruk. Ia hanya seseorang yang terlalu banyak didatangi dan terlalu sedikit punya waktu, dan tubuhku bukan satu-satunya yang menunggu giliran untuk dimengerti.
+Aku sempat berpikir lama sesudahnya, di tempat yang lebih tenang, bahwa ia pasti tidak bermaksud buruk. Ia hanya seseorang yang terlalu banyak didatangi dan terlalu sedikit punya waktu.
 
 Tetapi pada saat itu, di ruang pemeriksaan yang berbau alkohol dan sabun, aku hanya merasa seperti mesin yang dimasukkan koin dan mengeluarkan satu lembar resep.
 
@@ -330,7 +330,7 @@ Bapak memesan satu porsi.
 
 "Bapak sudah kenyang," kata Bapak lagi, dengan nada yang menutup percakapan.
 
-Mangkok datang dengan uap yang menyentuh wajahku. Kuah bening kecokelatan, mie kuning, tahu, dua bakso besar dan tiga kecil, taburan seledri, bawang goreng yang masih berderak. Aku memegang sendok dan menyadari tanganku gemetar sedikit. Bukan karena lupus. Aku belum tahu nama itu.
+Mangkok datang dengan uap yang menyentuh wajahku. Kuah bening kecokelatan, mie kuning, tahu, dua bakso besar dan tiga kecil, taburan seledri, bawang goreng yang masih berderak. Aku memegang sendok dan menyadari tanganku gemetar sedikit, entah karena sendiku atau karena mangkok itu terlalu penuh untuk kupegang.
 
 Aku makan pelan. Sangat pelan. Aku memperhatikan Bapak di sela-sela suapan, dan ia memperhatikan jalan dengan sungguh-sungguh, tetapi setiap kali sendokku masuk ke mulut, rahangnya bergerak sedikit. Seakan ia ikut mengunyah. Ibu menghitung uang receh di dompetnya lagi.
 
@@ -642,7 +642,7 @@ Ia tersenyum, dan itu pertama kalinya aku melihat seorang dokter tersenyum karen
 
 Rumah sakit besar di Yogya berdiri di pinggir jalan besar, putih dan sangat luas, seperti sekolah yang tumbuh terlalu cepat. Kami tiba sebelum tengah hari: Bapak, Ibu, aku, dan Mas Aji.
 
-Aku belum menyebut Mas Aji, karena sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo di Wonosari, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
+Mas Aji menyusul dari Wonosari. Sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
 
 "Kamu kok gemuk, Dek," katanya.
 
@@ -727,7 +727,7 @@ Bangsal anak punya aturan yang tidak tertulis, dan Yuni menjelaskan semuanya pad
 
 "Kamu sudah berapa lama di sini?"
 
-"Dua tahun. Keluar-masuk." Yuni terkekeh, dan di bawah lampu temaram bangsal wajahnya bulat, sangat bulat, seperti bulan yang ditempelkan ke bantal. Rambutnya jarang dan dikuncir satu. Ia tiga belas tahun, dari Karangmojo, dan sudah dua tahun hidup berdampingan dengan penyakit yang belum kuketahui namanya. "Kamu baru, ya? Matamu masih belum seperti ikan."
+"Dua tahun. Keluar-masuk." Yuni terkekeh, dan di bawah lampu temaram bangsal wajahnya bulat, sangat bulat, seperti bulan yang ditempelkan ke bantal. Rambutnya jarang dan dikuncir satu. Ia tiga belas tahun, dari Karangmojo, dan sudah dua tahun hidup berdampingan dengan penyakit yang tak pernah ia sebut namanya. "Kamu baru, ya? Matamu masih belum seperti ikan."
 
 "Seperti ikan?"
 
@@ -930,7 +930,7 @@ Tanganku yang memegang payung ternyata gemetar. Aku baru menyadarinya ketika Tik
 
 Sejak hari itu nama itu menempel. Bukan sebagai ejekan. Bagi anak-anak, nama panggilan baru adalah tanda bahwa seseorang diterima, dan *Wulan Bulan* menjadi namaku di seluruh dusun. Mbok Karni memanggilku begitu. Pak Dukuh memanggilku begitu. Bahkan Ibu, sekali, sambil mengaduk tiwul, tanpa sengaja.
 
-Aku tidak keberatan. Aku bahkan menulisnya di sampul buku catatanku dengan pensil, di bawah kolom TANGGAL dan KELUHAN, sebagai nama pemiliknya. Karena ada sesuatu yang aneh dalam mengetahui bahwa orang bisa membuat nama untuk dirimu yang tidak berasal darimu, dan kamu yang memutuskan apakah akan menerimanya atau tidak.
+Aku tidak keberatan. Aku bahkan menulisnya di sampul buku catatanku dengan pensil, di bawah kolom TANGGAL dan KELUHAN, sebagai nama pemiliknya.
 
 ---
 
@@ -1283,8 +1283,6 @@ Rina mengembalikan buku itu tanpa menatapku. Aku duduk di bangkuku dan memandang
 
 Itu bukan jawaban. Aku tahu itu. *Aku bisa ngajarin voli* adalah kalimat yang dipakai seorang anak laki-laki kepada anak perempuan yang ia anggap teman. Tapi itu juga kalimat yang diucapkan di depan tiga puluh orang oleh seseorang yang tidak perlu mengucapkannya, dan aku tidak tahu harus merasa lega atau kehilangan.
 
-Aku merasa keduanya, dan keduanya ukuran yang sama.
-
 ---
 
 Sore itu, Tika menemukanku di tepi sumur di belakang rumah, sedang menimba air dengan semangat orang yang ingin melampiaskan sesuatu pada ember.
@@ -1598,7 +1596,7 @@ Di pangkuanku, kaleng biskuit kecil itu berbunyi sekali, pelan, ketika bus melew
 
 Rumah kos Bu Haji Sunarti berdiri di gang sempit di belakang pasar Wonosari, dua lantai, bercat hijau pupus, dan di pintu gerbangnya tergantung papan kayu bertuliskan tangan dengan cat putih: **KOS PUTRI. TAMU LAKI-LAKI SAMPAI TERAS SAJA. JAM MALAM 21.00. TIDAK ADA TAWAR-MENAWAR.**
 
-Dua kalimat pertama kuanggap wajar. Kalimat ketiga baru kupahami ketika aku bertemu pemiliknya.
+Tiga kalimat pertama kuanggap wajar. Kalimat keempat baru kupahami ketika aku bertemu pemiliknya.
 
 "Wulan Rahayu Ningsih?" Bu Haji Sunarti berdiri di ambang pintu dengan kerudung kuning gading, kacamata baca di ujung hidung, dan kemampuan menatap orang dengan cara yang membuat mereka merasa sudah ketahuan melakukan sesuatu. Usianya enam puluhan. Suaranya lebih besar daripada tubuhnya. "Kamar sembilan. Satu kamar berdua. Seratus tujuh puluh lima ribu sebulan, air dan listrik sudah termasuk. Bayar tanggal lima. Kalau telat, bilang. Jangan menghindar. Aku paling benci kalau orang menghindar."
 
@@ -1682,7 +1680,7 @@ Aku mengangguk, dan dalam hati aku teringat kata-kata Bu Ratmi: *tanyakan, janga
 
 ---
 
-Hari-hari menjadi lebih ringan setelah itu, tidak karena masalahnya hilang, tetapi karena aku punya tempat untuk meletakkannya.
+Hari-hari menjadi lebih ringan setelah itu.
 
 Sekolah sendiri, SMA Negeri itu, adalah dunia yang lebih besar daripada yang bisa kuhafal. Tiga puluh kelas, enam puluh guru dan staf, dua lapangan, dan sebuah kantin dengan lima penjual yang saling mencuri pelanggan. Aku masuk ke kelas X-IPA 2, di antara tiga puluh enam anak yang sebagian besar sudah saling kenal sejak SMP. Seragam putih abu-abu kami, kerudung putih kami, dan sepatu hitam yang kupinjam dari Tika karena milikku berlubang di ujung, membuatku tampak seperti salah satu dari mereka.
 
@@ -2537,7 +2535,7 @@ Pada malam keenam, setelah semua selesai, Pak Dukuh mendekatiku.
 
 "Sudah ada BPJS, ya. Tapi transportnya? Obat yang tidak ditanggung? Makan Ibumu di rumah sakit?" Ia mengangkat tangan. "Aku tidak minta persetujuanmu. Aku cuma memberi tahu. Itu urusan dusun."
 
-Aku menatapnya. Di wajah gemuk dan ramah itu, aku melihat sesuatu yang kemudian menjadi salah satu hal yang kuingat paling lama tentang dusunku: tak ada rasa belas kasihan di sana. Hanya kewajiban, begitu wajar, seperti membersihkan makam atau menambal jalan.
+Aku menatapnya. Di wajah gemuk dan ramah itu, aku melihat bahwa tak ada rasa belas kasihan di sana. Hanya kewajiban, begitu wajar, seperti membersihkan makam atau menambal jalan.
 
 "Terima kasih, Pak," kataku.
 
@@ -3132,8 +3130,6 @@ Ia mengangguk. Pengeras suara menyebut nama keretanya. Ia mengangkat ranselnya k
 
 Ia berjalan masuk ke stasiun. Aku berdiri di trotoar, memegang bungkusan kapasitor, sampai ia menghilang di antara orang-orang dan pintu kaca menutup di belakangnya.
 
-Kami tidak putus. Kami tidak pernah jadian. Itu sebuah kenyataan yang akan kupikirkan sering, dan tidak pernah kuputuskan apakah itu sebuah penghiburan atau kehilangan.
-
 Di dalam angkot menuju kos baru, aku membuka tas dan menyalakan radio kecil itu. Aku memutar tombolnya pelan sekali, sampai kutemukan sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tidak kukenal, dari negara yang tidak pernah kulihat, lemah, putus-putus, nyaris tenggelam dalam desis.
 
 Aku mendengarkannya sampai angkot berhenti.
@@ -3196,11 +3192,11 @@ Ibu menelepon malamnya lewat telepon Pak Hasan. "Sudah beli?"
 
 Hening di seberang, panjang dan hangat. "Bagus," kata Ibu akhirnya, dan suaranya sedikit bergetar. "Berarti Bejo ikut kuliah."
 
-Aku tertawa sampai perutku sakit, dan baru sesudah menutup telepon aku sadar bahwa itu hal paling benar yang pernah dikatakan seseorang tentang uang.
+Aku tertawa sampai perutku sakit.
 
 ---
 
-Semester pertama itu sepenuhnya daring, dan itu aneh dengan cara yang hanya bisa dipahami orang yang mengalaminya. Aku duduk di kamar kos berukuran dua kali tiga meter di sebuah gang sempit di utara kampus, menatap layar yang terbagi menjadi sembilan kotak kecil, mendengarkan dosen yang bicara pada kamera tanpa tahu apakah ada yang menyimak. Tika, yang sekamar denganku, menjalani hal yang sama di sisi lain ruangan, dengan layar yang terbagi tujuh dan buku-buku kebidanan yang bergambar rahim berwarna merah muda.
+Semester pertama itu sepenuhnya daring. Aku duduk di kamar kos berukuran dua kali tiga meter di sebuah gang sempit di utara kampus, menatap layar yang terbagi menjadi sembilan kotak kecil, mendengarkan dosen yang bicara pada kamera tanpa tahu apakah ada yang menyimak. Tika, yang sekamar denganku, menjalani hal yang sama di sisi lain ruangan, dengan layar yang terbagi tujuh dan buku-buku kebidanan yang bergambar rahim berwarna merah muda.
 
 Kami saling mengetahui isi kelas satu sama lain dari bisikan. "Sst, kamu paham tidak apa itu hukum Hardy-Weinberg?" "Sst, kamu paham tidak apa itu episiotomi?" Kami berdua tidak ingin tahu yang lain.
 
@@ -3379,7 +3375,7 @@ Aku tidak menjawab. Aku mendengarkan napas Ibu di seberang, lambat dan hangat, d
 
 "Iya, Bu."
 
-Aku menutup telepon dengan mata basah dan tertawa kecil sendiri, karena itu cara Ibu mengatakan semuanya.
+Aku menutup telepon dengan mata basah dan tertawa kecil sendiri.
 
 Esok paginya, ketika aku tiba di laboratorium dengan sepatu tertutup dan masker dua lapis, Dr. Anindya berdiri di pintu ruangannya, dengan cangkir kopi dan secarik kertas.
 
@@ -3542,8 +3538,6 @@ Bukan jam dinding. Hanya sebuah tanda: bahwa mulai hari ini, di dalam tubuhku, a
 
 Aku tidak menelepon Ibu. Aku tidak mengatakan apa pun pada Tika malam itu. Ketika ia bertanya, "Gimana kontrolnya?", aku menjawab, "Bagus. Dia bilang aku cuma perlu hati-hati," dan itu bukan kebohongan, tapi bukan seluruh kebenaran. Itu rahasia kedua.
 
-Aku belum tahu bahwa rahasia, bagi sebagian orang, bukan sesuatu yang disimpan sesekali. Ia menjadi sebuah ruangan di dalam rumah, yang dari tahun ke tahun, pelan-pelan, semakin banyak dipakai.
-
 ---
 
 Sore itu, aku kembali ke laboratorium. Gedung biologi nyaris kosong. Hanya lampu koridor yang menyala, dan di lantai tiga, sebuah cahaya kecil menyelinap dari bawah pintu Lab Biologi Sel dan Penuaan.
@@ -3581,7 +3575,7 @@ Bayu mengerang pelan. Pak Slamet menatap langit-langit seperti orang mencari ilh
 
 Aku berdiri diam di sudut ruangan, memegang kursi, dan tiba-tiba teringat sebuah teras, seorang laki-laki tua di kursi rotan, dan sebuah kalimat: *Kalau kamu tidak punya pertanyaan, berarti kamu belum membaca.*
 
-Aku tersenyum di balik masker. Dua orang yang tak pernah bertemu telah memberiku aturan yang sama, dan aku tidak tahu apakah itu kebetulan atau sesuatu yang lebih mirip jalan yang selalu ada di tempat yang sama, hanya menunggu aku berjalan di atasnya.
+Aku tersenyum di balik masker. Dua orang yang tak pernah bertemu telah memberiku aturan yang sama.
 
 ---
 
@@ -3611,7 +3605,7 @@ Di bawah mikroskop, sel-sel yang telah diwarnai dengan cairan khusus memperlihat
 
 "Tidak apa-apa. Aku cuma khawatir kamu kehabisan napas."
 
-Aku tertawa. Dan aku mengerti bahwa bagian dari belajar sains, bagian yang tidak pernah ditulis di buku, adalah bagaimana kamu bernapas di tengah angka-angka.
+Aku tertawa.
 
 ---
 
@@ -3739,8 +3733,6 @@ Ia menaruh teh di mejaku tiap pagi, selalu dengan sedikit terlalu banyak gula, d
 Ia dua puluh empat tahun, mahasiswa S2 yang masih bekerja sebagai asisten lab, anak laki-laki seorang guru SMP di Klaten, dan ia memperlakukan dunia seperti sebuah berkas yang harus dirapikan. Ia tidak pernah terlambat. Ia tidak pernah lupa nama orang. Ia tidak pernah berbohong tentang hal yang bisa dicek.
 
 Aku menyukainya. Aku tahu itu pada suatu sore di bulan Maret 2022, ketika kami berdua berjalan menuju angkringan di dekat kampus bersama Bu Retno dan Pak Slamet, dan di tengah jalan ia memberiku bagian payung tanpa bertanya, dan aku tidak tersinggung sama sekali.
-
-Itu hal yang paling mengganggu tentang menyukai seseorang: kamu menyadarinya justru ketika kamu berhenti menolak.
 
 ---
 
@@ -4077,7 +4069,7 @@ Aku menunjukkan. Dr. Anindya membaca kalimat di layar dengan wajah yang sama sek
 
 Seluruh laboratorium tertawa sampai Pak Slamet harus duduk.
 
-Kejadian itu mengajariku sesuatu yang tidak bisa diajarkan oleh peringatan mana pun: bahwa mesin itu bisa mengarang dengan suara yang sama persis seperti saat ia berkata benar. Ia tidak berbohong. Ia tidak tahu bahwa ia salah. Ia hanya merangkai kata yang terdengar masuk akal, dan kadang kata-kata itu bertepatan dengan kenyataan, dan kadang tidak.
+Aku mengerti saat itu bahwa mesin itu bisa mengarang dengan suara yang sama persis seperti saat ia berkata benar. Ia tidak berbohong. Ia tidak tahu bahwa ia salah. Ia hanya merangkai kata yang terdengar masuk akal, dan kadang kata-kata itu bertepatan dengan kenyataan, dan kadang tidak.
 
 Aku menulis aturan itu di buku catatan, tepat di bawah tiga baris Dr. Anindya.
 
@@ -4129,9 +4121,7 @@ Dr. Anindya mengangguk. Ia duduk di kursi di sebelahku, hal yang tidak pernah ia
 
 "Bukan." Ia menggeleng. "Bukan bohongnya. Bohong itu mudah dideteksi. Yang berbahaya adalah ia sering benar. Karena kamu mulai berhenti memeriksa."
 
-Ia menatapku.
-
-"Kamu menemukan salahnya, dan kamu belajar. Itu yang membedakan penggunanya. Aku lebih khawatir pada orang yang tidak pernah salah."
+Ia menatapku, lalu menyeruput kopinya.
 
 ---
 
@@ -4585,7 +4575,7 @@ Tika melompat dari kasur dan memelukku, dan kami berguling di lantai kamar kos y
 
 Surel Prof. Whitcombe datang tiga hari kemudian, satu paragraf, tanpa salam. *Your English condition is met. I am converting the offer to unconditional. The funding condition I am removing altogether: a department should not hold a student hostage to a scholarship that exists only if the department says yes. You will have a letter you can show them. You will still have to win the money. — E.W.*
 
-Aku membacanya di mejaku, dan baru malam itu aku mengerti bahwa sebuah lingkaran persyaratan bisa ditutup oleh satu orang yang mau menandatangani.
+Aku membacanya di mejaku, dua kali, lalu menyimpannya di map yang paling depan.
 
 ---
 
@@ -5776,7 +5766,7 @@ Beasiswa pemerintahku mewajibkan aku pulang.
 
 Surat perjanjiannya sudah kutandatangani empat tahun sebelumnya, dengan tangan yang gemetar, di sebuah kantor di Jakarta, dengan seorang laki-laki tua yang pernah memegang selembar kertas kuning dan membacanya dengan dua tangan. Aku akan kembali. Aku akan mengabdi. Itu bukan paksaan; itu janji.
 
-Tapi aku tidak tahu betapa beratnya janji itu sampai hari keberangkatan.
+Tapi janji itu terasa lain pada hari keberangkatan.
 
 Rizal sudah kembali ke Indonesia dua bulan sebelumnya, ke sebuah universitas di Bandung yang menerimanya sebagai dosen, dengan rencana membangun laboratorium kecil di loteng rumahnya. Ia mengantarku ke stasiun kereta pada hari terakhirku di Cambridge lewat video, dengan wajah di layar yang agak buram dan latar belakang kamar yang berantakan.
 
@@ -5824,7 +5814,7 @@ Prof. Whitcombe menungguku di lobi institut keesokan paginya. Di sampingnya, di 
 
 Aku menerima map itu. Ringan. Di belakang Prof. Whitcombe, kurir itu mengangkat kotak dari troli ke dalam vannya dengan hati-hati, seperti mengangkat bayi, dan pintu van menutup dengan bunyi yang terlalu pelan.
 
-"Do not do anything stupid," katanya, untuk ketiga kalinya.
+"Do not do anything stupid," katanya, untuk kedua kalinya.
 
 "No, Professor."
 
@@ -6158,7 +6148,7 @@ Ia memang mencatat. Di kertas yang digantung di dinding dapur dengan paku, denga
 
 Dua kolom. TANGGAL. AIR.
 
-Aku menatap kertas itu pada malam pertama, dan aku tahu bahwa tidak seorang pun di rumah sakit yang mengajarkannya. Ia hanya mengerti, dari seorang perawat di sebuah puskesmas, bahwa kertas berisi kolom adalah cara paling jelas menyayangi seseorang tanpa mengucapkannya.
+Aku menatap kertas itu pada malam pertama. Tidak seorang pun di rumah sakit yang mengajarkannya. Ibu belajar itu dari seorang perawat di sebuah puskesmas, enam belas tahun lalu.
 
 ---
 
@@ -6447,7 +6437,7 @@ Aku menekan layar telepon dengan ibu jari yang gemetar, dan, di antara dua getar
 
 Aku meletakkan telepon.
 
-Aku menyalakan es di dahiku. Aku minum air sedikit demi sedikit, hitung gelas demi gelas, sesuai catatan Ibu. Aku berbaring di lantai, di antara meja dan dinding, dengan jaket yang basah oleh keringat, dan menatap langit-langit.
+Aku menempelkan es di dahiku. Aku minum air sedikit demi sedikit, hitung gelas demi gelas, sesuai catatan Ibu. Aku berbaring di lantai, di antara meja dan dinding, dengan jaket yang basah oleh keringat, dan menatap langit-langit.
 
 Aku mulai menghitung ubin. Empat puluh tiga. Ada satu yang copot.
 
@@ -6550,7 +6540,7 @@ Bukan hilang. Hanya tipis. Seperti sabun yang hampir habis. Aku menatapnya lama,
 
 *Senin, 31 Desember. Urin berbuih? Sedikit.*
 
-Aku tidak mau percaya. Aku sudah belajar bahwa harapan yang terlalu cepat adalah hal paling berbahaya yang bisa dimiliki seorang pasien.
+Aku tidak mau percaya dulu.
 
 Pada minggu keempat, jumlah urinku bertambah.
 
@@ -6592,7 +6582,7 @@ Dokter Suryo mengerjap. Lalu, perlahan, ia tertawa, tawa besar dan hangat dan se
 
 "Akan kusampaikan."
 
-Aku tidak berbohong. Aku hanya tidak mengatakan semuanya. Aku mulai memahami, saat itu, di ruang berbau kopi dan kertas lama, bahwa ada bentuk kejujuran yang tidak sama dengan keterbukaan, dan perbedaan di antara keduanya adalah tempat orang yang menyembunyikan sesuatu hidup.
+Aku tidak berbohong. Aku hanya tidak mengatakan semuanya.
 
 Mereka menghentikan cuci darah pada akhir bulan Februari. Perawat di ruang hemodialisis melepaskan jarum terakhir dari lenganku dengan gerakan hati-hati, menempelkan kapas, dan berkata, "Selamat, Mbak Wulan. Jangan kembali ke sini." Bu Ning memandangiku dari kursinya, dengan mata yang basah dan senyum yang sangat lebar dan sangat sedih sekaligus.
 
@@ -6736,7 +6726,7 @@ Ibu terdiam sebentar. Lalu ia mengambil sendok, menyendok satu gumpal tiwul pana
 
 Bapak, di ujung tikar, tersenyum untuk pertama kali sore itu.
 
-Aku memandangi mereka bertiga, di bawah pohon asam yang sama dengan pohon asam di lapangan SD Pucung tujuh belas tahun lalu, di antara asap dapur dan matahari sore yang miring dan jatuh di atas daun pisang. Dan aku merasa, dengan sangat jelas, bahwa aku sedang bahagia. Bukan lega. Bukan senang. Bahagia, dalam arti yang paling sederhana dan paling jarang.
+Aku memandangi mereka bertiga, di bawah pohon asam yang sama dengan pohon asam di lapangan SD Pucung enam belas tahun lalu, di antara asap dapur dan matahari sore yang miring dan jatuh di atas daun pisang. Dan aku merasa, dengan sangat jelas, bahwa aku sedang bahagia.
 
 Itu bertahan sampai minggu ketiga belas.
 
@@ -6887,7 +6877,7 @@ Aku tidak punya kelompok pembanding. Aku tidak bisa menyuruh orang lain memakai 
 
 Peristiwa tetap bertahan. Aku masih tahu Mbah meninggal pada Januari 2019. Aku masih tahu Si Bejo dijual pada Februari 2020. Tapi detailnya, tekstur, warna, suara, bau, semuanya mulai memadat. Hilang pertama adalah yang paling halus: suara yang jarang kudengar, wajah yang jarang kulihat, bau dari tempat yang tidak lagi kudatangi.
 
-Ia tidak menyakitkan. Itu yang paling mengerikan. Tak ada rasa kehilangan saat sesuatu hilang. Kamu hanya menyadarinya lama sesudahnya, dengan perasaan seseorang yang menemukan laci yang kosong.
+Ia tidak menyakitkan. Itu yang paling mengerikan. Tak ada rasa kehilangan saat sesuatu hilang. Aku hanya menyadarinya lama sesudahnya, dengan perasaan seseorang yang menemukan laci yang kosong.
 
 Aku memberinya nama di dalam hati: *memadat.* Karena itu yang terjadi. Ingatan tidak menghilang. Ia dilipat, dimampatkan, dikecilkan menjadi sesuatu yang bisa dibawa, sampai yang tersisa hanya intinya.
 
@@ -7290,7 +7280,7 @@ Aku memikirkan seorang perempuan di kursi hijau yang berkata *kenapa kamu, Mbak?
 
 Itu jawaban yang benar. Itu juga bukan seluruhnya.
 
-Aku tahu persis betapa banyak yang tersembunyi di antara kedua kalimat itu. Aku menanggungnya seperti menanggung sebuah batu di dalam sepatu, dan tersenyum, dan wartawan itu mengangguk dan menulis sesuatu.
+Aku menanggungnya seperti menanggung sebuah batu di dalam sepatu, dan tersenyum, dan wartawan itu mengangguk dan menulis sesuatu.
 
 "Satu pertanyaan terakhir," kata moderator. "Apa pesan Anda untuk anak-anak muda di desa yang bermimpi menjadi ilmuwan?"
 
@@ -7481,7 +7471,7 @@ Aku duduk di tikar di antara Ibu dan Bapak, dan di seberang kami, dua orang tamu
 
 Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar dan kemeja yang bahunya agak kebesaran, dan seorang perempuan paruh baya dengan jilbab biru tua dan beberapa helai uban di bawah kerudungnya.
 
-"dr. Raihan," kataku. "Mbak Nurul."
+"Dokter Raihan," kataku. "Mbak Nurul."
 
 "Wulan." Dokter Raihan tersenyum, dan senyum itu masih seperti senyum seseorang yang tak percaya ia benar-benar didengarkan. "Kamu yang pipinya kupu-kupu."
 
@@ -7734,7 +7724,7 @@ Setelah itu aku membuka aplikasi lain di ponselku dan mengirim sejumlah kecil ua
 
 Lalu aku mengirim jumlah yang lebih kecil ke rekening laboratorium sebuah universitas di Bandung, dengan satu baris catatan: *Untuk inkubator generasi berikutnya.* Mesin cuci darah kecil buatan Rizal sedang diuji di sebuah puskesmas di Garut. Aku tahu dari berita, bukan darinya. Aku tidak tahu apakah ia akan menebak siapa pengirimnya, dan aku tidak tahu apakah aku ingin ia menebak.
 
-Alarm itu punya dua tugas sekarang. Aku suka itu. Ada sesuatu yang benar tentang menyatukan hal-hal yang kuperlukan untuk bertahan dengan hal-hal yang kuperlukan untuk berguna.
+Alarm itu punya dua tugas sekarang. Aku suka itu.
 
 Mbak Nurul sudah mencetak tiga ribu lembar. Mereka dibagikan ke sebelas puskesmas, di tiga kabupaten. Empat kolom. *TANGGAL. KELUHAN. DEMAM? OBAT.* Dan di bagian bawah, atas permintaan dr. Raihan, satu kolom tambahan, yang tak kuminta, dengan huruf yang lebih kecil: *KAMU BOLEH BERTANYA.*
 

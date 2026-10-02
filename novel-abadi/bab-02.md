@@ -14,7 +14,7 @@ Bapak diam. Dari celah dinding, aku melihat rahangnya bergerak sekali, seperti o
 
 "Dua juta lima puluh ribu," kata Pak Mul akhirnya, dan menambahkan, lebih pelan, "yang lima puluh buat jajan Nduk Wulan."
 
-Aku tidak tahu apakah itu kebaikan atau cara untuk menenangkan hati sendiri. Mungkin dua-duanya. Orang dewasa sering melakukan dua hal dengan satu gerakan.
+Aku tidak tahu apakah itu kebaikan atau cara untuk menenangkan hati sendiri. Mungkin dua-duanya.
 
 Si Ireng naik ke bak pikap tanpa melawan. Si Belang mengembik sekali, panjang, dan suara itu tertinggal di udara lama setelah pikap hilang di tikungan. Ardi, yang berdiri di pintu dapur dengan rambut berdiri dan mata setengah terbuka, bertanya apakah mereka akan pulang. Tak ada yang menjawab. Ibu mengambil sapu dan mulai menyapu halaman yang sudah bersih.
 
@@ -90,7 +90,7 @@ Aku mulai dari pergelangan tangan, seperti yang kuhafal. Ia mengangguk dan menul
 
 "Sudah, ya, Nduk. Kasih nomor berikutnya."
 
-Aku sempat berpikir lama sesudahnya, di tempat yang lebih tenang, bahwa ia pasti tidak bermaksud buruk. Ia hanya seseorang yang terlalu banyak didatangi dan terlalu sedikit punya waktu, dan tubuhku bukan satu-satunya yang menunggu giliran untuk dimengerti.
+Aku sempat berpikir lama sesudahnya, di tempat yang lebih tenang, bahwa ia pasti tidak bermaksud buruk. Ia hanya seseorang yang terlalu banyak didatangi dan terlalu sedikit punya waktu.
 
 Tetapi pada saat itu, di ruang pemeriksaan yang berbau alkohol dan sabun, aku hanya merasa seperti mesin yang dimasukkan koin dan mengeluarkan satu lembar resep.
 
@@ -136,7 +136,7 @@ Bapak memesan satu porsi.
 
 "Bapak sudah kenyang," kata Bapak lagi, dengan nada yang menutup percakapan.
 
-Mangkok datang dengan uap yang menyentuh wajahku. Kuah bening kecokelatan, mie kuning, tahu, dua bakso besar dan tiga kecil, taburan seledri, bawang goreng yang masih berderak. Aku memegang sendok dan menyadari tanganku gemetar sedikit. Bukan karena lupus. Aku belum tahu nama itu.
+Mangkok datang dengan uap yang menyentuh wajahku. Kuah bening kecokelatan, mie kuning, tahu, dua bakso besar dan tiga kecil, taburan seledri, bawang goreng yang masih berderak. Aku memegang sendok dan menyadari tanganku gemetar sedikit, entah karena sendiku atau karena mangkok itu terlalu penuh untuk kupegang.
 
 Aku makan pelan. Sangat pelan. Aku memperhatikan Bapak di sela-sela suapan, dan ia memperhatikan jalan dengan sungguh-sungguh, tetapi setiap kali sendokku masuk ke mulut, rahangnya bergerak sedikit. Seakan ia ikut mengunyah. Ibu menghitung uang receh di dompetnya lagi.
 

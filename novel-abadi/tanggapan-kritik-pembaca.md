@@ -58,3 +58,6 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 | menahan sesuatu | 8 | 3 |
 | menatap/lama sekali | 32 | 23 |
 | peci miring ke kiri | 5 | 3 |
+
+## 6. Pembacaan ulang menyeluruh atas suara penulis (setelah masukan pembaca)
+Temuan: kalimat yang memakai pengetahuan yang belum dimiliki Wulan (bab 2: menyebut "lupus" sebelum diagnosis) dan hikmah umum yang terdengar seperti suara penulis. Seluruh naskah dibaca ulang bab demi bab; yang dihapus atau dikembalikan ke tindakan konkret ada di bab 2, 4, 5, 6, 8, 10, 15, 18, 19, 20, 21, 22, 23, 25, 30, 32, 34, 35, 36, dan epilog. Dua kesalahan hitungan ikut dibetulkan: tanda gerbang kos (bab 10: tiga kalimat pertama wajar, kalimat keempat yang baru dipahami) dan jumlah peringatan Prof. Whitcombe (bab 30: yang kedua, bukan ketiga).

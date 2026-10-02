@@ -52,8 +52,6 @@ Rina mengembalikan buku itu tanpa menatapku. Aku duduk di bangkuku dan memandang
 
 Itu bukan jawaban. Aku tahu itu. *Aku bisa ngajarin voli* adalah kalimat yang dipakai seorang anak laki-laki kepada anak perempuan yang ia anggap teman. Tapi itu juga kalimat yang diucapkan di depan tiga puluh orang oleh seseorang yang tidak perlu mengucapkannya, dan aku tidak tahu harus merasa lega atau kehilangan.
 
-Aku merasa keduanya, dan keduanya ukuran yang sama.
-
 ---
 
 Sore itu, Tika menemukanku di tepi sumur di belakang rumah, sedang menimba air dengan semangat orang yang ingin melampiaskan sesuatu pada ember.

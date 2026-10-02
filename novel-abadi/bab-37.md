@@ -60,7 +60,7 @@ Aku duduk di tikar di antara Ibu dan Bapak, dan di seberang kami, dua orang tamu
 
 Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar dan kemeja yang bahunya agak kebesaran, dan seorang perempuan paruh baya dengan jilbab biru tua dan beberapa helai uban di bawah kerudungnya.
 
-"dr. Raihan," kataku. "Mbak Nurul."
+"Dokter Raihan," kataku. "Mbak Nurul."
 
 "Wulan." Dokter Raihan tersenyum, dan senyum itu masih seperti senyum seseorang yang tak percaya ia benar-benar didengarkan. "Kamu yang pipinya kupu-kupu."
 

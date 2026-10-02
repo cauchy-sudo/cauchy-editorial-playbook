@@ -8,8 +8,6 @@ Ia dua puluh empat tahun, mahasiswa S2 yang masih bekerja sebagai asisten lab, a
 
 Aku menyukainya. Aku tahu itu pada suatu sore di bulan Maret 2022, ketika kami berdua berjalan menuju angkringan di dekat kampus bersama Bu Retno dan Pak Slamet, dan di tengah jalan ia memberiku bagian payung tanpa bertanya, dan aku tidak tersinggung sama sekali.
 
-Itu hal yang paling mengganggu tentang menyukai seseorang: kamu menyadarinya justru ketika kamu berhenti menolak.
-
 ---
 
 Angkringan itu hanya gerobak kecil di bawah pohon, dengan lampu minyak dan tikar yang digelar di trotoar. Kami duduk bersila, berempat, mengelilingi nampan nasi kucing, tempe bacem, sate usus, dan gelas-gelas wedang jahe yang mengepul. Pak Slamet menceritakan bahwa ia pernah bekerja di tiga dosen yang berbeda, semuanya menyebalkan, dan Dr. Anindya adalah yang paling tidak menyebalkan. Bu Retno tertawa sampai tersedak.

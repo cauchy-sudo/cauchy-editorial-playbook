@@ -82,7 +82,7 @@ Aku menunjukkan. Dr. Anindya membaca kalimat di layar dengan wajah yang sama sek
 
 Seluruh laboratorium tertawa sampai Pak Slamet harus duduk.
 
-Kejadian itu mengajariku sesuatu yang tidak bisa diajarkan oleh peringatan mana pun: bahwa mesin itu bisa mengarang dengan suara yang sama persis seperti saat ia berkata benar. Ia tidak berbohong. Ia tidak tahu bahwa ia salah. Ia hanya merangkai kata yang terdengar masuk akal, dan kadang kata-kata itu bertepatan dengan kenyataan, dan kadang tidak.
+Aku mengerti saat itu bahwa mesin itu bisa mengarang dengan suara yang sama persis seperti saat ia berkata benar. Ia tidak berbohong. Ia tidak tahu bahwa ia salah. Ia hanya merangkai kata yang terdengar masuk akal, dan kadang kata-kata itu bertepatan dengan kenyataan, dan kadang tidak.
 
 Aku menulis aturan itu di buku catatan, tepat di bawah tiga baris Dr. Anindya.
 
@@ -134,9 +134,7 @@ Dr. Anindya mengangguk. Ia duduk di kursi di sebelahku, hal yang tidak pernah ia
 
 "Bukan." Ia menggeleng. "Bukan bohongnya. Bohong itu mudah dideteksi. Yang berbahaya adalah ia sering benar. Karena kamu mulai berhenti memeriksa."
 
-Ia menatapku.
-
-"Kamu menemukan salahnya, dan kamu belajar. Itu yang membedakan penggunanya. Aku lebih khawatir pada orang yang tidak pernah salah."
+Ia menatapku, lalu menyeruput kopinya.
 
 ---
 

@@ -114,7 +114,7 @@ Aku tidak punya kelompok pembanding. Aku tidak bisa menyuruh orang lain memakai 
 
 Peristiwa tetap bertahan. Aku masih tahu Mbah meninggal pada Januari 2019. Aku masih tahu Si Bejo dijual pada Februari 2020. Tapi detailnya, tekstur, warna, suara, bau, semuanya mulai memadat. Hilang pertama adalah yang paling halus: suara yang jarang kudengar, wajah yang jarang kulihat, bau dari tempat yang tidak lagi kudatangi.
 
-Ia tidak menyakitkan. Itu yang paling mengerikan. Tak ada rasa kehilangan saat sesuatu hilang. Kamu hanya menyadarinya lama sesudahnya, dengan perasaan seseorang yang menemukan laci yang kosong.
+Ia tidak menyakitkan. Itu yang paling mengerikan. Tak ada rasa kehilangan saat sesuatu hilang. Aku hanya menyadarinya lama sesudahnya, dengan perasaan seseorang yang menemukan laci yang kosong.
 
 Aku memberinya nama di dalam hati: *memadat.* Karena itu yang terjadi. Ingatan tidak menghilang. Ia dilipat, dimampatkan, dikecilkan menjadi sesuatu yang bisa dibawa, sampai yang tersisa hanya intinya.
 

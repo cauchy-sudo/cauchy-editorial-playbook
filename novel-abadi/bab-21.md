@@ -12,7 +12,7 @@ Bayu mengerang pelan. Pak Slamet menatap langit-langit seperti orang mencari ilh
 
 Aku berdiri diam di sudut ruangan, memegang kursi, dan tiba-tiba teringat sebuah teras, seorang laki-laki tua di kursi rotan, dan sebuah kalimat: *Kalau kamu tidak punya pertanyaan, berarti kamu belum membaca.*
 
-Aku tersenyum di balik masker. Dua orang yang tak pernah bertemu telah memberiku aturan yang sama, dan aku tidak tahu apakah itu kebetulan atau sesuatu yang lebih mirip jalan yang selalu ada di tempat yang sama, hanya menunggu aku berjalan di atasnya.
+Aku tersenyum di balik masker. Dua orang yang tak pernah bertemu telah memberiku aturan yang sama.
 
 ---
 
@@ -42,7 +42,7 @@ Di bawah mikroskop, sel-sel yang telah diwarnai dengan cairan khusus memperlihat
 
 "Tidak apa-apa. Aku cuma khawatir kamu kehabisan napas."
 
-Aku tertawa. Dan aku mengerti bahwa bagian dari belajar sains, bagian yang tidak pernah ditulis di buku, adalah bagaimana kamu bernapas di tengah angka-angka.
+Aku tertawa.
 
 ---
 

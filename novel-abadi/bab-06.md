@@ -38,7 +38,7 @@ Tanganku yang memegang payung ternyata gemetar. Aku baru menyadarinya ketika Tik
 
 Sejak hari itu nama itu menempel. Bukan sebagai ejekan. Bagi anak-anak, nama panggilan baru adalah tanda bahwa seseorang diterima, dan *Wulan Bulan* menjadi namaku di seluruh dusun. Mbok Karni memanggilku begitu. Pak Dukuh memanggilku begitu. Bahkan Ibu, sekali, sambil mengaduk tiwul, tanpa sengaja.
 
-Aku tidak keberatan. Aku bahkan menulisnya di sampul buku catatanku dengan pensil, di bawah kolom TANGGAL dan KELUHAN, sebagai nama pemiliknya. Karena ada sesuatu yang aneh dalam mengetahui bahwa orang bisa membuat nama untuk dirimu yang tidak berasal darimu, dan kamu yang memutuskan apakah akan menerimanya atau tidak.
+Aku tidak keberatan. Aku bahkan menulisnya di sampul buku catatanku dengan pensil, di bawah kolom TANGGAL dan KELUHAN, sebagai nama pemiliknya.
 
 ---
 

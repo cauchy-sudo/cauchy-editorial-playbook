@@ -18,11 +18,11 @@ Ibu menelepon malamnya lewat telepon Pak Hasan. "Sudah beli?"
 
 Hening di seberang, panjang dan hangat. "Bagus," kata Ibu akhirnya, dan suaranya sedikit bergetar. "Berarti Bejo ikut kuliah."
 
-Aku tertawa sampai perutku sakit, dan baru sesudah menutup telepon aku sadar bahwa itu hal paling benar yang pernah dikatakan seseorang tentang uang.
+Aku tertawa sampai perutku sakit.
 
 ---
 
-Semester pertama itu sepenuhnya daring, dan itu aneh dengan cara yang hanya bisa dipahami orang yang mengalaminya. Aku duduk di kamar kos berukuran dua kali tiga meter di sebuah gang sempit di utara kampus, menatap layar yang terbagi menjadi sembilan kotak kecil, mendengarkan dosen yang bicara pada kamera tanpa tahu apakah ada yang menyimak. Tika, yang sekamar denganku, menjalani hal yang sama di sisi lain ruangan, dengan layar yang terbagi tujuh dan buku-buku kebidanan yang bergambar rahim berwarna merah muda.
+Semester pertama itu sepenuhnya daring. Aku duduk di kamar kos berukuran dua kali tiga meter di sebuah gang sempit di utara kampus, menatap layar yang terbagi menjadi sembilan kotak kecil, mendengarkan dosen yang bicara pada kamera tanpa tahu apakah ada yang menyimak. Tika, yang sekamar denganku, menjalani hal yang sama di sisi lain ruangan, dengan layar yang terbagi tujuh dan buku-buku kebidanan yang bergambar rahim berwarna merah muda.
 
 Kami saling mengetahui isi kelas satu sama lain dari bisikan. "Sst, kamu paham tidak apa itu hukum Hardy-Weinberg?" "Sst, kamu paham tidak apa itu episiotomi?" Kami berdua tidak ingin tahu yang lain.
 
@@ -201,7 +201,7 @@ Aku tidak menjawab. Aku mendengarkan napas Ibu di seberang, lambat dan hangat, d
 
 "Iya, Bu."
 
-Aku menutup telepon dengan mata basah dan tertawa kecil sendiri, karena itu cara Ibu mengatakan semuanya.
+Aku menutup telepon dengan mata basah dan tertawa kecil sendiri.
 
 Esok paginya, ketika aku tiba di laboratorium dengan sepatu tertutup dan masker dua lapis, Dr. Anindya berdiri di pintu ruangannya, dengan cangkir kopi dan secarik kertas.
 

@@ -240,8 +240,6 @@ Ia mengangguk. Pengeras suara menyebut nama keretanya. Ia mengangkat ranselnya k
 
 Ia berjalan masuk ke stasiun. Aku berdiri di trotoar, memegang bungkusan kapasitor, sampai ia menghilang di antara orang-orang dan pintu kaca menutup di belakangnya.
 
-Kami tidak putus. Kami tidak pernah jadian. Itu sebuah kenyataan yang akan kupikirkan sering, dan tidak pernah kuputuskan apakah itu sebuah penghiburan atau kehilangan.
-
 Di dalam angkot menuju kos baru, aku membuka tas dan menyalakan radio kecil itu. Aku memutar tombolnya pelan sekali, sampai kutemukan sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tidak kukenal, dari negara yang tidak pernah kulihat, lemah, putus-putus, nyaris tenggelam dalam desis.
 
 Aku mendengarkannya sampai angkot berhenti.

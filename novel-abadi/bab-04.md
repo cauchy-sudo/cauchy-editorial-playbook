@@ -102,7 +102,7 @@ Ia tersenyum, dan itu pertama kalinya aku melihat seorang dokter tersenyum karen
 
 Rumah sakit besar di Yogya berdiri di pinggir jalan besar, putih dan sangat luas, seperti sekolah yang tumbuh terlalu cepat. Kami tiba sebelum tengah hari: Bapak, Ibu, aku, dan Mas Aji.
 
-Aku belum menyebut Mas Aji, karena sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo di Wonosari, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
+Mas Aji menyusul dari Wonosari. Sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
 
 "Kamu kok gemuk, Dek," katanya.
 

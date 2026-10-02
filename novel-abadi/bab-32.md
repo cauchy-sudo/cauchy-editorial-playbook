@@ -14,7 +14,7 @@ Ia memang mencatat. Di kertas yang digantung di dinding dapur dengan paku, denga
 
 Dua kolom. TANGGAL. AIR.
 
-Aku menatap kertas itu pada malam pertama, dan aku tahu bahwa tidak seorang pun di rumah sakit yang mengajarkannya. Ia hanya mengerti, dari seorang perawat di sebuah puskesmas, bahwa kertas berisi kolom adalah cara paling jelas menyayangi seseorang tanpa mengucapkannya.
+Aku menatap kertas itu pada malam pertama. Tidak seorang pun di rumah sakit yang mengajarkannya. Ibu belajar itu dari seorang perawat di sebuah puskesmas, enam belas tahun lalu.
 
 ---
 

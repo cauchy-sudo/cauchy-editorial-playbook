@@ -10,7 +10,7 @@ Bangsal anak punya aturan yang tidak tertulis, dan Yuni menjelaskan semuanya pad
 
 "Kamu sudah berapa lama di sini?"
 
-"Dua tahun. Keluar-masuk." Yuni terkekeh, dan di bawah lampu temaram bangsal wajahnya bulat, sangat bulat, seperti bulan yang ditempelkan ke bantal. Rambutnya jarang dan dikuncir satu. Ia tiga belas tahun, dari Karangmojo, dan sudah dua tahun hidup berdampingan dengan penyakit yang belum kuketahui namanya. "Kamu baru, ya? Matamu masih belum seperti ikan."
+"Dua tahun. Keluar-masuk." Yuni terkekeh, dan di bawah lampu temaram bangsal wajahnya bulat, sangat bulat, seperti bulan yang ditempelkan ke bantal. Rambutnya jarang dan dikuncir satu. Ia tiga belas tahun, dari Karangmojo, dan sudah dua tahun hidup berdampingan dengan penyakit yang tak pernah ia sebut namanya. "Kamu baru, ya? Matamu masih belum seperti ikan."
 
 "Seperti ikan?"
 

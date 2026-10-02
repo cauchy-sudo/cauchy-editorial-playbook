@@ -208,7 +208,7 @@ Aku memikirkan seorang perempuan di kursi hijau yang berkata *kenapa kamu, Mbak?
 
 Itu jawaban yang benar. Itu juga bukan seluruhnya.
 
-Aku tahu persis betapa banyak yang tersembunyi di antara kedua kalimat itu. Aku menanggungnya seperti menanggung sebuah batu di dalam sepatu, dan tersenyum, dan wartawan itu mengangguk dan menulis sesuatu.
+Aku menanggungnya seperti menanggung sebuah batu di dalam sepatu, dan tersenyum, dan wartawan itu mengangguk dan menulis sesuatu.
 
 "Satu pertanyaan terakhir," kata moderator. "Apa pesan Anda untuk anak-anak muda di desa yang bermimpi menjadi ilmuwan?"
 

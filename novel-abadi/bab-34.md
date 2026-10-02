@@ -36,7 +36,7 @@ Bukan hilang. Hanya tipis. Seperti sabun yang hampir habis. Aku menatapnya lama,
 
 *Senin, 31 Desember. Urin berbuih? Sedikit.*
 
-Aku tidak mau percaya. Aku sudah belajar bahwa harapan yang terlalu cepat adalah hal paling berbahaya yang bisa dimiliki seorang pasien.
+Aku tidak mau percaya dulu.
 
 Pada minggu keempat, jumlah urinku bertambah.
 
@@ -78,7 +78,7 @@ Dokter Suryo mengerjap. Lalu, perlahan, ia tertawa, tawa besar dan hangat dan se
 
 "Akan kusampaikan."
 
-Aku tidak berbohong. Aku hanya tidak mengatakan semuanya. Aku mulai memahami, saat itu, di ruang berbau kopi dan kertas lama, bahwa ada bentuk kejujuran yang tidak sama dengan keterbukaan, dan perbedaan di antara keduanya adalah tempat orang yang menyembunyikan sesuatu hidup.
+Aku tidak berbohong. Aku hanya tidak mengatakan semuanya.
 
 Mereka menghentikan cuci darah pada akhir bulan Februari. Perawat di ruang hemodialisis melepaskan jarum terakhir dari lenganku dengan gerakan hati-hati, menempelkan kapas, dan berkata, "Selamat, Mbak Wulan. Jangan kembali ke sini." Bu Ning memandangiku dari kursinya, dengan mata yang basah dan senyum yang sangat lebar dan sangat sedih sekaligus.
 
@@ -222,7 +222,7 @@ Ibu terdiam sebentar. Lalu ia mengambil sendok, menyendok satu gumpal tiwul pana
 
 Bapak, di ujung tikar, tersenyum untuk pertama kali sore itu.
 
-Aku memandangi mereka bertiga, di bawah pohon asam yang sama dengan pohon asam di lapangan SD Pucung tujuh belas tahun lalu, di antara asap dapur dan matahari sore yang miring dan jatuh di atas daun pisang. Dan aku merasa, dengan sangat jelas, bahwa aku sedang bahagia. Bukan lega. Bukan senang. Bahagia, dalam arti yang paling sederhana dan paling jarang.
+Aku memandangi mereka bertiga, di bawah pohon asam yang sama dengan pohon asam di lapangan SD Pucung enam belas tahun lalu, di antara asap dapur dan matahari sore yang miring dan jatuh di atas daun pisang. Dan aku merasa, dengan sangat jelas, bahwa aku sedang bahagia.
 
 Itu bertahan sampai minggu ketiga belas.
 

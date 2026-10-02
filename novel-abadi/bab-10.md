@@ -2,7 +2,7 @@
 
 Rumah kos Bu Haji Sunarti berdiri di gang sempit di belakang pasar Wonosari, dua lantai, bercat hijau pupus, dan di pintu gerbangnya tergantung papan kayu bertuliskan tangan dengan cat putih: **KOS PUTRI. TAMU LAKI-LAKI SAMPAI TERAS SAJA. JAM MALAM 21.00. TIDAK ADA TAWAR-MENAWAR.**
 
-Dua kalimat pertama kuanggap wajar. Kalimat ketiga baru kupahami ketika aku bertemu pemiliknya.
+Tiga kalimat pertama kuanggap wajar. Kalimat keempat baru kupahami ketika aku bertemu pemiliknya.
 
 "Wulan Rahayu Ningsih?" Bu Haji Sunarti berdiri di ambang pintu dengan kerudung kuning gading, kacamata baca di ujung hidung, dan kemampuan menatap orang dengan cara yang membuat mereka merasa sudah ketahuan melakukan sesuatu. Usianya enam puluhan. Suaranya lebih besar daripada tubuhnya. "Kamar sembilan. Satu kamar berdua. Seratus tujuh puluh lima ribu sebulan, air dan listrik sudah termasuk. Bayar tanggal lima. Kalau telat, bilang. Jangan menghindar. Aku paling benci kalau orang menghindar."
 
@@ -86,7 +86,7 @@ Aku mengangguk, dan dalam hati aku teringat kata-kata Bu Ratmi: *tanyakan, janga
 
 ---
 
-Hari-hari menjadi lebih ringan setelah itu, tidak karena masalahnya hilang, tetapi karena aku punya tempat untuk meletakkannya.
+Hari-hari menjadi lebih ringan setelah itu.
 
 Sekolah sendiri, SMA Negeri itu, adalah dunia yang lebih besar daripada yang bisa kuhafal. Tiga puluh kelas, enam puluh guru dan staf, dua lapangan, dan sebuah kantin dengan lima penjual yang saling mencuri pelanggan. Aku masuk ke kelas X-IPA 2, di antara tiga puluh enam anak yang sebagian besar sudah saling kenal sejak SMP. Seragam putih abu-abu kami, kerudung putih kami, dan sepatu hitam yang kupinjam dari Tika karena milikku berlubang di ujung, membuatku tampak seperti salah satu dari mereka.
 

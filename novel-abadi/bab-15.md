@@ -100,7 +100,7 @@ Pada malam keenam, setelah semua selesai, Pak Dukuh mendekatiku.
 
 "Sudah ada BPJS, ya. Tapi transportnya? Obat yang tidak ditanggung? Makan Ibumu di rumah sakit?" Ia mengangkat tangan. "Aku tidak minta persetujuanmu. Aku cuma memberi tahu. Itu urusan dusun."
 
-Aku menatapnya. Di wajah gemuk dan ramah itu, aku melihat sesuatu yang kemudian menjadi salah satu hal yang kuingat paling lama tentang dusunku: tak ada rasa belas kasihan di sana. Hanya kewajiban, begitu wajar, seperti membersihkan makam atau menambal jalan.
+Aku menatapnya. Di wajah gemuk dan ramah itu, aku melihat bahwa tak ada rasa belas kasihan di sana. Hanya kewajiban, begitu wajar, seperti membersihkan makam atau menambal jalan.
 
 "Terima kasih, Pak," kataku.
 

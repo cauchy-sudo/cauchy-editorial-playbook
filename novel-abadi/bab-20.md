@@ -146,8 +146,6 @@ Bukan jam dinding. Hanya sebuah tanda: bahwa mulai hari ini, di dalam tubuhku, a
 
 Aku tidak menelepon Ibu. Aku tidak mengatakan apa pun pada Tika malam itu. Ketika ia bertanya, "Gimana kontrolnya?", aku menjawab, "Bagus. Dia bilang aku cuma perlu hati-hati," dan itu bukan kebohongan, tapi bukan seluruh kebenaran. Itu rahasia kedua.
 
-Aku belum tahu bahwa rahasia, bagi sebagian orang, bukan sesuatu yang disimpan sesekali. Ia menjadi sebuah ruangan di dalam rumah, yang dari tahun ke tahun, pelan-pelan, semakin banyak dipakai.
-
 ---
 
 Sore itu, aku kembali ke laboratorium. Gedung biologi nyaris kosong. Hanya lampu koridor yang menyala, dan di lantai tiga, sebuah cahaya kecil menyelinap dari bawah pintu Lab Biologi Sel dan Penuaan.

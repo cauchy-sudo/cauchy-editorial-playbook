@@ -98,7 +98,7 @@ Aku menekan layar telepon dengan ibu jari yang gemetar, dan, di antara dua getar
 
 Aku meletakkan telepon.
 
-Aku menyalakan es di dahiku. Aku minum air sedikit demi sedikit, hitung gelas demi gelas, sesuai catatan Ibu. Aku berbaring di lantai, di antara meja dan dinding, dengan jaket yang basah oleh keringat, dan menatap langit-langit.
+Aku menempelkan es di dahiku. Aku minum air sedikit demi sedikit, hitung gelas demi gelas, sesuai catatan Ibu. Aku berbaring di lantai, di antara meja dan dinding, dengan jaket yang basah oleh keringat, dan menatap langit-langit.
 
 Aku mulai menghitung ubin. Empat puluh tiga. Ada satu yang copot.
 

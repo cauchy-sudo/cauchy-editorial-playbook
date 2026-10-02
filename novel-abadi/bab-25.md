@@ -144,7 +144,7 @@ Tika melompat dari kasur dan memelukku, dan kami berguling di lantai kamar kos y
 
 Surel Prof. Whitcombe datang tiga hari kemudian, satu paragraf, tanpa salam. *Your English condition is met. I am converting the offer to unconditional. The funding condition I am removing altogether: a department should not hold a student hostage to a scholarship that exists only if the department says yes. You will have a letter you can show them. You will still have to win the money. — E.W.*
 
-Aku membacanya di mejaku, dan baru malam itu aku mengerti bahwa sebuah lingkaran persyaratan bisa ditutup oleh satu orang yang mau menandatangani.
+Aku membacanya di mejaku, dua kali, lalu menyimpannya di map yang paling depan.
 
 ---
 
