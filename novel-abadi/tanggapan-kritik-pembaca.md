@@ -33,15 +33,15 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 | B: tema diucapkan ("Itu bukan kepintaran. Itu watak"; wawancara kertas) | Kalimat watak dihapus; kalimat wawancara dipadatkan | Selesai |
 | B: suara tokoh bertukar (Mbah, Pak Karto, Pak Hendra, Bu Haji, Anindya, Whitcombe sama-sama beraforisme) | Aforisme Bu Haji ("Itu bukan nasihat, Nduk. Itu usia.") dihapus karena menggandakan Pak Hendra; pembedaan penuh belum dilakukan | Sebagian; lihat bagian 4 |
 
-## 3. Cerita: yang menunggu keputusan Anda
+## 3. Cerita: keputusan Anda dan tindak lanjutnya
 
-Butir-butir ini mengubah arah atau panjang cerita, jadi tidak saya lakukan tanpa persetujuan.
-
-1. **Harga rahasia dan uji diri** (A dan B, paling berat). Wulan tidak menanggung akibat profesional atau pribadi yang nyata selain ingatan dan Rizal. Usulan: tiga harga kecil. (a) Dr. Suryo meminta Wulan menjawab "tidak" dengan jelas supaya ia bisa menulis laporan kasus; Wulan tak sanggup berbohong lurus, sehingga Suryo menarik laporan yang mungkin menolong pasien lain. (b) Bu Ning meninggal tahun 2030; pesan terakhirnya: "Bilang Mbak Wulan, aku tidak iri." (c) Dr. Anindya menghitung tabung dan memilih diam, tetapi menanggungnya; atau Prof. Whitcombe dipaksa pensiun setelah audit sampel.
-2. **Bagian II terlalu panjang dan terlalu banyak penolong** (B), **pola "hambatan, penolong, selesai"** (A dan B). Usulan: perpendek bab 13 (Daffa) dan penjelasan kebijakan di bab 16–18 sekitar 15%, tanpa membuang langkah peta jalan; tambahkan satu hambatan yang tidak selesai oleh penolong.
-3. **Interlude 2031 membuka bahwa Wulan selamat** (A). Ini pilihan struktur, bukan kesalahan; prolog sudah memberi tahu. Usulan: pertahankan, karena pertanyaan novel ini adalah harga, bukan apakah ia hidup.
-4. **Epilog menjadi dua klimaks tambahan setelah laut** (B). Usulan: ringkas epilog menjadi satu gerak (Sekar dan daftar), buang paragraf Ardi dan Pak Karto yang bersifat penutup administratif.
-5. **Kebetulan yang menguntungkan** (B): jadwal bergeser karena flu, ide missing self di seminar, slide Halcyon 2029, pertanyaan wartawan. Usulan: ubah slide Halcyon menjadi 2030 atau biarkan sebagai gema; tambahkan satu kegagalan yang tidak bisa diselesaikan Wulan (sudah dilakukan lewat tikus nomor lima, lihat bagian 1).
+| Butir | Keputusan | Pelaksanaan | Status |
+|---|---|---|---|
+| Harga rahasia dan uji diri (A dan B) | **Tiga harga kecil** | (a) Bab 35: dr. Suryo membawa laporan kasus, meminta satu kata "benar"; Wulan tak bisa menjawab; ia mengunci laporan itu di laci, "Itu jawaban." (b) Bab 35: Bu Ning meninggal Agustus 2030 dengan pesan "aku tidak iri"; Wulan menambahkannya ke daftar yang tak ingin dilupakan. (c) Bab 36: Dr. Anindya membaca log pembeku (dua tabung, "uji kontrol") dan menanggung diamnya; surel Prof. Whitcombe memberi tahu ia pensiun dini setelah audit; balasan Wulan hanya "Yes, Professor." | Selesai |
+| Bagian II terlalu panjang dan terlalu banyak penolong | **Biarkan** | Tidak ada perubahan | Sengaja dipertahankan |
+| Interlude 2031 membuka bahwa Wulan selamat | **Pertahankan** | Tidak ada perubahan | Sengaja dipertahankan |
+| Epilog menjadi dua klimaks | **Biarkan epilog** | Tidak ada perubahan; secercah warna tetap di epilog | Sengaja dipertahankan |
+| Kebetulan yang menguntungkan | Belum diputuskan | Satu kegagalan yang tidak bisa diselesaikan sudah ditambahkan (tikus nomor lima, bab 30 dan 32). Slide Halcyon 2029 dibiarkan sebagai gema | Terbuka (rendah) |
 
 ## 4. Yang sengaja tidak diubah
 

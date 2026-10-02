@@ -58,6 +58,8 @@ Ini keputusan Anda, berurutan menurut munculnya. Jangan diubah tanpa sengaja.
 6. **Satu keajaiban saja** (formula peremajaan). Sisanya dari dunia nyata.
 7. **Tahan jawaban, jangan tahan fakta yang membuat tokoh tampak bodoh.**
 8. **Hormati yang kecil**: tradisi, tetangga, perawat puskesmas, guru. Tidak ada yang dijadikan olok-olok.
+9. **Rahasia punya harga yang jatuh pada orang lain**, bukan hanya pada tokoh utama (dr. Suryo kehilangan laporannya, Bu Ning tak pernah ditawari apa-apa, Dr. Anindya dan Prof. Whitcombe menanggung diam mereka). Keberhasilan ilmiah tidak boleh menghapus harga moral dan profesional.
+10. **Satu kegagalan harus tetap gagal.** Tidak semua masalah selesai oleh kecerdasan atau ketekunan tokoh (tikus nomor lima mati tanpa sebab yang bisa dibuktikan).
 
 ---
 
@@ -214,6 +216,9 @@ Turun-naik berulang, naik ke puncak penemuan, jatuh getir-manis (dekat *Icarus* 
 Motif memberi gema, tetapi gema yang terlalu sering menjadi kebiasaan penulis.
 - **Maksimum tiga sampai empat kemunculan** per frasa motif, dan tiap kemunculan harus **mengubah maknanya** (contoh: "Masih sama" dari wisuda → pulang → mimpi Ibu; "Itu bedak" dari bohong kecil → teguran → pamit).
 - Motif yang sudah dipakai: kupu-kupu, payung hitam, kaleng biskuit dan receh, kertas catatan dan kolom KELUHAN, radio dan "dengar yang lemah", lonceng Bejo, *Lir-ilir*, ubin langit-langit, "Itu jawaban. Cuma bukan seluruhnya", "Itu bedak", "Masih sama", "Nah".
+- **Hitung frasa sebelum dibagikan.** Pembaca awal menghitung: *seperti orang yang…* (43), *dua tangan* (36), *tanpa berkata apa-apa* (±40), *menahan sesuatu yang naik* (8). Setelah dipangkas: 22, 24, 22, 3. Pegangan: ≤ 1 per 3.000 kata untuk frasa yang bukan motif.
+- **Akhir bab berakhir pada tindakan atau gambar**, bukan kalimat penyimpul ('Itu juga bukan seluruhnya', 'Dan itu cukup').
+- **Satu kalimat khas, satu tokoh.** 'Itu bukan nasihat. Itu pengamatan' milik Pak Hendra; 'Itu jawaban. Cuma bukan seluruhnya' milik Wulan kepada orang yang ia tutupi (tidak diberikan juga kepada tokoh yang tahu). Jangan dibagikan ke tokoh lain.
 - Frasa yang **sering terpakai berlebihan dan sebaiknya diganti** bila muncul lagi: *wajah yang tidak bisa dibaca*, *dengan dua tangan / seperti menerima sesuatu yang suci / tak boleh tumpah*, *sesuatu yang naik ke tenggorokan*, *sedikit seperti hujan dari atap yang berbeda* (sengaja lima kali; jangan tambah), *alis naik setengah senti*.
 
 ---
@@ -303,6 +308,7 @@ Aturan: "sejak umur…" untuk **awal sakit = sebelas**. Hitung jarak tahun denga
 ### 10.3 Angka dan perhitungan
 - **Hitung ulang setiap angka yang berhubungan** (contoh: laju penurunan fungsi ginjal × tahun = tahun gagal ginjal). Kasus kita: 58 turun 4–5 poin per tahun mencapai 15 dalam ±8–10 tahun; 3–4 poin tidak cocok.
 - **Satuan dan skala:** 10 mikroliter = **seperlima** tetes air (satu tetes ±50 µL), bukan seper-seratus.
+- **Rantai klinis:** nilai awal, laju turun, dan ramalan dokter harus menghasilkan nilai yang muncul kemudian (58 pada 2020, turun 4–5 poin per tahun ⇒ ±28 pada 2029 sebelum kambuh, bukan 52).
 - **Aturan tiga (statistik):** nol kejadian dalam *n* percobaan ⇒ batas atas 95% ≈ 3/*n* (nol dari sembilan ⇒ "kurang dari sepertiga").
 - **Uang:** satu tabel arus kas (sapi 11 juta, laptop 3,4 juta, kaleng 312.500, IELTS 3,2 juta ×2, dst.). Setiap angka yang muncul dua kali harus sama.
 - **Jadwal eksperimen:** jeda lima hari + tertunda empat hari = jeda sembilan hari. Cek bahwa penjelasan pertama menghasilkan angka yang dipakai kemudian.

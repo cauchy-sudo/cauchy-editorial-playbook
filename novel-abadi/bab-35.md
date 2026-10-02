@@ -126,6 +126,46 @@ Dan aku menulis. Setiap malam, selama satu jam, aku menulis tentang hari itu, de
 
 ---
 
+Dokter Suryo memanggilku ke ruangannya pada bulan Oktober, di luar jadwal kontrol, dan sebelum ia mengatakan apa pun aku tahu dari cara ia menutup pintu bahwa ini bukan tentang angka.
+
+"Laju filtrasi lima puluh delapan," katanya juga, seperti dokter yang tak tahan melewatkan kebiasaan. "Stabil sebelas bulan. Duduklah."
+
+Di mejanya ada dua lembar kertas yang diketik rapat dan dijepit.
+
+"Laporan kasus. *Remisi nefritis lupus kelas empat dengan parut, tanpa penjelasan.* Jurnal nefrologi mau menerbitkannya. Satu kasus saja, tapi orang membaca satu kasus kalau tak ada yang lain." Ia mendorong kertas itu setengah jengkal. "Aku hanya butuh satu kalimat dari kamu, untuk bagian metode. *Pasien tidak menerima terapi lain di luar yang tercatat.* Katakan 'benar', dan aku tanda tangan."
+
+Aku menatap kertas itu. Satu kata. Aku sudah mengucapkan kata yang lebih sulit kepada orang yang lebih berbahaya.
+
+"Kalau ada sesuatu di luar catatan," lanjutnya, pelan, "sesuatu yang bisa ditiru, ada ruang dialisis dengan empat puluh kursi di lantai bawah yang akan membaca laporan ini dengan harapan. Kalau kamu bilang tidak ada, laporan ini jadi laporan keajaiban. Keajaiban ditaruh di rak, bukan di buku panduan."
+
+"Saya tahu, Dok."
+
+"Kamu tahu."
+
+"Saya tidak bisa menjawabnya."
+
+Dokter Suryo diam. Ia mengambil kedua lembar itu, mengetuk tepinya di meja sampai rata, dan memasukkannya ke laci paling bawah, bukan ke tempat sampah.
+
+"Itu jawaban," katanya.
+
+"Dok..."
+
+"Aku tidak akan menulisnya. Aku tidak mau menaruh satu pasien yang sembuh di rak keajaiban dengan kalimat yang tidak kupercaya." Ia mengunci laci dengan kunci kecil, dan itu bunyi yang akan kuingat entah sampai kapan. "Aku tidak akan bertanya lagi. Tapi jangan kira ini murah."
+
+"Saya tidak mengira begitu."
+
+"Bagus." Ia menyandarkan punggung dan, untuk pertama kalinya, tampak seperti laki-laki enam puluhan yang kelelahan. "Bu Ning meninggal bulan Agustus. Infeksi. Cepat."
+
+Aku tidak langsung mendengar kalimat berikutnya.
+
+"Dia menitip sesuatu untukmu. Aku hampir lupa, atau pura-pura lupa, karena aku tidak tahu harus kuapakan." Ia menatap mejanya. "*Bilang sama Mbak Wulan, aku tidak iri.*"
+
+Aku menunduk dan membaca ulang kalimat itu dalam kepalaku sampai ia tidak lagi terdengar seperti suara siapa pun.
+
+Malam itu, di daftar yang kutulis tiap malam tentang hal-hal yang tidak ingin kulupakan, aku menambahkan satu baris. *Bu Ning. Kerudung ungu. "Aku sudah tiga tahun. Senin, Kamis." "Aku masih mau lihat dia SMA."*
+
+---
+
 Rizal menemuiku pada bulan November, di sebuah kafe kecil di dekat kampus, dengan jaket tebal dan wajah yang telah memutuskan sesuatu.
 
 Sudah delapan bulan sejak ia datang ke Pucung. Kami tetap berbicara lewat pesan, tetap berbagi tautan makalah dan lelucon yang hanya dipahami dua orang. Aku tahu apa yang akan ia katakan. Aku sudah menyiapkan jawabannya, dan tiap kali kusiapkan, jawaban itu terasa seperti sebilah pisau yang tidak ingin kupegang.

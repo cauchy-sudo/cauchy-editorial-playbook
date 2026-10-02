@@ -6899,6 +6899,46 @@ Dan aku menulis. Setiap malam, selama satu jam, aku menulis tentang hari itu, de
 
 ---
 
+Dokter Suryo memanggilku ke ruangannya pada bulan Oktober, di luar jadwal kontrol, dan sebelum ia mengatakan apa pun aku tahu dari cara ia menutup pintu bahwa ini bukan tentang angka.
+
+"Laju filtrasi lima puluh delapan," katanya juga, seperti dokter yang tak tahan melewatkan kebiasaan. "Stabil sebelas bulan. Duduklah."
+
+Di mejanya ada dua lembar kertas yang diketik rapat dan dijepit.
+
+"Laporan kasus. *Remisi nefritis lupus kelas empat dengan parut, tanpa penjelasan.* Jurnal nefrologi mau menerbitkannya. Satu kasus saja, tapi orang membaca satu kasus kalau tak ada yang lain." Ia mendorong kertas itu setengah jengkal. "Aku hanya butuh satu kalimat dari kamu, untuk bagian metode. *Pasien tidak menerima terapi lain di luar yang tercatat.* Katakan 'benar', dan aku tanda tangan."
+
+Aku menatap kertas itu. Satu kata. Aku sudah mengucapkan kata yang lebih sulit kepada orang yang lebih berbahaya.
+
+"Kalau ada sesuatu di luar catatan," lanjutnya, pelan, "sesuatu yang bisa ditiru, ada ruang dialisis dengan empat puluh kursi di lantai bawah yang akan membaca laporan ini dengan harapan. Kalau kamu bilang tidak ada, laporan ini jadi laporan keajaiban. Keajaiban ditaruh di rak, bukan di buku panduan."
+
+"Saya tahu, Dok."
+
+"Kamu tahu."
+
+"Saya tidak bisa menjawabnya."
+
+Dokter Suryo diam. Ia mengambil kedua lembar itu, mengetuk tepinya di meja sampai rata, dan memasukkannya ke laci paling bawah, bukan ke tempat sampah.
+
+"Itu jawaban," katanya.
+
+"Dok..."
+
+"Aku tidak akan menulisnya. Aku tidak mau menaruh satu pasien yang sembuh di rak keajaiban dengan kalimat yang tidak kupercaya." Ia mengunci laci dengan kunci kecil, dan itu bunyi yang akan kuingat entah sampai kapan. "Aku tidak akan bertanya lagi. Tapi jangan kira ini murah."
+
+"Saya tidak mengira begitu."
+
+"Bagus." Ia menyandarkan punggung dan, untuk pertama kalinya, tampak seperti laki-laki enam puluhan yang kelelahan. "Bu Ning meninggal bulan Agustus. Infeksi. Cepat."
+
+Aku tidak langsung mendengar kalimat berikutnya.
+
+"Dia menitip sesuatu untukmu. Aku hampir lupa, atau pura-pura lupa, karena aku tidak tahu harus kuapakan." Ia menatap mejanya. "*Bilang sama Mbak Wulan, aku tidak iri.*"
+
+Aku menunduk dan membaca ulang kalimat itu dalam kepalaku sampai ia tidak lagi terdengar seperti suara siapa pun.
+
+Malam itu, di daftar yang kutulis tiap malam tentang hal-hal yang tidak ingin kulupakan, aku menambahkan satu baris. *Bu Ning. Kerudung ungu. "Aku sudah tiga tahun. Senin, Kamis." "Aku masih mau lihat dia SMA."*
+
+---
+
 Rizal menemuiku pada bulan November, di sebuah kafe kecil di dekat kampus, dengan jaket tebal dan wajah yang telah memutuskan sesuatu.
 
 Sudah delapan bulan sejak ia datang ke Pucung. Kami tetap berbicara lewat pesan, tetap berbagi tautan makalah dan lelucon yang hanya dipahami dua orang. Aku tahu apa yang akan ia katakan. Aku sudah menyiapkan jawabannya, dan tiap kali kusiapkan, jawaban itu terasa seperti sebilah pisau yang tidak ingin kupegang.
@@ -7264,6 +7304,24 @@ Aku tidak melihat reaksi ruangan. Aku hanya melihat kamera yang terus menyala.
 
 ---
 
+Dr. Anindya menungguku di lorong belakang ruang konferensi, di dekat tangga darurat, tempat tak ada kamera. Ia melepas kacamata persegi dan mengusap pangkal hidungnya.
+
+"Log pembeku," katanya.
+
+"Bu?"
+
+"Delapan Desember dua ribu dua puluh sembilan, pukul sepuluh malam. Dua tabung keluar dari kotak Eleanor. Atas namamu. Kolom keperluan: *uji kontrol.*" Ia memakai kacamatanya lagi. "Kamu tidak pernah menulis *uji kontrol.* Kamu selalu menulis yang sebenarnya sampai tiga baris. Malam itu satu kata."
+
+Aku tidak menjawab.
+
+"Aku tidak bertanya." Suaranya datar. "Aku hanya mau kamu tahu bahwa aku membaca log, dan bahwa aku membacanya keesokan harinya, bukan berbulan-bulan kemudian. Aku sudah tanda tangan di bawah kalimat *tidak ada data manusia.* Kalau besok ada yang bertanya, aku akan mengulang kalimat itu. Dan aku akan membencinya setiap kali."
+
+"Bu, saya..."
+
+"Itu harga meja yang kuberikan padamu. Jangan kamu yang membayarnya untukku." Ia menepuk bahuku sekali, keras, seperti menepuk karpet, lalu berjalan kembali ke ruang konferensi, dan punggungnya yang kecil dan sangat tegak tidak menoleh.
+
+---
+
 Ibu dan Bapak menontonnya di rumah Pak Hasan, di televisi tabung kecil di ruang tamu yang penuh tetangga.
 
 Aku mengetahuinya dari Tika, yang menelepon setelah acara dengan suara serak dan terengah. "Wulan. Kamu muncul di TV. Seluruh dusun datang. Mbok Karni teriak. Dia lompat. Dia lompat padahal pinggangnya sakit."
@@ -7322,7 +7380,15 @@ Aku menutup mulutku dengan tangan.
 
 Layar menjadi gelap.
 
-Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan telepon di pangkuan dan radio kecil di jendela yang berdesis pelan tanpa suara apa pun. Di luar, hujan turun untuk pertama kalinya setelah dua minggu tanpa setetes pun.
+Surel Prof. Whitcombe sudah menunggu di kotak masukku, dikirim satu jam sebelum Julian menelepon. Tidak ada salam.
+
+*Wulan. Hartwell's compliance office has asked about the sample register for 2029. The box you took is on it, under my signature, with the word "reagents." I have told them what is true: that I sent reagents to a collaborating laboratory under a transfer agreement, and that I am not in the habit of auditing what my students do after they leave me. This is accurate. It is also not the whole of it, and they know that I know it. The institute has offered me early retirement in June. I have accepted. I am not telling you this to make you feel anything. I am telling you because you once said a person must be told the truth. Do not write to me for a year. — E.W.*
+
+Aku membacanya tiga kali. Aku mengetik *I'm sorry*, dan teringat bahwa ia pernah menyuruhku tidak mengucapkannya, dan menghapusnya. Aku mengetik *Thank you*, dan menghapusnya juga.
+
+Aku mengetik: *Yes, Professor.* Aku menekan kirim.
+
+Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan laptop yang masih terbuka dan radio kecil di jendela yang berdesis pelan tanpa suara apa pun. Di luar, hujan turun untuk pertama kalinya setelah dua minggu tanpa setetes pun.
 
 Radio itu mati sebelum aku sempat berdiri, di tengah desisnya, dengan bunyi seperti orang bersin.
 
