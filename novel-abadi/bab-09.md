@@ -98,7 +98,7 @@ Memilih tidak sesederhana itu. Tahun itu ada aturan baru soal jarak antara rumah
 
 Aku menggeleng. Aku bahkan tidak tahu ada dana.
 
-"Besok kita urus." Bu Ratmi menutup map itu dengan tegas. "Dan Wulan, ini penting: kalau ada program, tanyakan. Jangan menunggu orang menawarkan. Orang yang kekurangan seringkali tidak tahu apa yang sebetulnya sudah menjadi haknya."
+"Besok kita urus." Bu Ratmi menutup map itu dengan tegas. "Satu lagi, Wulan. Kalau ada program, tanyakan. Jangan tunggu ditawari."
 
 Aku mencatat itu di tepi buku, di bawah *Utang pertama*. Dan di bawahnya, setelah ragu sejenak: *Tanya.*
 

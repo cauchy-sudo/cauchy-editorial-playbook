@@ -54,7 +54,7 @@ Aku menaruh pipet. Aku menatap meja di depanku.
 
 "Aku... " Kalimat itu terasa seperti sesuatu yang kuhafal tapi tak pernah kuucapkan. "Aku sedang menunggu sesuatu. Aku tidak tahu apa. Dan sampai aku tahu, aku tidak mau membuatmu menunggu."
 
-"Aku bisa menunggu."
+"Aku bisa menunggu. Tempe saja kutunggu dua hari."
 
 "Itu yang selalu dikatakan orang."
 

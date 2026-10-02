@@ -64,7 +64,7 @@ Aku membaca tiga komentar itu di mejaku, dan perutku jatuh.
 
 "Penelaah dua itu kejam," kataku.
 
-"Itu penelaah yang baik." Dr. Anindya memegang cangkir kopinya. "Dia memaksa kita menjawab pertanyaan yang kita takut. Kita tidak menang karena penelaah ramah. Kita menang karena kita selamat dari penelaah yang keras."
+"Itu penelaah yang baik." Dr. Anindya memegang cangkir kopinya. "Dia memaksa kita menjawab pertanyaan yang kita takuti."
 
 Kami mengulangnya. Dua bulan. Kami mengirimkan sampel ke sebuah laboratorium di kota lain, dan mereka menjalankan eksperimen kami tanpa mengetahui hasil yang kami harapkan. Hasilnya sama. Kami menulis balasan untuk tiap komentar, sembilan halaman, dengan huruf yang rapat.
 

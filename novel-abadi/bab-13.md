@@ -160,7 +160,7 @@ Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika ak
 
 "Terima kasih, Bu."
 
-"Aku tidak memuji. Aku mengamati." Bu Haji menatapku, dan di wajahnya ada sesuatu yang kuduga kelembutan, tapi ia terlalu tua untuk mengakuinya. "Dan lagu itu. *Lir-ilir*. Siapa yang mengajarimu?"
+"Aku tidak memuji. Itu fakta, seperti harga telur." Bu Haji menatapku, dan di wajahnya ada sesuatu yang kuduga kelembutan, tapi ia terlalu tua untuk mengakuinya. "Dan lagu itu. *Lir-ilir*. Siapa yang mengajarimu?"
 
 "Mbah saya."
 

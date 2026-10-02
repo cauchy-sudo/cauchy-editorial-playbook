@@ -226,9 +226,11 @@ Aku tidak sanggup menjawab. Air mataku jatuh ke meja, dan aku tidak menyekanya.
 
 Ia berdiri. Ia merapikan jaketnya, dan mengeluarkan dompet, dan menaruh uang di meja untuk kopi yang tidak kami minum.
 
-"Dah, Wulan."
+"Tempe yang kukirim dulu," katanya. "Jangan taruh di lemari es."
 
-"Dah, Rizal."
+"Dia mati kalau dingin."
+
+"Iya." Ia mengangguk sekali, dan itu lebih sulit daripada kata apa pun. "Dia butuh hangat."
 
 Ia berjalan keluar. Lonceng kecil di pintu kafe berbunyi sekali. Aku duduk di sana sampai kopi menjadi dingin, tidak bergerak, sampai pelayan datang dan bertanya apakah aku baik-baik saja.
 

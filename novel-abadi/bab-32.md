@@ -176,7 +176,7 @@ Aku menunduk.
 
 "Kalau aku salah..."
 
-"Kamu akan tahu." Ia menutup matanya lagi. "Tapi kamu akan tahu dengan cara yang tidak bisa dikembalikan. Itu yang membuat keputusan seperti ini berat, Nduk. Bukan karena kamu tidak tahu jawabannya. Tapi karena kamu tidak bisa menarik pertanyaannya."
+"Kamu akan tahu." Ia menutup matanya lagi. "Habis itu tidak bisa ditarik. Itu saja yang kutahu, Nduk."
 
 Aku duduk di sana, dan Pak Karto tidur di kursi rodanya dengan dengkur kecil yang teratur, dan radio di pangkuannya berdesis sendiri, pelan, sampai matahari terbenam di balik pohon jati dan lampu teras menyala sendiri di kejauhan.
 

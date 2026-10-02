@@ -6,7 +6,7 @@ Pak Hendra memulai pembinaan olimpiade dengan satu kalimat yang membuat delapan 
 
 Kami duduk di laboratorium biologi pada sore hari Selasa, dengan kipas angin yang berputar lambat dan bau formalin yang menempel dari kerangka katak di lemari. Sepuluh anak dari kelas X, XI, dan XII. Sebagian membawa buku setebal bantal. Sebagian membawa wajah yang sudah tahu persis apa itu olimpiade, karena mereka sudah ikut sejak SMP dan pulang dengan medali dari kabupaten.
 
-"Tapi ada dua jenis kalah," lanjut Pak Hendra. "Kalah yang membuat kalian berhenti, dan kalah yang membuat kalian tahu apa yang belum kalian ketahui. Saya hanya mau yang kedua."
+"Ehm. Ada dua jenis kalah," lanjut Pak Hendra, setelah berdeham dua kali. "Yang membuat kalian berhenti. Dan yang membuat kalian tahu apa yang belum kalian ketahui. Saya hanya mau yang kedua."
 
 Dua orang berdiri dan pergi pelan-pelan. Pak Hendra tidak menoleh.
 

@@ -128,7 +128,7 @@ Dr. Anindya meletakkan kacamatanya di meja. Ia menatapku, dan untuk pertama kali
 
 "Saya hanya..."
 
-"Jangan bilang 'hanya'." Dr. Anindya berdiri dan berjalan ke jendela. Di luar, pohon beringin kampus menghembuskan bayangan di halaman. "Dulu aku mengira ilmuwan itu orang yang tahu banyak hal. Ternyata bukan. Ilmuwan itu orang yang tahu betapa mudah ia keliru, dan tetap mau mengecek."
+"Jangan bilang 'hanya'." Dr. Anindya berdiri dan berjalan ke jendela. Di luar, pohon beringin kampus menghembuskan bayangan di halaman. "Dulu kukira ilmuwan itu orang yang tahu banyak. Bukan. Orang yang tahu betapa gampang ia keliru, dan tetap mengecek."
 
 Ia terdiam. Dari belakang, tubuhnya tampak kecil dan sangat tegak.
 

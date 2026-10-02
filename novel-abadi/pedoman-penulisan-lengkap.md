@@ -144,6 +144,8 @@ Uji cepat: tanya, *"Apakah kalimat ini diucapkan Wulan, atau penulis?"* Bila pen
 - **Daya tarik:** membuat orang merasa didengar; lucu tanpa merendahkan; berani bertanya yang dianggap bodoh; setia. Kecantikan **bukan** hadiah cerita.
 
 ### 5.2 Tokoh pendukung
+Profil suara per tokoh (cara bicara, kalimat khas, yang dihindari) ada di `02-panduan-suara.md`, bagian 9. Aturannya: satu tokoh, satu register, satu tanda tangan; tanda tangan tidak dipinjamkan kepada tokoh lain.
+
 - Setiap tokoh punya **satu kebiasaan, satu cara bicara, satu kebutuhan sendiri**: Tika (menolong dengan hal yang sedikit bodoh dan sangat nyata), Mas Aji (bicara dengan benda: permen, radio), Bu Haji ("Aku paling benci kalau orang menghindar"), Bu Wiwik (lipstik merah tua, tidak pernah berbohong), Pak Hendra ("Itu bukan nasihat. Itu pengamatan."), Pak Slamet ("Nah."), Dr. Anindya (tanpa basa-basi, memberi meja).
 - **Tidak ada penjahat budaya.** Tetangga yang menggunjing (Mbok Karni) kemudian memeluk dan menyumbang; Budhe yang meremehkan memberi amplop "buat buku".
 - **Kelemahan tokoh baik harus tampak.** Ledger mencatat risiko cerita terlalu hangat; tambahkan satu-dua kegagalan manusia yang tidak ditebus bila merevisi.

@@ -1526,7 +1526,7 @@ Memilih tidak sesederhana itu. Tahun itu ada aturan baru soal jarak antara rumah
 
 Aku menggeleng. Aku bahkan tidak tahu ada dana.
 
-"Besok kita urus." Bu Ratmi menutup map itu dengan tegas. "Dan Wulan, ini penting: kalau ada program, tanyakan. Jangan menunggu orang menawarkan. Orang yang kekurangan seringkali tidak tahu apa yang sebetulnya sudah menjadi haknya."
+"Besok kita urus." Bu Ratmi menutup map itu dengan tegas. "Satu lagi, Wulan. Kalau ada program, tanyakan. Jangan tunggu ditawari."
 
 Aku mencatat itu di tepi buku, di bawah *Utang pertama*. Dan di bawahnya, setelah ragu sejenak: *Tanya.*
 
@@ -1721,7 +1721,7 @@ Pak Hendra memulai pembinaan olimpiade dengan satu kalimat yang membuat delapan 
 
 Kami duduk di laboratorium biologi pada sore hari Selasa, dengan kipas angin yang berputar lambat dan bau formalin yang menempel dari kerangka katak di lemari. Sepuluh anak dari kelas X, XI, dan XII. Sebagian membawa buku setebal bantal. Sebagian membawa wajah yang sudah tahu persis apa itu olimpiade, karena mereka sudah ikut sejak SMP dan pulang dengan medali dari kabupaten.
 
-"Tapi ada dua jenis kalah," lanjut Pak Hendra. "Kalah yang membuat kalian berhenti, dan kalah yang membuat kalian tahu apa yang belum kalian ketahui. Saya hanya mau yang kedua."
+"Ehm. Ada dua jenis kalah," lanjut Pak Hendra, setelah berdeham dua kali. "Yang membuat kalian berhenti. Dan yang membuat kalian tahu apa yang belum kalian ketahui. Saya hanya mau yang kedua."
 
 Dua orang berdiri dan pergi pelan-pelan. Pak Hendra tidak menoleh.
 
@@ -2213,7 +2213,7 @@ Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika ak
 
 "Terima kasih, Bu."
 
-"Aku tidak memuji. Aku mengamati." Bu Haji menatapku, dan di wajahnya ada sesuatu yang kuduga kelembutan, tapi ia terlalu tua untuk mengakuinya. "Dan lagu itu. *Lir-ilir*. Siapa yang mengajarimu?"
+"Aku tidak memuji. Itu fakta, seperti harga telur." Bu Haji menatapku, dan di wajahnya ada sesuatu yang kuduga kelembutan, tapi ia terlalu tua untuk mengakuinya. "Dan lagu itu. *Lir-ilir*. Siapa yang mengajarimu?"
 
 "Mbah saya."
 
@@ -2982,7 +2982,7 @@ Lulus saja belum cukup. Ada hal-hal lain yang harus dilakukan: daftar ulang, men
 
 "Iya, Bu."
 
-"Dan Wulan." Suaranya mengeras. "Itu bukan sedekah. Itu hakmu. Jangan minta maaf."
+"Dan Wulan." Suaranya mengeras. "Jangan minta maaf."
 
 ---
 
@@ -3697,7 +3697,7 @@ Dr. Anindya meletakkan kacamatanya di meja. Ia menatapku, dan untuk pertama kali
 
 "Saya hanya..."
 
-"Jangan bilang 'hanya'." Dr. Anindya berdiri dan berjalan ke jendela. Di luar, pohon beringin kampus menghembuskan bayangan di halaman. "Dulu aku mengira ilmuwan itu orang yang tahu banyak hal. Ternyata bukan. Ilmuwan itu orang yang tahu betapa mudah ia keliru, dan tetap mau mengecek."
+"Jangan bilang 'hanya'." Dr. Anindya berdiri dan berjalan ke jendela. Di luar, pohon beringin kampus menghembuskan bayangan di halaman. "Dulu kukira ilmuwan itu orang yang tahu banyak. Bukan. Orang yang tahu betapa gampang ia keliru, dan tetap mengecek."
 
 Ia terdiam. Dari belakang, tubuhnya tampak kecil dan sangat tegak.
 
@@ -4258,7 +4258,7 @@ Aku membaca tiga komentar itu di mejaku, dan perutku jatuh.
 
 "Penelaah dua itu kejam," kataku.
 
-"Itu penelaah yang baik." Dr. Anindya memegang cangkir kopinya. "Dia memaksa kita menjawab pertanyaan yang kita takut. Kita tidak menang karena penelaah ramah. Kita menang karena kita selamat dari penelaah yang keras."
+"Itu penelaah yang baik." Dr. Anindya memegang cangkir kopinya. "Dia memaksa kita menjawab pertanyaan yang kita takuti."
 
 Kami mengulangnya. Dua bulan. Kami mengirimkan sampel ke sebuah laboratorium di kota lain, dan mereka menjalankan eksperimen kami tanpa mengetahui hasil yang kami harapkan. Hasilnya sama. Kami menulis balasan untuk tiap komentar, sembilan halaman, dengan huruf yang rapat.
 
@@ -5678,7 +5678,7 @@ Aku menaruh pipet. Aku menatap meja di depanku.
 
 "Aku... " Kalimat itu terasa seperti sesuatu yang kuhafal tapi tak pernah kuucapkan. "Aku sedang menunggu sesuatu. Aku tidak tahu apa. Dan sampai aku tahu, aku tidak mau membuatmu menunggu."
 
-"Aku bisa menunggu."
+"Aku bisa menunggu. Tempe saja kutunggu dua hari."
 
 "Itu yang selalu dikatakan orang."
 
@@ -6320,7 +6320,7 @@ Aku menunduk.
 
 "Kalau aku salah..."
 
-"Kamu akan tahu." Ia menutup matanya lagi. "Tapi kamu akan tahu dengan cara yang tidak bisa dikembalikan. Itu yang membuat keputusan seperti ini berat, Nduk. Bukan karena kamu tidak tahu jawabannya. Tapi karena kamu tidak bisa menarik pertanyaannya."
+"Kamu akan tahu." Ia menutup matanya lagi. "Habis itu tidak bisa ditarik. Itu saja yang kutahu, Nduk."
 
 Aku duduk di sana, dan Pak Karto tidur di kursi rodanya dengan dengkur kecil yang teratur, dan radio di pangkuannya berdesis sendiri, pelan, sampai matahari terbenam di balik pohon jati dan lampu teras menyala sendiri di kejauhan.
 
@@ -6999,9 +6999,11 @@ Aku tidak sanggup menjawab. Air mataku jatuh ke meja, dan aku tidak menyekanya.
 
 Ia berdiri. Ia merapikan jaketnya, dan mengeluarkan dompet, dan menaruh uang di meja untuk kopi yang tidak kami minum.
 
-"Dah, Wulan."
+"Tempe yang kukirim dulu," katanya. "Jangan taruh di lemari es."
 
-"Dah, Rizal."
+"Dia mati kalau dingin."
+
+"Iya." Ia mengangguk sekali, dan itu lebih sulit daripada kata apa pun. "Dia butuh hangat."
 
 Ia berjalan keluar. Lonceng kecil di pintu kafe berbunyi sekali. Aku duduk di sana sampai kopi menjadi dingin, tidak bergerak, sampai pelayan datang dan bertanya apakah aku baik-baik saja.
 

@@ -90,7 +90,7 @@ Lulus saja belum cukup. Ada hal-hal lain yang harus dilakukan: daftar ulang, men
 
 "Iya, Bu."
 
-"Dan Wulan." Suaranya mengeras. "Itu bukan sedekah. Itu hakmu. Jangan minta maaf."
+"Dan Wulan." Suaranya mengeras. "Jangan minta maaf."
 
 ---
 

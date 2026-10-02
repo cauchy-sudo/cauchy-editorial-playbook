@@ -59,3 +59,30 @@ Pembaca mungkin menirunya. Semua detail prosedur (program beasiswa, syarat, isti
 - Tidak ada adegan seksual. Pada tokoh di bawah 18 tahun tidak ada adegan romantis fisik berlebihan.
 - Tidak ada rival jahat. Tidak ada tokoh pria yang menjadi "hadiah" cerita.
 - Setiap hubungan berakhir karena alasan yang masuk akal dan manusiawi, bukan karena kebetulan.
+
+## 9. Profil suara per tokoh (agar tidak bertukar)
+Aturan umum: **satu tokoh, satu register, satu tanda tangan.** Pembaca harus bisa menebak pembicara tanpa tag. Kalimat khas milik satu tokoh tidak diberikan kepada yang lain. Aforisme hanya boleh di mulut tokoh yang memang bicara begitu, dan paling banyak satu per adegan.
+
+| Tokoh | Cara bicara | Tanda tangan (jangan dipinjamkan) | Hindari |
+|---|---|---|---|
+| **Ibu** | Sedikit kata, bahasa Jawa halus pada yang dituakan, praktis; perhatian lewat pertanyaan ("Sudah makan?") | "Jangan bilang tidak." "Masih sama." | Pidato, nasihat panjang |
+| **Bapak** | Hampir tak bicara; kalimat benda dan tindakan ("Kambing itu gampang") | "Bapak sudah kenyang." "Bapak tunggu." | Penjelasan perasaan |
+| **Mbah Darmi** | Jawa, kiasan sawah dan dapur, tidak langsung | "Cuma salah hinggap." "Dokter ya dokter. Dongo ya dongo." | Bahasa medis |
+| **Tika** | Cepat, lucu, hiperbola, bohong kecil demi kawan | "Itu bedak." "Aku cuma bilang." | Renungan |
+| **Bu Haji** | Imperatif pendek, aturan dan angka, tanpa bunga kata | "Aku paling benci kalau orang menghindar." "Aku tahu semuanya." | Aforisme, "pengamatan" |
+| **Pak Hendra** | Ragu, berdeham, kalimat sering terputus; bertanya, mengaku tak tahu; memakai "Bapak" dan "saya" | "Itu bukan nasihat. Itu pengamatan." | Pidato yang lancar |
+| **Pak Karto** | Lambat, pendek, hampir mengantuk; guru tua; mengembalikan pertanyaan | "Dikembalikan dengan satu pertanyaan." "Aku tidak tahu." | Kalimat penyimpul yang indah |
+| **Bu Wiwik** | Birokratis-lugas, daftar angka, jujur tanpa basa-basi; "Nak" | "Aku tidak membohongimu." "Itu bukan sedekah. Itu hakmu." (hanya sekali) | Mengulang pesan yang sudah jelas |
+| **Bu Ratmi** | Guru yang cekatan: perintah singkat, tak sempat menenangkan | "Tidak tahu. Cari di buku." | Ceramah soal hak |
+| **dr. Sumarni** | Tenang, menjelaskan, kalimat lengkap, sering menanyakan pemahaman | "Saya akan bicara jelas." | Humor |
+| **Dr. Suryo** | Kasar-hangat, angka lebih dulu | "Aku bukan peramal. Aku hanya membaca grafik." | Kata puitis |
+| **Dr. Anindya** | Telegrafis, kata benda, perintah, sinisme kering; tidak suka ucapan terima kasih | "Catat." "Dicatat." | Renungan panjang, kiasan |
+| **Prof. Whitcombe** | Inggris datar dan meremehkan diri; teh; kalimat pendek yang menusuk; hanya sekali memuji | "Do not do anything stupid." | Pidato; sentimen terang-terangan |
+| **Pak Slamet** | Satu atau dua kata; perhatian lewat teh | "Nah." | Kalimat panjang |
+| **Bayu** | Sopan, presisi, hati-hati, memberi catatan kecil | "Kamu tidak harus menjawab." | Gurauan keras |
+| **Rizal** | Humor, makanan, hiperbola, merendahkan diri; marah dan sedih tetap lucu | "Itu karya seni." (tempe) "Dia butuh hangat." | Pernyataan cinta yang fasih; "aku bisa menunggu" tanpa gurauan |
+| **Naufal** | Sangat irit, teknis, jarang menatap; kasih lewat benda | "Jelek." "Bunyi?" "Oke." "Dah, Wulan." | Perasaan yang diucapkan |
+| **Julian Thorne** | Sopan, hangat, rasional; bahasa pasar yang ramah | "Safety is a function of time and money." | Ancaman terang-terangan |
+
+Tiga penolakan cinta (Daffa, Bayu, Rizal) harus berbeda **alasan, tempat, dan suara**: Daffa terus terang dan cepat memaafkan; Bayu menahan diri dan sopan; Rizal bergurau sampai akhir. Hanya Naufal yang berkata "Dah, Wulan."
+

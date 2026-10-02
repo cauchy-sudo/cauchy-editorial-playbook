@@ -31,7 +31,7 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 | A dan B: "Itu jawaban. Cuma bukan seluruhnya" untuk tiga orang | Dr. Anindya tidak lagi mendapat kalimat itu (bab 31): ia tahu arti diam Wulan tanpa kalimat tersebut. Tersisa Bayu (asal), Rizal, dan narasi | Selesai |
 | A dan B: akhir bab yang menyimpulkan | Lima akhir bab dipangkas ke tindakan atau gambar (bab 8, 11, 12, 34, 35); bab 36 kini berakhir pada tindakan, bukan renungan | Selesai |
 | B: tema diucapkan ("Itu bukan kepintaran. Itu watak"; wawancara kertas) | Kalimat watak dihapus; kalimat wawancara dipadatkan | Selesai |
-| B: suara tokoh bertukar (Mbah, Pak Karto, Pak Hendra, Bu Haji, Anindya, Whitcombe sama-sama beraforisme) | Aforisme Bu Haji ("Itu bukan nasihat, Nduk. Itu usia.") dihapus karena menggandakan Pak Hendra; pembedaan penuh belum dilakukan | Sebagian; lihat bagian 4 |
+| B: suara tokoh bertukar (Mbah, Pak Karto, Pak Hendra, Bu Haji, Anindya, Whitcombe sama-sama beraforisme) | Profil suara 18 tokoh ditulis di `02-panduan-suara.md` (bagian 9). Aforisme penutup dipangkas pada Bu Haji (bab 13), Bu Ratmi (bab 9), Bu Wiwik (bab 18), Pak Karto (bab 32), Dr. Anindya (bab 21, 24); Pak Hendra kini ragu dan berdeham (bab 11); Rizal bergurau (bab 30) dan tidak lagi berpamitan seperti Naufal: "Dia butuh hangat" (bab 35) | Selesai |
 
 ## 3. Cerita: keputusan Anda dan tindak lanjutnya
 
@@ -47,7 +47,6 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 
 - **Dosis dan cara pembuatan manusia tidak dijelaskan** (B). Ini keputusan keselamatan, bukan kelalaian; pembaca tidak boleh mendapat petunjuk teknis. Kekhawatiran B bisa dijawab dengan menunjukkan **biaya moral dan sosial**, bukan detail teknis.
 - **Hampir semua tokoh membantu** (B). Ini disengaja (tanpa penjahat budaya), tetapi ledger sendiri mencatatnya sebagai risiko. Usulan terpisah: tambahkan satu atau dua kegagalan manusia yang tidak ditebus.
-- **Pembedaan suara tokoh** membutuhkan pass terpisah per tokoh (cara bicara Bu Haji, Pak Hendra, Pak Karto, Dr. Anindya, Prof. Whitcombe, Bayu, Rizal). Usulan: kerjakan sebagai putaran revisi sendiri sesudah keputusan 1–4.
 
 ## 5. Ringkasan angka
 
