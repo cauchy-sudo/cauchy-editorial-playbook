@@ -16,7 +16,7 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 | B: Naufal menghilang; kalimat "kali ini kamu yang ganti" tak berbayar | Benar | Bab 36 (akhir): Wulan mengganti kapasitor radio sendiri dan mengirim fotonya ke Naufal ("Jelek." / "Bunyi?" / "Bunyi." / "Oke.") | Selesai |
 | B: Ibu lupa (Interlude II) tidak dilanjutkan | Benar | Bab 37: Ibu lupa nama Mbak Nurul sesaat sebelum bertemu, mengulangnya dua kali | Selesai |
 | B: suara perempuan di radio tak pernah diberi makna | Sebagian | Dibiarkan terbuka dengan sengaja (isyarat "yang lemah"); muncul lagi di akhir bab 36 | Sengaja dipertahankan |
-| B: mendengar diam-diam jadi jalan pintas berulang | Sebagian benar (jamban, teras, lorong rumah sakit, Klaten) | Belum diubah; Klaten adalah yang terkuat | Menunggu keputusan (rendah) |
+| B: mendengar diam-diam jadi jalan pintas berulang | Sebagian benar (jamban, teras, lorong rumah sakit, Klaten) | Keputusan penulis: dibiarkan apa adanya; Klaten adalah yang terkuat | Sengaja dipertahankan |
 
 ## 2. Gaya dan bahasa
 
@@ -41,7 +41,7 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 | Bagian II terlalu panjang dan terlalu banyak penolong | **Biarkan** | Tidak ada perubahan | Sengaja dipertahankan |
 | Interlude 2031 membuka bahwa Wulan selamat | **Pertahankan** | Tidak ada perubahan | Sengaja dipertahankan |
 | Epilog menjadi dua klimaks | **Biarkan epilog** | Tidak ada perubahan; secercah warna tetap di epilog | Sengaja dipertahankan |
-| Kebetulan yang menguntungkan | Belum diputuskan | Satu kegagalan yang tidak bisa diselesaikan sudah ditambahkan (tikus nomor lima, bab 30 dan 32). Slide Halcyon 2029 dibiarkan sebagai gema | Terbuka (rendah) |
+| Kebetulan yang menguntungkan | **Biarkan apa adanya** | Satu kegagalan yang tidak bisa diselesaikan sudah ditambahkan (tikus nomor lima, bab 30 dan 32). Slide Halcyon 2029 dibiarkan sebagai gema | Sengaja dipertahankan |
 
 ## 4. Yang sengaja tidak diubah
 
