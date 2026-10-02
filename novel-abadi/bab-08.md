@@ -100,7 +100,7 @@ Malamnya, Ibu mendengar semuanya dari ibu Tika, yang mendengarnya dari Rina, yan
 
 "Cari tahu." Ia terus menyisir. "Tapi nanti. Sekolah dulu."
 
-Ibu tidak berkata apa-apa lagi. Tapi jemarinya, yang menyisir rambutku, bergerak lebih pelan daripada biasanya.
+Ibu diam. Tapi jemarinya, yang menyisir rambutku, bergerak lebih pelan daripada biasanya.
 
 ---
 
@@ -172,7 +172,7 @@ Aku berjalan pulang dengan pelan. Di jalan, aku bertemu Mbok Karni, yang membawa
 
 "Teman saya, Mbok. Di rumah sakit. Meninggal."
 
-Mbok Karni meletakkan bakulnya di tanah. Ia tidak berkata apa-apa. Ia memeluk aku, erat dan tiba-tiba, bau bawang dan keringat dan tanah, dan aku terkejut karena aku tidak tahu bahwa perempuan yang pernah berbisik tentang kiriman dan kutukan di dapur rumahku bisa memeluk begitu kencang.
+Mbok Karni meletakkan bakulnya di tanah. Ia memeluk aku, erat dan tiba-tiba, bau bawang dan keringat dan tanah, dan aku terkejut karena aku tidak tahu bahwa perempuan yang pernah berbisik tentang kiriman dan kutukan di dapur rumahku bisa memeluk begitu kencang.
 
 ---
 
@@ -188,6 +188,6 @@ Setelah semua tamu pulang, aku duduk di ruang tengah yang sudah sepi, di atas ti
 
 *Kehilangan.*
 
-Aku menatapnya lama. Lalu aku menghapusnya, dengan penghapus di ujung pensil, sampai kertasnya mengelupas sedikit. Karena itu bukan keluhan yang biasa dicatat dr. Sumarni, dan tak ada kolom untuknya.
+Aku menatapnya. Lalu aku menghapusnya, dengan penghapus di ujung pensil, sampai kertasnya mengelupas sedikit. Karena itu bukan keluhan yang biasa dicatat dr. Sumarni, dan tak ada kolom untuknya.
 
-Hanya jejak samar yang tertinggal di sana. Dan itu cukup.
+Hanya jejak samar yang tertinggal di sana.

@@ -16,7 +16,7 @@ Dua kalimat pertama kuanggap wajar. Kalimat ketiga baru kupahami ketika aku bert
 
 "Polisi, Bu?"
 
-"Soal kaus kaki." Bu Haji menghela napas dalam-dalam, seperti seseorang yang sudah menyaksikan terlalu banyak. "Masuklah."
+"Soal kaus kaki." Bu Haji menghela napas dalam-dalam, sudah terlalu banyak yang ia saksikan. "Masuklah."
 
 Kamar sembilan di lantai dua berukuran tiga kali tiga meter, dengan satu jendela menghadap tembok rumah sebelah, satu kipas angin yang berputar dengan bunyi ketukan, dan dua kasur tipis dengan seprai berbunga yang warnanya sudah ditelan cuci. Di dinding ada satu paku bekas gantungan bingkai. Di sudut, sebuah lemari kayu dengan pintu yang miring.
 

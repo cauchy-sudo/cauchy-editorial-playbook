@@ -32,7 +32,7 @@ Aku menelepon Ibu pukul sepuluh pagi, ketika di Pucung sudah pukul lima sore dan
 
 "Rendang." Ibu terdiam. "Bapak mau bicara."
 
-Aku menahan napas. Bapak hampir tidak pernah bicara di telepon. Aku mendengar bunyi gagang yang berpindah tangan, napas yang berat, dan sebuah keheningan yang terasa seperti sesuatu yang digenggam dua tangan.
+Aku menahan napas. Bapak hampir tidak pernah bicara di telepon. Aku mendengar bunyi gagang yang berpindah tangan, napas yang berat, dan sebuah keheningan yang panjang.
 
 "Nduk," kata Bapak.
 
@@ -134,7 +134,7 @@ Tidak ada yang bicara selama beberapa saat. Di luar jendela, sungai bergerak lam
 
 ---
 
-Prof. Whitcombe membaca serbet itu pada hari berikutnya, setelah aku menyalinnya menjadi dua halaman yang rapi. Ia membacanya di mejanya, dengan kacamata di ujung hidung, dan tidak mengatakan apa-apa selama sepuluh menit penuh.
+Prof. Whitcombe membaca serbet itu pada hari berikutnya, setelah aku menyalinnya menjadi dua halaman yang rapi. Ia membacanya di mejanya, dengan kacamata di ujung hidung, dan diam selama sepuluh menit penuh.
 
 "Too pretty," katanya akhirnya.
 

@@ -58,6 +58,8 @@ Alarm itu berbunyi pagi ini, dua hari lebih awal dari tanggal sembilan, karena a
 
 Setelah itu aku membuka aplikasi lain di ponselku dan mengirim sejumlah kecil uang ke sebuah rekening atas nama sebuah puskesmas di Wonosari, dengan catatan yang kutulis tanpa nama. *Untuk mencetak kertas.*
 
+Lalu aku mengirim jumlah yang lebih kecil ke rekening laboratorium sebuah universitas di Bandung, dengan satu baris catatan: *Untuk inkubator generasi berikutnya.* Mesin cuci darah kecil buatan Rizal sedang diuji di sebuah puskesmas di Garut. Aku tahu dari berita, bukan darinya. Aku tidak tahu apakah ia akan menebak siapa pengirimnya, dan aku tidak tahu apakah aku ingin ia menebak.
+
 Alarm itu punya dua tugas sekarang. Aku suka itu. Ada sesuatu yang benar tentang menyatukan hal-hal yang kuperlukan untuk bertahan dengan hal-hal yang kuperlukan untuk berguna.
 
 Mbak Nurul sudah mencetak tiga ribu lembar. Mereka dibagikan ke sebelas puskesmas, di tiga kabupaten. Empat kolom. *TANGGAL. KELUHAN. DEMAM? OBAT.* Dan di bagian bawah, atas permintaan dr. Raihan, satu kolom tambahan, yang tak kuminta, dengan huruf yang lebih kecil: *KAMU BOLEH BERTANYA.*

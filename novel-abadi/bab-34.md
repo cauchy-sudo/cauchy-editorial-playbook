@@ -24,7 +24,7 @@ Aku tersenyum dan tidak menjawab.
 
 Tubuhku tidak sembuh dalam semalam, dan aku sempat takut bahwa itu semua sia-sia.
 
-Dua minggu pertama, tidak ada yang berubah selain rasa lelah yang aneh dan dalam, seperti seseorang yang baru selesai berlari jauh. Hasil darahku tetap sama. Urin yang masih keluar dalam jumlah kecil tetap berbuih. Aku menulis YA di kolom itu setiap pagi, tanpa membesar-besarkan, dan menutup buku dengan cepat.
+Dua minggu pertama, tidak ada yang berubah selain rasa lelah yang aneh dan dalam, selepas lari jauh. Hasil darahku tetap sama. Urin yang masih keluar dalam jumlah kecil tetap berbuih. Aku menulis YA di kolom itu setiap pagi, tanpa membesar-besarkan, dan menutup buku dengan cepat.
 
 Pada minggu ketiga, aku menyadari sesuatu yang sangat kecil.
 
@@ -36,7 +36,7 @@ Bukan hilang. Hanya tipis. Seperti sabun yang hampir habis. Aku menatapnya lama,
 
 *Senin, 31 Desember. Urin berbuih? Sedikit.*
 
-Aku menahan sesuatu yang naik ke tenggorokan. Aku tidak mau percaya. Aku sudah belajar bahwa harapan yang terlalu cepat adalah hal paling berbahaya yang bisa dimiliki seorang pasien.
+Aku tidak mau percaya. Aku sudah belajar bahwa harapan yang terlalu cepat adalah hal paling berbahaya yang bisa dimiliki seorang pasien.
 
 Pada minggu keempat, jumlah urinku bertambah.
 
@@ -96,7 +96,7 @@ Aku tidak menjawab. Aku menggenggam tangannya yang dingin dan memeluknya dengan 
 
 Ibu menangis di dapur.
 
-Aku memberitahunya sore itu, di Pucung, ketika ia sedang mengaduk tiwul di wajan. Aku berdiri di ambang pintu dengan kedua tangan di balik punggung, dan mengatakannya dengan kalimat paling pendek yang bisa kutemukan.
+Aku memberitahunya sore itu, di Pucung, ketika ia sedang mengaduk tiwul di wajan. Aku berdiri di ambang pintu dan mengatakannya dengan kalimat paling pendek yang bisa kutemukan.
 
 "Bu. Dokter bilang tidak usah cuci darah lagi."
 
@@ -168,7 +168,7 @@ Ia turun dari kereta dengan tas ransel dan jaket tebal, dengan wajah letih dan s
 
 "Sudah dua minggu." Aku tersenyum, dan itu senyum yang tak bisa kutahan. "Ginjalku membaik. Dokter tidak tahu kenapa."
 
-Ia tidak mengatakan apa-apa selama beberapa detik. Orang-orang berlalu-lalang di antara kami dengan koper dan wajah mengantuk. Lalu, tanpa peringatan, wajahnya berubah. Matanya menyipit dalam senyum yang tidak bisa ia sembunyikan, dan ia mengulurkan tangannya, lalu menariknya lagi, lalu menyatukan kedua telapak di depan dada, dan membungkuk dalam-dalam di tengah peron stasiun Tugu.
+Ia diam beberapa detik. Orang-orang berlalu-lalang di antara kami dengan koper dan wajah mengantuk. Lalu, tanpa peringatan, wajahnya berubah. Matanya menyipit dalam senyum yang tidak bisa ia sembunyikan, dan ia mengulurkan tangannya, lalu menariknya lagi, lalu menyatukan kedua telapak di depan dada, dan membungkuk dalam-dalam di tengah peron stasiun Tugu.
 
 "Alhamdulillah," katanya. Suaranya serak.
 
@@ -252,4 +252,4 @@ Nama itu tidak mencurigakan. Nama itu bisa dibaca siapa pun. Seorang perempuan d
 
 Aku menekan tombol simpan.
 
-Aku tidak sembuh. Aku baru memahaminya malam itu, sepenuhnya. Aku tidak dibebaskan. Aku hanya disewakan waktu, sebulan demi sebulan, dari sesuatu yang tidak bisa kulihat dan tidak akan pernah bisa kuhentikan.
+Aku tidak sembuh. Aku hanya disewakan waktu, sebulan demi sebulan.

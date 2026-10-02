@@ -120,7 +120,7 @@ Tiga puluh tujuh koma delapan.
 
 Aku menutup mata. Aku menarik napas yang dalam, panjang, terlalu dalam untuk sebuah tubuh yang baru bertahan malam itu.
 
-Aku duduk. Pelan-pelan. Kepalaku berputar sedikit, lalu mantap. Aku berjalan ke wastafel dan membasuh wajah dengan air dingin, dan melihat bayanganku di cermin kecil: wajah yang pucat dan bengkak, mata cekung, bibir pecah-pecah. Bayangan itu tampak seperti orang yang baru dibangkitkan dari sesuatu.
+Aku duduk. Pelan-pelan. Kepalaku berputar sedikit, lalu mantap. Aku berjalan ke wastafel dan membasuh wajah dengan air dingin, dan melihat bayanganku di cermin kecil: wajah yang pucat dan bengkak, mata cekung, bibir pecah-pecah. Bayangan itu tampak baru dibangkitkan dari sesuatu.
 
 Aku masih di sini.
 

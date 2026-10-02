@@ -152,7 +152,7 @@ Aku berjongkok. Aku menyalakan senter kecil dari Bapak. Dan aku melihat sesuatu 
 
 Buih. Banyak sekali. Tebal seperti busa sabun, mengambang di atas air kencingku dan tidak mau pecah.
 
-Aku menatapnya lama. Aku tidak tahu apa artinya. Aku hanya tahu bahwa ini bukan hal yang seharusnya terjadi pada tubuh, dan bahwa dalam tiga minggu terakhir, kertas Mbak Nurul sudah menghabiskan satu pensil, dan di ruang tengah, di dalam kaleng biskuit yang baru saja diisi lagi oleh orang-orang yang menggunjingku, ada uang yang bukan milik kami.
+Aku menatapnya. Aku tidak tahu apa artinya. Aku hanya tahu bahwa ini bukan hal yang seharusnya terjadi pada tubuh, dan bahwa dalam tiga minggu terakhir, kertas Mbak Nurul sudah menghabiskan satu pensil, dan di ruang tengah, di dalam kaleng biskuit yang baru saja diisi lagi oleh orang-orang yang menggunjingku, ada uang yang bukan milik kami.
 
 Uang itu cukup untuk satu kali lagi. Hanya satu.
 

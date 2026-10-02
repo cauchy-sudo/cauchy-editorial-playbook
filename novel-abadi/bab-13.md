@@ -102,7 +102,7 @@ Aku ingin memberikan alasan yang mudah. Aku mau sekolah dulu. Orang tuaku melara
 
 "Aku keberatan." Suaraku keluar lebih keras daripada yang kuinginkan, dan aku menurunkannya. "Maksudku, kamu orang baik, Daf. Kamu akan menjadi pacar yang baik. Tapi aku tidak mau jadi orang yang kamu pilih karena kamu kasihan, atau karena kamu ingin jadi orang baik. Dan aku tidak mau mengambil sesuatu dari kamu yang tidak bisa kukembalikan."
 
-Daffa menatapku lama. Kemudian ia mengangguk, pelan.
+Daffa menatapku. Kemudian ia mengangguk, pelan.
 
 "Itu bukan alasan yang biasa," katanya.
 
@@ -168,7 +168,7 @@ Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika ak
 
 "Iya, Bu. Dia..." Aku berhenti. "Dia sudah tua. Beberapa bulan ini dia sakit-sakitan."
 
-"Pulanglah kalau kamu bisa. Orang tua tidak menunggu lama." Bu Haji membuka korannya. "Itu bukan nasihat, Nduk. Itu usia."
+"Pulanglah kalau kamu bisa. Orang tua tidak menunggu lama." Bu Haji membuka korannya.
 
 Aku tertawa. Ia tidak.
 

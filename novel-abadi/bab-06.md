@@ -82,7 +82,7 @@ Aku memakainya. Aku menunduk menatap bayanganku.
 
 Itu adalah wajah yang tidak kukenal, tetapi tidak terlalu asing juga. Kerudung menutup ubun-ubun yang menipis, menutup tengkuk dari matahari, membingkai pipi yang bulat sampai ia terlihat seperti sengaja dibuat bulat. Ada sesuatu yang diam di dalam bayangan itu, sesuatu yang bukan Wulan Bulan atau pasien dr. Sumarni atau anak tifus. Hanya seseorang yang akan keluar rumah.
 
-Ibu berdiri di pintu kamar. Ia tidak mengatakan apa-apa selama beberapa saat.
+Ibu berdiri di pintu kamar.
 
 "Itu kerudung Tika," katanya akhirnya.
 

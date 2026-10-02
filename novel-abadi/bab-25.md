@@ -40,9 +40,9 @@ Ia berusia enam puluhan, dengan rambut perak yang dipotong pendek dan kacamata y
 
 Aku menarik napas. Pertanyaan itu sudah kubayangkan, dan semua jawaban yang kusiapkan lenyap.
 
-"Because I'm sick," kataku, dalam bahasa Inggris yang patah. "I have lupus since I was eleven. My immune system attacks my kidneys. I will need dialysis in around five years if nothing changes. I'm not saying it to ask for pity. I'm saying because I... have a reason to be impatient. And a reason to be careful. I think the two are rare together."
+"Because I'm sick," kataku, dalam bahasa Inggris yang patah. "I have lupus since I am eleven. My immune system attacks my kidneys. I will need dialysis, in around five years, if nothing is changing. I am not saying this for pity. I say it because I... have reason to be impatient. And reason to be careful. Both together, I think, is rare."
 
-Prof. Whitcombe tidak mengatakan apa-apa selama beberapa detik. Di layar, hujan di jendela bergerak lambat.
+Prof. Whitcombe diam beberapa detik. Di layar, hujan di jendela bergerak lambat.
 
 "Dr. Prameswari mentioned this," katanya akhirnya. "I wanted to hear it from you."
 
@@ -98,7 +98,7 @@ Aku pulang dengan kepala yang berdenyut dan perut yang kosong. Tika menunggu di 
 
 "Lagi."
 
-Tika menaruh mangkuk di meja dan duduk di sampingku. Ia tidak berkata apa-apa. Ia hanya menunggu aku selesai.
+Tika menaruh mangkuk di meja dan duduk di sampingku. Ia hanya menunggu aku selesai.
 
 "Aku sudah habiskan enam juta empat ratus ribu, Tik."
 
@@ -141,6 +141,10 @@ Aku menatap angka itu. Tidak ada yang kurasakan. Lalu aku mulai tertawa. Lalu ak
 "Tujuh koma nol."
 
 Tika melompat dari kasur dan memelukku, dan kami berguling di lantai kamar kos yang dingin sampai ibu kos, yang tinggal di lantai satu dan mendengar semuanya, mengetuk langit-langit dengan gagang sapu.
+
+Surel Prof. Whitcombe datang tiga hari kemudian, satu paragraf, tanpa salam. *Your English condition is met. I am converting the offer to unconditional. The funding condition I am removing altogether: a department should not hold a student hostage to a scholarship that exists only if the department says yes. You will have a letter you can show them. You will still have to win the money. — E.W.*
+
+Aku membacanya di mejaku, dan baru malam itu aku mengerti bahwa sebuah lingkaran persyaratan bisa ditutup oleh satu orang yang mau menandatangani.
 
 ---
 
@@ -214,7 +218,7 @@ Ruangan itu sunyi. Laki-laki berkacamata tebal membuka mulut, lalu menutupnya. P
 
 "Banyak orang ingin menyelamatkan dunia. Kamu ingin menyelamatkan selembar kertas."
 
-"Selembar kertas yang menyelamatkan saya, Pak." Aku menatapnya. "Saya tidak bisa menjanjikan menyelamatkan dunia. Tapi saya bisa menjanjikan kertas itu."
+"Saya tidak menjanjikan dunia, Pak." Aku menatapnya. "Saya menjanjikan kertas itu."
 
 Tak ada yang membalas.
 
@@ -242,7 +246,7 @@ Aku tidak mendengarnya. Aku mendengar bunyi dari dalam diriku sendiri, bunyi sep
 
 Keberangkatanku pada bulan September.
 
-Seluruh Dusun Pucung datang mengantar ke jalan besar, sebagian membawa makanan, sebagian membawa hadiah kecil, sebagian hanya membawa diri. Pak Dukuh berdiri di depan dengan peci yang miring ke kiri dan berkata, dengan suara yang sedikit pecah: "Nduk. Ingat dusun ini."
+Seluruh Dusun Pucung datang mengantar ke jalan besar, sebagian membawa makanan, sebagian membawa hadiah kecil, sebagian hanya membawa diri. Pak Dukuh berdiri di depan dan berkata, dengan suara yang sedikit pecah: "Nduk. Ingat dusun ini."
 
 "Iya, Pak."
 

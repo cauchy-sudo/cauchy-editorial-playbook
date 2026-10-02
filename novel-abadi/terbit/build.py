@@ -83,6 +83,12 @@ def tex_escape(s: str) -> str:
     return "".join(rep.get(c, c) for c in s)
 
 
+def tex_title(s: str) -> str:
+    """Judul bab: ganti kutip lurus berpasangan dengan kutip LaTeX yang benar."""
+    s = re.sub(r'"([^"]*)"', lambda m: "``" + m.group(1) + "''", s)
+    return tex_escape(s)
+
+
 PREAMBLE = r"""
 \documentclass[11pt,twoside,openany]{book}
 \usepackage[paperwidth=14cm,paperheight=21cm,inner=21mm,outer=17mm,top=21mm,bottom=24mm]{geometry}
@@ -274,7 +280,7 @@ Kisah ini tidak dimaksudkan sebagai nasihat medis.
         tex = pandoc_md_to(body, "latex")
         tex = re.sub(r"(?m)^" + SCENE + r"\s*$", r"\\scenebreak", tex)
         if info["kind"] == "chapter":
-            out.append(r"\chapter{" + tex_escape(info["title"]) + "}")
+            out.append(r"\chapter{" + tex_title(info["title"]) + "}")
         else:
             t, s = tex_escape(info["title"]), tex_escape(info["sub"])
             full = f"{t} — {s}"

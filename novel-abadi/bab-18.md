@@ -16,7 +16,7 @@ Pukul empat kurang lima menit, aku menyodorkan ponsel kepadanya.
 
 "Aku tahu. Makanya kamu yang lihat."
 
-Tika menatapku sebentar, dengan wajah yang sama seperti saat aku menyerahkan piring di Rasulan, lalu menerima ponsel itu dengan dua tangan. Ia membuka laman, mengetik nomor pesertaku yang sudah ia hafal sejak lama, dan memasukkan tanggal lahirku. Layar berputar. Berputar lagi. Sinyal di Bukit Sinyal tidak selalu pantas dengan namanya.
+Tika menatapku sebentar, dengan wajah yang sama seperti saat aku menyerahkan piring di Rasulan, lalu menerima ponsel itu. Ia membuka laman, mengetik nomor pesertaku yang sudah ia hafal sejak lama, dan memasukkan tanggal lahirku. Layar berputar. Berputar lagi. Sinyal di Bukit Sinyal tidak selalu pantas dengan namanya.
 
 Aku memejamkan mata. Aku mendengar angin di daun jati, burung-burung kecil di kejauhan, napas Tika yang tertahan.
 
@@ -62,7 +62,7 @@ Keranjang jagung jatuh dari tangannya.
 
 "Biologi."
 
-Ibu tidak menjawab. Ia berjalan ke arahku dengan langkah yang tidak biasa, seperti orang yang menyeberangi sungai dengan batu-batu yang bergeser, dan memelukku. Ibu tidak pernah memelukku seperti itu, bahkan di rumah sakit, bahkan setelah tahlilan Mbah. Ia memelukku dengan seluruh berat badannya, dan aku merasakan sesuatu yang kecil dan hangat basah di bahuku.
+Ibu tidak menjawab. Ia berjalan ke arahku dengan langkah yang tidak biasa, goyah, dan memelukku. Ibu tidak pernah memelukku seperti itu, bahkan di rumah sakit, bahkan setelah tahlilan Mbah. Ia memelukku dengan seluruh berat badannya, dan aku merasakan sesuatu yang kecil dan hangat basah di bahuku.
 
 "Ibu," bisikku.
 

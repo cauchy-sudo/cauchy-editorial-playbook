@@ -28,7 +28,7 @@ Aku membawa pulang buku itu, dipeluk di dada, sepanjang jalan.
 
 ---
 
-Aku membacanya di kamar, di bawah lampu minyak, dengan kamus kecil di sampingku dan pensil di tangan. Banyak kata tidak kupahami. *Mitokondria. Ribosom. Homeostasis.* Tapi aku mencatat tiap kata, dan menandai tiap halaman yang kubaca dua kali, dan pada hari keempat, aku sampai ke bab yang bernama *Sistem Pertahanan Tubuh*.
+Aku membacanya di kamar, di bawah lampu minyak, dengan kamus kecil di sampingku dan pensil di tangan. Banyak kata tidak kupahami. *Mitokondria. Ribosom. Homeostasis. Heliks ganda.* Tapi aku mencatat tiap kata, dan menandai tiap halaman yang kubaca dua kali, dan pada hari keempat, aku sampai ke bab yang bernama *Sistem Pertahanan Tubuh*.
 
 Ia dimulai dengan gambar sel-sel kecil berwarna merah muda dan biru yang mengelilingi kuman berduri. Di sana tertulis tentang limfosit, sel B, sel T, antibodi. Semuanya membingungkan, tetapi aku sudah belajar membaca hal yang membingungkan seperti membaca peta: pelan, sambil menemukan nama sungai.
 

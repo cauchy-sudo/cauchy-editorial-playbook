@@ -72,21 +72,29 @@ Sembilan tikus mendapat rancangan baru, dan lima tikus menjadi kontrol, dan aku 
 
 Sembilan tidak banyak. Aku tahu itu. Prof. Whitcombe pun tahu. Sembilan bukan hasil; sembilan adalah harapan yang diberi angka. Tapi aku tidak punya yang lain. Pada bulan April aku mulai menyuntik. Pada bulan Mei aku memeriksa mereka tiap pagi dan tiap sore, mengisi kolom *COMPLAINTS?* dengan huruf kecil yang rapi. Pada bulan Juni, tikus nomor tiga, yang berumur dua puluh bulan dan nyaris tak bisa berdiri ketika tiba, mulai berlari di rodanya pada malam hari.
 
+Tikus nomor lima kutemukan mati pada minggu kesebelas, meringkuk di sudut kandang dengan mata terbuka. Tidak ada massa. Dr. Patel membukanya sendiri sore itu, dan pada akhir pekan hasil patologinya datang: *penyebab kematian tidak dapat ditentukan.* Mungkin infeksi, kata Dr. Patel. Mungkin jantung. Mungkin kami. Aku membaca satu baris itu sampai kertasnya lecek, dan tidak ada cara untuk membuatnya mengatakan yang lain.
+
 Pada bulan Juli, aku memeriksa semuanya dengan USG, satu per satu, di bawah lampu redup, dengan Dr. Patel berdiri di sampingku seperti saksi. Aku menahan napas sepanjang pemeriksaan.
 
 Tidak ada massa. Tidak di perut, tidak di dada, tidak di kaki, tidak di leher.
 
-"Nine of nine," kata Dr. Patel, pelan.
+"Eight of eight," kata Dr. Patel, pelan.
 
 "Tumor-free."
 
 "At fifteen weeks."
 
-Aku tidak merasa gembira. Aku merasa hampa dan sangat ringan, seperti orang yang baru saja menurunkan beban yang ia bawa terlalu lama. Aku duduk di kursi di ruang hewan dan menutup mataku.
+Aku tidak merasa gembira. Satu beban turun, dan aku menyadari ada beban lain di belakangnya yang belum punya nama. Aku duduk di kursi di ruang hewan dan menutup mataku.
 
-"It's too few," kataku. "Nine is nothing."
+"It's too few," kataku. "Eight is nothing."
 
-"Yes," kata Dr. Patel. "But nine tumor-free after three tumors in twenty... That's not nothing, either."
+"Yes," kata Dr. Patel. "But eight tumor-free after three tumors in twenty... That's not nothing. And number five isn't nothing either."
+
+"No."
+
+"I'm not saying it was us."
+
+"I know. You're saying you can't say it wasn't."
 
 Aku mengangguk. Di dalam kandang, tikus nomor tiga menatapku dengan mata hitamnya yang bening dan menggaruk telinganya dengan kaki belakang.
 
@@ -122,7 +130,7 @@ Aku menarik napas.
 
 "Hers," kataku. "But I'm responsible for making sure she's told the truth."
 
-Penguji itu menatapku lama. Lalu ia menaruh kertasnya di meja.
+Penguji itu menatapku. Lalu ia menaruh kertasnya di meja.
 
 "That will do," katanya.
 
@@ -174,13 +182,13 @@ Aku tidak sanggup menjawab. Aku menatap layar, dan ia menatapku dari seberang sa
 
 Aku menutup panggilan itu dan duduk lama di tepi kasur kamar mahasiswa pascasarjana yang kini kosong, dengan dua koper dan radio kecil di pangkuanku, menatap dinding yang selama empat tahun menyimpan seluruh dingin dan seluruh kehangatan dari tempat yang bukan rumah.
 
-Prof. Whitcombe menungguku di lobi institut keesokan paginya. Ia membawa sebuah kotak karton kecil, dibungkus plastik gelembung dan dilem dengan banyak selotip, dan menyodorkannya begitu saja, seperti menyerahkan sesuatu yang tidak penting.
+Prof. Whitcombe menungguku di lobi institut keesokan paginya. Di sampingnya, di atas sebuah troli, ada kotak karton kecil yang dibungkus plastik gelembung dan dilem dengan banyak selotip, dan di belakangnya seorang kurir berjaket oranye sedang mengisi formulir. Ia menyodorkan sebuah map kepadaku, bukan kotaknya, begitu saja, seperti menyerahkan sesuatu yang tidak penting.
 
 "Take this."
 
 "What is it?"
 
-"Samples. Frozen. With dry ice, packed for fourteen hours." Ia tidak menatapku. "A material transfer agreement is attached. Official. For your collaboration with Dr. Prameswari in Yogyakarta."
+"The paperwork. The box doesn't go in your luggage. It goes by courier, in a validated shipper, ninety-six hours of dry ice. It will be in Yogyakarta before the week is out." Ia tidak menatapku. "A material transfer agreement is attached. Official. For your collaboration with Dr. Prameswari."
 
 "Professor..."
 
@@ -190,7 +198,7 @@ Prof. Whitcombe menungguku di lobi institut keesokan paginya. Ia membawa sebuah 
 
 "Yes." Ia mengangguk. "That's all it is."
 
-Aku menerima kotak itu dengan dua tangan. Ia berat, dingin, dan berdesis pelan dari dalam.
+Aku menerima map itu. Ringan. Di belakang Prof. Whitcombe, kurir itu mengangkat kotak dari troli ke dalam vannya dengan hati-hati, seperti mengangkat bayi, dan pintu van menutup dengan bunyi yang terlalu pelan.
 
 "Do not do anything stupid," katanya, untuk ketiga kalinya.
 

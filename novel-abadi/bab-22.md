@@ -64,7 +64,7 @@ Kami berangkat naik kereta lokal pagi-pagi pada hari Sabtu, aku dengan kebaya bi
 
 Rumah keluarga Bayu di Klaten adalah rumah joglo tua, dengan pendopo luas dan halaman penuh bunga melati dan sebuah tenda putih besar dengan deretan kursi. Gamelan dimainkan di pojok, pelan, dengan irama yang membuat dada terasa lapang. Di pintu masuk, dua gadis kecil berkebaya membagikan tisu dan senyum.
 
-Bayu menunggu kami di pagar. Ia mengenakan beskap hitam dan blangkon, dan aku nyaris tidak mengenalinya. Ia tampak lebih tinggi, lebih dewasa, dan sedikit canggung, seperti orang yang berpakaian dengan bagian dirinya yang lain.
+Bayu menunggu kami di pagar. Ia mengenakan beskap hitam dan blangkon, dan aku nyaris tidak mengenalinya. Ia tampak lebih tinggi, lebih dewasa, dan sedikit canggung.
 
 "Kamu datang," katanya.
 
@@ -224,7 +224,7 @@ Aku diam. Di benakku, sebuah kalimat yang tidak pernah kuucapkan pada siapa pun 
 
 "Karena aku tidak tahu berapa lama aku punya," kataku akhirnya, dan itu setengah kebenaran, dan setengahnya lagi kuharap ia tidak minta kuperjelas.
 
-Bayu menatapku lama. Ia tidak berteriak. Ia tidak menangis. Ia hanya menunduk dan memandangi tangannya, tangan yang selalu rapi, yang kini terkulai di pangkuan seperti tidak tahu harus melakukan apa.
+Bayu menatapku. Ia tidak berteriak. Ia tidak menangis. Ia hanya menunduk dan memandangi tangannya, tangan yang selalu rapi, yang kini terkulai di pangkuan seperti tidak tahu harus melakukan apa.
 
 "Itu tidak adil," katanya, pelan.
 

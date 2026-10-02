@@ -124,7 +124,7 @@ Makalah kami diterima pada hari Rabu di bulan Mei 2024, lewat sebuah surel tiga 
 
 Bu Retno berdiri dari kursinya dan memelukku. Bayu bertepuk tangan sekali dari seberang ruangan, pelan, lalu berhenti dengan malu. Pak Slamet menyodorkan segelas teh dan berkata, "Nah."
 
-Dr. Anindya keluar dari ruangannya dan hanya berdiri di pintu, tanpa mengatakan apa-apa. Setelah beberapa saat, ia menyilangkan tangan dan berkata, pelan: "Selamat."
+Dr. Anindya keluar dari ruangannya dan hanya berdiri di pintu. Setelah beberapa saat, ia menyilangkan tangan dan berkata, pelan: "Selamat."
 
 Aku menelepon Ibu dari tangga gedung biologi, lewat telepon Pak Hasan yang masih dipakai karena sinyal di rumah belum membaik.
 
@@ -146,7 +146,7 @@ Aku menelepon Ibu dari tangga gedung biologi, lewat telepon Pak Hasan yang masih
 
 "Itu bagus, Bu."
 
-"Kalau begitu bagus." Ibu tidak mengatakan apa-apa lagi selama beberapa saat. Di seberang, aku mendengar angin dan ayam. "Nduk. Itu bisa dicetak?"
+"Kalau begitu bagus." Ibu diam sebentar. Di seberang, aku mendengar angin dan ayam. "Nduk. Itu bisa dicetak?"
 
 "Dicetak, Bu?"
 
@@ -174,7 +174,7 @@ Ia menoleh. Matanya menyipit, lalu membesar. "Wulan?"
 
 "Saya bawa sesuatu."
 
-Aku menyerahkan delapan halaman itu lewat jendela apotek. Mbak Nurul memegangnya dengan dua tangan, bingung, dan membuka halaman pertama.
+Aku menyerahkan delapan halaman itu lewat jendela apotek. Mbak Nurul memegangnya, bingung, dan membuka halaman pertama.
 
 Ia membaca judulnya. Ia membaca nama-nama penulis. Ia berhenti pada nama kedua. Lalu, pelan, ia membalik ke halaman terakhir, bagian ucapan terima kasih yang kutulis dua malam sebelumnya, dan kutulis ulang tiga kali karena aku tidak bisa menemukan kata-kata yang benar.
 
@@ -198,7 +198,7 @@ Ia mengangguk di balik kertas.
 
 ---
 
-Wisuda berlangsung pada hari Sabtu di bulan Agustus 2024, di aula besar kampus, dengan sembilan ratus wisudawan dan jilbab ungu muda yang mulai terasa seperti seragam. Aku lulus dengan nilai tinggi yang membuat Dr. Anindya mengangkat alisnya dan tidak berkata apa-apa, seperti biasa.
+Wisuda berlangsung pada hari Sabtu di bulan Agustus 2024, di aula besar kampus, dengan sembilan ratus wisudawan dan jilbab ungu muda yang mulai terasa seperti seragam. Aku lulus dengan nilai tinggi yang membuat Dr. Anindya mengangkat alis, seperti biasa.
 
 Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam pinjaman dari Pak Dukuh, yang kebesaran di bagian pinggang dan harus ditahan dengan ikat pinggang yang ia lubangi sendiri. Ibu memakai kebaya hijau tua, dengan sanggul kecil yang disanggulkan Tika pagi itu, dan matanya menyapu aula dengan ketakutan seperti seseorang yang tersesat di sebuah pasar besar. Ardi, enam belas tahun, tinggi dan kurus dan malu, memegang tangan Ibu dan berpura-pura tidak peduli. Mas Aji, yang tiba dari Batam dua hari sebelumnya dengan bus dan kapal, menangis tanpa suara sejak pembukaan.
 

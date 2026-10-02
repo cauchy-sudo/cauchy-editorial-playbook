@@ -58,7 +58,7 @@ Seleksi tingkat sekolah berlangsung Januari, tingkat kabupaten pada Maret.
 
 Aku lolos tingkat sekolah sebagai peringkat ketiga dari sepuluh. Pak Hendra mengumumkannya dengan suara yang sama datarnya seperti mengumumkan jadwal piket, tapi aku melihat telinganya bergerak sedikit.
 
-Tingkat kabupaten, yang disebut OSN-K, diadakan di sebuah SMA besar di pusat kota, dengan seratus tiga puluh peserta dari seluruh Gunungkidul. Kami duduk berjarak dua meter, dengan pengawas yang berjalan di antara bangku, dan soal yang dibagikan terbalik sampai bel berbunyi. Tanganku dingin. Dokter Sumarni sudah menyuruhku minum obat tepat waktu dan sarapan yang cukup, dan aku melakukan keduanya, dan masih merasa seperti orang yang akan menyeberangi sungai dengan batu yang tidak stabil.
+Tingkat kabupaten, yang disebut OSN-K, diadakan di sebuah SMA besar di pusat kota, dengan seratus tiga puluh peserta dari seluruh Gunungkidul. Kami duduk berjarak dua meter, dengan pengawas yang berjalan di antara bangku, dan soal yang dibagikan terbalik sampai bel berbunyi. Tanganku dingin. Dokter Sumarni sudah menyuruhku minum obat tepat waktu dan sarapan yang cukup, dan aku melakukan keduanya, dan masih merasa lututku bukan milikku.
 
 Bel berbunyi. Aku membalik kertas.
 
@@ -136,4 +136,4 @@ Aku tidak tahu harus berkata apa. Sebuah rasa hangat naik dari dada sampai ke te
 
 Malam itu, di kamar sembilan, aku menulis di buku catatan tiga hal. Pertama, kekalahan: *23/140.* Kedua, sebuah nama: *Dr. Anindya.* Ketiga, pertanyaan yang ia baca: *Bagaimana sel tahu kapan harus berhenti membaca perintah yang salah?*
 
-Dari jendela, lewat tembok rumah sebelah, aku mendengar radio Tika yang menyiarkan lagu pop. Aku mematikan lampu. Dan di dalam gelap, untuk pertama kalinya, aku tidak merasa seperti anak desa yang kalah. Aku merasa seperti seseorang yang baru saja tahu bahwa ada orang lain di dunia yang mengajukan pertanyaan yang sama.
+Dari jendela, lewat tembok rumah sebelah, aku mendengar radio Tika yang menyiarkan lagu pop. Aku mematikan lampu.

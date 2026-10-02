@@ -46,7 +46,7 @@ Aku mendaki sedikit lebih tinggi. Sinyalnya membaik.
 
 Tika menyusulku pada hari kedua, dengan payung warna-warni bekas kakaknya dan tikar lipat. Pada hari ketiga, empat anak dusun lain datang, membawa ponsel masing-masing dan kuota yang dibagi-bagi. Pada hari kelima, Bukit Sinyal sudah menjadi kelas darurat, dengan tiga belas anak berserakan di bawah pohon jati, duduk di tikar, tanah, dan batu, masing-masing menatap layar kecil dengan alis berkerut, sementara angin membawa suara guru-guru dari berbagai arah.
 
-Ibu naik ke Bukit Sinyal tiap siang, tepat pukul sebelas, dengan keranjang rotan di tangan. Ia tidak mengatakan apa-apa. Ia hanya meletakkan keranjang di bawah pohon dan membuka kain penutupnya: singkong rebus panas, pisang goreng, dan teh manis dalam termos. Anak-anak mengerumuninya seperti burung yang dipanggil. Ibu menunggu sampai semua kebagian, lalu duduk di batu datar di sampingku, melihat anak-anak makan.
+Ibu naik ke Bukit Sinyal tiap siang, tepat pukul sebelas, dengan keranjang rotan di tangan. Ia hanya meletakkan keranjang di bawah pohon dan membuka kain penutupnya: singkong rebus panas, pisang goreng, dan teh manis dalam termos. Anak-anak mengerumuninya seperti burung yang dipanggil. Ibu menunggu sampai semua kebagian, lalu duduk di batu datar di sampingku, melihat anak-anak makan.
 
 "Bu, jangan tiap hari. Berat."
 
@@ -76,7 +76,7 @@ Ia mengambil singkong terakhir, membelahnya dengan jari, dan memberikan separuhn
 
 Aku belajar untuk ujian tertulis di Bukit Sinyal selama berbulan-bulan, dan itu adalah musim paling aneh dalam hidupku.
 
-Pengumuman jalur undangan keluar pada bulan Mei, dan aku tidak lolos. Aku membaca pengumuman itu di layar ponsel yang retak, duduk di batu datar, dengan Tika di sampingku. Kalimat itu pendek, sopan, dan bisa dimengerti semua orang. Aku menutup layar. Tika menatapku dan tidak mengatakan apa-apa, lalu menyodorkan sebungkus keripik singkong yang dibawanya dari rumah.
+Pengumuman jalur undangan keluar pada bulan Mei, dan aku tidak lolos. Aku membaca pengumuman itu di layar ponsel yang retak, duduk di batu datar, dengan Tika di sampingku. Kalimat itu pendek, sopan, dan bisa dimengerti semua orang. Aku menutup layar. Tika menatapku, lalu menyodorkan sebungkus keripik singkong yang dibawanya dari rumah.
 
 "Aku nggak apa-apa," kataku.
 

@@ -50,7 +50,7 @@ Aku tertawa, dan tertawa itu hampir menjadi tangis. "Banyak, Pak."
 
 "Kembalikan satu per satu. Aku masih punya waktu." Ia menutup matanya sambil tersenyum.
 
-Pak Dukuh menjabat tanganku dengan dua tangan dan berkata, dengan peci yang miring ke kiri dan suara yang sedikit pecah: "Nduk. Kamu ingat dusun ini."
+Pak Dukuh menangkupkan kedua tangan di dada dan berkata, dengan suara yang sedikit pecah: "Nduk. Kamu ingat dusun ini."
 
 "Saya ingat, Pak."
 
@@ -58,7 +58,7 @@ Pak Dukuh menjabat tanganku dengan dua tangan dan berkata, dengan peci yang miri
 
 ---
 
-Aku menyerahkan kotak itu pada Dr. Anindya pada hari kedua, dengan kedua tangan, di laboratorium yang kini berbau hampir sama seperti sepuluh tahun lalu: etanol dan kopi dan sesuatu yang manis.
+Kotak itu tiba di laboratorium pada hari ketiga, dibawa seorang kurir yang meminta tanda tangan, dan aku menyerahkannya pada Dr. Anindya di ruangan yang kini berbau hampir sama seperti sepuluh tahun lalu: etanol dan kopi dan sesuatu yang manis.
 
 "Dari Eleanor," kataku.
 
@@ -86,9 +86,9 @@ Aku tidak menjawab.
 
 "Itu bukan jawaban."
 
-"Itu jawaban." Aku tersenyum. "Cuma bukan seluruhnya."
+Aku tersenyum, dan tidak menambahkan apa-apa. Dr. Anindya tahu persis arti diam itu; ia sudah mengajarkannya padaku sendiri.
 
-Dr. Anindya menatapku lama. Kemudian ia menutup kotak dan menaruhnya di lemari pembeku besar di pojok laboratorium, di rak paling bawah, di balik tutup plastik tebal.
+Dr. Anindya menatapku. Kemudian ia menutup kotak dan menaruhnya di lemari pembeku besar di pojok laboratorium, di rak paling bawah, di balik tutup plastik tebal.
 
 "Kita lihat nanti," katanya. Dan itu bukan janji.
 
@@ -122,7 +122,7 @@ Hasil laboratoriumku keluar sore itu, dan dr. Suryo, yang kini beruban tapi masi
 
 Aku tidak menjawab.
 
-"Itu dari lima puluh dua enam bulan lalu. Ini bukan penurunan, Wulan. Ini jatuh." Ia menaruh kertas itu. "Serangan baru. Nefritis aktif. Dan kali ini..." Ia menarik napas, dan aku melihat ia memilih kata. "Parutnya bertambah."
+"Itu dari dua puluh delapan enam bulan lalu. Ini bukan penurunan lagi, Wulan. Ini jatuh." Ia menaruh kertas itu. "Serangan baru. Nefritis aktif. Dan kali ini..." Ia menarik napas, dan aku melihat ia memilih kata. "Parutnya bertambah."
 
 "Berapa banyak?"
 
@@ -152,7 +152,7 @@ Aku tersenyum. Aku tidak tahu mengapa. Mungkin karena aku sudah menghitung angka
 
 Pengobatan tidak berhasil.
 
-Aku dirawat di rumah sakit yang sama, di bangsal dewasa, dengan Ibu yang tidur di kursi di sebelah ranjangku, mengenakan kebaya yang sama, dengan wajah yang berubah dari hari ke hari, dari khawatir menjadi sesuatu yang lebih tua dan lebih tenang. Aku mendapat infus steroid tiga hari. Aku mendapat obat yang lebih keras. Rambutku rontok lagi, dan kali ini aku tidak menangis. Ibu duduk di tepi ranjang dan menyisir rambutku yang tersisa dengan jari, pelan-pelan, tanpa berkata apa-apa.
+Aku dirawat di rumah sakit yang sama, di bangsal dewasa, dengan Ibu yang tidur di kursi di sebelah ranjangku, mengenakan kebaya yang sama, dengan wajah yang berubah dari hari ke hari, dari khawatir menjadi sesuatu yang lebih tua dan lebih tenang. Aku mendapat infus steroid tiga hari. Aku mendapat obat yang lebih keras. Rambutku rontok lagi, dan kali ini aku tidak menangis. Ibu duduk di tepi ranjang dan menyisir rambutku yang tersisa dengan jari, pelan-pelan.
 
 Pada hari kesepuluh, pagi-pagi, dr. Suryo masuk membawa hasil. Ia duduk di kursi di sisi ranjang. Ia menatap Ibu, lalu aku.
 
@@ -212,7 +212,7 @@ Aku tidak tahu harus berkata apa.
 
 Di kursi seberang ada seorang laki-laki berusia enam puluhan, Pak Kardi, mantan sopir bus antar provinsi, yang bercerita pada siapa pun yang mau mendengar tentang jalan Trans-Sumatera di tahun delapan puluhan. Di kursi lain, seorang pemuda berusia sembilan belas tahun bernama Dani, dengan headphone di telinga dan tatapan seseorang yang sudah lama berhenti berharap, memandangi layar ponselnya tanpa bergerak.
 
-Aku mengamati mereka semua. Ada dua puluh orang. Ada yang menangis diam-diam. Ada yang tertawa. Ada yang tidur. Ada yang berdoa. Dan di tengah semuanya, aku merasa seperti seseorang yang baru saja diizinkan masuk sebuah dunia yang selama ini hanya kubaca dalam statistik.
+Aku mengamati mereka semua. Ada dua puluh orang. Ada yang menangis diam-diam. Ada yang tertawa. Ada yang tidur. Ada yang berdoa. Dan di tengah semuanya, aku merasa baru saja diizinkan masuk ke sebuah dunia yang selama ini hanya kubaca dalam statistik.
 
 *Seratus tiga puluh ribu pasien cuci darah di Indonesia.*
 
@@ -282,7 +282,7 @@ Ibu menatapnya. "Tapi saya masih punya dua."
 
 "Kami tidak bisa, Bu." Dokter Suryo menunduk. "Maafkan kami."
 
-Ibu menunduk. Ia duduk diam lama sekali, dengan kedua tangan di pangkuan, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika ia menengadah, wajahnya sama sekali kering.
+Ibu menunduk. Ia duduk diam, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika ia menengadah, wajahnya sama sekali kering.
 
 "Berarti harus daftar tunggu," katanya.
 

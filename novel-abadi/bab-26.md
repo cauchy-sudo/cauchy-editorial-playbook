@@ -6,7 +6,7 @@ Aku tiba pada pagi hari di bulan September, setelah penerbangan dua puluh dua ja
 
 Aku naik bus ke Cambridge dengan dua koper dan sebuah tas punggung, di kursi dekat jendela, memeluk tas seperti memeluk bayi. Di luar, ladang-ladang hijau yang rapi, pagar tanaman yang dipotong sempurna, langit abu-abu rendah. Sapi-sapi putih hitam berdiri di padang rumput dengan sikap yang tidak peduli sama sekali. Di antara semua itu aku mencari sesuatu yang kukenali, dan yang kutemukan hanyalah sesuatu yang paling tidak kuduga: sapi-sapi itu, di kejauhan, membuatku teringat pada Si Bejo.
 
-Aku menahan sesuatu yang naik ke tenggorokanku.
+Aku mengalihkan pandangan ke jendela.
 
 ---
 

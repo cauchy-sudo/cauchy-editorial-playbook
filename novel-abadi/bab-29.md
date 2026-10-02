@@ -156,7 +156,7 @@ Julian Thorne datang dua minggu kemudian, dengan mobil hitam yang sama dan tanpa
 
 Ia mengenakan jas abu-abu gelap dan wajah yang lebih lelah daripada bulan November dua tahun lalu. Ia duduk di ruang rapat institut, menyilangkan tangan di atas meja, dan mendengarkan presentasiku dengan kepala sedikit miring, tanpa menyela.
 
-Ketika aku selesai, ia tidak mengatakan apa-apa selama beberapa saat.
+Ketika aku selesai, ia diam beberapa saat.
 
 "Seventeen of twenty," katanya.
 

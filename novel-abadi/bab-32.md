@@ -38,7 +38,7 @@ Aku mulai menulis daftar itu pada malam keempat sejak keluar dari rumah sakit.
 
 *1. Tumor.*
 
-Tikus yang diberi desain lama: tiga dari dua puluh. Desain baru: nol dari sembilan. Aku menatap angka itu lama, dan membuka sebuah program statistik sederhana di laptop, dan menghitung sesuatu yang tidak ingin kuhitung.
+Tikus yang diberi desain lama: tiga dari dua puluh. Desain baru: nol tumor dari sembilan, dan satu yang mati tanpa sebab yang bisa dibuktikan. Aku menatap angka itu lama, dan membuka sebuah program statistik sederhana di laptop, dan menghitung sesuatu yang tidak ingin kuhitung.
 
 Ada aturan sederhana dalam statistik, yang diajarkan pada semester pertama dan hampir selalu dilupakan. Kalau kamu mengamati nol kejadian dalam sembilan percobaan, kamu tidak bisa mengatakan bahwa peluangnya nol. Kamu hanya bisa mengatakan bahwa peluangnya, dengan keyakinan sembilan puluh lima persen, kurang dari sepertiga.
 
@@ -46,7 +46,7 @@ Kurang dari sepertiga.
 
 Aku tidak tahu apakah risiko tumorku nol atau tiga puluh tiga persen. Aku hanya tahu bahwa sembilan tikus tanpa tumor tidak membuktikan apa pun. Ia hanya sebuah harapan yang diberi angka.
 
-Aku mencatatnya. Aku menatapnya lama.
+Aku mencatatnya. Aku menatapnya.
 
 *2. Serangan imun baru.*
 
@@ -54,7 +54,7 @@ Sistem pembunuh alami yang kami rancang untuk mengenali sel tanpa tanda aku, di 
 
 *3. Efek jangka panjang.*
 
-Tak ada data. Lima belas minggu adalah segalanya yang kita punya.
+Tak ada data. Lima belas minggu adalah segalanya yang kita punya, dan satu tikus nomor lima, yang kematiannya tidak punya alasan tertulis. Pada tikus, "tidak diketahui" tidak sama dengan "tidak apa-apa".
 
 *4. Otak.*
 
@@ -110,7 +110,7 @@ Bu Ning, di kursi sebelah, menatap kursi itu juga, dan wajah bulat letihnya tamp
 
 "Meninggal." Ia berbicara pelan. "Tidak datang dua hari. Dikira sakit. Anaknya menemukannya di kamar. Kalium. Katanya jantungnya berhenti."
 
-Aku tidak mengatakan apa-apa. Perawat datang mempersiapkan jarumku, dan aku mengulurkan lengan kiri dengan mesin kecil yang mendengkur di bawah kulit, dan ketika jarum itu masuk, aku merasa sesuatu yang aneh, bukan sakit, bukan takut, sesuatu yang lebih mirip pengertian yang datang terlambat.
+Perawat datang mempersiapkan jarumku, dan aku mengulurkan lengan kiri dengan mesin kecil yang mendengkur di bawah kulit, dan ketika jarum itu masuk, aku merasa sesuatu yang aneh, bukan sakit, bukan takut, sesuatu yang lebih mirip pengertian yang datang terlambat.
 
 Aku menatap langit-langit dan menghitung ubin. Empat puluh dua. Sama seperti kemarin.
 
@@ -168,7 +168,7 @@ Aku menunggu.
 
 "Kamu." Ia tersenyum, tipis. "Kamu satu-satunya yang menanggung. Itu yang bisa kuberi tahu."
 
-Aku menunduk. Aku menahan sesuatu yang naik ke tenggorokan.
+Aku menunduk.
 
 "Pak."
 
@@ -178,7 +178,7 @@ Aku menunduk. Aku menahan sesuatu yang naik ke tenggorokan.
 
 "Kamu akan tahu." Ia menutup matanya lagi. "Tapi kamu akan tahu dengan cara yang tidak bisa dikembalikan. Itu yang membuat keputusan seperti ini berat, Nduk. Bukan karena kamu tidak tahu jawabannya. Tapi karena kamu tidak bisa menarik pertanyaannya."
 
-Aku duduk lama di sana, tanpa berkata apa-apa, dan Pak Karto tidur di kursi rodanya dengan dengkur kecil yang teratur, dan radio di pangkuannya berdesis sendiri, pelan, sampai matahari terbenam di balik pohon jati dan lampu teras menyala sendiri di kejauhan.
+Aku duduk di sana, dan Pak Karto tidur di kursi rodanya dengan dengkur kecil yang teratur, dan radio di pangkuannya berdesis sendiri, pelan, sampai matahari terbenam di balik pohon jati dan lampu teras menyala sendiri di kejauhan.
 
 ---
 

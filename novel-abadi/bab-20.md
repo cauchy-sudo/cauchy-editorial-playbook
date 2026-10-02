@@ -118,7 +118,7 @@ Ruangan itu sunyi.
 
 "Kira-kira." Dokter Suryo menatapku, dan di wajahnya yang besar dan kasar ada sesuatu yang lembut. "Wulan. Kamu pasien yang pintar. Aku tidak mau menakutimu. Aku mau kamu tahu karena kamu berhak tahu. Dan karena orang yang tahu bisa merencanakan."
 
-Aku mengangguk. Aku menahan sesuatu yang naik ke tenggorokanku dan tidak mau turun.
+Aku mengangguk. Tenggorokanku mengencang.
 
 "Terima kasih, Dok."
 

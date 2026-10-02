@@ -166,7 +166,7 @@ Ia tidak bergerak.
 
 "Itu jawaban." Suaraku bergetar. "Cuma bukan seluruhnya."
 
-Ia menatapku lama. Wajahnya, yang tadi berusaha tenang, mulai bergeser, bukan marah, bukan malu, hanya sesuatu yang lebih sederhana dan lebih sulit disembunyikan: kehilangan.
+Ia menatapku. Wajahnya, yang tadi berusaha tenang, mulai bergeser, bukan marah, bukan malu, hanya sesuatu yang lebih sederhana dan lebih sulit disembunyikan: kehilangan.
 
 "Kamu bohong tentang sesuatu," katanya, pelan.
 
@@ -190,7 +190,7 @@ Ia berdiri. Ia merapikan jaketnya, dan mengeluarkan dompet, dan menaruh uang di 
 
 "Dah, Rizal."
 
-Ia berjalan keluar. Lonceng kecil di pintu kafe berbunyi sekali. Aku duduk di sana sampai kopi menjadi dingin, dengan kedua tangan di pangkuan, tidak bergerak, sampai pelayan datang dan bertanya apakah aku baik-baik saja.
+Ia berjalan keluar. Lonceng kecil di pintu kafe berbunyi sekali. Aku duduk di sana sampai kopi menjadi dingin, tidak bergerak, sampai pelayan datang dan bertanya apakah aku baik-baik saja.
 
 ---
 
@@ -260,8 +260,4 @@ Aku memegang tangan Ibu. Aku mengusap punggungnya dengan ibu jariku, pelan, pela
 
 "Tanganmu." Ia tersenyum, dengan mata yang terlalu cerah. "Masih sama seperti dulu. Seperti waktu kamu kecil."
 
-Aku menahan sesuatu yang naik ke dadaku.
-
 "Iya, Bu," kataku.
-
-Itu bukan dusta. Tapi itu bukan seluruhnya.

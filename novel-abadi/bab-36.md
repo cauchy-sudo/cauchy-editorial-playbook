@@ -2,7 +2,7 @@
 
 Julian Thorne datang ke Yogyakarta pada hari yang paling panas di bulan Februari, tanpa mobil hitam, tanpa pengawal, dan tanpa pemberitahuan.
 
-Aku sedang mencuci cawan di sudut laboratorium ketika Pak Slamet muncul di ambang pintu dengan wajah seperti orang yang baru melihat sesuatu yang tidak seharusnya ada di tempat itu.
+Aku sedang mencuci cawan di sudut laboratorium ketika Pak Slamet muncul di ambang pintu dengan wajah kaku yang tidak ia sembunyikan.
 
 "Dokter Wulan," katanya, "ada tamu."
 
@@ -10,7 +10,7 @@ Aku sedang mencuci cawan di sudut laboratorium ketika Pak Slamet muncul di amban
 
 "Bule." Ia menggeser matanya ke belakang, ke koridor. "Tua. Batuk."
 
-Aku mengeringkan tangan dan melangkah keluar. Di lorong yang remang, di bawah poster kegiatan fakultas yang sebagian terkelupas, berdiri seorang laki-laki yang nyaris tak kukenali. Rambutnya yang dulu perak berkilau kini putih kusam dan menipis. Jas biru tuanya kebesaran di bahu. Bahunya sendiri sedikit membungkuk lebih rendah daripada yang kuingat, dan pipinya cekung, seperti seseorang yang telah kehilangan banyak berat badan dalam waktu terlalu singkat.
+Aku mengeringkan tangan dan melangkah keluar. Di lorong yang remang, di bawah poster kegiatan fakultas yang sebagian terkelupas, berdiri seorang laki-laki yang nyaris tak kukenali. Rambutnya yang dulu perak berkilau kini putih kusam dan menipis. Jas biru tuanya kebesaran di bahu. Bahunya sendiri sedikit membungkuk lebih rendah daripada yang kuingat, dan pipinya cekung; kerah kemejanya longgar sekali.
 
 "Wulan," kata Julian Thorne. Suaranya masih rendah dan sopan, tetapi di bawahnya ada serak yang tak ada dulu. "Forgive me. I should have written."
 
@@ -36,7 +36,7 @@ Aku menatap tehku.
 
 "I'm not accusing you." Ia mengangkat tangan. "God knows I'm in no position. I'm saying that in my experience, the people who say 'not yet' most firmly are usually the ones who understand something the rest of us don't."
 
-Aku diam. Di dalam dadaku, jantung berdetak seperti seseorang yang mengetuk pintu dari dalam, tapi wajahku, aku yakin, tidak berubah. Aku sudah belajar itu sejak umur sebelas, di kursi pasien dan di antara orang-orang yang bertanya.
+Aku diam. Di dalam dadaku, jantung berdetak keras, tapi wajahku, aku yakin, tidak berubah. Aku sudah belajar itu sejak umur sebelas, di kursi pasien dan di antara orang-orang yang bertanya.
 
 "I have no human data," kataku. "That's the truth. Every dataset I've reported is from animals."
 
@@ -142,7 +142,7 @@ Prof. Whitcombe, di layar pada pukul tiga pagi waktu Yogyakarta dan delapan mala
 
 "Time."
 
-Prof. Whitcombe menatapku lama. Lalu, perlahan, ia melepas kacamatanya dan mengusap hidungnya, dan untuk pertama kalinya aku melihat sesuatu di wajahnya yang bukan profesor dan bukan penguji: mata yang basah.
+Prof. Whitcombe menatapku. Lalu, perlahan, ia melepas kacamatanya dan mengusap hidungnya, dan untuk pertama kalinya aku melihat sesuatu di wajahnya yang bukan profesor dan bukan penguji: mata yang basah.
 
 "Do it," katanya. "I'll co-sign. And Wulan."
 
@@ -284,4 +284,26 @@ Layar menjadi gelap.
 
 Aku duduk lama di tepi dipan di kamar kos yang kusewa kembali, dengan telepon di pangkuan dan radio kecil di jendela yang berdesis pelan tanpa suara apa pun. Di luar, hujan turun untuk pertama kalinya setelah dua minggu tanpa setetes pun.
 
-Aku tidak merasa menang. Aku merasa seperti seseorang yang baru saja meletakkan sesuatu yang sangat berat di atas meja dan menyadari bahwa tak seorang pun, bahkan dirinya sendiri, bisa mengangkatnya kembali.
+Radio itu mati sebelum aku sempat berdiri, di tengah desisnya, dengan bunyi seperti orang bersin.
+
+Aku membuka laci dan mengeluarkan kantong plastik bening yang sepuluh tahun lalu diletakkan seseorang di bangku stasiun Tugu. Enam tong biru mungil, kakinya bengkok, bagian atasnya menggembung seperti perut. Yang ketujuh sudah kupakai di Cambridge dan sudah mati lagi.
+
+*Kali ini kamu yang ganti.*
+
+Aku membongkar punggung radio dengan obeng pinjaman dari Pak Slamet, menemukan tong yang mati, dan mengganti dengan solder yang kupinjam dari bengkel fakultas dan dua video yang kutonton dua kali. Solderanku jelek. Ia bertahan.
+
+Radio itu berdesis, lalu bicara: seorang perempuan membacakan sesuatu dalam bahasa yang tidak kukenal, lemah, jauh, sangat tenang.
+
+Aku memotret punggung radio itu dan mengirim fotonya ke Bandung tanpa kata.
+
+Balasan datang sebelum aku mematikan lampu.
+
+*Jelek.*
+
+Semenit kemudian:
+
+*Bunyi?*
+
+*Bunyi.*
+
+*Oke.*

@@ -80,9 +80,13 @@ Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar
 
 "Itu kecil, Mbak." Aku tersenyum. "Selembar kertas."
 
-Mbak Nurul menunduk, dan aku melihat jarinya yang ramping dan sedikit gemetar mengusap sudut matanya di balik kerudung. Dokter Raihan memerhatikan kami berdua, tidak berkata apa-apa, dan menyendok nasi ke piringnya dengan khidmat seperti seseorang yang tahu bahwa ada momen yang tidak boleh diganggu.
+Mbak Nurul menunduk, dan aku melihat jarinya yang ramping dan sedikit gemetar mengusap sudut matanya di balik kerudung. Dokter Raihan memerhatikan kami berdua dan menyendok nasi ke piringnya dengan khidmat, seakan tahu ada momen yang tidak boleh diganggu.
 
-Ibu menyodorkan ingkung ke arah Mbak Nurul dengan dua tangan.
+Ibu menyikut lenganku pelan. "Siapa namanya, Nduk? Ibu lupa."
+
+"Mbak Nurul, Bu."
+
+"Mbak Nurul." Ibu mengulanginya dua kali tanpa suara, seperti menaruh nama itu di tempat yang aman, lalu menyodorkan ingkung ke arah Mbak Nurul.
 
 "Dimakan, Mbak," katanya. "Anak saya bilang, kalau bukan karena Mbak, anak saya tidak ada di sini."
 
@@ -221,6 +225,8 @@ Di timur, langit mulai berubah. Pertama kelabu, lalu merah muda pucat, lalu kuni
 Aku berpikir tentang waktu. Bukan sepuluh tahun. Bukan delapan sampai sepuluh. Sesuatu yang lebih panjang dan tak punya angka. Aku berpikir tentang Ibu dan Bapak, yang suatu hari akan berhenti dan menjadi sesuatu yang kutulis di buku catatan. Aku berpikir tentang Tika yang akan menua dan Ardi yang akan menikah dan Mas Aji yang akan pulang dari Batam dengan rambut putih. Aku berpikir tentang seseorang yang berdiri di pantai yang sama empat puluh tahun lagi, dengan wajah yang sama, sendirian, dan mencatat.
 
 Aku tidak merasa takut. Aku hanya merasa sangat kecil dan sangat panjang, sekaligus.
+
+Aku teringat sebuah gambar di buku Biologi Pak Karto: dua untai yang saling melilit dan naik, melewati arah yang sama berkali-kali tanpa pernah berada di titik yang sama. Aku mencatat namanya di tepi halaman dengan pensil, tujuh belas tahun lalu, tanpa tahu mengapa. *Heliks ganda.*
 
 Aku mengeluarkan buku catatan dari saku jaket. Sampulnya lengket. Kertasnya menguning. Aku membukanya pada halaman yang belum kutulisi, dengan pensil yang tumpul, dan menulis, dengan tangan yang tidak gemetar:
 

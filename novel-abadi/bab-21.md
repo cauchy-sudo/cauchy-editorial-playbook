@@ -124,7 +124,7 @@ Dr. Anindya meletakkan kacamatanya di meja. Ia menatapku, dan untuk pertama kali
 
 "Banyak?"
 
-"Sangat sedikit." Ia mengambil grafik itu dan memandanginya sekali lagi. "Kebanyakan orang melihat angka yang bagus dan berhenti bertanya. Kamu melihat angka yang bagus dan bertanya mengapa bagus. Itu bukan kepintaran. Itu watak."
+"Sangat sedikit." Ia mengambil grafik itu dan memandanginya sekali lagi. "Kebanyakan orang melihat angka yang bagus dan berhenti bertanya. Kamu melihat angka yang bagus dan bertanya mengapa bagus."
 
 "Saya hanya..."
 
@@ -144,7 +144,7 @@ Meja itu terletak di ujung laboratorium, di bawah jendela yang menghadap beringi
 
 *Wulan R. — Biologi Sel & Penuaan.*
 
-Aku menyentuh kertas itu dengan ujung jari. Tinta spidolnya agak luntur di huruf terakhir, dan tulisannya besar-besar dan lurus, huruf *W* digambar seperti orang yang menyeberangi dua bukit.
+Aku menyentuh kertas itu dengan ujung jari. Tinta spidolnya agak luntur di huruf terakhir, dan tulisannya besar-besar dan lurus, huruf *W* digambar dengan dua lembah yang dalam.
 
 Itu tulisan tangan Pak Slamet, kata Bu Retno, yang menyodorkan satu kotak kosong untuk mengisi rak. Pak Slamet menulisnya semalam, tanpa disuruh, setelah mendengar Dr. Anindya mengatakan sesuatu pada Bayu di lorong.
 

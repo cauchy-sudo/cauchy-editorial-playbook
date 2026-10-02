@@ -184,8 +184,8 @@ Aku menahan sesuatu yang tiba-tiba terasa seperti sebuah koin kecil jatuh ke das
 
 "Kamu juga."
 
-Kami berdua tidak berkata apa-apa lagi. Di luar jendela, hujan turun dengan irama yang sama dengan jantungku, atau jantungku yang mengikuti irama hujan, aku tidak tahu yang mana. Aku melipat kertas diagram itu dan menaruhnya di dalam buku biologi.
+Kami berdua diam. Di luar jendela, hujan turun dengan irama yang sama dengan jantungku, atau jantungku yang mengikuti irama hujan, aku tidak tahu yang mana. Aku melipat kertas diagram itu dan menaruhnya di dalam buku biologi.
 
 Dan di kos malam itu, ketika Tika bertanya apakah sesuatu terjadi, aku menjawab, dengan jujur, "Tidak ada yang terjadi."
 
-Itu juga benar. Tidak ada yang terjadi. Dan justru itu, aku mulai mengerti, yang membuatnya sulit dilupakan.
+Itu juga benar. Tidak ada yang terjadi.

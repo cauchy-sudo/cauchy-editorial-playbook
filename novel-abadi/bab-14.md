@@ -4,7 +4,7 @@ Dokter Sumarni membaca hasil laboratoriumku dengan wajah yang tidak berubah sama
 
 "Kreatininnya naik," katanya. "Protein di urin empat plus. Tekanan darahmu tinggi. Dan C3-nya turun lagi." Ia meletakkan kertas itu di meja dan menyatukan jemarinya. "Wulan, ini kambuh. Dan ini bukan kambuh yang kecil."
 
-Aku duduk di kursi pasien dengan kedua tangan di pangkuan. Di sampingku Ibu, yang tiba dari Pucung dengan bus pertama pagi itu, menggenggam tas kainnya seperti sauh. Tika menemaniku di perjalanan dari Wonosari dan kini menunggu di lorong, dengan wajah yang bahkan dari balik pintu terasa pucat.
+Aku duduk di kursi pasien. Di sampingku Ibu, yang tiba dari Pucung dengan bus pertama pagi itu, menggenggam tas kainnya seperti sauh. Tika menemaniku di perjalanan dari Wonosari dan kini menunggu di lorong, dengan wajah yang bahkan dari balik pintu terasa pucat.
 
 "Dok, saya sudah minum obat tepat waktu," kataku. "Tidak pernah lewat."
 
@@ -138,7 +138,7 @@ Daffa datang dengan sebungkus apel besar dan wajah yang kikuk. Ia tidak menyebut
 
 Naufal datang terakhir, ketika hari sudah sore.
 
-Ia berdiri di pintu dengan ransel dan sebuah bungkusan di tangan. Ia tidak masuk. Ia berdiri di sana seperti orang yang tidak yakin boleh melewati batas.
+Ia berdiri di pintu dengan ransel dan sebuah bungkusan di tangan. Ia tidak masuk. Ia berdiri di sana, ujung sepatunya tepat di garis ubin pintu, tidak yakin boleh melewatinya.
 
 "Naufal," kata Ibu. "Masuklah."
 
@@ -156,7 +156,7 @@ Aku menatapnya. Aku tidak punya kata. Ibu, di belakangku, tiba-tiba menyibukkan 
 
 Malam itu, ketika semua tidur dan bangsal hanya diterangi lampu merah kecil di atas pintu, aku memasang antena panjang itu ke daun jendela, menyalakan radio, dan mendengarkan dengan volume paling pelan. Dengungan, serakan, suara-suara yang jauh. Dan di antaranya, entah dari mana, entah dari negara mana, sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, dengan nada yang menenangkan seperti ibu yang membacakan dongeng.
 
-Aku menyimak sampai pagi. Aku tidak menangis. Tetapi aku merasa seperti seseorang yang, untuk pertama kalinya, menyadari bahwa dunia penuh suara yang lemah, dan bahwa seseorang telah membuatkan antena supaya aku bisa mendengarnya.
+Aku menyimak sampai pagi. Aku tidak menangis. Tetapi untuk pertama kalinya aku menyadari bahwa dunia penuh suara yang lemah, dan bahwa seseorang telah membuatkan antena supaya aku bisa mendengarnya.
 
 ---
 

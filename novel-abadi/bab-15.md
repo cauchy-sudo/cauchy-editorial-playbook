@@ -40,7 +40,7 @@ Dusunku kelihatan lebih kecil. Aku tidak tahu apakah dusunnya mengecil, atau aku
 
 Di halaman rumah ada tenda biru yang dipasang, dengan kursi-kursi plastik berderet, dan di dalam rumah ada bau yang kukenal dari tahlilan Yuni, bau nasi gurih dan teh manis dan kain-kain yang baru dikeluarkan dari lemari. Orang-orang duduk melingkar di tikar. Ketika aku masuk dengan kerudung yang menyembunyikan kepala dan jaket tebal yang menyembunyikan badan, seluruh ruangan menoleh.
 
-Mbok Karni berdiri. Ia tidak mengatakan apa-apa. Ia hanya berjalan ke arahku dan memelukku, erat, lama, seperti dulu.
+Mbok Karni berdiri. Ia hanya berjalan ke arahku dan memelukku, erat, lama, seperti dulu.
 
 "Mbah baik-baik saja, Nduk," bisiknya. "Dia tidak sakit. Dia tidak lama."
 
@@ -64,7 +64,7 @@ Aku duduk di sampingnya. Kami berdua menatap foto itu.
 
 "Aku tidak ada."
 
-"Kamu sakit." Ibu menggenggam jemariku dengan dua tangan, dan telapaknya kasar dan hangat. "Mbah tahu. Dia tahu kamu tidak bisa datang. Dia bilang begitu sebelum..."
+"Kamu sakit." Ibu menggenggam jemariku, dan telapaknya kasar dan hangat. "Mbah tahu. Dia tahu kamu tidak bisa datang. Dia bilang begitu sebelum..."
 
 "Dia bilang?"
 
@@ -132,7 +132,7 @@ Aku menatap payung itu. Dalam diam, aku mengingat Mbah yang berjalan di bawah ma
 
 "Boleh aku yang menyelesaikannya?"
 
-Ibu menatapku lama. Lalu ia tersenyum, kecil, dengan mata yang kembali basah.
+Ibu menatapku. Lalu ia tersenyum, kecil, dengan mata yang kembali basah.
 
 "Jahitannya jelek, lho. Kamu nggak pernah belajar menjahit."
 

@@ -10,7 +10,7 @@ Nama kedua tidak pernah dipakai orang, karena belum ada yang berani menyebutnya.
 
 ---
 
-Awal Desember, Ibu membawaku ke puskesmas untuk ketiga kalinya. Kali ini tanpa sepeda motor, karena Bapak harus ke ladang, dan kami berdua naik ojek tetangga yang knalpotnya lebih berisik daripada mesinnya. Ibu memegang tas kainnya di pangkuan dengan dua tangan. Di dalamnya, terlipat rapi di antara dompet dan botol air minum, ada kertas Mbak Nurul. Sekarang sudah dua lembar, ditulis dengan pensil yang sama sampai pensil itu tinggal sejari.
+Awal Desember, Ibu membawaku ke puskesmas untuk ketiga kalinya. Kali ini tanpa sepeda motor, karena Bapak harus ke ladang, dan kami berdua naik ojek tetangga yang knalpotnya lebih berisik daripada mesinnya. Ibu memegang tas kainnya di pangkuan. Di dalamnya, terlipat rapi di antara dompet dan botol air minum, ada kertas Mbak Nurul. Sekarang sudah dua lembar, ditulis dengan pensil yang sama sampai pensil itu tinggal sejari.
 
 Aku mengenali bangku panjang di ruang tunggu dan plafon dengan noda berbentuk Kalimantan. Ubin yang copot sudah bertambah satu.
 
@@ -120,7 +120,7 @@ Antrean di loket pendaftaran lebih panjang daripada seluruh Dusun Pucung. Orang 
 
 Pak Dukuh sudah menulisnya. Ibu menyodorkan kertas itu, yang diberi cap desa dan tanda tangan berwarna biru. Petugas memeriksanya, mencatat sesuatu, lalu memberi kami selembar kertas bernomor.
 
-Dokter anak yang menerima kami bernama dr. Sumarni. Ia berusia lima puluhan, berjilbab abu-abu, berbicara pelan dan sangat jelas, seperti orang yang terbiasa menjelaskan hal sulit kepada ibu-ibu yang tidak pernah sekolah. Ia memeriksa pipiku, menekan pergelangan kakiku sampai meninggalkan bekas cekung yang lambat kembali, dan mendengarkan dadaku lama. Ia membaca surat dr. Raihan, dan kemudian kertas Mbak Nurul. Ia membacanya tanpa menyela, sampai habis.
+Dokter anak yang menerima kami bernama dr. Sumarni. Ia berusia lima puluhan, berjilbab abu-abu, berbicara pelan dan sangat jelas, dengan kebiasaan mengulang kalimat penting dua kali. Ia memeriksa pipiku, menekan pergelangan kakiku sampai meninggalkan bekas cekung yang lambat kembali, dan mendengarkan dadaku lama. Ia membaca surat dr. Raihan, dan kemudian kertas Mbak Nurul. Ia membacanya tanpa menyela, sampai habis.
 
 "Ini dibuat siapa?"
 
@@ -152,7 +152,7 @@ Aku tertawa, dan jarum itu masuk, dan aku nyaris tidak merasakannya. Perawat itu
 
 Hasil keluar sore hari. Kami menunggu lima jam di lorong yang berbau antiseptik, di bangku besi yang dinginnya merembes sampai ke tulang. Ibu mengeluarkan nasi bungkus dari tas, yang ia masak subuh tadi dengan sambal tempe dan telur dadar. Kami makan berempat dengan tangan, di lorong rumah sakit, sementara orang-orang berbaju putih lewat dan menoleh sebentar pada pemandangan yang tidak umum.
 
-Bapak makan sedikit. Ia memandangi pintu ruangan dr. Sumarni dari jarak jauh seperti seseorang yang menunggu nama dipanggil pada pengumuman kelulusan.
+Bapak makan sedikit. Ia memandangi pintu ruangan dr. Sumarni dari jarak jauh, dengan sesuap nasi di tangan yang tak kunjung masuk ke mulut.
 
 Aku mencoba menghitung orang yang lewat, tetapi mereka terlalu banyak.
 

@@ -44,7 +44,7 @@ Ibu menatapku. Aku menunduk.
 
 "Dokter," kata Ibu, dan suaranya sangat rendah. "Ini... menular?"
 
-"Tidak." Dokter Sumarni menjawab cepat dan tegas, tanpa jeda, seperti orang yang sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
+"Tidak." Dokter Sumarni menjawab cepat dan tegas; ia sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
 
 "Karena... kutukan?"
 
@@ -94,7 +94,7 @@ Mas Aji mencatat semuanya, dengan huruf-huruf besar yang miring, di sebuah buku 
 
 ---
 
-Tiga hari menjelang tahun baru, Pak Dukuh datang. Ia menempuh perjalanan dua jam dengan sepeda motor dari Pucung, mengenakan peci yang miring ke kiri seperti biasanya, dan membawa sebuah map plastik berisi semua yang dibutuhkan. Ia bertemu dengan petugas pendaftaran, berbicara dengan suara orang yang memahami cara kerja kertas dan stempel, dan satu jam kemudian Bapak keluar dengan selembar tanda terima dan wajah seperti orang yang baru saja menyeberangi sungai.
+Tiga hari menjelang tahun baru, Pak Dukuh datang. Ia menempuh perjalanan dua jam dengan sepeda motor dari Pucung, mengenakan peci yang miring ke kiri seperti biasanya, dan membawa sebuah map plastik berisi semua yang dibutuhkan. Ia bertemu dengan petugas pendaftaran, berbicara dengan suara orang yang memahami cara kerja kertas dan stempel, dan satu jam kemudian Bapak keluar dengan selembar tanda terima dan napas panjang yang rupanya sudah ia tahan sejak September.
 
 "Mulai tanggal satu," katanya pada Ibu. "Sampai tanggal tiga puluh satu, kita bayar sendiri. Mulai tanggal satu, ditanggung."
 
@@ -158,7 +158,7 @@ Aku melipatnya dan menaruhnya di saku. Di perjalanan pulang, di dalam bus yang b
 
 Di rumah, kaca retak di dekat pintu menunggu. Aku berdiri di depannya.
 
-Wajah di dalam kaca itu bukan wajahku. Pipinya membulat, matanya menyipit di antara bengkak, dan kulitnya mengilap seperti kue yang baru dioles mentega. Aku menatapnya lama.
+Wajah di dalam kaca itu bukan wajahku. Pipinya membulat, matanya menyipit di antara bengkak, dan kulitnya mengilap seperti kue yang baru dioles mentega. Aku menatapnya.
 
 "Cantik, Nduk," kata Ibu dari belakangku.
 
