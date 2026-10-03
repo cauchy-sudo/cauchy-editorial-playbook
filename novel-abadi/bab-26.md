@@ -92,7 +92,7 @@ Margaret membukanya. Ia membalik beberapa halaman, berhenti pada kolom-kolom tul
 
 Rujukan ke rumah sakit universitas datang dalam sepuluh hari. Obatku, yang kubawa untuk tiga bulan, kuberikan pada apoteker, yang memeriksa semuanya dan mengangguk. Aku mendaftar untuk asuransi kesehatan mahasiswa dan membayar tagihannya dengan kartu yang masih terasa asing di tanganku.
 
-Aku belajar menyeberang jalan dengan melihat ke arah yang berlawanan. Aku belajar bahwa orang Inggris mengatakan *sorry* ketika kamu menabrak mereka. Aku belajar menemukan toko daging halal di sebuah gang di belakang pasar, yang dijaga laki-laki asal Bangladesh yang ramah, dan tempe di bagian pembeku sebuah toko Asia di ujung kota, yang harganya tiga kali harga di Wonosari.
+Aku belajar menyeberang jalan dengan melihat ke arah yang berlawanan. Aku belajar bahwa orang Inggris mengatakan *sorry* ketika aku menabrak mereka. Aku belajar menemukan toko daging halal di sebuah gang di belakang pasar, yang dijaga laki-laki asal Bangladesh yang ramah, dan tempe di bagian pembeku sebuah toko Asia di ujung kota, yang harganya tiga kali harga di Wonosari.
 
 Aku membeli satu bungkus. Aku berdiri di depan kasir sambil menggenggamnya seperti menggenggam harta karun.
 

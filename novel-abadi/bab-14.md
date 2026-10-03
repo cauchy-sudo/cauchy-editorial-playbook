@@ -44,8 +44,6 @@ Selama enam jam sesudahnya aku tidak boleh bergerak. Ibu duduk di kursi di sampi
 
 Aku tertawa, dan tertawa itu menarik perutku, dan perawat di ujung ruangan menegurku untuk tidak bergerak. Tika menutup mulutnya dengan tangan dan tertawa tanpa suara, dengan bahu yang bergetar.
 
-Itu cara Tika menjagaku. Bukan dengan kata-kata penghiburan, tapi dengan hal-hal yang sedikit bodoh dan sangat nyata.
-
 ---
 
 Hasil biopsi keluar empat hari kemudian, ketika aku sudah dirawat di bangsal yang sama, di ranjang yang dulu ditempati Yuni, atau mungkin ranjang di sebelahnya. Aku tidak ingat lagi. Dokter Sumarni datang bersama seorang dokter ginjal yang aku belum kenal, dan keduanya duduk di sisi ranjang dengan wajah yang tidak bisa kuuraikan.
@@ -156,7 +154,7 @@ Aku menatapnya. Aku tidak punya kata. Ibu, di belakangku, tiba-tiba menyibukkan 
 
 Malam itu, ketika semua tidur dan bangsal hanya diterangi lampu merah kecil di atas pintu, aku memasang antena panjang itu ke daun jendela, menyalakan radio, dan mendengarkan dengan volume paling pelan. Dengungan, serakan, suara-suara yang jauh. Dan di antaranya, entah dari mana, entah dari negara mana, sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, dengan nada yang menenangkan seperti ibu yang membacakan dongeng.
 
-Aku menyimak sampai pagi. Aku tidak menangis. Tetapi untuk pertama kalinya aku menyadari bahwa dunia penuh suara yang lemah, dan bahwa seseorang telah membuatkan antena supaya aku bisa mendengarnya.
+Aku menyimak sampai pagi. Aku tidak menangis. Sesekali suara itu tenggelam dalam desis, dan aku memutar tombolnya pelan-pelan sampai ia kembali.
 
 ---
 

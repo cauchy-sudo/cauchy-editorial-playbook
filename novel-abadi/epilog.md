@@ -125,5 +125,3 @@ Aku tidak menjawab.
 Aku membiarkannya. Aku menatap langit-langit bambu dan mendengarkan hujan, dan pelan-pelan, tanpa kuputuskan, aku mulai menghitung sesuatu: napas Ibu, naik dan turun, satu, dua, tiga.
 
 Aku berhenti di sana.
-
-Ada hal-hal yang tidak perlu dihitung.

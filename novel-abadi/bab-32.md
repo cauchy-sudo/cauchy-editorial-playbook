@@ -40,7 +40,7 @@ Aku mulai menulis daftar itu pada malam keempat sejak keluar dari rumah sakit.
 
 Tikus yang diberi desain lama: tiga dari dua puluh. Desain baru: nol tumor dari sembilan, dan satu yang mati tanpa sebab yang bisa dibuktikan. Aku menatap angka itu lama, dan membuka sebuah program statistik sederhana di laptop, dan menghitung sesuatu yang tidak ingin kuhitung.
 
-Ada aturan sederhana dalam statistik, yang diajarkan pada semester pertama dan hampir selalu dilupakan. Kalau kamu mengamati nol kejadian dalam sembilan percobaan, kamu tidak bisa mengatakan bahwa peluangnya nol. Kamu hanya bisa mengatakan bahwa peluangnya, dengan keyakinan sembilan puluh lima persen, kurang dari sepertiga.
+Ada aturan sederhana dalam statistik, yang kupelajari pada semester pertama dan hampir selalu dilupakan orang. Dengan nol kejadian dalam sembilan percobaan, aku tidak boleh menulis bahwa peluangnya nol. Yang boleh kutulis hanya ini: dengan keyakinan sembilan puluh lima persen, peluangnya kurang dari sepertiga.
 
 Kurang dari sepertiga.
 

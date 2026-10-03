@@ -1,8 +1,6 @@
 # Bab 9 — Pintu Kos
 
-Ada tahun-tahun yang pendek, dan dua tahun terakhir di SMP adalah salah satunya.
-
-Dua tahun itu lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
+Dua tahun terakhir di SMP lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
 
 Aku tidak lagi dipanggil Wulan Bulan. Rina yang pertama berhenti. Dimas yang terakhir, dan ia melakukannya dengan mengucapkan namaku penuh pada suatu pagi tanpa alasan, lalu menghilang ke kantin sebelum aku sempat berkomentar.
 

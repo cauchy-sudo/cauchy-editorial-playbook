@@ -10,7 +10,7 @@ Kami duduk di laboratorium biologi pada sore hari Selasa, dengan kipas angin yan
 
 Dua orang berdiri dan pergi pelan-pelan. Pak Hendra tidak menoleh.
 
-Pembinaan itu berlangsung tiga kali seminggu, setelah jam sekolah, di laboratorium yang panas. Bagian dari pelajaran itu menyenangkan. Pak Hendra membawa mikroskop yang jauh lebih bagus daripada milik SMP-ku, dan aku bisa melihat sel darah merah, sel otot, sel akar bawang, dengan warna dan kejelasan yang membuatku menahan napas. Bagian lainnya sangat sulit. Soal-soal olimpiade tidak seperti soal ulangan: mereka tidak menanyakan apa yang kamu hafal. Mereka menanyakan apa yang akan terjadi *jika* sesuatu diubah, dan kamu harus menalarnya dari awal.
+Pembinaan itu berlangsung tiga kali seminggu, setelah jam sekolah, di laboratorium yang panas. Bagian dari pelajaran itu menyenangkan. Pak Hendra membawa mikroskop yang jauh lebih bagus daripada milik SMP-ku, dan aku bisa melihat sel darah merah, sel otot, sel akar bawang, dengan warna dan kejelasan yang membuatku menahan napas. Bagian lainnya sangat sulit. Soal-soal olimpiade tidak seperti soal ulangan. Hafalanku tidak ditanya. Yang ditanya adalah apa yang akan terjadi *jika* sesuatu diubah, dan aku harus menalarnya dari awal.
 
 Aku membuat banyak kesalahan. Pak Hendra menandainya dengan pensil merah dan mengembalikan lembarku tanpa komentar. Hanya sesekali, di pinggir kertas, ia menulis satu kata: *Mengapa?*
 

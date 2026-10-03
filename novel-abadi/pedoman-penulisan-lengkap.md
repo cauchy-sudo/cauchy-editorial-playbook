@@ -132,7 +132,14 @@ Tidak boleh ada di dalam teks:
 - **Hikmah umum di akhir paragraf**, terutama yang memakai "kamu" generik atau berbunyi "ada hal yang…", "itu hal paling… tentang…". Biarkan tindakan atau benda yang menutup adegan.
 - Penanda "draf", "catatan", atau "[V]" di dalam naskah yang dibagikan.
 
+- **Kalimat yang menerangkan arti adegan yang baru saja terjadi.** Contoh yang sudah dihapus: "Itu cara Tika menjagaku. Bukan dengan kata-kata penghiburan, tapi dengan hal-hal yang sedikit bodoh dan sangat nyata." Adegannya sudah menunjukkan; glosanya merebut pekerjaan pembaca.
+- **Pelajaran yang dinyatakan sebagai pelajaran**, terutama di pembuka bab: "Pelajaran yang paling kubenci dari musim dingin itu adalah…", "Ada tahun-tahun yang pendek, dan…".
+- **Kuliah dalam "kamu" generik.** Penjelasan sains atau statistik harus menjadi penalaran Wulan atas datanya sendiri (*yang boleh kutulis hanya ini…*), bukan pengajaran kepada pembaca (*kalau kamu mengamati nol kejadian…*).
+- **Lindung kata yang mengumumkan ketidakmampuan**: "dengan cara yang sulit kujelaskan", "entah bagaimana". Tunjukkan, atau potong.
+
 Uji cepat: tanya, *"Apakah kalimat ini diucapkan Wulan, atau penulis?"* Bila penulis, hapus.
+
+**Batas yang berguna (bukan semua penilaian narator itu suara penulis).** Wulan memang kering dan menilai; itu wataknya. Yang membedakan: penilaian di **pembuka** bab adalah kail, dan itu boleh ("Setahun pertama berlalu dengan tenang, dan itu yang paling menakutkan"). Penilaian **sesudah** adegan adalah glosa, dan itu dipotong ("Ia tidak menyakitkan. ~~Itu yang paling mengerikan.~~"). Kalimat khas Wulan yang berulang (*Itu jawaban. Cuma bukan seluruhnya*) tetap, karena itu cara dia berdiri di dunia, bukan tafsir penulis.
 
 ---
 

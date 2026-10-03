@@ -1,7 +1,5 @@
 # Bab 30 — Empat Belas Ekor
 
-Pelajaran yang paling kubenci dari musim dingin itu adalah bahwa sunyi bisa sangat produktif.
-
 Setelah Lumen dimatikan dan Amara pergi dan lorong-lorong institut kembali kosong, aku bekerja seperti orang yang menggali sumur dengan tangan. Tanpa robot. Tanpa seribu rancangan sehari. Hanya aku, empat belas ekor tikus yang bisa kubeli dengan sisa dana, sebuah laptop tua yang kubawa dari Yogyakarta, dan program kecil yang kutulis sendiri dengan bantuan mesin di kamar mahasiswa pascasarjana, yang lambat dan sering salah dan selalu jujur tentang kesalahannya.
 
 Aku membaca ulang laporan kematian tiga tikus itu sampai halamannya lecek. *Kedua kegagalan terjadi bersamaan, di sel yang sama.* Kalimat itu menghantui tidurku. Kalau pengaman bisa gagal bersamaan, maka pengaman harus dirancang dengan asumsi bahwa ia *akan* gagal bersamaan.

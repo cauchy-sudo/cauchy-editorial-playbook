@@ -1427,9 +1427,7 @@ Hanya jejak samar yang tertinggal di sana.
 
 # Bab 9 — Pintu Kos
 
-Ada tahun-tahun yang pendek, dan dua tahun terakhir di SMP adalah salah satunya.
-
-Dua tahun itu lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
+Dua tahun terakhir di SMP lewat seperti halaman buku yang dibalik terlalu cepat. Aku kontrol tiap tiga bulan, dan tiap kali dr. Sumarni memeriksa hasil laboratoriumku dengan wajah yang berubah lebih ringan atau lebih berat secara tipis, seperti orang membaca ramalan cuaca. Dosis steroidku turun sedikit demi sedikit, dan wajah bulatku ikut menyusut, pelan, sampai suatu pagi aku bercermin dan menemukan tulang pipi yang sudah lama tidak kulihat. Rambutku tumbuh lagi, tipis dan baru, seperti rumput yang kembali setelah kebakaran.
 
 Aku tidak lagi dipanggil Wulan Bulan. Rina yang pertama berhenti. Dimas yang terakhir, dan ia melakukannya dengan mengucapkan namaku penuh pada suatu pagi tanpa alasan, lalu menghilang ke kantin sebelum aku sempat berkomentar.
 
@@ -1724,7 +1722,7 @@ Kami duduk di laboratorium biologi pada sore hari Selasa, dengan kipas angin yan
 
 Dua orang berdiri dan pergi pelan-pelan. Pak Hendra tidak menoleh.
 
-Pembinaan itu berlangsung tiga kali seminggu, setelah jam sekolah, di laboratorium yang panas. Bagian dari pelajaran itu menyenangkan. Pak Hendra membawa mikroskop yang jauh lebih bagus daripada milik SMP-ku, dan aku bisa melihat sel darah merah, sel otot, sel akar bawang, dengan warna dan kejelasan yang membuatku menahan napas. Bagian lainnya sangat sulit. Soal-soal olimpiade tidak seperti soal ulangan: mereka tidak menanyakan apa yang kamu hafal. Mereka menanyakan apa yang akan terjadi *jika* sesuatu diubah, dan kamu harus menalarnya dari awal.
+Pembinaan itu berlangsung tiga kali seminggu, setelah jam sekolah, di laboratorium yang panas. Bagian dari pelajaran itu menyenangkan. Pak Hendra membawa mikroskop yang jauh lebih bagus daripada milik SMP-ku, dan aku bisa melihat sel darah merah, sel otot, sel akar bawang, dengan warna dan kejelasan yang membuatku menahan napas. Bagian lainnya sangat sulit. Soal-soal olimpiade tidak seperti soal ulangan. Hafalanku tidak ditanya. Yang ditanya adalah apa yang akan terjadi *jika* sesuatu diubah, dan aku harus menalarnya dari awal.
 
 Aku membuat banyak kesalahan. Pak Hendra menandainya dengan pensil merah dan mengembalikan lembarku tanpa komentar. Hanya sesekali, di pinggir kertas, ia menulis satu kata: *Mengapa?*
 
@@ -2291,8 +2289,6 @@ Selama enam jam sesudahnya aku tidak boleh bergerak. Ibu duduk di kursi di sampi
 
 Aku tertawa, dan tertawa itu menarik perutku, dan perawat di ujung ruangan menegurku untuk tidak bergerak. Tika menutup mulutnya dengan tangan dan tertawa tanpa suara, dengan bahu yang bergetar.
 
-Itu cara Tika menjagaku. Bukan dengan kata-kata penghiburan, tapi dengan hal-hal yang sedikit bodoh dan sangat nyata.
-
 ---
 
 Hasil biopsi keluar empat hari kemudian, ketika aku sudah dirawat di bangsal yang sama, di ranjang yang dulu ditempati Yuni, atau mungkin ranjang di sebelahnya. Aku tidak ingat lagi. Dokter Sumarni datang bersama seorang dokter ginjal yang aku belum kenal, dan keduanya duduk di sisi ranjang dengan wajah yang tidak bisa kuuraikan.
@@ -2403,7 +2399,7 @@ Aku menatapnya. Aku tidak punya kata. Ibu, di belakangku, tiba-tiba menyibukkan 
 
 Malam itu, ketika semua tidur dan bangsal hanya diterangi lampu merah kecil di atas pintu, aku memasang antena panjang itu ke daun jendela, menyalakan radio, dan mendengarkan dengan volume paling pelan. Dengungan, serakan, suara-suara yang jauh. Dan di antaranya, entah dari mana, entah dari negara mana, sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, dengan nada yang menenangkan seperti ibu yang membacakan dongeng.
 
-Aku menyimak sampai pagi. Aku tidak menangis. Tetapi untuk pertama kalinya aku menyadari bahwa dunia penuh suara yang lemah, dan bahwa seseorang telah membuatkan antena supaya aku bisa mendengarnya.
+Aku menyimak sampai pagi. Aku tidak menangis. Sesekali suara itu tenggelam dalam desis, dan aku memutar tombolnya pelan-pelan sampai ia kembali.
 
 ---
 
@@ -4829,7 +4825,7 @@ Margaret membukanya. Ia membalik beberapa halaman, berhenti pada kolom-kolom tul
 
 Rujukan ke rumah sakit universitas datang dalam sepuluh hari. Obatku, yang kubawa untuk tiga bulan, kuberikan pada apoteker, yang memeriksa semuanya dan mengangguk. Aku mendaftar untuk asuransi kesehatan mahasiswa dan membayar tagihannya dengan kartu yang masih terasa asing di tanganku.
 
-Aku belajar menyeberang jalan dengan melihat ke arah yang berlawanan. Aku belajar bahwa orang Inggris mengatakan *sorry* ketika kamu menabrak mereka. Aku belajar menemukan toko daging halal di sebuah gang di belakang pasar, yang dijaga laki-laki asal Bangladesh yang ramah, dan tempe di bagian pembeku sebuah toko Asia di ujung kota, yang harganya tiga kali harga di Wonosari.
+Aku belajar menyeberang jalan dengan melihat ke arah yang berlawanan. Aku belajar bahwa orang Inggris mengatakan *sorry* ketika aku menabrak mereka. Aku belajar menemukan toko daging halal di sebuah gang di belakang pasar, yang dijaga laki-laki asal Bangladesh yang ramah, dan tempe di bagian pembeku sebuah toko Asia di ujung kota, yang harganya tiga kali harga di Wonosari.
 
 Aku membeli satu bungkus. Aku berdiri di depan kasir sambil menggenggamnya seperti menggenggam harta karun.
 
@@ -5167,7 +5163,7 @@ Ia tidak hanya menjawab. Ia merancang. Aku bisa mengetikkan sebuah tujuan, *ranc
 
 Aku, yang dulu butuh empat belas kali untuk bisa memindahkan sepuluh mikroliter dengan benar, menyaksikan sebuah mesin melakukannya tiga ribu kali sehari.
 
-Itu menakjubkan. Dan membuatku takut dengan cara yang sulit kujelaskan.
+Itu menakjubkan. Dan membuatku takut.
 
 "Lumen," kataku pada suatu malam, ketika semua orang sudah pulang. "Seberapa yakin kamu pada rancangan nomor dua belas?"
 
@@ -5614,8 +5610,6 @@ Itu bukan janji. Kami berdua tahu itu.
 ---
 
 # Bab 30 — Empat Belas Ekor
-
-Pelajaran yang paling kubenci dari musim dingin itu adalah bahwa sunyi bisa sangat produktif.
 
 Setelah Lumen dimatikan dan Amara pergi dan lorong-lorong institut kembali kosong, aku bekerja seperti orang yang menggali sumur dengan tangan. Tanpa robot. Tanpa seribu rancangan sehari. Hanya aku, empat belas ekor tikus yang bisa kubeli dengan sisa dana, sebuah laptop tua yang kubawa dari Yogyakarta, dan program kecil yang kutulis sendiri dengan bantuan mesin di kamar mahasiswa pascasarjana, yang lambat dan sering salah dan selalu jujur tentang kesalahannya.
 
@@ -6175,7 +6169,7 @@ Aku mulai menulis daftar itu pada malam keempat sejak keluar dari rumah sakit.
 
 Tikus yang diberi desain lama: tiga dari dua puluh. Desain baru: nol tumor dari sembilan, dan satu yang mati tanpa sebab yang bisa dibuktikan. Aku menatap angka itu lama, dan membuka sebuah program statistik sederhana di laptop, dan menghitung sesuatu yang tidak ingin kuhitung.
 
-Ada aturan sederhana dalam statistik, yang diajarkan pada semester pertama dan hampir selalu dilupakan. Kalau kamu mengamati nol kejadian dalam sembilan percobaan, kamu tidak bisa mengatakan bahwa peluangnya nol. Kamu hanya bisa mengatakan bahwa peluangnya, dengan keyakinan sembilan puluh lima persen, kurang dari sepertiga.
+Ada aturan sederhana dalam statistik, yang kupelajari pada semester pertama dan hampir selalu dilupakan orang. Dengan nol kejadian dalam sembilan percobaan, aku tidak boleh menulis bahwa peluangnya nol. Yang boleh kutulis hanya ini: dengan keyakinan sembilan puluh lima persen, peluangnya kurang dari sepertiga.
 
 Kurang dari sepertiga.
 
@@ -6745,11 +6739,13 @@ Kemudian aku mengambil buku catatan, dan membuka halaman tempat aku menuliskan s
 
 Aku tahu itu sejak awal. Aku menuliskannya sendiri. Aku hanya tidak mau percaya bahwa itu berlaku juga untukku.
 
+Sore itu aku menghitung apa yang tersisa di rak paling bawah lemari pembeku, di balik tutup plastik tebal, dan hasilnya tidak panjang. Kotak dari Eleanor punya dasar. Untuk tanggal sembilan berikutnya, dan tanggal sembilan sesudahnya, dan semua tanggal sembilan sampai aku mati, yang tersisa hanya aku: tanganku, meja di sudut dekat jendela, kunci laboratorium yang masih dipercayakan kepadaku, dan sebuah buku log di pintu pembeku yang mencatat tiap tabung yang keluar dengan tanggal, jam, dan nama orang yang mengambilnya.
+
+Aku membuka buku catatan pada halaman berjudul DAFTAR RISIKO, yang berhenti di butir enam sejak bulan Desember, dan menambahkan satu butir lagi dengan huruf paling kecil yang bisa kubuat.
+
+*7. Buku log.*
+
 Pulsa kedua kuberikan malam itu, lebih ringan, dengan tangan yang tak lagi bergetar karena takut, tapi karena sesuatu yang lebih mirip pengertian pahit. Demamnya tidak setinggi yang pertama. Tiga puluh delapan koma dua. Esok paginya aku bangun tanpa beban pasir di tangan.
-
-Sebelum itu aku menghitung apa yang tersisa di rak paling bawah lemari pembeku, di balik tutup plastik tebal, dan hasilnya tidak panjang. Kotak dari Eleanor punya dasar. Untuk tanggal sembilan berikutnya, dan tanggal sembilan sesudahnya, dan semua tanggal sembilan sampai aku mati, yang tersisa hanya aku: tanganku, meja di sudut dekat jendela, kunci laboratorium yang masih dipercayakan kepadaku, dan sebuah buku log di pintu pembeku yang mencatat tiap tabung yang keluar dengan tanggal, jam, dan nama orang yang mengambilnya.
-
-Itu harga yang tidak kutulis di daftar risiko, karena pada bulan Desember aku belum memikirkannya: bahwa aku akan menandatangani baris di buku itu, dua belas kali setahun, selama sisa umurku, di laboratorium milik seseorang yang mempercayaiku.
 
 Aku duduk di tepi kasur, di kamar kos yang kusewa kembali, dan menatap ponselku. Aku membuka aplikasi alarm dan mengatur satu pengingat baru, untuk setiap tanggal sembilan, tiap bulan, tanpa batas waktu.
 
@@ -6760,8 +6756,6 @@ Aku mengetik nama untuk alarm itu dan berhenti sebentar, dengan ibu jari di atas
 Nama itu tidak mencurigakan. Nama itu bisa dibaca siapa pun. Seorang perempuan dengan penyakit ginjal kronik dan lupus dan seorang dokter yang menunggu: apa lagi yang lebih biasa daripada *kontrol*?
 
 Aku menekan tombol simpan.
-
-Aku tidak sembuh. Aku hanya disewakan waktu, sebulan demi sebulan.
 
 
 ---
@@ -6882,7 +6876,7 @@ Aku tidak punya kelompok pembanding. Aku tidak bisa menyuruh orang lain memakai 
 
 Peristiwa tetap bertahan. Aku masih tahu Mbah meninggal pada Januari 2019. Aku masih tahu Si Bejo dijual pada Februari 2020. Tapi detailnya, tekstur, warna, suara, bau, semuanya mulai memadat. Hilang pertama adalah yang paling halus: suara yang jarang kudengar, wajah yang jarang kulihat, bau dari tempat yang tidak lagi kudatangi.
 
-Ia tidak menyakitkan. Itu yang paling mengerikan. Tak ada rasa kehilangan saat sesuatu hilang. Aku hanya menyadarinya lama sesudahnya, dengan perasaan seseorang yang menemukan laci yang kosong.
+Ia tidak menyakitkan. Tak ada rasa kehilangan saat sesuatu hilang. Aku hanya menyadarinya lama sesudahnya, dengan perasaan seseorang yang menemukan laci yang kosong.
 
 Aku memberinya nama di dalam hati: *memadat.* Karena itu yang terjadi. Ingatan tidak menghilang. Ia dilipat, dimampatkan, dikecilkan menjadi sesuatu yang bisa dibawa, sampai yang tersisa hanya intinya.
 
@@ -7797,6 +7791,4 @@ Aku tidak menjawab.
 Aku membiarkannya. Aku menatap langit-langit bambu dan mendengarkan hujan, dan pelan-pelan, tanpa kuputuskan, aku mulai menghitung sesuatu: napas Ibu, naik dan turun, satu, dua, tiga.
 
 Aku berhenti di sana.
-
-Ada hal-hal yang tidak perlu dihitung.
 

@@ -20,7 +20,7 @@ Ia tidak hanya menjawab. Ia merancang. Aku bisa mengetikkan sebuah tujuan, *ranc
 
 Aku, yang dulu butuh empat belas kali untuk bisa memindahkan sepuluh mikroliter dengan benar, menyaksikan sebuah mesin melakukannya tiga ribu kali sehari.
 
-Itu menakjubkan. Dan membuatku takut dengan cara yang sulit kujelaskan.
+Itu menakjubkan. Dan membuatku takut.
 
 "Lumen," kataku pada suatu malam, ketika semua orang sudah pulang. "Seberapa yakin kamu pada rancangan nomor dua belas?"
 
