@@ -44,8 +44,9 @@ Perubahan dari outline v0.4: ditambah satu bab (bab 30, "Empat Belas Ekor") kare
 | 33 | Malam Minggu | 8–9 Des 2029 | 27 | Dua surat; dosis pertama; subuh |
 | 34 | Remisi | Des 2029–Mar 2030 | 27 | Buih hilang; Dr. Suryo; tempe; tiwul; alarm "Kontrol" |
 | 35 | Yang Tidak Boleh Kulupa | 2030 | 28 | Nada hilang; ingatan memadat; laporan kasus dr. Suryo; Bu Ning wafat (Agu 2030); Rizal ditolak (tempe); tangan Ibu |
-| 36 | Terbuka untuk Semua | Feb–Mar 2031 | 28–29 | Thorne sakit; publikasi terbuka; log pembeku Dr. Anindya; Whitcombe pensiun (Jun 2031); konferensi pers; kapasitor radio dan balasan Naufal |
-| 37 | Rasulan | 11–12 Okt 2031 | 29 | Payung untuk Ibu; Bejo kedua; Ibu lupa nama Mbak Nurul; heliks di tepi laut |
+| 36 | Terbuka untuk Semua | Feb–Mar 2031 | 28–29 | Thorne sakit; keputusan publikasi terbuka; rilis; konferensi pers |
+| 37 | Log Pembeku | Mar 2031 | 29 | Log pembeku Dr. Anindya; Ibu menonton di televisi; Thorne masuk uji Kestrel; Whitcombe pensiun (Jun 2031); kapasitor radio dan balasan Naufal |
+| 38 | Rasulan | 11–12 Okt 2031 | 29 | Payung untuk Ibu; Bejo kedua; Ibu lupa nama Mbak Nurul; heliks di tepi laut |
 | E | Arsip | Nov 2031 | 29 | Sekar; kertas dicetak; dana anonim untuk laboratorium Rizal; daftar; tangan Ibu |
 
 ## 2. Fakta tetap (ledger)
@@ -58,21 +59,21 @@ Perubahan dari outline v0.4: ditambah satu bab (bab 30, "Empat Belas Ekor") kare
 ## 3. Open loop: status
 | Loop | Dibuka | Ditutup |
 |---|---|---|
-| Tangan Ibu tak berubah | Prolog | Bab 33–35 (alasan), bab 37/epilog |
+| Tangan Ibu tak berubah | Prolog | Bab 33–35 (alasan), bab 38/epilog |
 | Mikroskop SD | Bab 1 | Bab 7 |
 | Mengapa tubuh salah mengenali dirinya | Bab 1 | Bab 27 (arah), sepanjang buku |
 | Si Bejo | Bab 1 | Bab 16 (dijual), 18, 37 (Bejo kedua) |
 | Payung hitam | Bab 1 | Bab 6, 15, 37 |
 | Catatan Mbak Nurul | Bab 2 | Bab 4, 24, 25, 37, epilog |
 | Janji laut ke Yuni | Bab 5 | Bab 37 |
-| Naufal dan radio | Bab 12 | Bab 18, 33, akhir bab 36 (kapasitor: "Bunyi." / "Oke.") |
+| Naufal dan radio | Bab 12 | Bab 18, 33, akhir bab 37 (kapasitor: "Bunyi." / "Oke.") |
 | Suara Mbah/nada *Lir-ilir* | Bab 13 | Bab 35 |
 | Menghindari foto | Interlude I | Epilog |
 | Pesan Rizal | Interlude III | **Belum ditutup (disengaja)**; mesin cuci darahnya kembali di epilog |
-| Kata "heliks" | Bab 7 (buku Pak Karto) | Bab 37 (gambar di tepi laut) |
+| Kata "heliks" | Bab 7 (buku Pak Karto) | Bab 38 (gambar di tepi laut) |
 | Mesin cuci darah Rizal | Bab 28 | Epilog (didanai anonim, diuji di puskesmas) |
-| Ibu lupa | Interlude II | Bab 37 (nama Mbak Nurul) |
-| Suara perempuan di radio | Bab 9 | Dibiarkan terbuka; muncul lagi di akhir bab 36 |
+| Ibu lupa | Interlude II | Bab 38 (nama Mbak Nurul) |
+| Suara perempuan di radio | Bab 9 | Dibiarkan terbuka; muncul lagi di akhir bab 37 |
 
 ## 4. Daftar verifikasi fakta (wajib sebelum terbit)
 Ditandai **[V]**. Banyak peristiwa nyata dipakai sebagai latar; pembaca mungkin meniru langkahnya.
@@ -92,7 +93,7 @@ Ditandai **[V]**. Banyak peristiwa nyata dipakai sebagai latar; pembaca mungkin 
 - **Izin penelitian hewan di Inggris** (bab 29): lisensi, pelatihan, dokter hewan: cek.
 - **Material transfer agreement** dan bea cukai sampel beku (bab 30–31): cek praktik nyata.
 - **Barry Marshall (1984):** kisahnya dituliskan tanpa kutipan; faktanya terverifikasi dari sumber.
-- **Defensive publication/akses terbuka** (bab 36): konsep terverifikasi; implikasi hukum paten nyata perlu penasihat hukum.
+- **Defensive publication/akses terbuka** (bab 36–37): konsep terverifikasi; implikasi hukum paten nyata perlu penasihat hukum.
 - **Adat dan budaya** (lihat `04-adat-budaya.md`): bahasa Jawa, Rasulan, tahlilan, pernikahan Klaten, *bibit-bebet-bobot*: perlu pembaca lokal.
 
 ## 5. Keputusan sengaja yang perlu Anda setujui
@@ -100,7 +101,8 @@ Ditandai **[V]**. Banyak peristiwa nyata dipakai sebagai latar; pembaca mungkin 
 2. **Percobaan pada diri sendiri tanpa persetujuan etik** digambarkan sebagai tindakan berbiaya tinggi, bukan teladan. Bab 32 menimbang risikonya; bab 33 menunjukkan teror dan kemungkinan mati; bab 35 menunjukkan harga ingatan.
 3. **Rahasia tetap utuh.** Wulan tidak bercerita kepada siapa pun; yang curiga hanya menebak.
 4. **Julian Thorne tidak dihukum.** Ia sakit, tulus, dan tetap memakai uji coba rival; Wulan memilih keterbukaan, bukan konfrontasi.
-5. **Akhir secercah:** Sekar, dana kertas, Ardi, Bejo kedua, laut. Wulan tetap sendirian dengan umurnya.
+5. **Pertanyaan agama tidak diangkat.** Wulan Muslimah yang taat, tetapi naskah tidak pernah membuatnya bertanya apakah memperpanjang hidupnya bertentangan dengan ajal dan takdir. Ini **keputusan sadar penulis**, bukan kelalaian: Wulan tidak menamai hal itu, sama seperti ia tidak menamai banyak hal lain tentang dirinya. Risiko yang diterima: sebagian pembaca Muslim akan merasa pertanyaan terbesar mereka dihindari. Bila suatu saat ingin dibuka, tempat yang paling wajar adalah sujud panjang di bab 33, dan bentuknya satu pertanyaan tanpa jawaban, bukan dialog fikih.
+6. **Akhir secercah:** Sekar, dana kertas, Ardi, Bejo kedua, laut. Wulan tetap sendirian dengan umurnya.
 
 ## 6. Kelemahan yang saya ketahui (untuk revisi)
 - **Tics bahasa berulang:** "Itu bukan seluruhnya", "sedikit seperti hujan dari atap yang berbeda", "tidak ada yang berkata apa-apa", "Itu pengamatan", "dengan dua tangan", "wajah yang tidak bisa kubaca", "Nah". Sebagian disengaja sebagai motif, sebagian berlebihan. Kurangi sepertiganya.
@@ -114,7 +116,7 @@ Ditandai **[V]**. Banyak peristiwa nyata dipakai sebagai latar; pembaca mungkin 
 Kesinambungan yang dibetulkan di naskah: usia awal sakit (sebelas tahun, bukan dua belas); BPJS "tahun baru nanti" (bab 5); bantuan PIP dan pembayaran kos (bab 10); zonasi umur Mas Aji dan "tahun kelas delapan sampai sembilan" (bab 9); laju penurunan ginjal empat sampai lima poin per tahun sehingga cocok dengan delapan sampai sepuluh tahun (bab 20), dengan perkiraan 2028–2030 dan tengahnya 2029; jadwal pulsa yang bergeser empat hari menghasilkan jeda sembilan hari (bab 23, 24, 29, 35); makalah diterima Mei 2024 (bab 24); ibu kos di Yogyakarta, bukan Bu Haji (bab 25); selisih waktu Inggris dan Pucung saat Lebaran (bab 27); sisa waktu ginjal pada 2028 (bab 29); lima belas minggu pada kelompok tikus kedua (bab 30, 32); arah matahari terbit di pantai selatan (bab 37); tanggal alarm di epilog. Gelar dokter diseragamkan (dr. di tengah kalimat, Dokter di awal kalimat). Paragraf di bab 33 yang menjelaskan mengapa langkah tidak ditulis dihapus karena terbaca sebagai catatan penulis.
 
 ## 8. Perbaikan setelah kritik dua pembaca awal
-Lihat `tanggapan-kritik-pembaca.md`. Ditambahkan atau diubah: Whitcombe mengubah tawaran menjadi tanpa syarat (bab 25); sampel dikirim lewat kurir 96 jam (bab 30–31); laju ginjal 28 sebelum kambuh lalu 22 (bab 31); "Heliks ganda" di bab 7 dan 37; tikus nomor lima mati tanpa sebab yang bisa dibuktikan (bab 30, 32); Ibu lupa nama Mbak Nurul sesaat (bab 37); kapasitor radio diganti Wulan sendiri dan balasan Naufal (akhir bab 36); dana anonim untuk laboratorium Rizal (epilog). Tiga harga kecil dari rahasia: dr. Suryo menyimpan laporan kasus karena Wulan tak bisa menjawab "benar" dan Bu Ning meninggal dengan pesan "aku tidak iri" (bab 35); Dr. Anindya membaca log pembeku dan menanggung diamnya, Prof. Whitcombe pensiun dini setelah audit sampel (bab 36). Pembedaan suara: profil 18 tokoh di `02-panduan-suara.md` bagian 9; aforisme dipangkas; perpisahan Rizal di bab 35 kini tentang tempe, bukan "Dah, Wulan" (milik Naufal).
+Lihat `tanggapan-kritik-pembaca.md`. Ditambahkan atau diubah: Whitcombe mengubah tawaran menjadi tanpa syarat (bab 25); sampel dikirim lewat kurir 96 jam (bab 30–31); laju ginjal 28 sebelum kambuh lalu 22 (bab 31); "Heliks ganda" di bab 7 dan 37; tikus nomor lima mati tanpa sebab yang bisa dibuktikan (bab 30, 32); Ibu lupa nama Mbak Nurul sesaat (bab 38); kapasitor radio diganti Wulan sendiri dan balasan Naufal (akhir bab 37); dana anonim untuk laboratorium Rizal (epilog). Tiga harga kecil dari rahasia: dr. Suryo menyimpan laporan kasus karena Wulan tak bisa menjawab "benar" dan Bu Ning meninggal dengan pesan "aku tidak iri" (bab 35); Dr. Anindya membaca log pembeku dan menanggung diamnya, Prof. Whitcombe pensiun dini setelah audit sampel (bab 37). Pembedaan suara: profil 18 tokoh di `02-panduan-suara.md` bagian 9; aforisme dipangkas; perpisahan Rizal di bab 35 kini tentang tempe, bukan "Dah, Wulan" (milik Naufal).
 
 ## 9. Bahasa Jawa (perubahan besar sebelum pembacaan awal)
 Dialog keluarga dan dusun kini berbahasa Jawa; dialog sebaya campuran. **Wajib diverifikasi penutur asli Gunungkidul:** tingkat tutur (ngoko/krama madya/krama), ejaan ragam *o* (*opo, sopo, ono, piro*), idiom (*ngilo disik, wedhus sing lagi sinau nganggo kathok, ben ora gosong*), dan kalimat kunci berulang: Mbah *Kupu-kupu kuwi ora elek, Nduk. Mung salah panggonan.* (bab 6, 15, 35); Yuni *Nek wis waras, aku arep ning laut. Ndelok ombake. Terus mlayu.* (bab 5, 8, 33); Bapak *Wedhus kuwi gampang.* (bab 2, 33); Ibu *Isih padha.* (bab 24, 35, epilog).

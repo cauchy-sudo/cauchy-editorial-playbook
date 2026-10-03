@@ -48,7 +48,8 @@
 - Bab 34 — Remisi
 - Bab 35 — Yang Tidak Boleh Kulupa
 - Bab 36 — Terbuka untuk Semua
-- Bab 37 — Rasulan
+- Bab 37 — Log Pembeku
+- Bab 38 — Rasulan
 - Epilog — Arsip
 
 ---
@@ -6746,6 +6747,10 @@ Aku tahu itu sejak awal. Aku menuliskannya sendiri. Aku hanya tidak mau percaya 
 
 Pulsa kedua kuberikan malam itu, lebih ringan, dengan tangan yang tak lagi bergetar karena takut, tapi karena sesuatu yang lebih mirip pengertian pahit. Demamnya tidak setinggi yang pertama. Tiga puluh delapan koma dua. Esok paginya aku bangun tanpa beban pasir di tangan.
 
+Sebelum itu aku menghitung apa yang tersisa di rak paling bawah lemari pembeku, di balik tutup plastik tebal, dan hasilnya tidak panjang. Kotak dari Eleanor punya dasar. Untuk tanggal sembilan berikutnya, dan tanggal sembilan sesudahnya, dan semua tanggal sembilan sampai aku mati, yang tersisa hanya aku: tanganku, meja di sudut dekat jendela, kunci laboratorium yang masih dipercayakan kepadaku, dan sebuah buku log di pintu pembeku yang mencatat tiap tabung yang keluar dengan tanggal, jam, dan nama orang yang mengambilnya.
+
+Itu harga yang tidak kutulis di daftar risiko, karena pada bulan Desember aku belum memikirkannya: bahwa aku akan menandatangani baris di buku itu, dua belas kali setahun, selama sisa umurku, di laboratorium milik seseorang yang mempercayaiku.
+
 Aku duduk di tepi kasur, di kamar kos yang kusewa kembali, dan menatap ponselku. Aku membuka aplikasi alarm dan mengatur satu pengingat baru, untuk setiap tanggal sembilan, tiap bulan, tanpa batas waktu.
 
 Aku mengetik nama untuk alarm itu dan berhenti sebentar, dengan ibu jari di atas layar.
@@ -6771,7 +6776,7 @@ Tanggal sembilan tiap bulan, aku memberi diriku pulsa itu, di laboratorium yang 
 
 Kolom keluhan makin sering kosong.
 
-Aku tidak sakit lagi. Itu kenyataan yang masih sulit kupahami. Ginjalku tidak pulih sepenuhnya, karena parut tidak pulih, tapi fungsinya stabil di angka lima puluh enam, lalu lima puluh delapan, lalu enam puluh. Lupus tidur. Buih tidak kembali. Aku bisa berjalan di bawah matahari selama dua puluh menit tanpa kupu-kupu. Aku bisa makan sambal tanpa mencatat. Aku bisa berlari mengejar bus untuk pertama kalinya sejak umur dua belas, dan ketika aku naik dan duduk dengan dada naik turun dan seorang ibu di sebelahku menatapku dengan iba, aku mengatakan sesuatu yang tak pernah kuucapkan pada siapa pun:
+Aku tidak sakit lagi. Itu kenyataan yang masih sulit kupahami. Ginjalku tidak pulih sepenuhnya, karena parut tidak pulih, tapi fungsinya naik pelan-pelan dan berhenti di angka lima puluh delapan, angka yang sama dengan yang dibacakan dr. Suryo kepadaku sepuluh tahun lalu. Lupus tidur. Buih tidak kembali. Aku bisa berjalan di bawah matahari selama dua puluh menit tanpa kupu-kupu. Aku bisa makan sambal tanpa mencatat. Aku bisa berlari mengejar bus untuk pertama kalinya sejak umur dua belas, dan ketika aku naik dan duduk dengan dada naik turun dan seorang ibu di sebelahku menatapku dengan iba, aku mengatakan sesuatu yang tak pernah kuucapkan pada siapa pun:
 
 "Maaf, Bu. Saya baru bisa lari."
 
@@ -7140,13 +7145,13 @@ Ia menunduk, memandangi tangannya sendiri di atas meja. Tangan itu kurus dan ber
 
 Kami duduk dalam sunyi yang panjang. Di luar jendela, matahari siang menyiram halaman fakultas dengan cahaya putih panas, dan beringin tua itu bergoyang pelan.
 
-"Kestrel has a design," katanya akhirnya. "A simpler one. Less safe than yours. They're preparing a first-in-human trial in Malaysia, with a Jakarta site. Late next year. I've been offered a place."
+"Kestrel has a design," katanya akhirnya. "A simpler one. Less safe than yours. They're preparing a first-in-human trial in Malaysia, with a Jakarta site. November. I've been offered a place."
 
 Aku merasa dingin menjalar dari tengkuk ke punggung.
 
 "You'll take it?"
 
-"I'd be a fool not to." Ia mengangkat bahu. "I'll be dead in two years. The risks don't have time to matter."
+"I'd be a fool not to." Ia mengangkat bahu. "I'll be dead inside a year, or a little after. The risks don't have time to matter."
 
 "They will matter to the others."
 
@@ -7294,7 +7299,10 @@ Aku terdiam. Aku tidak menyiapkan jawaban untuk itu.
 
 Aku tidak melihat reaksi ruangan. Aku hanya melihat kamera yang terus menyala.
 
+
 ---
+
+# Bab 37 — Log Pembeku
 
 Dr. Anindya menungguku di lorong belakang ruang konferensi, di dekat tangga darurat, tempat tak ada kamera. Ia melepas kacamata persegi dan mengusap pangkal hidungnya.
 
@@ -7352,7 +7360,7 @@ Julian Thorne menelepon pada malam itu, melalui sambungan video, dengan wajah ya
 
 Kami diam sebentar. Di belakangnya, lewat jendela, aku bisa melihat langit London menjelang malam.
 
-"I'm entering Kestrel's trial," katanya. "Late next year. I've decided."
+"I'm entering Kestrel's trial," katanya. "November. I've decided."
 
 "Julian..."
 
@@ -7409,7 +7417,7 @@ Semenit kemudian:
 
 ---
 
-# Bab 37 — Rasulan
+# Bab 38 — Rasulan
 
 Hari itu jatuh pada minggu kedua Oktober, ketika tanah Gunungkidul sudah selesai memberi segala yang bisa ia beri dan Dusun Pucung merasa pantas mengucapkan terima kasih dengan cara paling riuh yang mereka tahu.
 
@@ -7719,6 +7727,14 @@ Aku menyimpan pertanyaan yang tak sempat kukembalikan. Satu per satu. Aku menuli
 *Jumat, 7 November.*
 
 Alarm itu berbunyi pagi ini, dua hari lebih awal dari tanggal sembilan, karena aku mengubah jadwalnya untuk bulan ini. Kontrol. Aku memberikan pulsa itu pada diriku, dengan tangan yang telah terampil dan hati yang telah belajar tidak bertanya.
+
+Sebelum subuh aku sudah di laboratorium, dan aku menandatangani baris di buku log pembeku seperti tiap bulan selama hampir dua tahun. Tanggal. Jam. Nomor tabung. Keperluan. Dan di kolom paling kanan, di baris yang sama, sudah ada satu tanda tangan lain yang menyetujuinya, ditulis dengan huruf kecil yang miring dan tidak pernah sekali pun berubah bentuknya.
+
+Dr. Anindya tidak pernah menyebutnya lagi sejak hari di tangga darurat itu. Ia tidak menyapaku di lorong dengan cara yang berbeda. Ia hanya datang lebih pagi daripada aku, dua belas kali setahun, dan menandatangani sesuatu yang suatu hari bisa dibacakan orang lain di depan sebuah komisi.
+
+Surat masih datang juga. Dari dua wartawan, dari seorang dokter di Surabaya, dari seseorang yang tidak menyebut namanya dan menulis empat halaman tentang anaknya. Semuanya berakhir pada pertanyaan yang sama, pertanyaan yang pernah diajukan seorang laki-laki di barisan belakang sebuah ruangan penuh kamera. Aku menjawab surat-surat itu dengan kalimat yang sama seperti waktu itu, dan kalimat itu masih benar, dan masih bukan seluruhnya.
+
+Aku menyimpannya di satu kotak. Kotaknya belum penuh.
 
 Setelah itu aku membuka aplikasi lain di ponselku dan mengirim sejumlah kecil uang ke sebuah rekening atas nama sebuah puskesmas di Wonosari, dengan catatan yang kutulis tanpa nama. *Untuk mencetak kertas.*
 

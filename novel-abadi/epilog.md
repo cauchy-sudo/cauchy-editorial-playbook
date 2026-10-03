@@ -56,6 +56,14 @@ Aku menyimpan pertanyaan yang tak sempat kukembalikan. Satu per satu. Aku menuli
 
 Alarm itu berbunyi pagi ini, dua hari lebih awal dari tanggal sembilan, karena aku mengubah jadwalnya untuk bulan ini. Kontrol. Aku memberikan pulsa itu pada diriku, dengan tangan yang telah terampil dan hati yang telah belajar tidak bertanya.
 
+Sebelum subuh aku sudah di laboratorium, dan aku menandatangani baris di buku log pembeku seperti tiap bulan selama hampir dua tahun. Tanggal. Jam. Nomor tabung. Keperluan. Dan di kolom paling kanan, di baris yang sama, sudah ada satu tanda tangan lain yang menyetujuinya, ditulis dengan huruf kecil yang miring dan tidak pernah sekali pun berubah bentuknya.
+
+Dr. Anindya tidak pernah menyebutnya lagi sejak hari di tangga darurat itu. Ia tidak menyapaku di lorong dengan cara yang berbeda. Ia hanya datang lebih pagi daripada aku, dua belas kali setahun, dan menandatangani sesuatu yang suatu hari bisa dibacakan orang lain di depan sebuah komisi.
+
+Surat masih datang juga. Dari dua wartawan, dari seorang dokter di Surabaya, dari seseorang yang tidak menyebut namanya dan menulis empat halaman tentang anaknya. Semuanya berakhir pada pertanyaan yang sama, pertanyaan yang pernah diajukan seorang laki-laki di barisan belakang sebuah ruangan penuh kamera. Aku menjawab surat-surat itu dengan kalimat yang sama seperti waktu itu, dan kalimat itu masih benar, dan masih bukan seluruhnya.
+
+Aku menyimpannya di satu kotak. Kotaknya belum penuh.
+
 Setelah itu aku membuka aplikasi lain di ponselku dan mengirim sejumlah kecil uang ke sebuah rekening atas nama sebuah puskesmas di Wonosari, dengan catatan yang kutulis tanpa nama. *Untuk mencetak kertas.*
 
 Lalu aku mengirim jumlah yang lebih kecil ke rekening laboratorium sebuah universitas di Bandung, dengan satu baris catatan: *Untuk inkubator generasi berikutnya.* Mesin cuci darah kecil buatan Rizal sedang diuji di sebuah puskesmas di Garut. Aku tahu dari berita, bukan darinya. Aku tidak tahu apakah ia akan menebak siapa pengirimnya, dan aku tidak tahu apakah aku ingin ia menebak.

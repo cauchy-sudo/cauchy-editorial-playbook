@@ -11,11 +11,11 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 | B: "bahasa Inggris yang patah" tetapi kalimatnya mulus | Benar | Bab 25: kalimat diberi kesalahan tata bahasa yang wajar | Selesai |
 | B: tren dr. Suryo vs laju filtrasi 52 pada 2029 (jam tidak berbunyi tepat waktu) | Benar | Bab 31: nilai sebelum kambuh menjadi 28 (sesuai laju 4–5 poin per tahun dari 58 pada 2020), lalu jatuh ke 22 | Selesai |
 | B: judul bab 27 memakai kutip lurus sehingga tercetak ”Aku” | Benar | `build.py` kini mengubah kutip pada judul menjadi kutip LaTeX yang benar | Selesai |
-| B: kata "heliks" tidak pernah muncul di prosa | Benar | Bab 7: Wulan mencatat "Heliks ganda" dari buku Pak Karto; bab 37: gambar itu kembali di tepi laut | Selesai |
+| B: kata "heliks" tidak pernah muncul di prosa | Benar | Bab 7: Wulan mencatat "Heliks ganda" dari buku Pak Karto; bab 38: gambar itu kembali di tepi laut | Selesai |
 | B: mesin cuci darah Rizal dibuka lalu hilang | Benar | Epilog: Wulan diam-diam mendanai laboratorium Rizal; mesin kecilnya sedang diuji di puskesmas | Selesai |
-| B: Naufal menghilang; kalimat "kali ini kamu yang ganti" tak berbayar | Benar | Bab 36 (akhir): Wulan mengganti kapasitor radio sendiri dan mengirim fotonya ke Naufal ("Jelek." / "Bunyi?" / "Bunyi." / "Oke.") | Selesai |
-| B: Ibu lupa (Interlude II) tidak dilanjutkan | Benar | Bab 37: Ibu lupa nama Mbak Nurul sesaat sebelum bertemu, mengulangnya dua kali | Selesai |
-| B: suara perempuan di radio tak pernah diberi makna | Sebagian | Dibiarkan terbuka dengan sengaja (isyarat "yang lemah"); muncul lagi di akhir bab 36 | Sengaja dipertahankan |
+| B: Naufal menghilang; kalimat "kali ini kamu yang ganti" tak berbayar | Benar | Bab 37 (akhir): Wulan mengganti kapasitor radio sendiri dan mengirim fotonya ke Naufal ("Jelek." / "Bunyi?" / "Bunyi." / "Oke.") | Selesai |
+| B: Ibu lupa (Interlude II) tidak dilanjutkan | Benar | Bab 38: Ibu lupa nama Mbak Nurul sesaat sebelum bertemu, mengulangnya dua kali | Selesai |
+| B: suara perempuan di radio tak pernah diberi makna | Sebagian | Dibiarkan terbuka dengan sengaja (isyarat "yang lemah"); muncul lagi di akhir bab 37 | Sengaja dipertahankan |
 | B: mendengar diam-diam jadi jalan pintas berulang | Sebagian benar (jamban, teras, lorong rumah sakit, Klaten) | Keputusan penulis: dibiarkan apa adanya; Klaten adalah yang terkuat | Sengaja dipertahankan |
 
 ## 2. Gaya dan bahasa
@@ -29,7 +29,7 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 | B: "lama sekali / menatap lama" | Dari 32 menjadi 23 (dapat dikurangi lagi bila diinginkan) | Sebagian |
 | B: "peci miring ke kiri" 5× | Menjadi 3 (perkenalan dan dua gema) | Selesai |
 | A dan B: "Itu jawaban. Cuma bukan seluruhnya" untuk tiga orang | Dr. Anindya tidak lagi mendapat kalimat itu (bab 31): ia tahu arti diam Wulan tanpa kalimat tersebut. Tersisa Bayu (asal), Rizal, dan narasi | Selesai |
-| A dan B: akhir bab yang menyimpulkan | Lima akhir bab dipangkas ke tindakan atau gambar (bab 8, 11, 12, 34, 35); bab 36 kini berakhir pada tindakan, bukan renungan | Selesai |
+| A dan B: akhir bab yang menyimpulkan | Lima akhir bab dipangkas ke tindakan atau gambar (bab 8, 11, 12, 34, 35); bab 37 kini berakhir pada tindakan, bukan renungan | Selesai |
 | B: tema diucapkan ("Itu bukan kepintaran. Itu watak"; wawancara kertas) | Kalimat watak dihapus; kalimat wawancara dipadatkan | Selesai |
 | B: suara tokoh bertukar (Mbah, Pak Karto, Pak Hendra, Bu Haji, Anindya, Whitcombe sama-sama beraforisme) | Profil suara 18 tokoh ditulis di `02-panduan-suara.md` (bagian 9). Aforisme penutup dipangkas pada Bu Haji (bab 13), Bu Ratmi (bab 9), Bu Wiwik (bab 18), Pak Karto (bab 32), Dr. Anindya (bab 21, 24); Pak Hendra kini ragu dan berdeham (bab 11); Rizal bergurau (bab 30) dan tidak lagi berpamitan seperti Naufal: "Dia butuh hangat" (bab 35) | Selesai |
 
@@ -37,7 +37,7 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 
 | Butir | Keputusan | Pelaksanaan | Status |
 |---|---|---|---|
-| Harga rahasia dan uji diri (A dan B) | **Tiga harga kecil** | (a) Bab 35: dr. Suryo membawa laporan kasus, meminta satu kata "benar"; Wulan tak bisa menjawab; ia mengunci laporan itu di laci, "Itu jawaban." (b) Bab 35: Bu Ning meninggal Agustus 2030 dengan pesan "aku tidak iri"; Wulan menambahkannya ke daftar yang tak ingin dilupakan. (c) Bab 36: Dr. Anindya membaca log pembeku (dua tabung, "uji kontrol") dan menanggung diamnya; surel Prof. Whitcombe memberi tahu ia pensiun dini setelah audit; balasan Wulan hanya "Yes, Professor." | Selesai |
+| Harga rahasia dan uji diri (A dan B) | **Tiga harga kecil** | (a) Bab 35: dr. Suryo membawa laporan kasus, meminta satu kata "benar"; Wulan tak bisa menjawab; ia mengunci laporan itu di laci, "Itu jawaban." (b) Bab 35: Bu Ning meninggal Agustus 2030 dengan pesan "aku tidak iri"; Wulan menambahkannya ke daftar yang tak ingin dilupakan. (c) Bab 37: Dr. Anindya membaca log pembeku (dua tabung, "uji kontrol") dan menanggung diamnya; surel Prof. Whitcombe memberi tahu ia pensiun dini setelah audit; balasan Wulan hanya "Yes, Professor." | Selesai |
 | Bagian II terlalu panjang dan terlalu banyak penolong | **Biarkan** | Tidak ada perubahan | Sengaja dipertahankan |
 | Interlude 2031 membuka bahwa Wulan selamat | **Pertahankan** | Tidak ada perubahan | Sengaja dipertahankan |
 | Epilog menjadi dua klimaks | **Biarkan epilog** | Tidak ada perubahan; secercah warna tetap di epilog | Sengaja dipertahankan |
@@ -64,3 +64,18 @@ Temuan: kalimat yang memakai pengetahuan yang belum dimiliki Wulan (bab 2: menye
 
 ## 7. Bahasa Jawa dan sapaan (masukan penulis atas realisme, dua putaran)
 Putaran 1: dialog keluarga dan dusun ditulis ulang ke bahasa Jawa, dan sekitar 50 "ia" yang merujuk Bapak, Ibu, atau Mbah diganti nama peran. Putaran 2 (koreksi): campuran Jawa-Indonesia hanya untuk anak SD dan teman kampung; guru, dokter, perawat, dan teman sebaya sejak SMP berbahasa Indonesia; Pak Karto berbahasa Indonesia; di rumah, orang tua dan Mbah berbahasa Jawa ngoko halus (bukan krama, bukan kasar), dan Wulan menjawab dengan ngoko halus plus *nggih*, bukan krama berat. Aturan lengkap di `02-panduan-suara.md` bagian 10. Perlu dibaca satu penutur Gunungkidul (ledger bagian 9).
+
+## 8. Evaluasi menyeluruh (putaran terakhir)
+Enam hal diperiksa ulang terhadap naskah: kelengkapan detail, pertentangan budaya, kemasukakalan, aliran, kejanggalan per peristiwa, dan rasa "tidak mustahil".
+
+**Terverifikasi benar:** seluruh pasangan hari-tanggal (18 Jan 2014 Sabtu; 10 Des 2018 Senin; 9 Des 2029 Minggu; 31 Des 2029 Senin; 12 Okt 2031 Minggu; 5–8 Nov 2031 Rabu–Sabtu) dan umur Wulan di 19 titik penyebutan.
+
+**Diperbaiki:**
+1. **Pasokan dosis.** Log pembeku menyebut dua tabung keluar pada 8 Des 2029, tetapi Wulan menyuntik tiap bulan selama dua tahun. Bab 34 kini menutup celah itu: kotak dari Eleanor ada dasarnya, dan sejak itu Wulan sendiri yang membuatnya, dengan harga baru — tanda tangan di buku log pembeku dua belas kali setahun di laboratorium milik orang yang mempercayainya. Tanpa detail teknis.
+2. **Linimasa Julian Thorne.** Ia menyebut "eighteen months, perhaps twenty-four" sejak September, lalu "dead in two years", dan uji klinis yang ia pertaruhkan dimulai "late next year" — sesudah batas hidupnya sendiri. Kini: "dead inside a year, or a little after", dan uji Kestrel dimulai November, masih dalam jangkauannya, sehingga desakannya pada Wulan punya dasar.
+3. **Rantai angka ginjal.** Bab 35 menyebut fungsinya naik sampai 60, lalu dr. Suryo membaca 58 tanpa komentar. Kini kenaikan berhenti di 58, angka yang sama dengan bacaan tahun 2020 — gema, bukan selisih.
+4. **Bab 36 kelebihan beban** (2.875 kata, enam penutupan). Dipecah: bab 36 berhenti setelah konferensi pers; bab 37 "Log Pembeku" memuat Dr. Anindya, Ibu menonton televisi, Thorne, Whitcombe, dan kapasitor radio. Rasulan menjadi bab 38. Jumlah bab menjadi 38.
+5. **Jaring pengejaran rahasia hilang di epilog.** Tekanan memuncak di konferensi pers dan log pembeku, lalu epilog tidak menyentuhnya. Kini epilog (Jumat, 7 November) menunjukkan tanda tangan kedua di buku log — Dr. Anindya datang lebih pagi dan menyetujuinya tiap bulan — dan surat-surat yang masih datang dengan pertanyaan yang sama.
+
+**Sengaja tidak diubah:** pertanyaan ajal dan takdir (lihat ledger bagian 5, butir 5). Rasa masuk akal dosis pertama tetap dibangun dari lembaga di sekelilingnya (perjanjian pemindahan bahan, kurir tervalidasi, log pembeku, audit), bukan dari detail prosedur — menambah detail teknis akan menurunkan kepercayaan pembaca, bukan menaikkannya, selain alasan keselamatan.
+

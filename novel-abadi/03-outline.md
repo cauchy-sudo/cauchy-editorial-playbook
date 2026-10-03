@@ -57,7 +57,7 @@ Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi
 | 33 | Ginjal pulih; euforia yang gemetar; **Rizal** hadir | Jam ginjal berhenti |
 | 34 | Tubuh berhenti menua; ingatan memadat; suara Mbah hilang; Rizal ditolak | Arsip pribadi dan AI sebagai memori; beban "tak memberikan ke Ibu" |
 | 35 | Pesaing dan pendana menekan; pengumuman sebagian | Menyembunyikan sebagian |
-| 36 | 2031: pengumuman; pulang ke Pucung; Rasulan | Menyambung prolog |
+| 36 | 2031: pengumuman; harga yang dibayar orang lain; pulang ke Pucung; Rasulan | Menyambung prolog |
 
 **Epilog.** Arsip. Wulan menuliskan hal yang tidak ingin ia lupakan. Tangan Ibu, lagi. **Secercah warna:** Tika, kini bidan, bercerita bahwa seorang anak perempuan di Pucung, Sekar, datang ke puskesmas dengan buku catatan keluhan dan dirujuk lebih awal; Ardi, adik Wulan, kuliah lewat KIP Kuliah. Wulan tidak mengatakan apa pun tentang dirinya, tetapi ia mendirikan dana kecil tanpa nama untuk kartu catatan keluhan di puskesmas Gunungkidul. Lingkaran *kupu-kupu* menutup tanpa melanggar rahasianya.
 

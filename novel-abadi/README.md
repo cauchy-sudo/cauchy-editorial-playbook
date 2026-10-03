@@ -1,7 +1,7 @@
 # Heliks
 
 *Heliks: sebuah novel*, oleh Damar Arang. Judul lain yang dipertimbangkan: *Diam-Diam Abadi*, *Pasien Nol*, *Sel yang Mengingat*, *Untai Waktu*.
-Sudut pandang orang pertama (Wulan). Sekitar 65.000 kata: prolog, 37 bab, 3 interlude, epilog.
+Sudut pandang orang pertama (Wulan). Sekitar 65.000 kata: prolog, 38 bab, 3 interlude, epilog.
 
 ## Urutan baca
 | Berkas | Isi | Tahun |
@@ -13,7 +13,7 @@ Sudut pandang orang pertama (Wulan). Sekitar 65.000 kata: prolog, 37 bab, 3 inte
 | `interlude-2.md` | Merekam suara Ibu; Sekar (setelah bab 18) | 2031 |
 | `bab-19.md` … `bab-26.md` | Babak II-B: lab, titik tengah, Bayu, AI, publikasi, beasiswa, Inggris | 2020–2025 |
 | `interlude-3.md` | Pesan Rizal yang tak dibalas (setelah bab 26) | 2031 |
-| `bab-27.md` … `bab-37.md` | Babak III: gagasan, Lumen, tikus, kambuh, dosis pertama, ingatan, rilis terbuka, Rasulan, laut | 2026–2031 |
+| `bab-27.md` … `bab-38.md` | Babak III: gagasan, Lumen, tikus, kambuh, dosis pertama, ingatan, rilis terbuka, Rasulan, laut | 2026–2031 |
 | `epilog.md` | Arsip | 2031 |
 
 **Versi satu berkas:** `naskah-lengkap.md` (semua bagian berurutan, dengan daftar isi).
@@ -28,7 +28,7 @@ Sudut pandang orang pertama (Wulan). Sekitar 65.000 kata: prolog, 37 bab, 3 inte
 Folder `terbit/` berisi hasil kompilasi dan skrip pembuatnya.
 | Berkas | Keterangan |
 |---|---|
-| `terbit/heliks.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±340 halaman, sampul penuh, daftar isi dan penanda bacaan |
+| `terbit/heliks.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±341 halaman, sampul penuh, daftar isi dan penanda bacaan |
 | `terbit/heliks.epub` | EPUB 3 dengan sampul replikasi DNA; lolos EpubCheck (0 galat, 0 peringatan) |
 | `terbit/heliks-latex.zip` | paket LaTeX mandiri (.tex, sampul, font Linux Libertine); diuji kompilasi dari nol dengan XeLaTeX |
 | `terbit/heliks.tex` | sumber LaTeX hasil pembangkitan (untuk diperiksa atau disunting) |

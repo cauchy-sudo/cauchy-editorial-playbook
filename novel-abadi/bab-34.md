@@ -242,6 +242,10 @@ Aku tahu itu sejak awal. Aku menuliskannya sendiri. Aku hanya tidak mau percaya 
 
 Pulsa kedua kuberikan malam itu, lebih ringan, dengan tangan yang tak lagi bergetar karena takut, tapi karena sesuatu yang lebih mirip pengertian pahit. Demamnya tidak setinggi yang pertama. Tiga puluh delapan koma dua. Esok paginya aku bangun tanpa beban pasir di tangan.
 
+Sebelum itu aku menghitung apa yang tersisa di rak paling bawah lemari pembeku, di balik tutup plastik tebal, dan hasilnya tidak panjang. Kotak dari Eleanor punya dasar. Untuk tanggal sembilan berikutnya, dan tanggal sembilan sesudahnya, dan semua tanggal sembilan sampai aku mati, yang tersisa hanya aku: tanganku, meja di sudut dekat jendela, kunci laboratorium yang masih dipercayakan kepadaku, dan sebuah buku log di pintu pembeku yang mencatat tiap tabung yang keluar dengan tanggal, jam, dan nama orang yang mengambilnya.
+
+Itu harga yang tidak kutulis di daftar risiko, karena pada bulan Desember aku belum memikirkannya: bahwa aku akan menandatangani baris di buku itu, dua belas kali setahun, selama sisa umurku, di laboratorium milik seseorang yang mempercayaiku.
+
 Aku duduk di tepi kasur, di kamar kos yang kusewa kembali, dan menatap ponselku. Aku membuka aplikasi alarm dan mengatur satu pengingat baru, untuk setiap tanggal sembilan, tiap bulan, tanpa batas waktu.
 
 Aku mengetik nama untuk alarm itu dan berhenti sebentar, dengan ibu jari di atas layar.

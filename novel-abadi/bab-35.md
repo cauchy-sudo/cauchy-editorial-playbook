@@ -8,7 +8,7 @@ Tanggal sembilan tiap bulan, aku memberi diriku pulsa itu, di laboratorium yang 
 
 Kolom keluhan makin sering kosong.
 
-Aku tidak sakit lagi. Itu kenyataan yang masih sulit kupahami. Ginjalku tidak pulih sepenuhnya, karena parut tidak pulih, tapi fungsinya stabil di angka lima puluh enam, lalu lima puluh delapan, lalu enam puluh. Lupus tidur. Buih tidak kembali. Aku bisa berjalan di bawah matahari selama dua puluh menit tanpa kupu-kupu. Aku bisa makan sambal tanpa mencatat. Aku bisa berlari mengejar bus untuk pertama kalinya sejak umur dua belas, dan ketika aku naik dan duduk dengan dada naik turun dan seorang ibu di sebelahku menatapku dengan iba, aku mengatakan sesuatu yang tak pernah kuucapkan pada siapa pun:
+Aku tidak sakit lagi. Itu kenyataan yang masih sulit kupahami. Ginjalku tidak pulih sepenuhnya, karena parut tidak pulih, tapi fungsinya naik pelan-pelan dan berhenti di angka lima puluh delapan, angka yang sama dengan yang dibacakan dr. Suryo kepadaku sepuluh tahun lalu. Lupus tidur. Buih tidak kembali. Aku bisa berjalan di bawah matahari selama dua puluh menit tanpa kupu-kupu. Aku bisa makan sambal tanpa mencatat. Aku bisa berlari mengejar bus untuk pertama kalinya sejak umur dua belas, dan ketika aku naik dan duduk dengan dada naik turun dan seorang ibu di sebelahku menatapku dengan iba, aku mengatakan sesuatu yang tak pernah kuucapkan pada siapa pun:
 
 "Maaf, Bu. Saya baru bisa lari."
 

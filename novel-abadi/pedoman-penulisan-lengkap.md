@@ -196,12 +196,12 @@ Rujukan lengkap: `04-adat-budaya.md`. Ringkasan aturan kerja:
 
 ### 7.1 Kerangka
 - **Prolog (2031)** menyalakan pertanyaan: *mengapa tanganmu tidak berubah?*
-- **Tiga babak:** I *Kupu-kupu di Pipi* (2013–2017, bab 1–9) · II *Tangga* (2017–2025, bab 10–26) · III *Formula* (2026–2031, bab 27–37).
+- **Tiga babak:** I *Kupu-kupu di Pipi* (2013–2017, bab 1–9) · II *Tangga* (2017–2025, bab 10–26) · III *Formula* (2026–2031, bab 27–38).
 - **Tiga interlude 2031** (150–300 kata, dari suara Wulan, tanpa mengungkap rahasia): menolak difoto, merekam suara Ibu, pesan Rizal yang tak dibalas. Fungsi: menjaga pertanyaan prolog tetap hidup.
 - **Epilog "Arsip"** (diari bertanggal) menutup lingkaran dengan secercah warna.
 
 ### 7.2 Peta beat (patokan, bukan harga mati) [S]
-Pemicu bab 1 dan 5 · titik balik 1 bab 9 (keluar rumah) · titik tengah bab 20 (makalah peremajaan + jam ginjal) · lawan menekan bab 21–28 · *all is lost* bab 29–30 · malam gelap bab 30–31 · klimaks bab 33 (dosis pertama) · penutup bab 34–37 · epilog.
+Pemicu bab 1 dan 5 · titik balik 1 bab 9 (keluar rumah) · titik tengah bab 20 (makalah peremajaan + jam ginjal) · lawan menekan bab 21–28 · *all is lost* bab 29–30 · malam gelap bab 30–31 · klimaks bab 33 (dosis pertama) · penutup bab 34–38 · epilog.
 
 ### 7.3 Bentuk emosi
 Turun-naik berulang, naik ke puncak penemuan, jatuh getir-manis (dekat *Icarus* dengan lapisan *man in a hole*). Tawa dan tangis **berselang**: tiap bab sedih memuat satu detik humor; tiap bab lucu memuat satu detik yang menyentuh.

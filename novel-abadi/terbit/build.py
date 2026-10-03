@@ -34,7 +34,7 @@ INTERLUDES_AFTER = {7: "interlude-1.md", 18: "interlude-2.md", 26: "interlude-3.
 def sequence():
     """Urutan unit baca: ('part', roman, title, years) atau ('file', Path)."""
     seq = [("file", SRC / "prolog.md")]
-    for n in range(1, 38):
+    for n in range(1, 39):
         for start, roman, ttl, yrs in PARTS:
             if n == start:
                 seq.append(("part", roman, ttl, yrs))
