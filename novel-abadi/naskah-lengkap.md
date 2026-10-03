@@ -1028,7 +1028,7 @@ Aku menatap lurus ke depan. Pipiku panas. Ia tidak boleh melihat, dan itu tidak 
 
 "Biasa saja," kataku.
 
-"Ngomong-ngomong, aku sebangku karo kowe, kayane. Kelas 7B. Aku ndelok daftar mau."
+"Ngomong-ngomong, kayane aku sekelas karo kowe. Kelas 7B. Aku ndelok daftar mau."
 
 Aku tidak menjawab. Sepanjang sisa upacara, aku memegang payung dengan sangat hati-hati, seakan di bawahnya berdiri sesuatu yang bisa pecah.
 
@@ -1682,7 +1682,7 @@ Aku mengangguk, dan dalam hati aku teringat kata-kata Bu Ratmi: *tanyakan, janga
 
 Hari-hari menjadi lebih ringan setelah itu.
 
-Sekolah sendiri, SMA Negeri itu, adalah dunia yang lebih besar daripada yang bisa kuhafal. Tiga puluh kelas, enam puluh guru dan staf, dua lapangan, dan sebuah kantin dengan lima penjual yang saling mencuri pelanggan. Aku masuk ke kelas X-IPA 2, di antara tiga puluh enam anak yang sebagian besar sudah saling kenal sejak SMP. Seragam putih abu-abu kami, kerudung putih kami, dan sepatu hitam yang kupinjam dari Tika karena milikku berlubang di ujung, membuatku tampak seperti salah satu dari mereka.
+Sekolah sendiri, SMA Negeri itu, adalah dunia yang lebih besar daripada yang bisa kuhafal. Tiga puluh kelas, enam puluh guru dan staf, dua lapangan, dan sebuah kantin dengan lima penjual yang saling mencuri pelanggan. Aku masuk ke kelas X-IPA 2, di antara tiga puluh enam anak yang sebagian besar sudah saling kenal sejak SMP, dan duduk sebangku dengan Tika. Seragam putih abu-abu kami, kerudung putih kami, dan sepatu hitam yang kupinjam dari Tika karena milikku berlubang di ujung, membuatku tampak seperti salah satu dari mereka.
 
 Pramuka adalah masalah pertama, dan surat dr. Sumarni masalah solusinya. Aku diizinkan duduk di bawah tenda saat kegiatan di lapangan, dan diberi tugas menjadi juru tulis regu, yang kulakukan dengan antusiasme yang tidak proporsional. Pak Hendra, guru biologi kelas X, laki-laki tiga puluhan dengan kumis tipis dan kemeja yang selalu dimasukkan terlalu rapi, memerhatikanku dari jauh dengan kening berkerut.
 
@@ -1874,7 +1874,7 @@ Aku memutar tombolnya. Aku mengetuk bagian belakangnya. Aku meniupnya, seperti o
 
 "Naufal Hidayat. Anak XI IPA 1. Yang duduk di barisan paling belakang dan tidak pernah bicara." Tika mengangkat bahu. "Orang tuanya punya toko kelontong di pasar. Katanya dia bisa membetulkan apa saja yang berbunyi."
 
-Aku mengenal Naufal. Setidaknya aku tahu ia ada. Ia kurus dan tinggi, dengan rambut yang selalu berantakan di bagian belakang karena tertekan sandaran bangku, dan sepasang kacamata dengan gagang yang dililit plester. Ia datang paling awal tiap pagi dan pulang paling akhir, dan di antara itu ia menghilang. Dalam dua minggu pertama kelas XI, ketika wali kelas menukar tempat duduk kami, aku mendapati diriku duduk di sebelahnya, dan kami berdua saling mengangguk dengan canggung seperti dua orang asing di kereta, dan tidak berkata apa-apa selama sepuluh hari.
+Aku mengenal Naufal. Setidaknya aku tahu ia ada. Ia kurus dan tinggi, dengan rambut yang selalu berantakan di bagian belakang karena tertekan sandaran bangku, dan sepasang kacamata dengan gagang yang dililit plester. Ia datang paling awal tiap pagi dan pulang paling akhir, dan di antara itu ia menghilang. Dalam dua minggu pertama kelas XI, ketika wali kelas menukar tempat duduk kami, aku mendapati diriku duduk di barisan perempuan, tepat di seberang lorong dari barisan laki-laki tempat ia duduk, dan kami berdua saling mengangguk dengan canggung seperti dua orang asing di kereta, dan tidak berkata apa-apa selama sepuluh hari.
 
 Aku membawa radio itu padanya pada hari Jumat, dibungkus kain, seperti membawa seseorang yang sakit.
 
@@ -2012,7 +2012,7 @@ Kami berdua nyaris tertawa, dan karena itu tidak berani saling menatap.
 
 Pada bulan Oktober, ketika hujan pertama jatuh dan seluruh Wonosari berbau tanah basah, Naufal tidak datang pada hari Kamis. Aku menunggu di teras sampai pukul tujuh, sampai Bu Haji menghela napas dan melipat koran, dan aku naik ke kamar.
 
-Pada Jumat, ia ada di sekolah, duduk di sebelahku, dengan wajah seperti papan tulis yang baru dihapus.
+Pada Jumat, ia ada di sekolah, duduk di bangkunya di seberang lorong dariku, dengan wajah seperti papan tulis yang baru dihapus.
 
 "Kemarin kamu tidak ke kos."
 

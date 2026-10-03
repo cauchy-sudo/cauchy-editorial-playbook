@@ -48,7 +48,7 @@ Alasan pilihan [P]:
 | **Bu Ratmi** | Guru IPA SMP; mentor pertama. |
 | **Pak Karto** | Penjaga taman bacaan desa. |
 | **Bagus Setiawan** | Teman sekelas SMP (kelas VIII); jago voli, baik hati, tidak peka. Naksir pertama Wulan. |
-| **Naufal Hidayat** (lahir 2001) | Teman sebangku SMA; anak pedagang kelontong di Wonosari; pendiam, pandai memperbaiki radio. Cinta pertama yang sederhana dan getir. Diterima di kampus teknik di Bandung (2020). |
+| **Naufal Hidayat** (lahir 2001) | Teman sekelas SMA (duduk di barisan laki-laki, seberang lorong); anak pedagang kelontong di Wonosari; pendiam, pandai memperbaiki radio. Cinta pertama yang sederhana dan getir. Diterima di kampus teknik di Bandung (2020). |
 | **Daffa Pratama** | Ketua OSIS, ramah, populer, keluarga mampu. Menyukai Wulan; ia menolak dengan halus dan mereka tetap berteman. |
 | **Bayu Prakoso** (lahir 1998) | Kakak tingkat S1, asisten lab; dari Klaten; hangat. Ibunya halus menanyakan *bibit, bebet, bobot*. |
 | **Julian Thorne** (pertengahan 50-an) | Pendana utama lab Wulan lewat *Halcyon Longevity Fund* (fiktif). Santun, cerdas, percaya bahwa setiap hari penundaan berarti kematian orang lain. Menekan agar uji manusia dipercepat di yurisdiksi longgar, formula dipatenkan dan dijual mahal. Bukan penjahat kartun; ia tulus, dan ia sendiri takut pada kematiannya. Wulan menolak mempercepat; dana dipotong (bab 29), ia kembali menekan (bab 35). |
@@ -106,7 +106,7 @@ Nama untuk anak lahir sekitar 2002 [P]: Wulan, Tika/Fitriana, Rizki, Dinda, Nabi
 | Usia | Tokoh | Apa yang terjadi | Mengapa tidak jadi |
 |---|---|---|---|
 | 13 (SMP, 2015) | **Bagus** | Naksir diam-diam; titip salam lewat Tika bocor; ditertawakan sebentar | Ia cuma menganggap Wulan lucu; wajah steroid membuat Wulan malu |
-| 15–18 (SMA, 2017–20) | **Naufal** | Sebangku, radio, buku; dekat tanpa *jadian* | Ia diterima kuliah di Bandung; mereka menjauh pelan. "Kami tidak putus karena tidak pernah jadian." |
+| 15–18 (SMA, 2017–20) | **Naufal** | Sekelas, radio, buku; dekat tanpa *jadian* | Ia diterima kuliah di Bandung; mereka menjauh pelan. "Kami tidak putus karena tidak pernah jadian." |
 | 15–18 | **Daffa** | Mengajak Wulan *jadian* | Wulan menolak halus; mengenali batas dirinya |
 | 21–22 (S1, 2022) | **Bayu** | Dekat, ke Klaten, ibunya menanyakan *bibit, bebet, bobot*; Wulan mendengar *sing sehat wae* | Wulan mundur lebih dulu |
 | 27–29 (S3, 2029–30) | **Rizal** | Cocok; ia ingin serius setelah Wulan sembuh | Wulan tidak bisa menjalani hidup yang akan ia tinggalkan menua; rahasia tidak dibagi |

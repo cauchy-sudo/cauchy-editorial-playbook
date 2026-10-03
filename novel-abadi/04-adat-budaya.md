@@ -22,6 +22,7 @@ Dalam novel [P]:
 - Narasi **Bahasa Indonesia**; dialog dalam keluarga dan dusun **bahasa Jawa** sesuai tingkat tutur, dialog sebaya campuran Jawa-Indonesia (lihat `02-panduan-suara.md` bagian 10).
 - **Anak kepada orang yang dituakan** memakai nada hormat (*nggih*, *sendika*, *dalem*, *mboten*) di dusun; kepada teman sebaya ngoko. Ibu kepada bidan atau dokter: *nggih, Bu Bidan*.
 - **Sapaan:** *Bapak/Ibu* (orang tua), *Mbah* (nenek/kakek), *Mas/Mbak* (kakak atau yang lebih tua), *Dik/Adik*, *Nduk* (anak perempuan; panggilan sayang), *Le/Thole* (anak laki-laki), *Pakdhe/Budhe* (kakak orang tua), *Paklik/Bulik* (adik orang tua). Jangan memanggil orang yang lebih tua dengan nama saja.
+- **Tempat duduk di SMP dan SMA:** anak perempuan sebangku dengan anak perempuan, anak laki-laki dengan anak laki-laki. Teman sebangku Wulan adalah Tika; Bagus dan Naufal sekelas, bukan sebangku.
 - Kalimat Jawa dibuat pendek dan umum, dan maknanya ditopang konteks supaya tetap terbaca nasional; tidak diterjemahkan dalam narasi.
 
 ## 3. Nilai yang bekerja dalam cerita [P]

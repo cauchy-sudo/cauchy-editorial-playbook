@@ -88,7 +88,7 @@ Aku mengangguk, dan dalam hati aku teringat kata-kata Bu Ratmi: *tanyakan, janga
 
 Hari-hari menjadi lebih ringan setelah itu.
 
-Sekolah sendiri, SMA Negeri itu, adalah dunia yang lebih besar daripada yang bisa kuhafal. Tiga puluh kelas, enam puluh guru dan staf, dua lapangan, dan sebuah kantin dengan lima penjual yang saling mencuri pelanggan. Aku masuk ke kelas X-IPA 2, di antara tiga puluh enam anak yang sebagian besar sudah saling kenal sejak SMP. Seragam putih abu-abu kami, kerudung putih kami, dan sepatu hitam yang kupinjam dari Tika karena milikku berlubang di ujung, membuatku tampak seperti salah satu dari mereka.
+Sekolah sendiri, SMA Negeri itu, adalah dunia yang lebih besar daripada yang bisa kuhafal. Tiga puluh kelas, enam puluh guru dan staf, dua lapangan, dan sebuah kantin dengan lima penjual yang saling mencuri pelanggan. Aku masuk ke kelas X-IPA 2, di antara tiga puluh enam anak yang sebagian besar sudah saling kenal sejak SMP, dan duduk sebangku dengan Tika. Seragam putih abu-abu kami, kerudung putih kami, dan sepatu hitam yang kupinjam dari Tika karena milikku berlubang di ujung, membuatku tampak seperti salah satu dari mereka.
 
 Pramuka adalah masalah pertama, dan surat dr. Sumarni masalah solusinya. Aku diizinkan duduk di bawah tenda saat kegiatan di lapangan, dan diberi tugas menjadi juru tulis regu, yang kulakukan dengan antusiasme yang tidak proporsional. Pak Hendra, guru biologi kelas X, laki-laki tiga puluhan dengan kumis tipis dan kemeja yang selalu dimasukkan terlalu rapi, memerhatikanku dari jauh dengan kening berkerut.
 

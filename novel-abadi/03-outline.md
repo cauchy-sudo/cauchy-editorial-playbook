@@ -19,7 +19,7 @@ Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi
 | 6 | SMP: steroid, wajah bulat, rambut rontok; jilbab; payung hitam; **naksir Bagus**; "Wulan Bulan" | Meminta guru mengirim tugas ke rumah | Humor sebagai tameng; titip salam bocor | Bagus tertawa, tapi bukan pada dia |
 | 7 | Taman bacaan Pak Karto; Bu Ratmi; **Bu Siti mengeluarkan mikroskop** | Meminjam buku di luar usia | Pertanyaan: mengapa tubuh menyerang dirinya sendiri? | Wulan melihat selnya sendiri |
 | *Interlude I (2031)* | Wulan menolak difoto; alarm bulanan | | | |
-| 8 | Ramadan dengan steroid; teman sebangku di RS meninggal; tahlilan | Keringanan puasa bagi yang sakit | Berkabung tanpa pidato | Janji yang tak diucapkan |
+| 8 | Ramadan dengan steroid; teman sekamar di RS meninggal; tahlilan | Keringanan puasa bagi yang sakit | Berkabung tanpa pidato | Janji yang tak diucapkan |
 | 9 | Lulus SMP; ujian masuk SMA negeri di Wonosari; pamit | Mengurus PIP/bantuan siswa | Meninggalkan rumah; Ibu menyiapkan bekal | Pintu rumah kos pertama |
 
 ## Babak II — Tangga (2017–2025, usia 15–23)
@@ -27,7 +27,7 @@ Kolom: **Peta jalan** = langkah nyata yang ditunjukkan lewat adegan. **Manusiawi
 |---|---|---|---|
 | 10 | Kos putri: aturan ibu kos, jam malam, teras | Mengatur uang bulanan | Teh manis, bakso, radio kecil |
 | 11 | Olimpiade biologi tingkat kabupaten | Mencari pembina; belajar dari kekalahan | Kalah, tertawa, belajar |
-| 12 | **Naufal**: sebangku, radio rusak, buku bekas | | Dekat tanpa *jadian*; boncengan dipergoki |
+| 12 | **Naufal**: sekelas, radio rusak, buku bekas | | Dekat tanpa *jadian*; boncengan dipergoki |
 | 13 | **Daffa** mengajak *jadian*; Wulan menolak halus | | Gosip; Tika membela |
 | 14 | Kambuh besar kelas XI; dialisis hampir | Menjaga kontak dengan guru dan dokter | Naufal dan teman-teman menjenguk bersama; tiwul Ibu |
 | 15 | Mbah Darmi wafat; tahlilan | | Kehilangan; rasa bersalah |

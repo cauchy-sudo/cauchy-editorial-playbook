@@ -18,7 +18,7 @@ Aku memutar tombolnya. Aku mengetuk bagian belakangnya. Aku meniupnya, seperti o
 
 "Naufal Hidayat. Anak XI IPA 1. Yang duduk di barisan paling belakang dan tidak pernah bicara." Tika mengangkat bahu. "Orang tuanya punya toko kelontong di pasar. Katanya dia bisa membetulkan apa saja yang berbunyi."
 
-Aku mengenal Naufal. Setidaknya aku tahu ia ada. Ia kurus dan tinggi, dengan rambut yang selalu berantakan di bagian belakang karena tertekan sandaran bangku, dan sepasang kacamata dengan gagang yang dililit plester. Ia datang paling awal tiap pagi dan pulang paling akhir, dan di antara itu ia menghilang. Dalam dua minggu pertama kelas XI, ketika wali kelas menukar tempat duduk kami, aku mendapati diriku duduk di sebelahnya, dan kami berdua saling mengangguk dengan canggung seperti dua orang asing di kereta, dan tidak berkata apa-apa selama sepuluh hari.
+Aku mengenal Naufal. Setidaknya aku tahu ia ada. Ia kurus dan tinggi, dengan rambut yang selalu berantakan di bagian belakang karena tertekan sandaran bangku, dan sepasang kacamata dengan gagang yang dililit plester. Ia datang paling awal tiap pagi dan pulang paling akhir, dan di antara itu ia menghilang. Dalam dua minggu pertama kelas XI, ketika wali kelas menukar tempat duduk kami, aku mendapati diriku duduk di barisan perempuan, tepat di seberang lorong dari barisan laki-laki tempat ia duduk, dan kami berdua saling mengangguk dengan canggung seperti dua orang asing di kereta, dan tidak berkata apa-apa selama sepuluh hari.
 
 Aku membawa radio itu padanya pada hari Jumat, dibungkus kain, seperti membawa seseorang yang sakit.
 
@@ -156,7 +156,7 @@ Kami berdua nyaris tertawa, dan karena itu tidak berani saling menatap.
 
 Pada bulan Oktober, ketika hujan pertama jatuh dan seluruh Wonosari berbau tanah basah, Naufal tidak datang pada hari Kamis. Aku menunggu di teras sampai pukul tujuh, sampai Bu Haji menghela napas dan melipat koran, dan aku naik ke kamar.
 
-Pada Jumat, ia ada di sekolah, duduk di sebelahku, dengan wajah seperti papan tulis yang baru dihapus.
+Pada Jumat, ia ada di sekolah, duduk di bangkunya di seberang lorong dariku, dengan wajah seperti papan tulis yang baru dihapus.
 
 "Kemarin kamu tidak ke kos."
 

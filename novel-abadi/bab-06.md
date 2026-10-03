@@ -136,7 +136,7 @@ Aku menatap lurus ke depan. Pipiku panas. Ia tidak boleh melihat, dan itu tidak 
 
 "Biasa saja," kataku.
 
-"Ngomong-ngomong, aku sebangku karo kowe, kayane. Kelas 7B. Aku ndelok daftar mau."
+"Ngomong-ngomong, kayane aku sekelas karo kowe. Kelas 7B. Aku ndelok daftar mau."
 
 Aku tidak menjawab. Sepanjang sisa upacara, aku memegang payung dengan sangat hati-hati, seakan di bawahnya berdiri sesuatu yang bisa pecah.
 
