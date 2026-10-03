@@ -18,11 +18,11 @@ Pada Mei, aku berumur dua puluh delapan. Aku merayakannya di Pucung bersama Ibu 
 
 "Kowe ora ono kerutan."
 
-"Ibu inggih mboten."
+"Ibu yo ora."
 
 "Ibu ono akeh." Ibu tertawa, dan tawa itu memperlihatkan kerutan di sudut matanya, tipis-tipis seperti lipatan kain. "Kowe kuwi... rupamu isih kaya nalika SMA."
 
-"Niku tabir surya, Bu."
+"Kuwi tabir surya, Bu."
 
 "Tabir surya kuwi hebat yo."
 
@@ -246,11 +246,11 @@ Tangan itu, tangan yang kuhafal lebih dari wajahku sendiri, tampak lain malam it
 
 "Kenopo ndelok Ibu ngono?" tanya Ibu.
 
-"Mboten napa-napa."
+"Ora popo."
 
 "Ono Rizal?"
 
-"Rizal sampun wangsul."
+"Rizal wis mulih."
 
 "Oh." Ibu mematahkan satu kacang lagi. "Ibu kira dheweke arep ngomong karo Bapak."
 
@@ -264,11 +264,11 @@ Ibu berhenti. Ibu tidak menoleh, tapi aku melihat jarinya diam di atas kacang it
 
 "Kenapa?"
 
-"Wulan dereng saged, Bu."
+"Wulan durung iso, Bu."
 
 "Durung iso opo ora gelem?"
 
-"Mboten saged."
+"Ora iso."
 
 Ibu mengangguk perlahan. Ibu tidak bertanya lagi. Ibu hanya menaruh kacang itu di baskom, dan menaruh tangannya di atas tanganku, dengan telapak yang kasar dan hangat dan sedikit bergetar.
 
@@ -298,7 +298,7 @@ Aku memegang tangan Ibu. Aku mengusap punggungnya dengan ibu jariku, pelan, pela
 
 "Isih padha," bisik Ibu.
 
-"Nopo, Bu?"
+"Opo, Bu?"
 
 "Tanganmu." Ibu tersenyum, dengan mata yang terlalu cerah. "Isih padha kaya biyen. Kaya nalika kowe cilik."
 

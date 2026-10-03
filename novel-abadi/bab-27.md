@@ -24,11 +24,11 @@ Aku menelepon Ibu pukul sepuluh pagi, ketika di Pucung sudah pukul lima sore dan
 
 "Iyo, Nduk, iyo. Ngapura. Ibu uga. Ibu arep..." Suaranya pecah. "Ibu ora ngerti arep ngomong opo."
 
-"Mboten napa-napa, Bu."
+"Ora popo, Bu."
 
 "Kowe wis mangan?"
 
-"Sampun, Bu. Wonten rendang."
+"Wis, Bu. Ono rendang."
 
 "Rendang." Ibu terdiam. "Bapak arep ngomong."
 

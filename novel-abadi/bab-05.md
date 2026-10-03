@@ -42,11 +42,11 @@ Aku menunggu. Ada sesuatu di dalam diriku yang menahan napas, menunggu dokter me
 
 Ibu menatapku. Aku menunduk.
 
-"Dokter," kata Ibu, dan suaranya sangat rendah. "Niki... nular, Dok?"
+"Dokter," kata Ibu, dan suaranya sangat rendah. "Ini... menular?"
 
 "Tidak." Dokter Sumarni menjawab cepat dan tegas; ia sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
 
-"Napa... kutukan?"
+"Karena... kutukan?"
 
 "Bukan kutukan." Ia menatap Ibu lekat-lekat. "Bukan karena Ibu melakukan sesuatu. Bukan karena Bapak. Bukan karena Wulan. Tidak ada orang yang menyebabkannya. Tubuhnya hanya salah belajar."
 
@@ -76,11 +76,11 @@ Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat p
 
 "Matahari," kata dr. Sumarni. "Kamu harus menghindarinya. Payung, topi, lengan panjang. Tabir surya."
 
-"Tabir napa, Dok?" kata Ibu.
+"Tabir apa, Dok?" kata Ibu.
 
 "Krim pelindung. Bisa dibeli di apotek."
 
-"Regine pinten, Dok?"
+"Berapa harganya?"
 
 Dokter Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku melihat bagaimana bahu Bapak mengencang.
 

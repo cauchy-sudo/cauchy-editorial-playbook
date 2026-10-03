@@ -20,27 +20,27 @@ Aku mulai membenci kata itu. Aku mulai mencintainya juga.
 
 Tika menganggapku gila.
 
-"Telung kali seminggu? Nganti jam enem? Kowe kuwi duwe urip, Wul."
+"Tiga kali seminggu? Sampai jam enam? Kamu punya kehidupan, Wulan."
 
-"Aku duwe urip."
+"Aku punya kehidupan."
 
-"Uripmu isine buku lan obat lan Bu Haji. Kuwi dudu urip. Kuwi jadwal."
+"Kehidupanmu isinya buku dan obat dan Bu Haji. Itu bukan kehidupan. Itu jadwal."
 
-"Aku seneng jadwalku."
+"Aku suka jadwalku."
 
-"Kowe seneng jadwal amarga kowe durung ngerti ono liyane." Tika menjatuhkan diri ke kasur dan menatap langit-langit. Fan di atasnya berputar dan mengetuk. "Dina Setu ono acara neng alun-alun. Ono musik. Ono bakso bakar. Ono bocah lanang."
+"Kamu suka jadwal karena kamu belum tahu ada hal lain." Tika menjatuhkan diri ke kasur dan menatap langit-langit. Fan di atasnya berputar dan mengetuk. "Hari Sabtu ada acara di alun-alun. Ada musik. Ada bakso bakar. Ada anak laki-laki."
 
-"Aku ora oleh kena srengenge."
+"Aku nggak boleh kena matahari."
 
-"Kuwi bengi."
+"Itu malam hari."
 
-"Aku isih duwe tugas."
+"Aku masih punya tugas."
 
-"Wul." Tika bangun dan duduk bersila menghadapku. Wajahnya serius, sesuatu yang jarang terjadi. "Kowe hebat. Aku tenan. Tapi kowe dudu mesin."
+"Wulan." Tika bangun dan duduk bersila menghadapku. Wajahnya serius, sesuatu yang jarang terjadi. "Kamu hebat. Aku serius. Tapi kamu bukan mesin."
 
-"Aku ngerti."
+"Aku tahu."
 
-"Kowe ora ngerti. Kowe ngira nek mandheg sedhela, penyakite menang."
+"Kamu tidak tahu. Kamu mengira kalau berhenti sebentar, penyakitnya menang."
 
 Aku tidak menjawab. Ia benar, dan aku tidak punya kalimat untuk mengakuinya.
 

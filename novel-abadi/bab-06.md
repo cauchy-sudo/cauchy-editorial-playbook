@@ -98,7 +98,7 @@ Aku menatap bayangan lagi. "Gelem," kataku. "Aku gelem nganggo."
 
 Ibu tersenyum, kecil, dan itu senyum yang berbeda dari yang diberikannya padaku di depan cermin di bulan Januari. Ibu masuk, menarik ujung kerudung yang miring, merapikannya dengan dua jari, dan berkata, "Mengko Ibu jahitke sing anyar. Sing ora kekecilan."
 
-"Mboten sah, Bu. Niki sampun cekap."
+"Ora usah, Bu. Iki wis cukup."
 
 "Sing anyar," kata Ibu, dengan nada yang tidak bisa dibantah. "Nganggo sing kowe pilih. Aja nganggo sing kowe kepeksa."
 
@@ -110,19 +110,19 @@ Yang kedua adalah upacara hari pertama.
 
 Upacara masa orientasi di SMP itu berlangsung di lapangan tanpa naungan pada pukul sembilan pagi bulan Juli. Aku berdiri di barisan kelas tujuh, di bawah payung hitam Mbah, dengan kerudung warisan Tika yang putihnya sudah kusam, dan wajah bulat yang sudah kuputuskan akan kuterima.
 
-Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Payung kuwi go opo? Kaya mbah-mbah."
+Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Itu payung buat apa? Kayak nenek-nenek."
 
 Aku tidak menoleh. Aku sudah tahu bagaimana ini berjalan: mereka akan tertawa, aku akan mengatakan sesuatu yang lucu, mereka akan berhenti. Aku mulai menyusun kalimat.
 
-"Nunut yo?"
+"Boleh numpang?"
 
 Aku menoleh. Seorang anak laki-laki berdiri di sebelahku, tinggi, kurus, dengan rambut hitam yang dipotong pendek dan wajah yang terbakar matahari sampai hidungnya mengelupas. Ia tersenyum lebar, dengan gigi yang agak maju dan alis yang naik. Di tangannya ada topi sekolah yang tidak ia pakai.
 
-"Panas tenan," katanya. "Payungmu gedhe."
+"Panas banget," katanya. "Payungmu gede."
 
 Anak-anak di belakang kami mulai bersiul. Seseorang berseru "Cieee." Anak itu tidak menoleh. Ia hanya menunggu, dengan sedikit mengangkat bahu seakan itu hal yang paling wajar di dunia.
 
-"Yo," kataku.
+"Boleh," kataku.
 
 Ia melangkah masuk di bawah naungan payung, dan karena payung itu tidak terlalu besar, kami terpaksa berdiri berdekatan, tidak terlalu dekat, tetapi cukup sehingga aku bisa mencium bau sabun murahan dan sinar matahari di bajunya. Kepala sekolah di depan membacakan sesuatu tentang disiplin dan kejujuran.
 
@@ -130,13 +130,13 @@ Ia melangkah masuk di bawah naungan payung, dan karena payung itu tidak terlalu 
 
 "Wulan."
 
-"Wulan Bulan, yo? Aku krungu seko bocah-bocah. Keren uga."
+"Wulan Bulan, ya? Aku dengar dari anak-anak. Keren juga."
 
 Aku menatap lurus ke depan. Pipiku panas. Ia tidak boleh melihat, dan itu tidak mungkin, karena pipiku besar dan terang.
 
 "Biasa saja," kataku.
 
-"Ngomong-ngomong, kayane aku sekelas karo kowe. Kelas 7B. Aku ndelok daftar mau."
+"Ngomong-ngomong, kayaknya aku sekelas sama kamu. Kelas 7B. Aku lihat daftar tadi."
 
 Aku tidak menjawab. Sepanjang sisa upacara, aku memegang payung dengan sangat hati-hati, seakan di bawahnya berdiri sesuatu yang bisa pecah.
 

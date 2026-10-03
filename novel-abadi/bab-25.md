@@ -90,23 +90,23 @@ Percobaan kedua pada bulan Oktober, setelah aku berlatih menulis setiap malam da
 
 Aku pulang dengan kepala yang berdenyut dan perut yang kosong. Tika menunggu di kos dengan semangkuk mi instan rebus dan telur.
 
-"Piro?"
+"Berapa?"
 
-"Enem koma lima."
+"Enam koma lima."
 
-"Meneh?"
+"Lagi?"
 
-"Meneh."
+"Lagi."
 
 Tika menaruh mangkuk di meja dan duduk di sampingku. Ia hanya menunggu aku selesai.
 
-"Aku wis entek enem yuta patang atus ewu, Tik."
+"Aku sudah habiskan enam juta empat ratus ribu, Tik."
 
-"Aku ngerti."
+"Aku tahu."
 
-"Dhuwit kuwi seko Mas Aji. Seko dhuwit sapi. Seko les." Suaraku bergetar. "Aku ora oleh ngulang meneh."
+"Uang itu dari Mas Aji. Dari uang sapi. Dari les." Suaraku bergetar. "Aku tidak boleh mengulang lagi."
 
-"Oleh." Tika menyodorkan sumpit. "Mangan sik."
+"Boleh." Tika menyodorkan sumpit. "Makan dulu."
 
 Aku makan. Mi itu terlalu asin, dan itu cukup membantu.
 
@@ -132,7 +132,7 @@ Hasilnya keluar tiga belas hari kemudian, pada malam hari, lewat sebuah surel de
 
 Aku menatap angka itu. Tidak ada yang kurasakan. Lalu aku mulai tertawa. Lalu aku menangis. Lalu aku tertawa lagi, dan Tika bangun dari kasurnya dengan rambut berantakan dan menatapku seperti melihat hantu.
 
-"Opo? Opo? Ono opo?"
+"Apa? Apa? Ada apa?"
 
 "Tujuh."
 
@@ -230,15 +230,15 @@ Pengumuman datang pada pertengahan Juni, lewat sebuah surel yang tidak berani ku
 
 Tika yang membukanya, di dapur kos, dengan sendok di tangan.
 
-"Wul."
+"Wulan."
 
-"Aja ngomong nek gagal."
+"Jangan bilang kalau gagal."
 
-"Wul."
+"Wulan."
 
-"Tik."
+"Tika."
 
-"Kowe..." Tika menatapku, dan wajahnya yang bulat dan hangat berubah menjadi sesuatu yang belum pernah kulihat sebelumnya. "Kowe lolos."
+"Kamu..." Tika menatapku, dan wajahnya yang bulat dan hangat berubah menjadi sesuatu yang belum pernah kulihat sebelumnya. "Kamu lulus."
 
 Aku tidak mendengarnya. Aku mendengar bunyi dari dalam diriku sendiri, bunyi seperti tali yang putus setelah ditarik terlalu lama.
 
@@ -252,11 +252,11 @@ Seluruh Dusun Pucung datang mengantar ke jalan besar, sebagian membawa makanan, 
 
 "Aja lali."
 
-"Kula mboten badhe lali."
+"Aku ora bakal lali, Pak."
 
 Mbok Karni memelukku sampai tulang rusukku sakit. Pak Modin mendoakanku. Budhe Painem, yang datang naik angkot dari Wonosari, memasukkan sebuah bungkusan kecil ke dalam tasku tanpa menatapku.
 
-"Niki napa, Budhe?"
+"Iki opo, Budhe?"
 
 "Mukena. Lipet. Tipis. Ben mlebu neng koper." Budhe masih tidak menatapku. "Neng kono mesti angel golek panggon shalat. Aja lali shalat."
 
@@ -274,27 +274,27 @@ Ibu berdiri paling dekat. Ibu menyodorkan kaleng biskuit kecil, kaleng yang sama
 
 "Iki."
 
-"Bu, kula mboten ngagem arta niku."
+"Bu, aku ora nganggo dhuwit kuwi."
 
 "Aku ngerti."
 
-"Telung atus rolas ewu limang atus. Taksih utuh."
+"Telung atus rolas ewu limang atus. Isih utuh."
 
 "Aku ngerti." Ibu menatapku, dan matanya sangat jernih. "Kuwi go kowe. Nek kowe butuh mulih."
 
-"Bu, kula badhe wonten Inggris. Niku mboten cekap kangge..."
+"Bu, aku bakal neng Inggris. Kuwi ora cukup go..."
 
 "Kuwi dudu go tiket." Ibu memotong lembut. "Kuwi go nek kowe butuh ngerti ono panggonan mulih."
 
 Aku tidak sanggup menjawab. Aku membuka kaleng itu dan melihat isinya: gulungan uang kecil-kecil, lembar sepuluh ribuan, dua puluh ribuan, receh-receh yang sudah berkarat. Aku mengambil satu koin, koin lima ratus rupiah yang paling tua dan paling kusam, dan menggenggamnya di telapak tangan.
 
-"Kula bekta niki mawon," kataku. "Sing sanes simpen, Bu."
+"Aku gawa iki wae," kataku. "Sing liyane simpen, Bu."
 
 Ibu menatap koin itu, lalu aku, dan dengan satu gerakan lembut, Ibu menutup jemariku di atas koin itu dengan kedua tangannya.
 
 "Kuwi koin sing pertama," katanya. "Seko bengi kowe lara. Nalika Ibu ngitung dhuwit neng kaleng gedhe."
 
-"Ibu taksih eling?"
+"Ibu isih eling?"
 
 "Ibu eling kabeh sing swarane." Ibu tersenyum, kecil, dengan mata yang basah. "Gawanen."
 

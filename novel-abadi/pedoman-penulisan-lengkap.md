@@ -180,7 +180,7 @@ Rujukan lengkap: `04-adat-budaya.md`. Ringkasan aturan kerja:
 2. **Tradisi dan sains berdampingan.** Keluarga berobat ke dokter *dan* berdoa, selamatan, dan menerima doa Mbah. Tidak ada adegan "tradisi salah, sains benar".
 3. **Agama tidak jadi ceramah atau lelucon.** Wulan Muslim: shalat, doa Ibu, keringanan puasa bagi yang sakit. Tidak ada dakwah.
 4. **Hindari SARA.** Kekhasan Jawa adalah ciri tokoh dan tempat, bukan ciri "semua orang Jawa".
-5. **Unggah-ungguh:** anak kepada yang dituakan memakai nada hormat di dusun (*nggih, mboten, matur nuwun*); kepada sebaya, ngoko. Dialog keluarga dan dusun dalam **bahasa Jawa** (ngoko dari orang tua ke anak, krama madya dari anak ke orang tua dan nenek); dialog anak sebaya campuran Jawa-Indonesia; dokter, guru kelas, dan orang luar tetap Indonesia. Rincian dan daftar kalimat kunci di `02-panduan-suara.md` bagian 10.
+5. **Unggah-ungguh:** anak kepada yang dituakan memakai nada hormat di dusun (*nggih, mboten, matur nuwun*); kepada sebaya, ngoko. Dialog keluarga dan dusun dalam **bahasa Jawa ngoko halus** (bukan krama berat, bukan kasar); campuran Jawa-Indonesia hanya untuk anak SD dan teman kampung; guru, dokter, teman sebaya sejak SMP, dan Pak Karto berbahasa Indonesia. Rincian dan daftar kalimat kunci di `02-panduan-suara.md` bagian 10.
 6. **Nilai kerja:** rukun, sungkan/ewuh pakewuh, gotong royong (juga sebagai beban moral), isin, hormat pada orang tua. *Nrimo* tidak disamakan dengan pasrah.
 7. **Rasulan:** bersyukur atas panen; kerja bakti, kirab gunungan, kenduri (ingkung), pentas. Waktu pelaksanaan konsisten (minggu kedua Oktober).
 8. **Kematian:** pemakaman secepatnya; tahlilan (hari 1–7, 40, 100, setahun). Ditulis dengan hormat; tidak dijadikan ajang debat hukum.

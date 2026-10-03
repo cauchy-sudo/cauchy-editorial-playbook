@@ -59,7 +59,7 @@ Ibu menggenggam tanganku di dapur, di antara asap kayu bakar dan bau gula jawa y
 
 "Kowe nganggo opo, Nduk?"
 
-"Nganggo napa, Bu?"
+"Nganggo opo, Bu?"
 
 "Tanganmu." Ibu membalik telapakku, lalu punggungnya, seperti pedagang di pasar memeriksa buah. "Biyen kowe kuliah, tangan iki wis alus. Saiki kowe meh telung puluh, isih alus wae."
 
@@ -117,11 +117,11 @@ Ruang UKS di sekolah kami adalah satu kasur tipis di pojok ruang guru, dibatasi 
 
 "Itu apa, Bu?" tanyaku waktu Bu Siti datang membawa handuk basah.
 
-"Mikroskop." Bu Siti meletakkan handuk di keningku. "Dari bantuan. Pak Kepala wedi rusak, dadi durung tau dikeluarke."
+"Mikroskop." Bu Siti meletakkan handuk di keningku. "Dari bantuan. Pak Kepala takut rusak, jadi belum pernah dikeluarkan."
 
-"Wolung tahun?"
+"Delapan tahun?"
 
-"Wolung tahun," katanya, setengah tersenyum. "Wis, ojo akeh omong. Pipimu kuwi abang banget."
+"Delapan tahun," katanya, setengah tersenyum. "Sudah, jangan banyak bicara. Pipimu itu merah sekali."
 
 Dari pintu terdengar suara sandal diseret. Tika masuk dengan wajah seperti orang yang baru memenangkan sesuatu, kedua tangannya disembunyikan di belakang.
 
@@ -141,17 +141,17 @@ Bu Eni, bidan desa, datang selepas jam istirahat. Ia datang dengan motor bebek y
 
 Bu Eni menatap pipiku lama sekali. Terlalu lama untuk orang yang akan bilang bahwa ini cuma kepanasan.
 
-"Wis sarapan, Nduk?" tanyanya.
+"Tadi pagi sarapan?" tanyanya.
 
 "Tiwul, Bu."
 
-"Wiwit kapan sendine loro?"
+"Mulai kapan sendinya sakit?"
 
-"Rong minggu, Bu."
+"Dua minggu."
 
 Ia mengangguk, menutup tas, lalu keluar. Dari tempat tidurku aku bisa mendengar suaranya di teras, merendah, bicara pada Ibu yang rupanya sudah dipanggil Bu Siti lewat anak yang disuruh berlari.
 
-"Kula mboten wantun ngomong napa-napa, Bu Sum. Niki sanes tugas kula." Jeda. "Menawi saget, dipun beta dhateng dokter. Wonosari. Ingkang wonten alatipun."
+"Saya tidak berani bilang apa-apa, Bu Sum. Ini bukan kerja saya." Jeda. "Kalau bisa, dibawa ke dokter. Ke Wonosari. Yang ada alatnya."
 
 Aku menunggu Ibu menjawab. Tidak ada suara untuk beberapa saat, kecuali angin yang menggoyang daun jati di pinggir lapangan dan, entah di mana, seekor ayam yang berkokok pada jam yang salah.
 
@@ -161,11 +161,11 @@ Aku menunggu Ibu menjawab. Tidak ada suara untuk beberapa saat, kecuali angin ya
 
 Kami pulang berjalan kaki. Dua kilometer melewati ladang jagung yang sudah kering dan menguning, batangnya berbunyi tiap kali angin lewat. Ibu membawa payung hitam milik Mbah dan memaksaku berjalan di bawahnya, padahal tubuh Ibu sendiri separuh di luar payung dan separuh di bawah matahari.
 
-"Bu, kula mboten napa-napa."
+"Bu, aku ora popo."
 
 "Mlaku wae."
 
-"Namung pegel, Bu."
+"Mung pegel, Bu."
 
 "Mlaku wae, Nduk."
 
@@ -244,7 +244,7 @@ Puskesmas di Wonosari ramai seperti pasar yang kehilangan penjualnya. Orang dudu
 
 "Jamkesmas."
 
-"Mboten gadhah, Pak," kata Ibu pelan. "Jare kedah wonten ing balai desa, nanging nami kula dereng..."
+"Kami tidak punya," kata Ibu pelan. "Katanya namanya harus ada di balai desa, tapi nama kami belum..."
 
 "Ya sudah, umum. Tiga ribu."
 
@@ -292,7 +292,7 @@ Tetapi pada saat itu, di ruang pemeriksaan yang berbau alkohol dan sabun, aku ha
 
 Di jendela apotek, seorang perawat muda dengan jilbab biru tua memeriksa resepku, menghitung tablet, dan memasukkannya ke dalam plastik kecil. Namanya tertulis di dada: Nurul. Ia menyerahkan salep, dan tanpa bicara, ia mengambil satu tube lagi dari rak, menyelipkannya ke dalam plastik.
 
-"Niku mboten wonten resep, Mbak," kata Ibu.
+"Itu bukan di resep," kata Ibu.
 
 "Dari saya, Bu." Mbak Nurul menurunkan suaranya. "Bu, kalau dua minggu belum membaik, jangan menunggu. Bawa ke rumah sakit besar. Ke Yogya, kalau bisa."
 
@@ -302,7 +302,7 @@ Di jendela apotek, seorang perawat muda dengan jilbab biru tua memeriksa resepku
 
 Ibu menerima kertas itu dengan dua tangan, seperti menerima sesuatu yang suci. Ibu membacanya, padahal belum ada yang tertulis di sana, kecuali judul kolom yang dibuat Mbak Nurul dengan huruf besar yang rapi: TANGGAL. KELUHAN. DEMAM? OBAT.
 
-"Kula mboten saged nulis, Mbak."
+"Saya tidak pandai menulis, Mbak."
 
 "Nanti Wulan yang menulis." Mbak Nurul tersenyum kepadaku. "Kamu bisa, kan?"
 
@@ -469,7 +469,7 @@ Mbah tidak menjawab. Mbah mengupas kulit singkong dengan kuku, perlahan. "Ono wo
 
 Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak memihak siapa pun. Mungkin Ibu sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ibu memakai kata yang lebih halus daripada yang Ibu pakai pada siapa pun.
 
-"Sakmeniko rumiyin, Mbah. Mbenjing Bapak badhe mbeta Wulan dhateng dokter malih."
+"Mengko sik, Mbah. Sesuk Bapak arep nggawa Wulan menyang dokter maneh."
 
 "Yo." Mbah tidak membantah. Mbah menggigit singkongnya. "Dokter yo dokter. Dongo yo dongo. Aja dipilih salah siji, Sum. Loro-lorone ono gunane."
 
@@ -654,7 +654,7 @@ Mas Aji adalah orang yang tidak pernah tahu bagaimana mengatakan hal yang ia ras
 
 Antrean di loket pendaftaran lebih panjang daripada seluruh Dusun Pucung. Orang membawa map, kantong plastik, tas jinjing, dan bayi, dan tidak ada yang bicara. Petugas bertanya: "BPJS?"
 
-"Dereng," kata Mas Aji. "Jarene lagi wiwit taun ngarep."
+"Belum," kata Mas Aji. "Katanya baru mulai tahun depan."
 
 "Umum, ya. Ada surat keterangan tidak mampu?"
 
@@ -664,7 +664,7 @@ Dokter anak yang menerima kami bernama dr. Sumarni. Ia berusia lima puluhan, ber
 
 "Ini dibuat siapa?"
 
-"Wulan ingkang nulis, Dok," kata Ibu. "Mbak perawat wonten puskesmas ingkang nyuruh."
+"Wulan yang menulis, Dok," kata Ibu. "Mbak perawat di puskesmas yang menyuruh."
 
 "Perawat itu pintar." Dokter Sumarni menatap kami. "Jarang pasien datang membawa ini. Ini mempercepat banyak hal."
 
@@ -704,7 +704,7 @@ Ibu menggenggam tas kainnya.
 
 "Tes darah Wulan menunjukkan antibodi antinuklear positif. Itu salah satu penanda bahwa sistem kekebalan tubuhnya mungkin sedang menyerang tubuhnya sendiri." Ia berhenti sebentar, memastikan Ibu menangkap kalimat itu. "Dan protein di air seninya tiga plus."
 
-"Tiga plus itu..." kata Bapak, pelan. Itu pertama kali Bapak berbicara sejak pagi. "Kathah, Dok?"
+"Tiga plus itu..." kata Bapak, pelan. Itu pertama kali Bapak berbicara sejak pagi. "Banyak, Dok?"
 
 "Banyak."
 
@@ -759,11 +759,11 @@ Aku menunggu. Ada sesuatu di dalam diriku yang menahan napas, menunggu dokter me
 
 Ibu menatapku. Aku menunduk.
 
-"Dokter," kata Ibu, dan suaranya sangat rendah. "Niki... nular, Dok?"
+"Dokter," kata Ibu, dan suaranya sangat rendah. "Ini... menular?"
 
 "Tidak." Dokter Sumarni menjawab cepat dan tegas; ia sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
 
-"Napa... kutukan?"
+"Karena... kutukan?"
 
 "Bukan kutukan." Ia menatap Ibu lekat-lekat. "Bukan karena Ibu melakukan sesuatu. Bukan karena Bapak. Bukan karena Wulan. Tidak ada orang yang menyebabkannya. Tubuhnya hanya salah belajar."
 
@@ -793,11 +793,11 @@ Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat p
 
 "Matahari," kata dr. Sumarni. "Kamu harus menghindarinya. Payung, topi, lengan panjang. Tabir surya."
 
-"Tabir napa, Dok?" kata Ibu.
+"Tabir apa, Dok?" kata Ibu.
 
 "Krim pelindung. Bisa dibeli di apotek."
 
-"Regine pinten, Dok?"
+"Berapa harganya?"
 
 Dokter Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku melihat bagaimana bahu Bapak mengencang.
 
@@ -990,7 +990,7 @@ Aku menatap bayangan lagi. "Gelem," kataku. "Aku gelem nganggo."
 
 Ibu tersenyum, kecil, dan itu senyum yang berbeda dari yang diberikannya padaku di depan cermin di bulan Januari. Ibu masuk, menarik ujung kerudung yang miring, merapikannya dengan dua jari, dan berkata, "Mengko Ibu jahitke sing anyar. Sing ora kekecilan."
 
-"Mboten sah, Bu. Niki sampun cekap."
+"Ora usah, Bu. Iki wis cukup."
 
 "Sing anyar," kata Ibu, dengan nada yang tidak bisa dibantah. "Nganggo sing kowe pilih. Aja nganggo sing kowe kepeksa."
 
@@ -1002,19 +1002,19 @@ Yang kedua adalah upacara hari pertama.
 
 Upacara masa orientasi di SMP itu berlangsung di lapangan tanpa naungan pada pukul sembilan pagi bulan Juli. Aku berdiri di barisan kelas tujuh, di bawah payung hitam Mbah, dengan kerudung warisan Tika yang putihnya sudah kusam, dan wajah bulat yang sudah kuputuskan akan kuterima.
 
-Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Payung kuwi go opo? Kaya mbah-mbah."
+Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Itu payung buat apa? Kayak nenek-nenek."
 
 Aku tidak menoleh. Aku sudah tahu bagaimana ini berjalan: mereka akan tertawa, aku akan mengatakan sesuatu yang lucu, mereka akan berhenti. Aku mulai menyusun kalimat.
 
-"Nunut yo?"
+"Boleh numpang?"
 
 Aku menoleh. Seorang anak laki-laki berdiri di sebelahku, tinggi, kurus, dengan rambut hitam yang dipotong pendek dan wajah yang terbakar matahari sampai hidungnya mengelupas. Ia tersenyum lebar, dengan gigi yang agak maju dan alis yang naik. Di tangannya ada topi sekolah yang tidak ia pakai.
 
-"Panas tenan," katanya. "Payungmu gedhe."
+"Panas banget," katanya. "Payungmu gede."
 
 Anak-anak di belakang kami mulai bersiul. Seseorang berseru "Cieee." Anak itu tidak menoleh. Ia hanya menunggu, dengan sedikit mengangkat bahu seakan itu hal yang paling wajar di dunia.
 
-"Yo," kataku.
+"Boleh," kataku.
 
 Ia melangkah masuk di bawah naungan payung, dan karena payung itu tidak terlalu besar, kami terpaksa berdiri berdekatan, tidak terlalu dekat, tetapi cukup sehingga aku bisa mencium bau sabun murahan dan sinar matahari di bajunya. Kepala sekolah di depan membacakan sesuatu tentang disiplin dan kejujuran.
 
@@ -1022,13 +1022,13 @@ Ia melangkah masuk di bawah naungan payung, dan karena payung itu tidak terlalu 
 
 "Wulan."
 
-"Wulan Bulan, yo? Aku krungu seko bocah-bocah. Keren uga."
+"Wulan Bulan, ya? Aku dengar dari anak-anak. Keren juga."
 
 Aku menatap lurus ke depan. Pipiku panas. Ia tidak boleh melihat, dan itu tidak mungkin, karena pipiku besar dan terang.
 
 "Biasa saja," kataku.
 
-"Ngomong-ngomong, kayane aku sekelas karo kowe. Kelas 7B. Aku ndelok daftar mau."
+"Ngomong-ngomong, kayaknya aku sekelas sama kamu. Kelas 7B. Aku lihat daftar tadi."
 
 Aku tidak menjawab. Sepanjang sisa upacara, aku memegang payung dengan sangat hati-hati, seakan di bawahnya berdiri sesuatu yang bisa pecah.
 
@@ -1045,21 +1045,21 @@ Pak Karto tujuh puluh tahun, mantan guru SD yang pensiun sebelum aku lahir, deng
 
 Aku menemukan buku itu pada Sabtu kedua bulan Agustus, ketika aku mengintip lemari kaca sambil berteduh dari matahari di bawah teras.
 
-"Kuwi dudu go kowe," kata Pak Karto, tanpa membuka mata. Ia sedang duduk di kursi rotan, dengan kopiah miring dan radio kecil yang menyiarkan sesuatu tentang harga cabai.
+"Itu bukan buat kamu," kata Pak Karto, tanpa membuka mata. Ia sedang duduk di kursi rotan, dengan kopiah miring dan radio kecil yang menyiarkan sesuatu tentang harga cabai.
 
-"Kenging napa, Pak?"
+"Kenapa bukan, Pak?"
 
 "Kelas sebelas."
 
-"Kula mboten keberatan."
+"Saya tidak keberatan."
 
-"Aku sing keberatan." Pak Karto membuka satu mata. "Tapi yo wis. Ono aturane."
+"Saya yang keberatan." Pak Karto membuka satu mata. "Tapi baiklah. Ada aturannya."
 
 "Apa aturannya?"
 
-"Dipinjem seminggu. Dibalekke karo siji pitakonan."
+"Dipinjam seminggu. Dikembalikan dengan satu pertanyaan."
 
-"Pitakonan?"
+"Pertanyaan?"
 
 "Bukan ringkasan. Bukan kesan. Satu pertanyaan, yang kamu tidak bisa jawab sendiri setelah membaca buku itu." Ia menutup matanya lagi. "Kalau kamu tidak punya pertanyaan, berarti kamu belum membaca."
 
@@ -1125,11 +1125,11 @@ Kadang aku merasa seperti anak yang diselundupkan masuk ke sebuah rumah yang seh
 
 Bu Siti menelepon ke tetangga pada pertengahan September. Pak Hasan di ujung dusun, satu-satunya yang punya telepon, memanggilku dari pekarangannya dan menyerahkan gagang telepon seakan menyerahkan telur.
 
-"Wulan." Suara Bu Siti terdengar jauh dan agak bergetar. "Mrene neng sekolah dina Setu. Esuk."
+"Wulan." Suara Bu Siti terdengar jauh dan agak bergetar. "Datang ke sekolah hari Sabtu. Pagi."
 
-"Wonten napa, Bu?"
+"Ada apa, Bu?"
 
-"Teka wae."
+"Datang saja."
 
 Aku tiba di SD Negeri Pucung pada Sabtu pagi, dengan payung hitam dan lengan panjang dan seragam batik yang lusuh. Sekolah itu kosong, dengan bunyi serangga di lapangan dan pintu ruang guru terbuka.
 
@@ -1239,11 +1239,11 @@ Aku tahu itu baris yang jelek. Tapi aku tidak sempat memperbaikinya, karena pada
 
 Aku kembali ke kelas dan menemukan sesuatu yang berbeda dalam cara mereka menatapku. Lebih lama. Lebih senang.
 
-"Wul," kata Rina, yang duduk di barisan depan, dan yang hidupnya adalah pengumuman. "Puisine apik tenan."
+"Wulan," kata Rina, yang duduk di barisan depan, dan yang hidupnya adalah pengumuman. "Puisinya bagus banget."
 
 Aku berhenti di pintu.
 
-"Puisi opo?"
+"Puisi apa?"
 
 Rina berdiri. Di tangannya buku tulis IPA-ku, terbuka pada halaman terakhir. Ia berdeham, mengangkat kertas itu setinggi dada, dan berkata dengan suara yang penuh perasaan dari seseorang yang sudah menanti kesempatan ini seumur hidupnya.
 
@@ -1265,15 +1265,15 @@ Ia sedang duduk menghadap papan tulis, dengan tangan menopang dagu, dan telingan
 
 "Cieeeee," kata dua puluh sembilan orang lain.
 
-Aku ingin menghilang. Aku ingin mengubah diriku menjadi sel bawang. Seorang anak laki-laki di barisan belakang berseru sesuatu yang kudengar jelas, dan kusimpan dalam laci kecil di dalam kepalaku untuk selalu mengingatnya: "Wulan Bulan naksir Bagus! Ngilo disik, Lan!"
+Aku ingin menghilang. Aku ingin mengubah diriku menjadi sel bawang. Seorang anak laki-laki di barisan belakang berseru sesuatu yang kudengar jelas, dan kusimpan dalam laci kecil di dalam kepalaku untuk selalu mengingatnya: "Wulan Bulan naksir Bagus! Ngaca dulu, Lan!"
 
 Kelas tertawa. Tidak semua. Beberapa menahan.
 
-Bagus berdiri. Ia tidak marah. Ia tidak juga tertawa. Ia melihat anak yang berseru tadi, lalu menggaruk belakang lehernya, dan berkata dengan suara yang agak serak, "Kenopo sih? Puisine apik."
+Bagus berdiri. Ia tidak marah. Ia tidak juga tertawa. Ia melihat anak yang berseru tadi, lalu menggaruk belakang lehernya, dan berkata dengan suara yang agak serak, "Kenapa sih? Puisinya bagus."
 
 "Hah?"
 
-"Puisine apik," ulangnya. "Jenengku Bagus. Dadi nek puisine ngomong bagus, yo kuwi bagus." Ia menoleh padaku. Telinganya masih merah. "Aku ora iso gawe puisi. Tapi nek Wulan gelem, aku iso ngajari voli."
+"Puisinya bagus," ulangnya. "Namaku Bagus. Jadi kalau puisinya bilang bagus, ya itu bagus." Ia menoleh padaku. Telinganya masih merah. "Aku nggak bisa bikin puisi. Tapi kalau Wulan mau, aku bisa ngajarin voli."
 
 Kelas diam. Sesaat. Lalu tawa pecah lagi, tapi kali ini tertuju pada hal lain, pada Bagus dan kalimatnya yang tak masuk akal, pada Rina yang kebingungan, pada seluruh keadaan yang terlalu besar untuk seorang anak tiga belas tahun.
 
@@ -1281,7 +1281,7 @@ Bu Ratmi yang berdiri di belakangku, entah sejak kapan, berkata dengan suara dat
 
 Rina mengembalikan buku itu tanpa menatapku. Aku duduk di bangkuku dan memandangi meja.
 
-Itu bukan jawaban. Aku tahu itu. *Aku iso ngajari voli* adalah kalimat yang dipakai seorang anak laki-laki kepada anak perempuan yang ia anggap teman. Tapi itu juga kalimat yang diucapkan di depan tiga puluh orang oleh seseorang yang tidak perlu mengucapkannya, dan aku tidak tahu harus merasa lega atau kehilangan.
+Itu bukan jawaban. Aku tahu itu. *Aku bisa ngajarin voli* adalah kalimat yang dipakai seorang anak laki-laki kepada anak perempuan yang ia anggap teman. Tapi itu juga kalimat yang diucapkan di depan tiga puluh orang oleh seseorang yang tidak perlu mengucapkannya, dan aku tidak tahu harus merasa lega atau kehilangan.
 
 ---
 
@@ -1325,7 +1325,7 @@ Malamnya, Ibu mendengar semuanya dari ibu Tika, yang mendengarnya dari Rina, yan
 
 "Wong tuwane apik?"
 
-"Kula mboten ngertos."
+"Aku ora ngerti, Bu."
 
 "Goleki." Ibu terus menyisir. "Tapi mengko. Sekolah disik."
 
@@ -1345,11 +1345,11 @@ Aku menyampaikannya pada Ibu, dan Ibu mengangguk seakan itu bukan masalah, dan a
 
 "Kowe tetep melu sahur," katanya. "Tangi bareng. Mangan bareng."
 
-"Nanging kula mboten pasa."
+"Nanging aku ora pasa, Bu."
 
 "Gusti Allah ora mbebani."
 
-"Kula mboten penak, Bu."
+"Aku ora penak, Bu."
 
 "Kowe lara, Nduk. Kuwi dudu dosa. Kuwi mung lara."
 
@@ -1369,7 +1369,7 @@ Aku diam.
 
 "Kowe krasa salah." Mbah duduk di bangku dapur dan mengambil sendok dari tanganku. "Rungokno. Biyen nalika Mbah enom, Mbah duwe tangga sing ora iso pasa amarga lara lambung. Dheweke pasa nganggo cara liya. Saben dina ngekei mangan siji bocah yatim. Wong ngomong kuwi ora cukup. Nanging Gusti Allah ora maca kitabe wong, Nduk. Dheweke maca ati."
 
-"Kula mboten gadhah arta kangge maringi dhahar tiyang, Mbah."
+"Aku ora duwe dhuwit go ngekei mangan wong, Mbah."
 
 "Mengko nek kowe duwe." Mbah menaruh sendok kembali di tanganku. "Saiki mangan. Kuwi uga ibadah. Jaga awak sing dipasrahke marang kowe."
 
@@ -1399,7 +1399,7 @@ Aku berjalan pulang dengan pelan. Di jalan, aku bertemu Mbok Karni, yang membawa
 
 "Ono opo, Nduk?"
 
-"Kanca kula, Mbok. Wonten rumah sakit. Seda."
+"Kancaku, Mbok. Neng rumah sakit. Seda."
 
 Mbok Karni meletakkan bakulnya di tanah. Ia memeluk aku, erat dan tiba-tiba, bau bawang dan keringat dan tanah, dan aku terkejut karena aku tidak tahu bahwa perempuan yang pernah berbisik tentang kiriman dan kutukan di dapur rumahku bisa memeluk begitu kencang.
 
@@ -1440,19 +1440,19 @@ Mas Aji berhenti sekolah pada Februari 2016, di bangku kelas sebelas SMA, dengan
 
 Ia pulang ke Pucung pada Sabtu sore dengan ransel di punggung dan wajah orang yang sudah memutuskan, dan menaruh ransel itu di lantai ruang tengah di depan Bapak dan Ibu. Aku duduk di tikar dengan buku IPA di pangkuan, pura-pura membaca.
 
-"Kula pengin mandheg," katanya.
+"Aku pengin mandheg," katanya.
 
 Bapak tidak menjawab.
 
-"Kula sampun ngomong kaliyan Pakdhe Danu. Piyambakipun wonten Batam. Wonten gawean ing galangan kapal, bagian angkut-angkut. Jare Pakdhe, kula sampun cukup dhuwur kangge dipun ngakoni pitulas taun. Gajine rong yuta luwih. Kula saged ngirim saben wulan."
+"Aku wis ngomong karo Pakdhe Danu. Dheweke neng Batam. Ono gawean neng galangan kapal, bagian angkut-angkut. Jare Pakdhe, aku wis cukup dhuwur go diaku pitulas taun. Gajine rong yuta luwih. Aku iso ngirim saben wulan."
 
 "Sekolahmu piye?" Suara Ibu sangat tipis.
 
-"Mboten napa-napa. Kula mboten pinter, Bu. Wulan sing pinter. Kula namung damel boros." Mas Aji berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, niku sedaya... kula ngertos awake dhewe dereng cukup. Pakdhe Harjo ugi sampun utang kangge cincin Ibu."
+"Ora popo. Aku ora pinter, Bu. Wulan sing pinter. Aku mung gawe boros." Mas Aji berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, kuwi kabeh... aku ngerti awake dhewe durung cukup. Pakdhe Harjo uga wis utang go cincin Ibu."
 
 "Kuwi dudu urusanmu, Ji."
 
-"Niku urusan kula, Bu."
+"Kuwi urusanku, Bu."
 
 Hening yang menyusul begitu panjang sehingga aku bisa mendengar ayam bertengkar di kolong dipan. Bapak menarik napas panjang, dan dalam seluruh hidupku, aku belum pernah melihat Bapak memandang anak sulungnya selama itu.
 
@@ -1540,13 +1540,13 @@ Tika lolos juga. Kami berdiri di tengah ladang, di bawah matahari yang tidak bol
 
 Bagus, yang memilih sekolah kejuruan di Playen, berbeda arah dan berbeda nasib, mampir ke rumahku seminggu sebelum aku berangkat. Ia menaruh sebuah bola voli yang sudah lusuh di bangku teras.
 
-"Aku isih utang ngajari kowe voli," katanya.
+"Aku masih utang ngajarin kamu voli," katanya.
 
-"Aku isih ora oleh kena srengenge."
+"Aku masih nggak boleh kena matahari."
 
-"Nek ngono voli neng njero ruangan." Ia nyengir, dan gigi majunya terlihat. Ia sudah lebih tinggi dariku dua kepala sekarang. "Aku tenan, Lan. Nek kowe mulih, kabari. Tak ajari."
+"Kalau gitu voli dalam ruangan." Ia nyengir, dan gigi majunya terlihat. Ia sudah lebih tinggi dariku dua kepala sekarang. "Aku serius, Lan. Kalau kamu pulang, hubungi. Aku ajarin."
 
-"Iyo."
+"Iya."
 
 "Janji."
 
@@ -1558,11 +1558,11 @@ Hari keberangkatanku jatuh pada Minggu pertama Juli. Ibu bangun sejak subuh dan 
 
 Mbah Darmi datang dengan sarung dan tongkatnya, dan menyelipkan sesuatu ke dalam telapak tanganku: segulung uang lima puluh ribuan yang diikat dengan karet gelang.
 
-"Mbah, mboten sah."
+"Mbah, ora usah."
 
 "Iki dudu go kowe. Iki go pelindungmu." Mbah menutup jemariku di atas gulungan itu. "Tuku payung anyar nek sing lawas rusak."
 
-"Payunge taksih sae."
+"Payunge isih apik."
 
 "Tuku wae." Mbah tersenyum tipis. "Nduk. Aja lali mulih."
 
@@ -1600,17 +1600,17 @@ Tiga kalimat pertama kuanggap wajar. Kalimat keempat baru kupahami ketika aku be
 
 "Wulan Rahayu Ningsih?" Bu Haji Sunarti berdiri di ambang pintu dengan kerudung kuning gading, kacamata baca di ujung hidung, dan kemampuan menatap orang dengan cara yang membuat mereka merasa sudah ketahuan melakukan sesuatu. Usianya enam puluhan. Suaranya lebih besar daripada tubuhnya. "Kamar sembilan. Satu kamar berdua. Seratus tujuh puluh lima ribu sebulan, air dan listrik sudah termasuk. Bayar tanggal lima. Kalau telat, bilang. Jangan menghindar. Aku paling benci kalau orang menghindar."
 
-"Nggih, Bu."
+"Iya, Bu."
 
 "Ini Tika?"
 
-"Nggih, Bu Haji."
+"Iya, Bu Haji."
 
-"Berarti kalian berdua yang akan berbagi lemari. Ojo padu soal lemari. Biyen ono bocah loro sing nganti lapor polisi."
+"Berarti kalian berdua yang akan berbagi lemari. Jangan bertengkar soal lemari. Dulu ada dua anak yang sampai lapor polisi."
 
 "Polisi, Bu?"
 
-"Soal kaus kaki." Bu Haji menghela napas dalam-dalam, sudah terlalu banyak yang ia saksikan. "Mlebu wae."
+"Soal kaus kaki." Bu Haji menghela napas dalam-dalam, sudah terlalu banyak yang ia saksikan. "Masuklah."
 
 Kamar sembilan di lantai dua berukuran tiga kali tiga meter, dengan satu jendela menghadap tembok rumah sebelah, satu kipas angin yang berputar dengan bunyi ketukan, dan dua kasur tipis dengan seprai berbunga yang warnanya sudah ditelan cuci. Di dinding ada satu paku bekas gantungan bingkai. Di sudut, sebuah lemari kayu dengan pintu yang miring.
 
@@ -1644,7 +1644,7 @@ Tapi rencana yang rapi biasanya tidak memperhitungkan nafsu makan anak lima bela
 
 Aku mulai makan sekali sehari. Tiwul dari Ibu di pagi hari, dengan gula jawa dan sedikit garam. Siang hari aku makan separuh bekal dan menyimpan separuh lagi. Malam hari aku minum air banyak-banyak dan membuka buku.
 
-Tika tahu. Tapi Tika, yang punya orang tua lebih mampu dariku dan kiriman uang yang lebih lancar, tidak tahu bagaimana mengatakannya tanpa menyakitiku. Ia hanya mulai membawa pulang dua porsi nasi bungkus dari kantin dan berkata, dengan wajah lurus: "Salah tuku. Aku ora kuat ngentekke."
+Tika tahu. Tapi Tika, yang punya orang tua lebih mampu dariku dan kiriman uang yang lebih lancar, tidak tahu bagaimana mengatakannya tanpa menyakitiku. Ia hanya mulai membawa pulang dua porsi nasi bungkus dari kantin dan berkata, dengan wajah lurus: "Salah beli. Aku nggak kuat habiskan."
 
 Aku tahu ia bohong. Ia tahu aku tahu. Aku memakannya.
 
@@ -1654,9 +1654,9 @@ Pada Jumat malam minggu keempat, Bu Haji memanggilku ke teras.
 
 Aku duduk di kursi plastik di seberang meja. Ia melipat korannya, meletakkannya di pangkuan, dan menatapku dengan mata yang sama seperti ketika memeriksa jam malam.
 
-"Kowe kuru."
+"Kamu kurus."
 
-"Kula... lagi diet, Bu."
+"Saya... sedang diet, Bu."
 
 "Anak lima belas tahun tidak diet." Ia mengatakannya tanpa emosi. "Kamu makan sekali sehari. Tika membawa pulang dua bungkus tiap sore. Aku punya mata, Nduk."
 
@@ -1664,7 +1664,7 @@ Aku menatap meja.
 
 "Kamu lupus." Aku mengangkat kepala, terkejut. "Surat dokter yang dibawa ibumu ke sini. Aku membacanya. Aku harus tahu, supaya kalau kamu pingsan di kamar mandi aku tahu apa yang harus dilakukan. Itu bukan urusan sopan santun. Itu keselamatan."
 
-"Nggih, Bu."
+"Iya, Bu."
 
 "Penyakit seperti itu butuh makan teratur. Tidak ada keringanan untuk itu." Ia mengambil tehnya dan meminumnya sedikit. "Jadi begini. Mulai besok, kamu bantu aku. Pagi, sapu halaman, lima belas menit. Sore, cuci piring bekas makan malam, sepuluh menit. Sebagai gantinya, kamu makan malam di dapurku. Dua kali seminggu dulu."
 
@@ -1733,27 +1733,27 @@ Aku mulai membenci kata itu. Aku mulai mencintainya juga.
 
 Tika menganggapku gila.
 
-"Telung kali seminggu? Nganti jam enem? Kowe kuwi duwe urip, Wul."
+"Tiga kali seminggu? Sampai jam enam? Kamu punya kehidupan, Wulan."
 
-"Aku duwe urip."
+"Aku punya kehidupan."
 
-"Uripmu isine buku lan obat lan Bu Haji. Kuwi dudu urip. Kuwi jadwal."
+"Kehidupanmu isinya buku dan obat dan Bu Haji. Itu bukan kehidupan. Itu jadwal."
 
-"Aku seneng jadwalku."
+"Aku suka jadwalku."
 
-"Kowe seneng jadwal amarga kowe durung ngerti ono liyane." Tika menjatuhkan diri ke kasur dan menatap langit-langit. Fan di atasnya berputar dan mengetuk. "Dina Setu ono acara neng alun-alun. Ono musik. Ono bakso bakar. Ono bocah lanang."
+"Kamu suka jadwal karena kamu belum tahu ada hal lain." Tika menjatuhkan diri ke kasur dan menatap langit-langit. Fan di atasnya berputar dan mengetuk. "Hari Sabtu ada acara di alun-alun. Ada musik. Ada bakso bakar. Ada anak laki-laki."
 
-"Aku ora oleh kena srengenge."
+"Aku nggak boleh kena matahari."
 
-"Kuwi bengi."
+"Itu malam hari."
 
-"Aku isih duwe tugas."
+"Aku masih punya tugas."
 
-"Wul." Tika bangun dan duduk bersila menghadapku. Wajahnya serius, sesuatu yang jarang terjadi. "Kowe hebat. Aku tenan. Tapi kowe dudu mesin."
+"Wulan." Tika bangun dan duduk bersila menghadapku. Wajahnya serius, sesuatu yang jarang terjadi. "Kamu hebat. Aku serius. Tapi kamu bukan mesin."
 
-"Aku ngerti."
+"Aku tahu."
 
-"Kowe ora ngerti. Kowe ngira nek mandheg sedhela, penyakite menang."
+"Kamu tidak tahu. Kamu mengira kalau berhenti sebentar, penyakitnya menang."
 
 Aku tidak menjawab. Ia benar, dan aku tidak punya kalimat untuk mengakuinya.
 
@@ -2057,19 +2057,19 @@ Tika yang mendaftarkanku ke pentas seni sekolah, tanpa bertanya, dan aku mengeta
 
 Aku berdiri di depan papan itu lama sekali, dan sebelum sempat membalas apa pun, bahuku ditepuk dari belakang.
 
-"Aku ngomong ke Daffa kowe iso nyanyi," kata Tika, dengan wajah yang tidak merasa bersalah. "Kowe iso."
+"Aku bilang ke Daffa kamu bisa nyanyi," kata Tika, dengan wajah yang tidak merasa bersalah. "Kamu bisa."
 
-"Aku ora tau nyanyi neng ngarep wong."
+"Aku nggak pernah nyanyi di depan orang."
 
-"Kowe nyanyi saben bengi neng kamar mandi."
+"Kamu nyanyi tiap malam di kamar mandi."
 
-"Kuwi kamar mandi!"
+"Itu kamar mandi!"
 
-"Akustike apik." Tika menarik lenganku. "Wul. Kowe kuwi kaya bakso: nek ora ono sing mangan, kowe ora sadar nek kowe enak."
+"Dengan akustik yang bagus." Tika menarik lenganku. "Wulan. Kamu itu seperti bakso: kalau tidak ada yang makan, kamu tidak sadar kamu enak."
 
-"Kuwi perumpamaan paling elek sing tau tak rungokke."
+"Itu perumpamaan terburuk yang pernah kudengar."
 
-"Tapi kowe ngguyu."
+"Tapi kamu ketawa."
 
 Aku memang tertawa.
 
@@ -2095,11 +2095,11 @@ Tika mengintip dari balik tirai. "Penuh. Ada anak SMP juga. Ada guru. Ada Bu Haj
 
 "*Apa?*"
 
-"Bu Haji lungguh neng baris kapindho. Karo Bu Rini. Dheweke nggawa termos."
+"Bu Haji duduk di baris kedua. Dengan Bu Rini. Dia bawa termos."
 
 "Aku mau pulang."
 
-"Mulih menyang ngendi? Gerbange dikunci. Iki dudu ide apik go mlayu."
+"Pulang ke mana? Gerbangnya dikunci. Ini bukan ide bagus untuk lari."
 
 Giliranku tiba setelah tim biologi membacakan puisi tentang mitokondria, dengan dramatisasi yang mengundang tawa dan tepuk tangan. Di panggung, di bawah satu lampu kuning yang terlalu terang, aku berdiri sendiri memegang mikrofon. Hanya ada satu kursi, dan sebuah gitar akustik di tangan seorang anak laki-laki yang mengiringi.
 
@@ -2187,7 +2187,7 @@ Tika berhenti sebentar di meja sebelah, melihat ke arah suara itu, lalu berjalan
 
 Tak ada yang menjawab.
 
-"Aku sekamar karo dheweke setaun luwih. Dheweke mangan sepisan sedina nalika dhuwite entek lan ora tau njaluk marang sopo-sopo. Dheweke nyapu latar Bu Haji saben esuk ben iso mangan bengi. Dheweke nyanyi neng pentas karo sikil gemeter. Dheweke nolak Daffa, lan nolake luwih sopan tinimbang sing iso kowe kabeh lakoni nek ditakoni sing kowe ora gelem." Tika menarik napas. "Nek kuwi sombong, yo aku gelem uga."
+"Aku sekamar sama dia setahun lebih. Dia makan sekali sehari waktu uangnya habis dan tidak pernah minta ke siapa pun. Dia sapu halaman Bu Haji tiap pagi supaya bisa makan malam. Dia nyanyi di pentas dengan kaki gemetar. Dia nolak Daffa, dan dia nolaknya dengan lebih sopan daripada yang bisa kalian lakukan kalau ditanya sesuatu yang kalian nggak mau." Tika menarik napas. "Kalau itu sombong, ya aku mau juga."
 
 Seisi kantin hening. Penjual bakso di pojok berhenti mengaduk. Seseorang menjatuhkan sendok.
 
@@ -2199,11 +2199,11 @@ Aku menutup mukaku dengan telapak tangan dan tertawa sampai air mataku keluar.
 
 Bu Haji memanggilku ke teras pada hari Rabu.
 
-"Kowe nolak Daffa?"
+"Kamu menolak Daffa?"
 
-"Nggih, Bu."
+"Iya, Bu."
 
-"Piye carane?"
+"Bagaimana caranya?"
 
 Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika aku selesai, ia mengangguk sekali.
 
@@ -2217,9 +2217,9 @@ Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika ak
 
 "Nenekmu orang baik."
 
-"Nggih, Bu. Piyambakipun..." Aku berhenti. "Sampun sepuh. Sawetawis wulan niki sakit-sakitan."
+"Iya, Bu. Dia..." Aku berhenti. "Dia sudah tua. Beberapa bulan ini dia sakit-sakitan."
 
-"Muliha nek kowe iso. Wong tuwa ora nunggu suwe." Bu Haji membuka korannya.
+"Pulanglah kalau kamu bisa. Orang tua tidak menunggu lama." Bu Haji membuka korannya.
 
 Aku mengangguk. Ia tidak menoleh.
 
@@ -2239,7 +2239,7 @@ Kemudian aku berdiri, mencuci tangan dengan sabun, kembali ke kamar sembilan, da
 
 Aku tidak menyiram dan pura-pura. Aku tidak menyembunyikan apa pun. Aku membangunkan Tika, dan ketika ia membuka mata dengan wajah mengantuk dan bingung, aku berkata, dengan suara yang tak kukenal sebagai suaraku sendiri:
 
-"Tik. Aku kudu menyang rumah sakit neng Yogya. Dina iki. Tulung omongke Bu Haji."
+"Tik. Aku harus ke rumah sakit di Yogya. Hari ini. Tolong bilang ke Bu Haji."
 
 
 ---
@@ -2268,7 +2268,7 @@ Aku duduk di kursi pasien. Di sampingku Ibu, yang tiba dari Pucung dengan bus pe
 
 "Saya perlu mengambil sampel dari ginjalmu. Biopsi. Itu satu-satunya cara untuk tahu seberapa parah, dan obat apa yang paling cocok."
 
-Ibu menarik napas pelan. "Niku... sakit, Dok?"
+Ibu menarik napas pelan. "Itu... sakit, Dok?"
 
 "Dia akan dibius lokal. Prosedurnya sekitar satu jam. Dia harus berbaring tidak bergerak selama enam jam sesudahnya." Dokter Sumarni menoleh kepadaku. "Takut?"
 
@@ -2282,11 +2282,11 @@ Biopsi itu tidak seburuk yang kubayangkan, dan tidak sebaik yang dijanjikan. Aku
 
 Selama enam jam sesudahnya aku tidak boleh bergerak. Ibu duduk di kursi di samping ranjang, dan Tika, yang sudah berjam-jam duduk di lorong, akhirnya diizinkan masuk dan duduk di lantai di bawah jendela dengan buku catatan di pangkuan.
 
-"Aku nggawa tugas kimia," katanya.
+"Aku bawa tugas kimia," katanya.
 
-"Kowe arep ngerjake tugas neng rumah sakit?"
+"Kamu mau mengerjakan tugas di rumah sakit?"
 
-"Aku arep ngerjake karo nemoni kowe. Kuwi beda." Tika membuka buku dan menggaruk dagu dengan pensil. "Wul. Nek kowe ngerti rumus iki, kandhani, soale aku ora paham."
+"Aku mau mengerjakannya sambil menemani kamu. Itu beda." Tika membuka buku dan menggaruk dagu dengan pensil. "Wulan. Kalau kamu tahu rumus ini, kasih tahu, soalnya aku nggak paham."
 
 Aku tertawa, dan tertawa itu menarik perutku, dan perawat di ujung ruangan menegurku untuk tidak bergerak. Tika menutup mulutnya dengan tangan dan tertawa tanpa suara, dengan bahu yang bergetar.
 
@@ -2360,13 +2360,13 @@ Tamu datang pada hari Minggu, berombongan, seperti serombongan burung yang terse
 
 Tika pertama, dengan tiga kotak titipan dari teman-teman kelas dan sebuah kartu besar yang ditandatangani tiga puluh enam orang, dengan gambar kupu-kupu yang digambar Rina. Rina sendiri berdiri di belakang Tika, dengan wajah merah, tak berani menatap mataku.
 
-"Aku... aku arep njaluk ngapura," katanya. "Bab puisi."
+"Aku... aku mau minta maaf," katanya. "Soal puisi."
 
-"Kuwi wis patang taun kepungkur."
+"Itu sudah empat tahun lalu."
 
-"Tapi aku durung njaluk ngapura."
+"Tapi aku belum minta maaf."
 
-"Rin." Aku tertawa, dan itu membuat selangku sakit. "Gambarmu apik. Kupu-kupune miring, tapi apik."
+"Rina." Aku tertawa, dan itu membuat selangku sakit. "Gambarmu bagus. Kupu-kupunya miring, tapi bagus."
 
 Pak Hendra datang berikutnya dengan sekantong buku catatan fotokopi dan sebuah berkas tebal. "Soal-soal olimpiade tahun lalu. Dan tahun sebelumnya. Dan buku latihan yang saya pinjam dari seorang kenalan di universitas." Ia menaruhnya di meja. "OSN tingkat kabupaten dibuka bulan Maret. Kamu tidak akan bisa ikut."
 
@@ -2388,7 +2388,7 @@ Ia berdiri di pintu dengan ransel dan sebuah bungkusan di tangan. Ia tidak masuk
 
 "Naufal," kata Ibu. "Mlebu wae, Le."
 
-"Matur nuwun, Bu." Ia melangkah masuk, dan membungkuk sedikit kepada Ibu. Lalu ia menyerahkan bungkusan itu padaku.
+"Terima kasih, Bu." Ia melangkah masuk, dan membungkuk sedikit kepada Ibu. Lalu ia menyerahkan bungkusan itu padaku.
 
 Aku membukanya. Radioku. Dengan antena baru, kabel tembaga tipis yang digulung rapi dan ujungnya dililit plester biru.
 
@@ -2497,7 +2497,7 @@ Aku duduk di sampingnya. Kami berdua menatap foto itu.
 
 "Ngapura opo?"
 
-"Kula mboten wonten."
+"Aku ora ono."
 
 "Kowe lara." Ibu menggenggam jemariku, dan telapaknya kasar dan hangat. "Mbah ngerti. Dheweke ngerti kowe ora iso teka. Dheweke ngomong ngono sadurunge..."
 
@@ -2527,11 +2527,11 @@ Pada malam keenam, setelah semua selesai, Pak Dukuh mendekatiku.
 
 "Wis dirawat?"
 
-"Sampun, Pak. Dokter Sumarni."
+"Wis, Pak. Dokter Sumarni."
 
 "Warga..." Pak Dukuh berhenti, menggaruk lehernya. "Warga wis ngerti. Mbok Karni sing ngabari kabeh wong. Awake dhewe wis rembugan. Awake dhewe arep ngumpulke meneh."
 
-"Pak, mboten sah. Sampun taun-taun kepungkur..."
+"Pak, ora usah. Wis taun-taun kepungkur..."
 
 "Wis ono BPJS, yo. Tapi ongkose? Obat sing ora ditanggung? Maem Ibumu neng rumah sakit?" Pak Dukuh mengangkat tangan. "Aku ora njaluk idinmu. Aku mung ngabari. Kuwi urusane dusun."
 
@@ -2545,7 +2545,7 @@ Aku menatapnya. Di wajah gemuk dan ramah itu, aku melihat bahwa tak ada rasa bel
 
 "Aku tenan."
 
-"Kula inggih tenan."
+"Aku yo tenan, Pak."
 
 ---
 
@@ -2555,7 +2555,7 @@ Pada malam ketujuh, ketika tahlilan terakhir selesai dan tamu sudah pulang, Ibu 
 
 Aku membukanya. Di dalam, terlipat rapi, ada payung hitam yang kukenal. Gagangnya dari kayu halus dengan ukiran tangkai padi. Kainnya sudah sedikit pudar.
 
-"Niki duwekke Mbah," kataku. "Dheweke ngendika dipinjemke."
+"Iki duwekke Mbah," kataku. "Mbah ngendika dipinjemke."
 
 "Dheweke ngomong nganti kowe duwe dhewe." Ibu duduk di tikar. "Nanging sadurunge lunga, dheweke ngomong marang aku: nek ono opo-opo, kekna Wulan. Dheweke ngomong kowe bakal butuh."
 
@@ -2565,7 +2565,7 @@ Aku menatap payung itu. Dalam diam, aku mengingat Mbah yang berjalan di bawah ma
 
 "Ono neng keranjang."
 
-"Kula ingkang ngrampungaken, Bu?"
+"Aku sing ngrampungke, Bu?"
 
 Ibu menatapku. Lalu Ibu tersenyum, kecil, dengan mata yang kembali basah.
 
@@ -2652,11 +2652,11 @@ Aku sedang di dapur membantu mencuci piring ketika mendengar suaranya dari ruang
 
 "Neng ngendi?"
 
-"Menawi katampi, wonten Yogya."
+"Nek ditampa, neng Yogya."
 
 "Lha, kowe arep mbayar nganggo opo?" Aku mendengar bunyi gelas diletakkan. "Sum, aku dudu arep nyinggung. Aku kakangmu. Aku ngerti Kang Tris kuwi pekerja keras. Tapi utangmu wis piro? Cincinmu wae wis kok copot. Anak sulungmu putus sekolah, merantau neng Batam. Saiki sing wedok arep kuliah?"
 
-"Niku... wonten beasiswa, Yu."
+"Kuwi... ono beasiswa, Yu."
 
 "Beasiswa." Budhe Painem mengucapkan kata itu dengan nada seperti menyebut nama makanan asing. "Lha terus? Dheweke wong wedok, Sum. Lara-laranen maneh. Kuliah dhuwur-dhuwur, mengko ujung-ujunge yo bali neng pawon. Mbok yo golek sing aman wae. Dadi bidan kaya Tika. Utawa guru. Utawa golek bojo sing apik, rampung urusan."
 
@@ -2686,7 +2686,7 @@ Hening. Lalu suara Budhe Painem, lebih rendah dan lebih kasar daripada biasa:
 
 "Karepmu. Aku mung ngomong."
 
-"Nggih, Yu. Matur nuwun sampun ngomong."
+"Nggih, Yu. Matur nuwun wis ngomong."
 
 Tidak ada yang bicara lagi untuk sementara. Aku mematikan keran dan menyeka tanganku. Ketika aku keluar dari dapur dengan sepiring pisang goreng, Budhe Painem melihatku dengan wajah yang sedikit keras, dan sebelum aku menaruh piring di meja, ia merogoh tasnya, mengeluarkan sebuah amplop putih dan menyelipkannya di telapak tanganku.
 
@@ -2704,15 +2704,15 @@ Si Bejo dijual pada awal Februari.
 
 Aku sudah tahu itu akan terjadi, sejak malam kaleng biskuit dikosongkan enam tahun lalu, dan Bapak menatap kandang. Dulu Bapak tidak melakukannya. Dulu Bapak menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah Bapak miliki yang mengenali langkahnya dari kejauhan.
 
-"Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Mboten sah."
+"Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Aja, Pak."
 
 "Aja opo?"
 
-"Mboten sah dipun dol."
+"Aja didol."
 
 "Aku durung ngomong arep ngedol."
 
-"Pak." Aku menarik napas. "Ongkos daftar ujian tertulis niku namung kalih atus ewu. Kula saged ngagem kaleng saking Ibu. Ongkos dhateng Yogya inggih saged kula tanggung piyambak. Menawi katampi, wonten beasiswa. Mboten sah..."
+"Pak." Aku menarik napas. "Ongkos daftar ujian tertulis kuwi mung rong atus ewu. Aku iso nganggo kaleng seko Ibu. Ongkos menyang Yogya yo iso tak tanggung dhewe. Nek ditampa, ono beasiswa. Ora usah..."
 
 "Wulan." Bapak menegakkan tubuh. Bapak menatapku, dan di wajahnya, di atas tulang pipi yang tajam dan mata yang lebih gelap daripada bayangan kandang, ada sesuatu yang tidak bisa kubantah. "Nek kowe ditampa, kowe butuh dhuwit go kos, go urip rong sasi sepisanan sadurunge beasiswa cair, go buku, go laptop sing disebut-sebut kuwi. Lan nek kowe ora ditampa, kowe butuh dhuwit go nyoba meneh. Bapak ora gelem kowe mandheg gara-gara dhuwit. Kuwi wae."
 
@@ -2738,7 +2738,7 @@ Aku tidak mendengar semua kalimatnya. Aku hanya menangkap kata *dua orang*, *pos
 
 Penjual bakso berhenti mengaduk. Beberapa orang menoleh ke layar. Seseorang berkata, "Wah, sudah sampai sini."
 
-Tika masuk, membawa tas penuh fotokopi. "Kok kabeh meneng?"
+Tika masuk, membawa tas penuh fotokopi. "Kenapa semua diam?"
 
 Aku tidak menjawab. Aku menaruh sendok di mangkuk. Di benakku, dengan kejernihan yang tiba-tiba mengerikan, terbayang sebuah rumah sakit dan daftar obat yang kuminum tiap pagi, dan nama-nama obat itu, satu per satu, tentang apa yang mereka lakukan pada sistem kekebalan seorang anak yang sebentar lagi berumur delapan belas tahun.
 
@@ -3038,17 +3038,17 @@ Ibu menutup wajahnya dengan kain di tangannya.
 
 "Ngapunten." Suaranya tersumbat. "Ibu isin. Ibu isin kowe kudu nuduhke..."
 
-"Bu." Aku mendekat dan memegang bahunya. "Niki sanes sedekah. Niki hak kita."
+"Bu." Aku mendekat dan memegang bahunya. "Iki dudu sedekah, Bu. Iki hak kita."
 
 "Tapi..."
 
-"Bu Wiwik ngendika ngaten. Lan piyambakipun mboten nate goroh."
+"Bu Wiwik ngomong ngono. Lan dheweke ora tau goroh."
 
 Ibu menurunkan kain dan menatapku. Di matanya ada dua hal yang berebut: malu dan bangga. Aku melihat mereka berperang, dan aku melihat bangga menang, sedikit.
 
 "Kowe ora njaluk ngapura," katanya.
 
-"Mboten, Bu."
+"Ora, Bu."
 
 "Apik." Ibu mengusap pipi dengan punggung tangan. "Aja tau njaluk ngapura go kuwi."
 
@@ -3058,7 +3058,7 @@ Pengumuman beasiswa datang dua minggu kemudian, pada hari Jumat, lewat sebuah su
 
 "Nduk, ono wong ngirim pesen. Jare kowe entuk dhuwit. Aja dibales."
 
-"Bu, niku saking kampus."
+"Bu, kuwi seko kampus."
 
 "Seko kampus? Kok ono tulisane 'selamat'? Sing ngono kuwi biasane wong nipu."
 
@@ -3074,7 +3074,7 @@ Aku menatapnya.
 
 "Si Bejo ora sia-sia." Ibu tersenyum, dengan air mata yang jatuh ke kain di pangkuannya. "Dhuwite ora kanggo, yo. Dhuwit sapi kuwi."
 
-"Mboten sah, Bu. Simpen kangge darurat."
+"Ora usah, Bu. Simpen go darurat."
 
 "Ora." Ibu menggeleng. "Kuwi go kowe. Go opo wae sing ora ono neng surel kuwi."
 
@@ -3145,7 +3145,7 @@ Ibu tidak tahu. Ibu mengaduk tiwul di wajan dengan sendok kayu yang gagangnya su
 
 "Nduk," kata Ibu, tanpa menoleh. "Kowe krungu ora? Mbok Karni wis crita bab Sekar?"
 
-"Dereng, Bu."
+"Durung, Bu."
 
 "Anake Pak Sarjo. Sing kelas telu SMP. Pipine abang-abang." Ibu mengetuk wajan dengan sendok. "Bu Tika wis ndelok. Jare kudu digawa menyang Yogya. Dina Kamis. Dheweke durung duwe dhuwit, tapi jare BPJS-e wis mlaku."
 
@@ -3180,7 +3180,7 @@ Aku membelinya di sebuah toko barang bekas di dekat kampus, atas saran seorang k
 
 Ibu menelepon malamnya lewat telepon Pak Hasan. "Wis tuku?"
 
-"Sampun, Bu."
+"Wis, Bu."
 
 "Nganggo dhuwite?"
 
@@ -3341,11 +3341,11 @@ Malam itu aku menelepon Ibu lewat telepon Pak Hasan, dan setelah Pak Hasan meman
 
 "Nduk? Ono opo?"
 
-"Mboten wonten napa-napa, Bu. Namung telepon."
+"Ora ono opo-opo, Bu. Mung telpon."
 
 "Wis mangan?"
 
-"Sampun, Bu."
+"Wis, Bu."
 
 "Mangan opo?"
 
@@ -3353,11 +3353,11 @@ Malam itu aku menelepon Ibu lewat telepon Pak Hasan, dan setelah Pak Hasan meman
 
 "Tempe meneh. Kowe kuwi." Terdengar bunyi ayam di kejauhan, dan bunyi angin di antara pohon jati. "Bapak neng kandang. Ardi neng omahe Tika. Kowe sehat?"
 
-"Sehat, Bu. Dinten niki kula saged pipet."
+"Sehat, Bu. Dina iki aku iso pipet."
 
 "Pipet opo?"
 
-"Alat. Kangge mindhah toya. Namung sekedhik."
+"Alat. Go mindhah banyu. Mung sithik."
 
 "Oh." Jeda. "Kuwi hebat?"
 
@@ -3776,15 +3776,15 @@ Aku mengajak Tika, dan Tika, yang tidak pernah menolak makanan gratis, menyetuju
 
 Kami berangkat naik kereta lokal pagi-pagi pada hari Sabtu, aku dengan kebaya biru tua pinjaman dari Bu Haji, yang menelepon Tika dan menyuruhnya membawakanku "pakaian yang pantas", dan jilbab biru muda yang kujahit dari kerudung setengah jadi Mbah. Payung hitam menggantung di lenganku. Tika memakai kebaya hijau terlalu ketat dan tidak berhenti mengeluh.
 
-"Aku ora iso lungguh."
+"Aku tidak bisa duduk."
 
-"Kowe iso."
+"Kamu bisa."
 
-"Tulang rusukku wis sengit karo aku."
+"Tulang rusukku sudah membenci aku."
 
-"Kowe sing milih ukurane."
+"Kamu yang pilih ukurannya."
 
-"Kuwi ukuran paling gedhe sing ono!"
+"Itu ukuran paling besar yang ada!"
 
 Rumah keluarga Bayu di Klaten adalah rumah joglo tua, dengan pendopo luas dan halaman penuh bunga melati dan sebuah tenda putih besar dengan deretan kursi. Gamelan dimainkan di pojok, pelan, dengan irama yang membuat dada terasa lapang. Di pintu masuk, dua gadis kecil berkebaya membagikan tisu dan senyum.
 
@@ -3796,11 +3796,11 @@ Bayu menunggu kami di pagar. Ia mengenakan beskap hitam dan blangkon, dan aku ny
 
 "Aku tahu. Tapi aku tetap tidak yakin."
 
-Tika berbisik di sampingku, cukup keras untuk didengar: "Aku iso lunga nek kowe loro arep dhewekan."
+Tika berbisik di sampingku, cukup keras untuk didengar: "Aku bisa pergi kalau kalian mau berdua."
 
 "Tika."
 
-"Aku mung nawani."
+"Aku cuma menawarkan."
 
 ---
 
@@ -3902,13 +3902,13 @@ Hening di dalam ruangan. Aku berdiri diam di lorong, dengan tangan yang bersanda
 
 Aku mundur perlahan, tanpa suara, dengan kaki yang mendadak terasa dingin dan ringan. Aku kembali ke pendopo. Tika sedang menyendok kue ke piringnya.
 
-"Kowe seko ngendi?" bisiknya. "Rupamu pucet."
+"Kamu dari mana?" bisiknya. "Mukamu pucat."
 
-"Kuwi bedak."
+"Itu bedak."
 
-"Kowe ora nganggo bedak."
+"Kamu nggak pakai bedak."
 
-"Tik." Aku menggenggam payung hitamku. "Aku arep mulih."
+"Tika." Aku menggenggam payung hitamku. "Aku mau pulang."
 
 ---
 
@@ -3989,15 +3989,15 @@ Malam itu, di kamar kos, aku menyalakan radio kecil dari Mas Aji, dengan antena 
 
 Tika yang pertama kali menunjukkannya padaku, pada malam bulan Desember 2022, dengan wajah seperti orang yang baru melihat setan berbicara dalam bahasa Indonesia.
 
-"Wul. Wul. Delengen iki."
+"Wulan. Wulan. Lihat ini."
 
 Ia menyodorkan laptopnya ke arahku di meja kecil di tengah kamar kos. Di layar, ada jendela percakapan yang sederhana, putih, dengan kotak tempat mengetik di bagian bawah. Di atasnya, sebuah pertanyaan yang ia ketik dengan huruf kecil semua: *jelaskan kenapa bayi baru lahir harus disusui dalam satu jam pertama*.
 
 Dan di bawahnya, jawaban. Panjang, rapi, dengan poin-poin, dalam bahasa yang lebih jelas daripada bab buku kebidanan mana pun yang pernah kubaca.
 
-"Kuwi... sopo sing nulis?"
+"Itu... siapa yang nulis?"
 
-"Mesin." Tika menggeleng, tak percaya. "Mung mesin. Aku njaluk dheweke njelasake kaya marang bocah SMP. Terus dheweke njelasake kaya marang bocah SMP. Aku njaluk meneh kaya marang dokter. Dheweke njelasake uga." Tika menggigit bibir. "Wul, iki edan."
+"Mesin." Tika menggeleng, tak percaya. "Cuma mesin. Aku minta dia jelaskan kayak ke anak SMP. Terus dia jelaskan kayak ke anak SMP. Aku minta lagi kayak ke dokter. Dia jelaskan juga." Tika menggigit bibir. "Wulan, ini gila."
 
 Aku mengambil laptop itu. Jari-jariku berhenti di atas papan ketik selama beberapa detik.
 
@@ -4392,7 +4392,7 @@ Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam p
 
 "Bledug tertutup."
 
-Tika berdiri di sampingku dengan kebaya biru dan sebuah buket kecil dari bunga plastik. Ia lulus dari akademi kebidanan setahun sebelumnya dan sudah bekerja di sebuah klinik, dengan rambut yang lebih pendek dan tatapan seseorang yang sudah menolong banyak persalinan. Ia memberiku buket itu dan berbisik: "Iki kembang palsu, tapi aku ora goroh."
+Tika berdiri di sampingku dengan kebaya biru dan sebuah buket kecil dari bunga plastik. Ia lulus dari akademi kebidanan setahun sebelumnya dan sudah bekerja di sebuah klinik, dengan rambut yang lebih pendek dan tatapan seseorang yang sudah menolong banyak persalinan. Ia memberiku buket itu dan berbisik: "Ini bunga palsu, tapi aku tidak berbohong."
 
 Bu Haji hadir, dengan Bu Rini. Pak Hendra datang dengan kemeja yang dimasukkan terlalu rapi. Bu Ratmi membawa sekeranjang manisan. Bu Wiwik, dengan lipstik merah tua yang tak pernah luntur, berdiri di belakang aula dan melambai padaku dengan satu tangan, seolah berkata *aku tidak berbohong, kan?*
 
@@ -4414,7 +4414,7 @@ Dr. Anindya menghampiri kami setelah acara selesai, dengan toga dosen yang kebes
 
 "Ibu Wulan," katanya pada Ibu, dengan membungkuk sedikit.
 
-"Ibu, Bu Dosen." Ibu membalas dengan membungkuk lebih rendah, dan kaku. "Matur nuwun sampun ngajari Wulan."
+"Ibu, Bu Dosen." Ibu membalas dengan membungkuk lebih rendah, dan kaku. "Terima kasih sudah mengajar Wulan."
 
 "Saya tidak mengajar." Dr. Anindya tersenyum. "Dia mengajar dirinya sendiri. Saya hanya memberinya meja."
 
@@ -4521,23 +4521,23 @@ Percobaan kedua pada bulan Oktober, setelah aku berlatih menulis setiap malam da
 
 Aku pulang dengan kepala yang berdenyut dan perut yang kosong. Tika menunggu di kos dengan semangkuk mi instan rebus dan telur.
 
-"Piro?"
+"Berapa?"
 
-"Enem koma lima."
+"Enam koma lima."
 
-"Meneh?"
+"Lagi?"
 
-"Meneh."
+"Lagi."
 
 Tika menaruh mangkuk di meja dan duduk di sampingku. Ia hanya menunggu aku selesai.
 
-"Aku wis entek enem yuta patang atus ewu, Tik."
+"Aku sudah habiskan enam juta empat ratus ribu, Tik."
 
-"Aku ngerti."
+"Aku tahu."
 
-"Dhuwit kuwi seko Mas Aji. Seko dhuwit sapi. Seko les." Suaraku bergetar. "Aku ora oleh ngulang meneh."
+"Uang itu dari Mas Aji. Dari uang sapi. Dari les." Suaraku bergetar. "Aku tidak boleh mengulang lagi."
 
-"Oleh." Tika menyodorkan sumpit. "Mangan sik."
+"Boleh." Tika menyodorkan sumpit. "Makan dulu."
 
 Aku makan. Mi itu terlalu asin, dan itu cukup membantu.
 
@@ -4563,7 +4563,7 @@ Hasilnya keluar tiga belas hari kemudian, pada malam hari, lewat sebuah surel de
 
 Aku menatap angka itu. Tidak ada yang kurasakan. Lalu aku mulai tertawa. Lalu aku menangis. Lalu aku tertawa lagi, dan Tika bangun dari kasurnya dengan rambut berantakan dan menatapku seperti melihat hantu.
 
-"Opo? Opo? Ono opo?"
+"Apa? Apa? Ada apa?"
 
 "Tujuh."
 
@@ -4661,15 +4661,15 @@ Pengumuman datang pada pertengahan Juni, lewat sebuah surel yang tidak berani ku
 
 Tika yang membukanya, di dapur kos, dengan sendok di tangan.
 
-"Wul."
+"Wulan."
 
-"Aja ngomong nek gagal."
+"Jangan bilang kalau gagal."
 
-"Wul."
+"Wulan."
 
-"Tik."
+"Tika."
 
-"Kowe..." Tika menatapku, dan wajahnya yang bulat dan hangat berubah menjadi sesuatu yang belum pernah kulihat sebelumnya. "Kowe lolos."
+"Kamu..." Tika menatapku, dan wajahnya yang bulat dan hangat berubah menjadi sesuatu yang belum pernah kulihat sebelumnya. "Kamu lulus."
 
 Aku tidak mendengarnya. Aku mendengar bunyi dari dalam diriku sendiri, bunyi seperti tali yang putus setelah ditarik terlalu lama.
 
@@ -4683,11 +4683,11 @@ Seluruh Dusun Pucung datang mengantar ke jalan besar, sebagian membawa makanan, 
 
 "Aja lali."
 
-"Kula mboten badhe lali."
+"Aku ora bakal lali, Pak."
 
 Mbok Karni memelukku sampai tulang rusukku sakit. Pak Modin mendoakanku. Budhe Painem, yang datang naik angkot dari Wonosari, memasukkan sebuah bungkusan kecil ke dalam tasku tanpa menatapku.
 
-"Niki napa, Budhe?"
+"Iki opo, Budhe?"
 
 "Mukena. Lipet. Tipis. Ben mlebu neng koper." Budhe masih tidak menatapku. "Neng kono mesti angel golek panggon shalat. Aja lali shalat."
 
@@ -4705,27 +4705,27 @@ Ibu berdiri paling dekat. Ibu menyodorkan kaleng biskuit kecil, kaleng yang sama
 
 "Iki."
 
-"Bu, kula mboten ngagem arta niku."
+"Bu, aku ora nganggo dhuwit kuwi."
 
 "Aku ngerti."
 
-"Telung atus rolas ewu limang atus. Taksih utuh."
+"Telung atus rolas ewu limang atus. Isih utuh."
 
 "Aku ngerti." Ibu menatapku, dan matanya sangat jernih. "Kuwi go kowe. Nek kowe butuh mulih."
 
-"Bu, kula badhe wonten Inggris. Niku mboten cekap kangge..."
+"Bu, aku bakal neng Inggris. Kuwi ora cukup go..."
 
 "Kuwi dudu go tiket." Ibu memotong lembut. "Kuwi go nek kowe butuh ngerti ono panggonan mulih."
 
 Aku tidak sanggup menjawab. Aku membuka kaleng itu dan melihat isinya: gulungan uang kecil-kecil, lembar sepuluh ribuan, dua puluh ribuan, receh-receh yang sudah berkarat. Aku mengambil satu koin, koin lima ratus rupiah yang paling tua dan paling kusam, dan menggenggamnya di telapak tangan.
 
-"Kula bekta niki mawon," kataku. "Sing sanes simpen, Bu."
+"Aku gawa iki wae," kataku. "Sing liyane simpen, Bu."
 
 Ibu menatap koin itu, lalu aku, dan dengan satu gerakan lembut, Ibu menutup jemariku di atas koin itu dengan kedua tangannya.
 
 "Kuwi koin sing pertama," katanya. "Seko bengi kowe lara. Nalika Ibu ngitung dhuwit neng kaleng gedhe."
 
-"Ibu taksih eling?"
+"Ibu isih eling?"
 
 "Ibu eling kabeh sing swarane." Ibu tersenyum, kecil, dengan mata yang basah. "Gawanen."
 
@@ -4981,11 +4981,11 @@ Aku menelepon Ibu pukul sepuluh pagi, ketika di Pucung sudah pukul lima sore dan
 
 "Iyo, Nduk, iyo. Ngapura. Ibu uga. Ibu arep..." Suaranya pecah. "Ibu ora ngerti arep ngomong opo."
 
-"Mboten napa-napa, Bu."
+"Ora popo, Bu."
 
 "Kowe wis mangan?"
 
-"Sampun, Bu. Wonten rendang."
+"Wis, Bu. Ono rendang."
 
 "Rendang." Ibu terdiam. "Bapak arep ngomong."
 
@@ -5835,11 +5835,11 @@ Ibu tidak berlari. Ibu berjalan pelan, dan ketika sampai di hadapanku, Ibu hanya
 
 "Kowe kuru," katanya.
 
-"Ibu inggih."
+"Ibu yo."
 
 "Ibu dudu sing sekolah neng luar negeri."
 
-"Niku sanes alesan, Bu."
+"Kuwi dudu alesan, Bu."
 
 "Kuwi alesan." Ibu tersenyum, dengan mata basah, dan menarikku ke dalam pelukan yang kusut dan bau minyak kayu putih dan asap dapur. Aku merasa tulang-tulang bahunya di bawah kebaya, dan tiba-tiba aku takut: bukan karena sesuatu yang kuketahui, tetapi karena betapa ringan Ibu terasa.
 
@@ -5855,11 +5855,11 @@ Dusun Pucung menyambutku dengan satu perubahan yang tidak kuantisipasi: semua or
 
 "Dokter Wulan, mampir, mampir," teriak Mbok Karni dari teras, dengan tangan yang masih lincah di usia tujuh puluhan. "Tak gawekke teh."
 
-"Mbok, kula sanes dokter ingkang niku."
+"Mbok, aku dudu dokter sing kuwi."
 
 "Dokter kuwi dokter, Nduk. Sing iki dengkulku. Lorone nek mangsa udan."
 
-"Mbok, kula doktor biologi sel. Kula mboten saged mriksa dengkul."
+"Mbok, aku doktor biologi sel. Aku ora iso mriksa dengkul."
 
 "Iso, iso." Mbok Karni menuangkan teh dengan kepercayaan penuh. "Kowe pinter. Mesti ngerti."
 
@@ -5877,7 +5877,7 @@ Aku tertawa, dan tertawa itu hampir menjadi tangis. "Banyak, Pak."
 
 Pak Dukuh menangkupkan kedua tangan di dada dan berkata, dengan suara yang sedikit pecah: "Nduk. Kowe eling dusun iki."
 
-"Kula eling, Pak."
+"Aku eling, Pak."
 
 "Apik."
 
@@ -6055,13 +6055,13 @@ Aku duduk.
 
 "Bapak wis ngomong karo dokter."
 
-"Bab napa, Pak?"
+"Bab opo, Pak?"
 
 "Ginjal." Bapak memutar topinya. "Bapak duwe loro. Siji cukup."
 
 Aku menatapnya. Bapak tidak membalas tatapanku.
 
-"Pak. Mboten."
+"Pak. Ora."
 
 "Bapak wis takon. Dokter ngomong iso. Nek golongan getih cocok. Nek sehat."
 
@@ -6069,7 +6069,7 @@ Aku menatapnya. Bapak tidak membalas tatapanku.
 
 "Kuwi urusane Bapak."
 
-"Niku urusane sedaya, Pak." Suaraku bergetar. "Pak. Mboten."
+"Kuwi urusane kabeh wong, Pak." Suaraku bergetar. "Pak. Ora."
 
 Bapak menatap tangannya, tangan yang retak dan kasar, yang pernah memegang kambing yang dijual dan sapi yang ditatap dari jauh, dan yang kini, di bawah lampu temaram, tampak lebih kecil daripada yang kuingat.
 
@@ -6077,11 +6077,11 @@ Bapak menatap tangannya, tangan yang retak dan kasar, yang pernah memegang kambi
 
 Aku merasa sesuatu pecah di dalam dadaku, sesuatu yang telah menahan selama enam belas tahun.
 
-"Pak." Air mataku jatuh, tanpa kuhitung. "Bapak sampun maringi. Bapak sampun maringi sedaya."
+"Pak." Air mataku jatuh, tanpa kuhitung. "Bapak wis maringi. Bapak wis maringi kabeh."
 
 "Kuwi dudu..."
 
-"Pak." Aku menggenggam tangannya dengan kedua tanganku. "Menawi wonten napa-napa kaliyan Bapak... kula mboten badhe kuwawi."
+"Pak." Aku menggenggam tangannya dengan kedua tanganku. "Nek ono opo-opo karo Bapak... aku ora bakal kuwat."
 
 Bapak menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
 
@@ -6099,7 +6099,7 @@ Hasil Ibu keluar pada hari Jumat. Dokter Suryo memanggil kami berdua ke ruangann
 
 "Ibu Sumiati. Hasil Anda baik. Golongan darah cocok. Tapi fungsi ginjal Anda enam puluh delapan. Tekanan darah Anda borderline. Anda berumur lima puluh tiga, dan hampir seluruh hidup Anda bekerja di bawah matahari dengan sedikit minum." Ia menatap Ibu dengan lembut. "Untuk seorang donor, angka itu terlalu rendah. Risikonya terlalu tinggi bagi Anda."
 
-Ibu menatapnya. "Nanging kula taksih gadhah kalih."
+Ibu menatapnya. "Tapi saya masih punya dua."
 
 "Iya, Bu. Dan kami ingin Ibu tetap punya dua."
 
@@ -6109,11 +6109,11 @@ Ibu menatapnya. "Nanging kula taksih gadhah kalih."
 
 Ibu menunduk. Ibu duduk diam, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika Ibu menengadah, wajahnya sama sekali kering.
 
-"Berarti kedah daftar tunggu," katanya.
+"Berarti harus daftar tunggu," katanya.
 
 "Ya, Bu. Daftar tunggu donor yang meninggal."
 
-"Pinten lami?"
+"Berapa lama?"
 
 Dokter Suryo tidak menjawab dengan cepat. "Di Indonesia, itu bisa bertahun-tahun, Bu. Banyak yang tidak sempat."
 
@@ -6140,7 +6140,7 @@ Ibu yang membelinya, di pasar Wonosari, pada hari kedua setelah aku keluar dari 
 
 "Telu," katanya. "Telung gelas sedina. Ora luwih."
 
-"Niku enem atus, Bu. Niku namung toya ngombe. Kuah, teh, woh, sedaya dietung."
+"Kuwi enem atus, Bu. Kuwi mung banyu ngombe. Kuah, teh, woh, kabeh diitung."
 
 "Ibu ngerti. Dokter Suryo sing ngomong." Ibu menuang air ke gelas itu sampai garis. "Ibu catet. Neng kertas."
 
@@ -6602,11 +6602,11 @@ Ibu menangis di dapur.
 
 Aku memberitahunya sore itu, di Pucung, ketika Ibu sedang mengaduk tiwul di wajan. Aku berdiri di ambang pintu dan mengatakannya dengan kalimat paling pendek yang bisa kutemukan.
 
-"Bu. Dokter ngendika mboten sah cuci darah malih."
+"Bu. Dokter ngendika ora usah cuci darah meneh."
 
 Sendok kayu itu berhenti. Ibu tidak menoleh.
 
-"Ginjalku... saya sae. Dokter mboten ngertos kenging punapa. Nanging saya sae."
+"Ginjalku... saya apik. Dokter ora ngerti kenopo. Nanging saya apik."
 
 Sendok kayu itu jatuh ke wajan dengan bunyi pelan. Ibu menaruh kedua tangannya di tepi tungku, dan bahunya, bahu kecil dan melengkung dan terlalu ringan, mulai bergetar. Ibu menangis tanpa suara, dengan kepala tertunduk, seperti Ibu selalu menangis, seperti tak ingin ada yang mendengar.
 
@@ -6622,7 +6622,7 @@ Bapak datang pada malam harinya, dari ladang, dengan cangkul di bahu dan celana 
 
 "Bapak ora gelem percaya sik," katanya.
 
-"Kenging napa, Pak?"
+"Kenopo, Pak?"
 
 "Wedi." Bapak memutar topi di tangannya. "Wedi nek dheweke lunga meneh."
 
@@ -6781,11 +6781,11 @@ Pada Mei, aku berumur dua puluh delapan. Aku merayakannya di Pucung bersama Ibu 
 
 "Kowe ora ono kerutan."
 
-"Ibu inggih mboten."
+"Ibu yo ora."
 
 "Ibu ono akeh." Ibu tertawa, dan tawa itu memperlihatkan kerutan di sudut matanya, tipis-tipis seperti lipatan kain. "Kowe kuwi... rupamu isih kaya nalika SMA."
 
-"Niku tabir surya, Bu."
+"Kuwi tabir surya, Bu."
 
 "Tabir surya kuwi hebat yo."
 
@@ -7009,11 +7009,11 @@ Tangan itu, tangan yang kuhafal lebih dari wajahku sendiri, tampak lain malam it
 
 "Kenopo ndelok Ibu ngono?" tanya Ibu.
 
-"Mboten napa-napa."
+"Ora popo."
 
 "Ono Rizal?"
 
-"Rizal sampun wangsul."
+"Rizal wis mulih."
 
 "Oh." Ibu mematahkan satu kacang lagi. "Ibu kira dheweke arep ngomong karo Bapak."
 
@@ -7027,11 +7027,11 @@ Ibu berhenti. Ibu tidak menoleh, tapi aku melihat jarinya diam di atas kacang it
 
 "Kenapa?"
 
-"Wulan dereng saged, Bu."
+"Wulan durung iso, Bu."
 
 "Durung iso opo ora gelem?"
 
-"Mboten saged."
+"Ora iso."
 
 Ibu mengangguk perlahan. Ibu tidak bertanya lagi. Ibu hanya menaruh kacang itu di baskom, dan menaruh tangannya di atas tanganku, dengan telapak yang kasar dan hangat dan sedikit bergetar.
 
@@ -7061,7 +7061,7 @@ Aku memegang tangan Ibu. Aku mengusap punggungnya dengan ibu jariku, pelan, pela
 
 "Isih padha," bisik Ibu.
 
-"Nopo, Bu?"
+"Opo, Bu?"
 
 "Tanganmu." Ibu tersenyum, dengan mata yang terlalu cerah. "Isih padha kaya biyen. Kaya nalika kowe cilik."
 
@@ -7431,15 +7431,15 @@ Gagangnya masih dari kayu halus dengan ukiran tangkai padi. Kainnya sudah dua ka
 
 "Payunge go kowe," kata Ibu, tanpa menoleh.
 
-"Dinten niki kangge Ibu."
+"Dina iki go Ibu."
 
 "Kowe ora oleh kena srengenge."
 
-"Sampun oleh, Bu. Rong puluh menit."
+"Wis oleh, Bu. Rong puluh menit."
 
-"Kuwi goroh."
+"Kuwi ora bener."
 
-"Niku tabir surya."
+"Kuwi tabir surya."
 
 Ibu menoleh. Ibu menatapku lama, dengan mata yang menyipit dalam terik, dan di wajahnya bergerak sesuatu yang kuduga Ibu sendiri tak tahu namanya.
 
@@ -7457,7 +7457,7 @@ Kami berjalan begitu, berdua, di bawah satu payung yang tak cukup besar, dengan 
 
 "Kok luwih kuru neng televisi!"
 
-"Niku kamerane, Mbok."
+"Kuwi kamerane, Mbok."
 
 "Kamerane jahat!"
 
@@ -7499,11 +7499,11 @@ Ibu menyikut lenganku pelan. "Sopo jenenge, Nduk? Ibu lali."
 
 "Mbak Nurul." Ibu mengulanginya dua kali tanpa suara, seperti menaruh nama itu di tempat yang aman, lalu menyodorkan ingkung ke arah Mbak Nurul.
 
-"Dhahar, Mbak," katanya. "Anak kula ngendika, menawi sanes Mbak, anak kula mboten wonten ing mriki."
+"Dimakan, Mbak," katanya. "Anak saya bilang, kalau bukan karena Mbak, anak saya tidak ada di sini."
 
 "Bu..."
 
-"Dhahar." Ibu menatapnya, dengan mata yang jernih dan sangat tegas. "Niku dhawuh."
+"Dimakan." Ibu menatapnya, dengan mata yang jernih dan sangat tegas. "Itu perintah."
 
 Mbak Nurul tertawa, dengan air mata yang jatuh ke piring, dan memakannya.
 
@@ -7527,11 +7527,11 @@ Aku berhenti di langkah ke tiga. Di dalam kandang, di atas jerami baru yang masi
 
 "Hm."
 
-"Niku..."
+"Kuwi..."
 
 "Bapak tuku minggu wingi." Bapak tidak menoleh. "Seko dhuwit sapi sing kowe ngomong ora sah dienggo."
 
-"Pak, niku kan arta..."
+"Pak, kuwi kan dhuwit..."
 
 "Dhuwite cukup." Bapak memutar topi di tangannya. "Jenenge Bejo."
 
@@ -7555,7 +7555,7 @@ Bapak menarik napas panjang, dan aku melihat bahunya turun seperti beban yang ak
 
 Aku masuk, dengan lonceng di tangan. Aku berlutut di jerami. Aku mengulurkan tangan, dan anak sapi itu, setelah ragu sebentar, mengendus telapakku dengan hidung yang basah dan hangat. Aku mengikatkan lonceng itu di lehernya dengan seutas tali dari kantong. Ia menggoyangkan kepalanya, dan lonceng itu berbunyi, jelas dan bulat, di kandang yang sunyi.
 
-"Niku lonceng kangge Bejo ingkang kaping kalih," kataku.
+"Kuwi lonceng go Bejo sing kapindho," kataku.
 
 "Iyo." Suara Bapak serak. "Apik."
 
@@ -7575,13 +7575,13 @@ Aku tidak menjawab.
 
 "Seko cilik, kowe gemeter nek ono wong ndelok. Wektu upacara. Wektu ujian. Wektu dokter takon." Bapak menatap kandang. "Wingi kowe ora."
 
-"Kula sinau, Pak."
+"Aku sinau, Pak."
 
 "Bapak ngerti." Bapak mengangguk perlahan. "Bapak ora ngerti kowe nyimpen opo. Nanging Bapak ngerti kowe wis tekan."
 
 Aku menatap punggungnya yang bungkuk, dan lehernya yang berkerut, dan tangannya yang retak dan kasar, yang memegang topi seperti memegang sesuatu yang bisa tumpah.
 
-"Dereng, Pak," kataku. "Taksih tebih."
+"Durung, Pak," kataku. "Isih adoh."
 
 "Oh." Bapak tersenyum, kecil, dan di wajahnya aku melihat sesuatu yang kuduga rasa bangga dan sesuatu yang kuduga ketakutan, bersatu tanpa saling mengalahkan. "Yo wis. Bapak enteni."
 

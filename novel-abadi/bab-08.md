@@ -8,11 +8,11 @@ Aku tahu itu baris yang jelek. Tapi aku tidak sempat memperbaikinya, karena pada
 
 Aku kembali ke kelas dan menemukan sesuatu yang berbeda dalam cara mereka menatapku. Lebih lama. Lebih senang.
 
-"Wul," kata Rina, yang duduk di barisan depan, dan yang hidupnya adalah pengumuman. "Puisine apik tenan."
+"Wulan," kata Rina, yang duduk di barisan depan, dan yang hidupnya adalah pengumuman. "Puisinya bagus banget."
 
 Aku berhenti di pintu.
 
-"Puisi opo?"
+"Puisi apa?"
 
 Rina berdiri. Di tangannya buku tulis IPA-ku, terbuka pada halaman terakhir. Ia berdeham, mengangkat kertas itu setinggi dada, dan berkata dengan suara yang penuh perasaan dari seseorang yang sudah menanti kesempatan ini seumur hidupnya.
 
@@ -34,15 +34,15 @@ Ia sedang duduk menghadap papan tulis, dengan tangan menopang dagu, dan telingan
 
 "Cieeeee," kata dua puluh sembilan orang lain.
 
-Aku ingin menghilang. Aku ingin mengubah diriku menjadi sel bawang. Seorang anak laki-laki di barisan belakang berseru sesuatu yang kudengar jelas, dan kusimpan dalam laci kecil di dalam kepalaku untuk selalu mengingatnya: "Wulan Bulan naksir Bagus! Ngilo disik, Lan!"
+Aku ingin menghilang. Aku ingin mengubah diriku menjadi sel bawang. Seorang anak laki-laki di barisan belakang berseru sesuatu yang kudengar jelas, dan kusimpan dalam laci kecil di dalam kepalaku untuk selalu mengingatnya: "Wulan Bulan naksir Bagus! Ngaca dulu, Lan!"
 
 Kelas tertawa. Tidak semua. Beberapa menahan.
 
-Bagus berdiri. Ia tidak marah. Ia tidak juga tertawa. Ia melihat anak yang berseru tadi, lalu menggaruk belakang lehernya, dan berkata dengan suara yang agak serak, "Kenopo sih? Puisine apik."
+Bagus berdiri. Ia tidak marah. Ia tidak juga tertawa. Ia melihat anak yang berseru tadi, lalu menggaruk belakang lehernya, dan berkata dengan suara yang agak serak, "Kenapa sih? Puisinya bagus."
 
 "Hah?"
 
-"Puisine apik," ulangnya. "Jenengku Bagus. Dadi nek puisine ngomong bagus, yo kuwi bagus." Ia menoleh padaku. Telinganya masih merah. "Aku ora iso gawe puisi. Tapi nek Wulan gelem, aku iso ngajari voli."
+"Puisinya bagus," ulangnya. "Namaku Bagus. Jadi kalau puisinya bilang bagus, ya itu bagus." Ia menoleh padaku. Telinganya masih merah. "Aku nggak bisa bikin puisi. Tapi kalau Wulan mau, aku bisa ngajarin voli."
 
 Kelas diam. Sesaat. Lalu tawa pecah lagi, tapi kali ini tertuju pada hal lain, pada Bagus dan kalimatnya yang tak masuk akal, pada Rina yang kebingungan, pada seluruh keadaan yang terlalu besar untuk seorang anak tiga belas tahun.
 
@@ -50,7 +50,7 @@ Bu Ratmi yang berdiri di belakangku, entah sejak kapan, berkata dengan suara dat
 
 Rina mengembalikan buku itu tanpa menatapku. Aku duduk di bangkuku dan memandangi meja.
 
-Itu bukan jawaban. Aku tahu itu. *Aku iso ngajari voli* adalah kalimat yang dipakai seorang anak laki-laki kepada anak perempuan yang ia anggap teman. Tapi itu juga kalimat yang diucapkan di depan tiga puluh orang oleh seseorang yang tidak perlu mengucapkannya, dan aku tidak tahu harus merasa lega atau kehilangan.
+Itu bukan jawaban. Aku tahu itu. *Aku bisa ngajarin voli* adalah kalimat yang dipakai seorang anak laki-laki kepada anak perempuan yang ia anggap teman. Tapi itu juga kalimat yang diucapkan di depan tiga puluh orang oleh seseorang yang tidak perlu mengucapkannya, dan aku tidak tahu harus merasa lega atau kehilangan.
 
 ---
 
@@ -94,7 +94,7 @@ Malamnya, Ibu mendengar semuanya dari ibu Tika, yang mendengarnya dari Rina, yan
 
 "Wong tuwane apik?"
 
-"Kula mboten ngertos."
+"Aku ora ngerti, Bu."
 
 "Goleki." Ibu terus menyisir. "Tapi mengko. Sekolah disik."
 
@@ -114,11 +114,11 @@ Aku menyampaikannya pada Ibu, dan Ibu mengangguk seakan itu bukan masalah, dan a
 
 "Kowe tetep melu sahur," katanya. "Tangi bareng. Mangan bareng."
 
-"Nanging kula mboten pasa."
+"Nanging aku ora pasa, Bu."
 
 "Gusti Allah ora mbebani."
 
-"Kula mboten penak, Bu."
+"Aku ora penak, Bu."
 
 "Kowe lara, Nduk. Kuwi dudu dosa. Kuwi mung lara."
 
@@ -138,7 +138,7 @@ Aku diam.
 
 "Kowe krasa salah." Mbah duduk di bangku dapur dan mengambil sendok dari tanganku. "Rungokno. Biyen nalika Mbah enom, Mbah duwe tangga sing ora iso pasa amarga lara lambung. Dheweke pasa nganggo cara liya. Saben dina ngekei mangan siji bocah yatim. Wong ngomong kuwi ora cukup. Nanging Gusti Allah ora maca kitabe wong, Nduk. Dheweke maca ati."
 
-"Kula mboten gadhah arta kangge maringi dhahar tiyang, Mbah."
+"Aku ora duwe dhuwit go ngekei mangan wong, Mbah."
 
 "Mengko nek kowe duwe." Mbah menaruh sendok kembali di tanganku. "Saiki mangan. Kuwi uga ibadah. Jaga awak sing dipasrahke marang kowe."
 
@@ -168,7 +168,7 @@ Aku berjalan pulang dengan pelan. Di jalan, aku bertemu Mbok Karni, yang membawa
 
 "Ono opo, Nduk?"
 
-"Kanca kula, Mbok. Wonten rumah sakit. Seda."
+"Kancaku, Mbok. Neng rumah sakit. Seda."
 
 Mbok Karni meletakkan bakulnya di tanah. Ia memeluk aku, erat dan tiba-tiba, bau bawang dan keringat dan tanah, dan aku terkejut karena aku tidak tahu bahwa perempuan yang pernah berbisik tentang kiriman dan kutukan di dapur rumahku bisa memeluk begitu kencang.
 

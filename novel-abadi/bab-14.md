@@ -22,7 +22,7 @@ Aku duduk di kursi pasien. Di sampingku Ibu, yang tiba dari Pucung dengan bus pe
 
 "Saya perlu mengambil sampel dari ginjalmu. Biopsi. Itu satu-satunya cara untuk tahu seberapa parah, dan obat apa yang paling cocok."
 
-Ibu menarik napas pelan. "Niku... sakit, Dok?"
+Ibu menarik napas pelan. "Itu... sakit, Dok?"
 
 "Dia akan dibius lokal. Prosedurnya sekitar satu jam. Dia harus berbaring tidak bergerak selama enam jam sesudahnya." Dokter Sumarni menoleh kepadaku. "Takut?"
 
@@ -36,11 +36,11 @@ Biopsi itu tidak seburuk yang kubayangkan, dan tidak sebaik yang dijanjikan. Aku
 
 Selama enam jam sesudahnya aku tidak boleh bergerak. Ibu duduk di kursi di samping ranjang, dan Tika, yang sudah berjam-jam duduk di lorong, akhirnya diizinkan masuk dan duduk di lantai di bawah jendela dengan buku catatan di pangkuan.
 
-"Aku nggawa tugas kimia," katanya.
+"Aku bawa tugas kimia," katanya.
 
-"Kowe arep ngerjake tugas neng rumah sakit?"
+"Kamu mau mengerjakan tugas di rumah sakit?"
 
-"Aku arep ngerjake karo nemoni kowe. Kuwi beda." Tika membuka buku dan menggaruk dagu dengan pensil. "Wul. Nek kowe ngerti rumus iki, kandhani, soale aku ora paham."
+"Aku mau mengerjakannya sambil menemani kamu. Itu beda." Tika membuka buku dan menggaruk dagu dengan pensil. "Wulan. Kalau kamu tahu rumus ini, kasih tahu, soalnya aku nggak paham."
 
 Aku tertawa, dan tertawa itu menarik perutku, dan perawat di ujung ruangan menegurku untuk tidak bergerak. Tika menutup mulutnya dengan tangan dan tertawa tanpa suara, dengan bahu yang bergetar.
 
@@ -114,13 +114,13 @@ Tamu datang pada hari Minggu, berombongan, seperti serombongan burung yang terse
 
 Tika pertama, dengan tiga kotak titipan dari teman-teman kelas dan sebuah kartu besar yang ditandatangani tiga puluh enam orang, dengan gambar kupu-kupu yang digambar Rina. Rina sendiri berdiri di belakang Tika, dengan wajah merah, tak berani menatap mataku.
 
-"Aku... aku arep njaluk ngapura," katanya. "Bab puisi."
+"Aku... aku mau minta maaf," katanya. "Soal puisi."
 
-"Kuwi wis patang taun kepungkur."
+"Itu sudah empat tahun lalu."
 
-"Tapi aku durung njaluk ngapura."
+"Tapi aku belum minta maaf."
 
-"Rin." Aku tertawa, dan itu membuat selangku sakit. "Gambarmu apik. Kupu-kupune miring, tapi apik."
+"Rina." Aku tertawa, dan itu membuat selangku sakit. "Gambarmu bagus. Kupu-kupunya miring, tapi bagus."
 
 Pak Hendra datang berikutnya dengan sekantong buku catatan fotokopi dan sebuah berkas tebal. "Soal-soal olimpiade tahun lalu. Dan tahun sebelumnya. Dan buku latihan yang saya pinjam dari seorang kenalan di universitas." Ia menaruhnya di meja. "OSN tingkat kabupaten dibuka bulan Maret. Kamu tidak akan bisa ikut."
 
@@ -142,7 +142,7 @@ Ia berdiri di pintu dengan ransel dan sebuah bungkusan di tangan. Ia tidak masuk
 
 "Naufal," kata Ibu. "Mlebu wae, Le."
 
-"Matur nuwun, Bu." Ia melangkah masuk, dan membungkuk sedikit kepada Ibu. Lalu ia menyerahkan bungkusan itu padaku.
+"Terima kasih, Bu." Ia melangkah masuk, dan membungkuk sedikit kepada Ibu. Lalu ia menyerahkan bungkusan itu padaku.
 
 Aku membukanya. Radioku. Dengan antena baru, kabel tembaga tipis yang digulung rapi dan ujungnya dililit plester biru.
 

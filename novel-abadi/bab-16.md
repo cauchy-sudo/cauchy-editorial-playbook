@@ -62,11 +62,11 @@ Aku sedang di dapur membantu mencuci piring ketika mendengar suaranya dari ruang
 
 "Neng ngendi?"
 
-"Menawi katampi, wonten Yogya."
+"Nek ditampa, neng Yogya."
 
 "Lha, kowe arep mbayar nganggo opo?" Aku mendengar bunyi gelas diletakkan. "Sum, aku dudu arep nyinggung. Aku kakangmu. Aku ngerti Kang Tris kuwi pekerja keras. Tapi utangmu wis piro? Cincinmu wae wis kok copot. Anak sulungmu putus sekolah, merantau neng Batam. Saiki sing wedok arep kuliah?"
 
-"Niku... wonten beasiswa, Yu."
+"Kuwi... ono beasiswa, Yu."
 
 "Beasiswa." Budhe Painem mengucapkan kata itu dengan nada seperti menyebut nama makanan asing. "Lha terus? Dheweke wong wedok, Sum. Lara-laranen maneh. Kuliah dhuwur-dhuwur, mengko ujung-ujunge yo bali neng pawon. Mbok yo golek sing aman wae. Dadi bidan kaya Tika. Utawa guru. Utawa golek bojo sing apik, rampung urusan."
 
@@ -96,7 +96,7 @@ Hening. Lalu suara Budhe Painem, lebih rendah dan lebih kasar daripada biasa:
 
 "Karepmu. Aku mung ngomong."
 
-"Nggih, Yu. Matur nuwun sampun ngomong."
+"Nggih, Yu. Matur nuwun wis ngomong."
 
 Tidak ada yang bicara lagi untuk sementara. Aku mematikan keran dan menyeka tanganku. Ketika aku keluar dari dapur dengan sepiring pisang goreng, Budhe Painem melihatku dengan wajah yang sedikit keras, dan sebelum aku menaruh piring di meja, ia merogoh tasnya, mengeluarkan sebuah amplop putih dan menyelipkannya di telapak tanganku.
 
@@ -114,15 +114,15 @@ Si Bejo dijual pada awal Februari.
 
 Aku sudah tahu itu akan terjadi, sejak malam kaleng biskuit dikosongkan enam tahun lalu, dan Bapak menatap kandang. Dulu Bapak tidak melakukannya. Dulu Bapak menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah Bapak miliki yang mengenali langkahnya dari kejauhan.
 
-"Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Mboten sah."
+"Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Aja, Pak."
 
 "Aja opo?"
 
-"Mboten sah dipun dol."
+"Aja didol."
 
 "Aku durung ngomong arep ngedol."
 
-"Pak." Aku menarik napas. "Ongkos daftar ujian tertulis niku namung kalih atus ewu. Kula saged ngagem kaleng saking Ibu. Ongkos dhateng Yogya inggih saged kula tanggung piyambak. Menawi katampi, wonten beasiswa. Mboten sah..."
+"Pak." Aku menarik napas. "Ongkos daftar ujian tertulis kuwi mung rong atus ewu. Aku iso nganggo kaleng seko Ibu. Ongkos menyang Yogya yo iso tak tanggung dhewe. Nek ditampa, ono beasiswa. Ora usah..."
 
 "Wulan." Bapak menegakkan tubuh. Bapak menatapku, dan di wajahnya, di atas tulang pipi yang tajam dan mata yang lebih gelap daripada bayangan kandang, ada sesuatu yang tidak bisa kubantah. "Nek kowe ditampa, kowe butuh dhuwit go kos, go urip rong sasi sepisanan sadurunge beasiswa cair, go buku, go laptop sing disebut-sebut kuwi. Lan nek kowe ora ditampa, kowe butuh dhuwit go nyoba meneh. Bapak ora gelem kowe mandheg gara-gara dhuwit. Kuwi wae."
 
@@ -148,6 +148,6 @@ Aku tidak mendengar semua kalimatnya. Aku hanya menangkap kata *dua orang*, *pos
 
 Penjual bakso berhenti mengaduk. Beberapa orang menoleh ke layar. Seseorang berkata, "Wah, sudah sampai sini."
 
-Tika masuk, membawa tas penuh fotokopi. "Kok kabeh meneng?"
+Tika masuk, membawa tas penuh fotokopi. "Kenapa semua diam?"
 
 Aku tidak menjawab. Aku menaruh sendok di mangkuk. Di benakku, dengan kejernihan yang tiba-tiba mengerikan, terbayang sebuah rumah sakit dan daftar obat yang kuminum tiap pagi, dan nama-nama obat itu, satu per satu, tentang apa yang mereka lakukan pada sistem kekebalan seorang anak yang sebentar lagi berumur delapan belas tahun.

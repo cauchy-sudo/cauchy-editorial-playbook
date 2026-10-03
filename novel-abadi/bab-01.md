@@ -30,11 +30,11 @@ Ruang UKS di sekolah kami adalah satu kasur tipis di pojok ruang guru, dibatasi 
 
 "Itu apa, Bu?" tanyaku waktu Bu Siti datang membawa handuk basah.
 
-"Mikroskop." Bu Siti meletakkan handuk di keningku. "Dari bantuan. Pak Kepala wedi rusak, dadi durung tau dikeluarke."
+"Mikroskop." Bu Siti meletakkan handuk di keningku. "Dari bantuan. Pak Kepala takut rusak, jadi belum pernah dikeluarkan."
 
-"Wolung tahun?"
+"Delapan tahun?"
 
-"Wolung tahun," katanya, setengah tersenyum. "Wis, ojo akeh omong. Pipimu kuwi abang banget."
+"Delapan tahun," katanya, setengah tersenyum. "Sudah, jangan banyak bicara. Pipimu itu merah sekali."
 
 Dari pintu terdengar suara sandal diseret. Tika masuk dengan wajah seperti orang yang baru memenangkan sesuatu, kedua tangannya disembunyikan di belakang.
 
@@ -54,17 +54,17 @@ Bu Eni, bidan desa, datang selepas jam istirahat. Ia datang dengan motor bebek y
 
 Bu Eni menatap pipiku lama sekali. Terlalu lama untuk orang yang akan bilang bahwa ini cuma kepanasan.
 
-"Wis sarapan, Nduk?" tanyanya.
+"Tadi pagi sarapan?" tanyanya.
 
 "Tiwul, Bu."
 
-"Wiwit kapan sendine loro?"
+"Mulai kapan sendinya sakit?"
 
-"Rong minggu, Bu."
+"Dua minggu."
 
 Ia mengangguk, menutup tas, lalu keluar. Dari tempat tidurku aku bisa mendengar suaranya di teras, merendah, bicara pada Ibu yang rupanya sudah dipanggil Bu Siti lewat anak yang disuruh berlari.
 
-"Kula mboten wantun ngomong napa-napa, Bu Sum. Niki sanes tugas kula." Jeda. "Menawi saget, dipun beta dhateng dokter. Wonosari. Ingkang wonten alatipun."
+"Saya tidak berani bilang apa-apa, Bu Sum. Ini bukan kerja saya." Jeda. "Kalau bisa, dibawa ke dokter. Ke Wonosari. Yang ada alatnya."
 
 Aku menunggu Ibu menjawab. Tidak ada suara untuk beberapa saat, kecuali angin yang menggoyang daun jati di pinggir lapangan dan, entah di mana, seekor ayam yang berkokok pada jam yang salah.
 
@@ -74,11 +74,11 @@ Aku menunggu Ibu menjawab. Tidak ada suara untuk beberapa saat, kecuali angin ya
 
 Kami pulang berjalan kaki. Dua kilometer melewati ladang jagung yang sudah kering dan menguning, batangnya berbunyi tiap kali angin lewat. Ibu membawa payung hitam milik Mbah dan memaksaku berjalan di bawahnya, padahal tubuh Ibu sendiri separuh di luar payung dan separuh di bawah matahari.
 
-"Bu, kula mboten napa-napa."
+"Bu, aku ora popo."
 
 "Mlaku wae."
 
-"Namung pegel, Bu."
+"Mung pegel, Bu."
 
 "Mlaku wae, Nduk."
 

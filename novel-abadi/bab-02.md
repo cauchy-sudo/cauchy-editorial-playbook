@@ -50,7 +50,7 @@ Puskesmas di Wonosari ramai seperti pasar yang kehilangan penjualnya. Orang dudu
 
 "Jamkesmas."
 
-"Mboten gadhah, Pak," kata Ibu pelan. "Jare kedah wonten ing balai desa, nanging nami kula dereng..."
+"Kami tidak punya," kata Ibu pelan. "Katanya namanya harus ada di balai desa, tapi nama kami belum..."
 
 "Ya sudah, umum. Tiga ribu."
 
@@ -98,7 +98,7 @@ Tetapi pada saat itu, di ruang pemeriksaan yang berbau alkohol dan sabun, aku ha
 
 Di jendela apotek, seorang perawat muda dengan jilbab biru tua memeriksa resepku, menghitung tablet, dan memasukkannya ke dalam plastik kecil. Namanya tertulis di dada: Nurul. Ia menyerahkan salep, dan tanpa bicara, ia mengambil satu tube lagi dari rak, menyelipkannya ke dalam plastik.
 
-"Niku mboten wonten resep, Mbak," kata Ibu.
+"Itu bukan di resep," kata Ibu.
 
 "Dari saya, Bu." Mbak Nurul menurunkan suaranya. "Bu, kalau dua minggu belum membaik, jangan menunggu. Bawa ke rumah sakit besar. Ke Yogya, kalau bisa."
 
@@ -108,7 +108,7 @@ Di jendela apotek, seorang perawat muda dengan jilbab biru tua memeriksa resepku
 
 Ibu menerima kertas itu dengan dua tangan, seperti menerima sesuatu yang suci. Ibu membacanya, padahal belum ada yang tertulis di sana, kecuali judul kolom yang dibuat Mbak Nurul dengan huruf besar yang rapi: TANGGAL. KELUHAN. DEMAM? OBAT.
 
-"Kula mboten saged nulis, Mbak."
+"Saya tidak pandai menulis, Mbak."
 
 "Nanti Wulan yang menulis." Mbak Nurul tersenyum kepadaku. "Kamu bisa, kan?"
 

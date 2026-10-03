@@ -6,19 +6,19 @@ Tika yang mendaftarkanku ke pentas seni sekolah, tanpa bertanya, dan aku mengeta
 
 Aku berdiri di depan papan itu lama sekali, dan sebelum sempat membalas apa pun, bahuku ditepuk dari belakang.
 
-"Aku ngomong ke Daffa kowe iso nyanyi," kata Tika, dengan wajah yang tidak merasa bersalah. "Kowe iso."
+"Aku bilang ke Daffa kamu bisa nyanyi," kata Tika, dengan wajah yang tidak merasa bersalah. "Kamu bisa."
 
-"Aku ora tau nyanyi neng ngarep wong."
+"Aku nggak pernah nyanyi di depan orang."
 
-"Kowe nyanyi saben bengi neng kamar mandi."
+"Kamu nyanyi tiap malam di kamar mandi."
 
-"Kuwi kamar mandi!"
+"Itu kamar mandi!"
 
-"Akustike apik." Tika menarik lenganku. "Wul. Kowe kuwi kaya bakso: nek ora ono sing mangan, kowe ora sadar nek kowe enak."
+"Dengan akustik yang bagus." Tika menarik lenganku. "Wulan. Kamu itu seperti bakso: kalau tidak ada yang makan, kamu tidak sadar kamu enak."
 
-"Kuwi perumpamaan paling elek sing tau tak rungokke."
+"Itu perumpamaan terburuk yang pernah kudengar."
 
-"Tapi kowe ngguyu."
+"Tapi kamu ketawa."
 
 Aku memang tertawa.
 
@@ -44,11 +44,11 @@ Tika mengintip dari balik tirai. "Penuh. Ada anak SMP juga. Ada guru. Ada Bu Haj
 
 "*Apa?*"
 
-"Bu Haji lungguh neng baris kapindho. Karo Bu Rini. Dheweke nggawa termos."
+"Bu Haji duduk di baris kedua. Dengan Bu Rini. Dia bawa termos."
 
 "Aku mau pulang."
 
-"Mulih menyang ngendi? Gerbange dikunci. Iki dudu ide apik go mlayu."
+"Pulang ke mana? Gerbangnya dikunci. Ini bukan ide bagus untuk lari."
 
 Giliranku tiba setelah tim biologi membacakan puisi tentang mitokondria, dengan dramatisasi yang mengundang tawa dan tepuk tangan. Di panggung, di bawah satu lampu kuning yang terlalu terang, aku berdiri sendiri memegang mikrofon. Hanya ada satu kursi, dan sebuah gitar akustik di tangan seorang anak laki-laki yang mengiringi.
 
@@ -136,7 +136,7 @@ Tika berhenti sebentar di meja sebelah, melihat ke arah suara itu, lalu berjalan
 
 Tak ada yang menjawab.
 
-"Aku sekamar karo dheweke setaun luwih. Dheweke mangan sepisan sedina nalika dhuwite entek lan ora tau njaluk marang sopo-sopo. Dheweke nyapu latar Bu Haji saben esuk ben iso mangan bengi. Dheweke nyanyi neng pentas karo sikil gemeter. Dheweke nolak Daffa, lan nolake luwih sopan tinimbang sing iso kowe kabeh lakoni nek ditakoni sing kowe ora gelem." Tika menarik napas. "Nek kuwi sombong, yo aku gelem uga."
+"Aku sekamar sama dia setahun lebih. Dia makan sekali sehari waktu uangnya habis dan tidak pernah minta ke siapa pun. Dia sapu halaman Bu Haji tiap pagi supaya bisa makan malam. Dia nyanyi di pentas dengan kaki gemetar. Dia nolak Daffa, dan dia nolaknya dengan lebih sopan daripada yang bisa kalian lakukan kalau ditanya sesuatu yang kalian nggak mau." Tika menarik napas. "Kalau itu sombong, ya aku mau juga."
 
 Seisi kantin hening. Penjual bakso di pojok berhenti mengaduk. Seseorang menjatuhkan sendok.
 
@@ -148,11 +148,11 @@ Aku menutup mukaku dengan telapak tangan dan tertawa sampai air mataku keluar.
 
 Bu Haji memanggilku ke teras pada hari Rabu.
 
-"Kowe nolak Daffa?"
+"Kamu menolak Daffa?"
 
-"Nggih, Bu."
+"Iya, Bu."
 
-"Piye carane?"
+"Bagaimana caranya?"
 
 Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika aku selesai, ia mengangguk sekali.
 
@@ -166,9 +166,9 @@ Aku menceritakannya. Bu Haji mendengarkan sambil memegang cangkir teh. Ketika ak
 
 "Nenekmu orang baik."
 
-"Nggih, Bu. Piyambakipun..." Aku berhenti. "Sampun sepuh. Sawetawis wulan niki sakit-sakitan."
+"Iya, Bu. Dia..." Aku berhenti. "Dia sudah tua. Beberapa bulan ini dia sakit-sakitan."
 
-"Muliha nek kowe iso. Wong tuwa ora nunggu suwe." Bu Haji membuka korannya.
+"Pulanglah kalau kamu bisa. Orang tua tidak menunggu lama." Bu Haji membuka korannya.
 
 Aku mengangguk. Ia tidak menoleh.
 
@@ -188,4 +188,4 @@ Kemudian aku berdiri, mencuci tangan dengan sabun, kembali ke kamar sembilan, da
 
 Aku tidak menyiram dan pura-pura. Aku tidak menyembunyikan apa pun. Aku membangunkan Tika, dan ketika ia membuka mata dengan wajah mengantuk dan bingung, aku berkata, dengan suara yang tak kukenal sebagai suaraku sendiri:
 
-"Tik. Aku kudu menyang rumah sakit neng Yogya. Dina iki. Tulung omongke Bu Haji."
+"Tik. Aku harus ke rumah sakit di Yogya. Hari ini. Tolong bilang ke Bu Haji."

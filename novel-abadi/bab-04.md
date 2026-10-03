@@ -114,7 +114,7 @@ Mas Aji adalah orang yang tidak pernah tahu bagaimana mengatakan hal yang ia ras
 
 Antrean di loket pendaftaran lebih panjang daripada seluruh Dusun Pucung. Orang membawa map, kantong plastik, tas jinjing, dan bayi, dan tidak ada yang bicara. Petugas bertanya: "BPJS?"
 
-"Dereng," kata Mas Aji. "Jarene lagi wiwit taun ngarep."
+"Belum," kata Mas Aji. "Katanya baru mulai tahun depan."
 
 "Umum, ya. Ada surat keterangan tidak mampu?"
 
@@ -124,7 +124,7 @@ Dokter anak yang menerima kami bernama dr. Sumarni. Ia berusia lima puluhan, ber
 
 "Ini dibuat siapa?"
 
-"Wulan ingkang nulis, Dok," kata Ibu. "Mbak perawat wonten puskesmas ingkang nyuruh."
+"Wulan yang menulis, Dok," kata Ibu. "Mbak perawat di puskesmas yang menyuruh."
 
 "Perawat itu pintar." Dokter Sumarni menatap kami. "Jarang pasien datang membawa ini. Ini mempercepat banyak hal."
 
@@ -164,7 +164,7 @@ Ibu menggenggam tas kainnya.
 
 "Tes darah Wulan menunjukkan antibodi antinuklear positif. Itu salah satu penanda bahwa sistem kekebalan tubuhnya mungkin sedang menyerang tubuhnya sendiri." Ia berhenti sebentar, memastikan Ibu menangkap kalimat itu. "Dan protein di air seninya tiga plus."
 
-"Tiga plus itu..." kata Bapak, pelan. Itu pertama kali Bapak berbicara sejak pagi. "Kathah, Dok?"
+"Tiga plus itu..." kata Bapak, pelan. Itu pertama kali Bapak berbicara sejak pagi. "Banyak, Dok?"
 
 "Banyak."
 

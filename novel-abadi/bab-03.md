@@ -98,7 +98,7 @@ Mbah tidak menjawab. Mbah mengupas kulit singkong dengan kuku, perlahan. "Ono wo
 
 Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak memihak siapa pun. Mungkin Ibu sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ibu memakai kata yang lebih halus daripada yang Ibu pakai pada siapa pun.
 
-"Sakmeniko rumiyin, Mbah. Mbenjing Bapak badhe mbeta Wulan dhateng dokter malih."
+"Mengko sik, Mbah. Sesuk Bapak arep nggawa Wulan menyang dokter maneh."
 
 "Yo." Mbah tidak membantah. Mbah menggigit singkongnya. "Dokter yo dokter. Dongo yo dongo. Aja dipilih salah siji, Sum. Loro-lorone ono gunane."
 

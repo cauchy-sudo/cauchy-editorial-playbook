@@ -6,7 +6,7 @@ Ibu yang membelinya, di pasar Wonosari, pada hari kedua setelah aku keluar dari 
 
 "Telu," katanya. "Telung gelas sedina. Ora luwih."
 
-"Niku enem atus, Bu. Niku namung toya ngombe. Kuah, teh, woh, sedaya dietung."
+"Kuwi enem atus, Bu. Kuwi mung banyu ngombe. Kuah, teh, woh, kabeh diitung."
 
 "Ibu ngerti. Dokter Suryo sing ngomong." Ibu menuang air ke gelas itu sampai garis. "Ibu catet. Neng kertas."
 

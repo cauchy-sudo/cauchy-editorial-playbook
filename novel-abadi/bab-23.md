@@ -2,15 +2,15 @@
 
 Tika yang pertama kali menunjukkannya padaku, pada malam bulan Desember 2022, dengan wajah seperti orang yang baru melihat setan berbicara dalam bahasa Indonesia.
 
-"Wul. Wul. Delengen iki."
+"Wulan. Wulan. Lihat ini."
 
 Ia menyodorkan laptopnya ke arahku di meja kecil di tengah kamar kos. Di layar, ada jendela percakapan yang sederhana, putih, dengan kotak tempat mengetik di bagian bawah. Di atasnya, sebuah pertanyaan yang ia ketik dengan huruf kecil semua: *jelaskan kenapa bayi baru lahir harus disusui dalam satu jam pertama*.
 
 Dan di bawahnya, jawaban. Panjang, rapi, dengan poin-poin, dalam bahasa yang lebih jelas daripada bab buku kebidanan mana pun yang pernah kubaca.
 
-"Kuwi... sopo sing nulis?"
+"Itu... siapa yang nulis?"
 
-"Mesin." Tika menggeleng, tak percaya. "Mung mesin. Aku njaluk dheweke njelasake kaya marang bocah SMP. Terus dheweke njelasake kaya marang bocah SMP. Aku njaluk meneh kaya marang dokter. Dheweke njelasake uga." Tika menggigit bibir. "Wul, iki edan."
+"Mesin." Tika menggeleng, tak percaya. "Cuma mesin. Aku minta dia jelaskan kayak ke anak SMP. Terus dia jelaskan kayak ke anak SMP. Aku minta lagi kayak ke dokter. Dia jelaskan juga." Tika menggigit bibir. "Wulan, ini gila."
 
 Aku mengambil laptop itu. Jari-jariku berhenti di atas papan ketik selama beberapa detik.
 

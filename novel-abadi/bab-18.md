@@ -148,17 +148,17 @@ Ibu menutup wajahnya dengan kain di tangannya.
 
 "Ngapunten." Suaranya tersumbat. "Ibu isin. Ibu isin kowe kudu nuduhke..."
 
-"Bu." Aku mendekat dan memegang bahunya. "Niki sanes sedekah. Niki hak kita."
+"Bu." Aku mendekat dan memegang bahunya. "Iki dudu sedekah, Bu. Iki hak kita."
 
 "Tapi..."
 
-"Bu Wiwik ngendika ngaten. Lan piyambakipun mboten nate goroh."
+"Bu Wiwik ngomong ngono. Lan dheweke ora tau goroh."
 
 Ibu menurunkan kain dan menatapku. Di matanya ada dua hal yang berebut: malu dan bangga. Aku melihat mereka berperang, dan aku melihat bangga menang, sedikit.
 
 "Kowe ora njaluk ngapura," katanya.
 
-"Mboten, Bu."
+"Ora, Bu."
 
 "Apik." Ibu mengusap pipi dengan punggung tangan. "Aja tau njaluk ngapura go kuwi."
 
@@ -168,7 +168,7 @@ Pengumuman beasiswa datang dua minggu kemudian, pada hari Jumat, lewat sebuah su
 
 "Nduk, ono wong ngirim pesen. Jare kowe entuk dhuwit. Aja dibales."
 
-"Bu, niku saking kampus."
+"Bu, kuwi seko kampus."
 
 "Seko kampus? Kok ono tulisane 'selamat'? Sing ngono kuwi biasane wong nipu."
 
@@ -184,7 +184,7 @@ Aku menatapnya.
 
 "Si Bejo ora sia-sia." Ibu tersenyum, dengan air mata yang jatuh ke kain di pangkuannya. "Dhuwite ora kanggo, yo. Dhuwit sapi kuwi."
 
-"Mboten sah, Bu. Simpen kangge darurat."
+"Ora usah, Bu. Simpen go darurat."
 
 "Ora." Ibu menggeleng. "Kuwi go kowe. Go opo wae sing ora ono neng surel kuwi."
 

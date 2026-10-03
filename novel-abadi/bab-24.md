@@ -208,7 +208,7 @@ Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam p
 
 "Bledug tertutup."
 
-Tika berdiri di sampingku dengan kebaya biru dan sebuah buket kecil dari bunga plastik. Ia lulus dari akademi kebidanan setahun sebelumnya dan sudah bekerja di sebuah klinik, dengan rambut yang lebih pendek dan tatapan seseorang yang sudah menolong banyak persalinan. Ia memberiku buket itu dan berbisik: "Iki kembang palsu, tapi aku ora goroh."
+Tika berdiri di sampingku dengan kebaya biru dan sebuah buket kecil dari bunga plastik. Ia lulus dari akademi kebidanan setahun sebelumnya dan sudah bekerja di sebuah klinik, dengan rambut yang lebih pendek dan tatapan seseorang yang sudah menolong banyak persalinan. Ia memberiku buket itu dan berbisik: "Ini bunga palsu, tapi aku tidak berbohong."
 
 Bu Haji hadir, dengan Bu Rini. Pak Hendra datang dengan kemeja yang dimasukkan terlalu rapi. Bu Ratmi membawa sekeranjang manisan. Bu Wiwik, dengan lipstik merah tua yang tak pernah luntur, berdiri di belakang aula dan melambai padaku dengan satu tangan, seolah berkata *aku tidak berbohong, kan?*
 
@@ -230,7 +230,7 @@ Dr. Anindya menghampiri kami setelah acara selesai, dengan toga dosen yang kebes
 
 "Ibu Wulan," katanya pada Ibu, dengan membungkuk sedikit.
 
-"Ibu, Bu Dosen." Ibu membalas dengan membungkuk lebih rendah, dan kaku. "Matur nuwun sampun ngajari Wulan."
+"Ibu, Bu Dosen." Ibu membalas dengan membungkuk lebih rendah, dan kaku. "Terima kasih sudah mengajar Wulan."
 
 "Saya tidak mengajar." Dr. Anindya tersenyum. "Dia mengajar dirinya sendiri. Saya hanya memberinya meja."
 

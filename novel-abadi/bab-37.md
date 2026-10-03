@@ -20,15 +20,15 @@ Gagangnya masih dari kayu halus dengan ukiran tangkai padi. Kainnya sudah dua ka
 
 "Payunge go kowe," kata Ibu, tanpa menoleh.
 
-"Dinten niki kangge Ibu."
+"Dina iki go Ibu."
 
 "Kowe ora oleh kena srengenge."
 
-"Sampun oleh, Bu. Rong puluh menit."
+"Wis oleh, Bu. Rong puluh menit."
 
-"Kuwi goroh."
+"Kuwi ora bener."
 
-"Niku tabir surya."
+"Kuwi tabir surya."
 
 Ibu menoleh. Ibu menatapku lama, dengan mata yang menyipit dalam terik, dan di wajahnya bergerak sesuatu yang kuduga Ibu sendiri tak tahu namanya.
 
@@ -46,7 +46,7 @@ Kami berjalan begitu, berdua, di bawah satu payung yang tak cukup besar, dengan 
 
 "Kok luwih kuru neng televisi!"
 
-"Niku kamerane, Mbok."
+"Kuwi kamerane, Mbok."
 
 "Kamerane jahat!"
 
@@ -88,11 +88,11 @@ Ibu menyikut lenganku pelan. "Sopo jenenge, Nduk? Ibu lali."
 
 "Mbak Nurul." Ibu mengulanginya dua kali tanpa suara, seperti menaruh nama itu di tempat yang aman, lalu menyodorkan ingkung ke arah Mbak Nurul.
 
-"Dhahar, Mbak," katanya. "Anak kula ngendika, menawi sanes Mbak, anak kula mboten wonten ing mriki."
+"Dimakan, Mbak," katanya. "Anak saya bilang, kalau bukan karena Mbak, anak saya tidak ada di sini."
 
 "Bu..."
 
-"Dhahar." Ibu menatapnya, dengan mata yang jernih dan sangat tegas. "Niku dhawuh."
+"Dimakan." Ibu menatapnya, dengan mata yang jernih dan sangat tegas. "Itu perintah."
 
 Mbak Nurul tertawa, dengan air mata yang jatuh ke piring, dan memakannya.
 
@@ -116,11 +116,11 @@ Aku berhenti di langkah ke tiga. Di dalam kandang, di atas jerami baru yang masi
 
 "Hm."
 
-"Niku..."
+"Kuwi..."
 
 "Bapak tuku minggu wingi." Bapak tidak menoleh. "Seko dhuwit sapi sing kowe ngomong ora sah dienggo."
 
-"Pak, niku kan arta..."
+"Pak, kuwi kan dhuwit..."
 
 "Dhuwite cukup." Bapak memutar topi di tangannya. "Jenenge Bejo."
 
@@ -144,7 +144,7 @@ Bapak menarik napas panjang, dan aku melihat bahunya turun seperti beban yang ak
 
 Aku masuk, dengan lonceng di tangan. Aku berlutut di jerami. Aku mengulurkan tangan, dan anak sapi itu, setelah ragu sebentar, mengendus telapakku dengan hidung yang basah dan hangat. Aku mengikatkan lonceng itu di lehernya dengan seutas tali dari kantong. Ia menggoyangkan kepalanya, dan lonceng itu berbunyi, jelas dan bulat, di kandang yang sunyi.
 
-"Niku lonceng kangge Bejo ingkang kaping kalih," kataku.
+"Kuwi lonceng go Bejo sing kapindho," kataku.
 
 "Iyo." Suara Bapak serak. "Apik."
 
@@ -164,13 +164,13 @@ Aku tidak menjawab.
 
 "Seko cilik, kowe gemeter nek ono wong ndelok. Wektu upacara. Wektu ujian. Wektu dokter takon." Bapak menatap kandang. "Wingi kowe ora."
 
-"Kula sinau, Pak."
+"Aku sinau, Pak."
 
 "Bapak ngerti." Bapak mengangguk perlahan. "Bapak ora ngerti kowe nyimpen opo. Nanging Bapak ngerti kowe wis tekan."
 
 Aku menatap punggungnya yang bungkuk, dan lehernya yang berkerut, dan tangannya yang retak dan kasar, yang memegang topi seperti memegang sesuatu yang bisa tumpah.
 
-"Dereng, Pak," kataku. "Taksih tebih."
+"Durung, Pak," kataku. "Isih adoh."
 
 "Oh." Bapak tersenyum, kecil, dan di wajahnya aku melihat sesuatu yang kuduga rasa bangga dan sesuatu yang kuduga ketakutan, bersatu tanpa saling mengalahkan. "Yo wis. Bapak enteni."
 

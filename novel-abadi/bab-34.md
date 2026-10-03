@@ -98,11 +98,11 @@ Ibu menangis di dapur.
 
 Aku memberitahunya sore itu, di Pucung, ketika Ibu sedang mengaduk tiwul di wajan. Aku berdiri di ambang pintu dan mengatakannya dengan kalimat paling pendek yang bisa kutemukan.
 
-"Bu. Dokter ngendika mboten sah cuci darah malih."
+"Bu. Dokter ngendika ora usah cuci darah meneh."
 
 Sendok kayu itu berhenti. Ibu tidak menoleh.
 
-"Ginjalku... saya sae. Dokter mboten ngertos kenging punapa. Nanging saya sae."
+"Ginjalku... saya apik. Dokter ora ngerti kenopo. Nanging saya apik."
 
 Sendok kayu itu jatuh ke wajan dengan bunyi pelan. Ibu menaruh kedua tangannya di tepi tungku, dan bahunya, bahu kecil dan melengkung dan terlalu ringan, mulai bergetar. Ibu menangis tanpa suara, dengan kepala tertunduk, seperti Ibu selalu menangis, seperti tak ingin ada yang mendengar.
 
@@ -118,7 +118,7 @@ Bapak datang pada malam harinya, dari ladang, dengan cangkul di bahu dan celana 
 
 "Bapak ora gelem percaya sik," katanya.
 
-"Kenging napa, Pak?"
+"Kenopo, Pak?"
 
 "Wedi." Bapak memutar topi di tangannya. "Wedi nek dheweke lunga meneh."
 

@@ -6,7 +6,7 @@ Aku membelinya di sebuah toko barang bekas di dekat kampus, atas saran seorang k
 
 Ibu menelepon malamnya lewat telepon Pak Hasan. "Wis tuku?"
 
-"Sampun, Bu."
+"Wis, Bu."
 
 "Nganggo dhuwite?"
 
@@ -167,11 +167,11 @@ Malam itu aku menelepon Ibu lewat telepon Pak Hasan, dan setelah Pak Hasan meman
 
 "Nduk? Ono opo?"
 
-"Mboten wonten napa-napa, Bu. Namung telepon."
+"Ora ono opo-opo, Bu. Mung telpon."
 
 "Wis mangan?"
 
-"Sampun, Bu."
+"Wis, Bu."
 
 "Mangan opo?"
 
@@ -179,11 +179,11 @@ Malam itu aku menelepon Ibu lewat telepon Pak Hasan, dan setelah Pak Hasan meman
 
 "Tempe meneh. Kowe kuwi." Terdengar bunyi ayam di kejauhan, dan bunyi angin di antara pohon jati. "Bapak neng kandang. Ardi neng omahe Tika. Kowe sehat?"
 
-"Sehat, Bu. Dinten niki kula saged pipet."
+"Sehat, Bu. Dina iki aku iso pipet."
 
 "Pipet opo?"
 
-"Alat. Kangge mindhah toya. Namung sekedhik."
+"Alat. Go mindhah banyu. Mung sithik."
 
 "Oh." Jeda. "Kuwi hebat?"
 

@@ -62,7 +62,7 @@ Aku duduk di sampingnya. Kami berdua menatap foto itu.
 
 "Ngapura opo?"
 
-"Kula mboten wonten."
+"Aku ora ono."
 
 "Kowe lara." Ibu menggenggam jemariku, dan telapaknya kasar dan hangat. "Mbah ngerti. Dheweke ngerti kowe ora iso teka. Dheweke ngomong ngono sadurunge..."
 
@@ -92,11 +92,11 @@ Pada malam keenam, setelah semua selesai, Pak Dukuh mendekatiku.
 
 "Wis dirawat?"
 
-"Sampun, Pak. Dokter Sumarni."
+"Wis, Pak. Dokter Sumarni."
 
 "Warga..." Pak Dukuh berhenti, menggaruk lehernya. "Warga wis ngerti. Mbok Karni sing ngabari kabeh wong. Awake dhewe wis rembugan. Awake dhewe arep ngumpulke meneh."
 
-"Pak, mboten sah. Sampun taun-taun kepungkur..."
+"Pak, ora usah. Wis taun-taun kepungkur..."
 
 "Wis ono BPJS, yo. Tapi ongkose? Obat sing ora ditanggung? Maem Ibumu neng rumah sakit?" Pak Dukuh mengangkat tangan. "Aku ora njaluk idinmu. Aku mung ngabari. Kuwi urusane dusun."
 
@@ -110,7 +110,7 @@ Aku menatapnya. Di wajah gemuk dan ramah itu, aku melihat bahwa tak ada rasa bel
 
 "Aku tenan."
 
-"Kula inggih tenan."
+"Aku yo tenan, Pak."
 
 ---
 
@@ -120,7 +120,7 @@ Pada malam ketujuh, ketika tahlilan terakhir selesai dan tamu sudah pulang, Ibu 
 
 Aku membukanya. Di dalam, terlipat rapi, ada payung hitam yang kukenal. Gagangnya dari kayu halus dengan ukiran tangkai padi. Kainnya sudah sedikit pudar.
 
-"Niki duwekke Mbah," kataku. "Dheweke ngendika dipinjemke."
+"Iki duwekke Mbah," kataku. "Mbah ngendika dipinjemke."
 
 "Dheweke ngomong nganti kowe duwe dhewe." Ibu duduk di tikar. "Nanging sadurunge lunga, dheweke ngomong marang aku: nek ono opo-opo, kekna Wulan. Dheweke ngomong kowe bakal butuh."
 
@@ -130,7 +130,7 @@ Aku menatap payung itu. Dalam diam, aku mengingat Mbah yang berjalan di bawah ma
 
 "Ono neng keranjang."
 
-"Kula ingkang ngrampungaken, Bu?"
+"Aku sing ngrampungke, Bu?"
 
 Ibu menatapku. Lalu Ibu tersenyum, kecil, dengan mata yang kembali basah.
 

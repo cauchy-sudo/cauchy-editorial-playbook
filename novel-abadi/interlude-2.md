@@ -6,7 +6,7 @@ Ibu tidak tahu. Ibu mengaduk tiwul di wajan dengan sendok kayu yang gagangnya su
 
 "Nduk," kata Ibu, tanpa menoleh. "Kowe krungu ora? Mbok Karni wis crita bab Sekar?"
 
-"Dereng, Bu."
+"Durung, Bu."
 
 "Anake Pak Sarjo. Sing kelas telu SMP. Pipine abang-abang." Ibu mengetuk wajan dengan sendok. "Bu Tika wis ndelok. Jare kudu digawa menyang Yogya. Dina Kamis. Dheweke durung duwe dhuwit, tapi jare BPJS-e wis mlaku."
 

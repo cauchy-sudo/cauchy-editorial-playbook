@@ -10,11 +10,11 @@ Ibu tidak berlari. Ibu berjalan pelan, dan ketika sampai di hadapanku, Ibu hanya
 
 "Kowe kuru," katanya.
 
-"Ibu inggih."
+"Ibu yo."
 
 "Ibu dudu sing sekolah neng luar negeri."
 
-"Niku sanes alesan, Bu."
+"Kuwi dudu alesan, Bu."
 
 "Kuwi alesan." Ibu tersenyum, dengan mata basah, dan menarikku ke dalam pelukan yang kusut dan bau minyak kayu putih dan asap dapur. Aku merasa tulang-tulang bahunya di bawah kebaya, dan tiba-tiba aku takut: bukan karena sesuatu yang kuketahui, tetapi karena betapa ringan Ibu terasa.
 
@@ -30,11 +30,11 @@ Dusun Pucung menyambutku dengan satu perubahan yang tidak kuantisipasi: semua or
 
 "Dokter Wulan, mampir, mampir," teriak Mbok Karni dari teras, dengan tangan yang masih lincah di usia tujuh puluhan. "Tak gawekke teh."
 
-"Mbok, kula sanes dokter ingkang niku."
+"Mbok, aku dudu dokter sing kuwi."
 
 "Dokter kuwi dokter, Nduk. Sing iki dengkulku. Lorone nek mangsa udan."
 
-"Mbok, kula doktor biologi sel. Kula mboten saged mriksa dengkul."
+"Mbok, aku doktor biologi sel. Aku ora iso mriksa dengkul."
 
 "Iso, iso." Mbok Karni menuangkan teh dengan kepercayaan penuh. "Kowe pinter. Mesti ngerti."
 
@@ -52,7 +52,7 @@ Aku tertawa, dan tertawa itu hampir menjadi tangis. "Banyak, Pak."
 
 Pak Dukuh menangkupkan kedua tangan di dada dan berkata, dengan suara yang sedikit pecah: "Nduk. Kowe eling dusun iki."
 
-"Kula eling, Pak."
+"Aku eling, Pak."
 
 "Apik."
 
@@ -230,13 +230,13 @@ Aku duduk.
 
 "Bapak wis ngomong karo dokter."
 
-"Bab napa, Pak?"
+"Bab opo, Pak?"
 
 "Ginjal." Bapak memutar topinya. "Bapak duwe loro. Siji cukup."
 
 Aku menatapnya. Bapak tidak membalas tatapanku.
 
-"Pak. Mboten."
+"Pak. Ora."
 
 "Bapak wis takon. Dokter ngomong iso. Nek golongan getih cocok. Nek sehat."
 
@@ -244,7 +244,7 @@ Aku menatapnya. Bapak tidak membalas tatapanku.
 
 "Kuwi urusane Bapak."
 
-"Niku urusane sedaya, Pak." Suaraku bergetar. "Pak. Mboten."
+"Kuwi urusane kabeh wong, Pak." Suaraku bergetar. "Pak. Ora."
 
 Bapak menatap tangannya, tangan yang retak dan kasar, yang pernah memegang kambing yang dijual dan sapi yang ditatap dari jauh, dan yang kini, di bawah lampu temaram, tampak lebih kecil daripada yang kuingat.
 
@@ -252,11 +252,11 @@ Bapak menatap tangannya, tangan yang retak dan kasar, yang pernah memegang kambi
 
 Aku merasa sesuatu pecah di dalam dadaku, sesuatu yang telah menahan selama enam belas tahun.
 
-"Pak." Air mataku jatuh, tanpa kuhitung. "Bapak sampun maringi. Bapak sampun maringi sedaya."
+"Pak." Air mataku jatuh, tanpa kuhitung. "Bapak wis maringi. Bapak wis maringi kabeh."
 
 "Kuwi dudu..."
 
-"Pak." Aku menggenggam tangannya dengan kedua tanganku. "Menawi wonten napa-napa kaliyan Bapak... kula mboten badhe kuwawi."
+"Pak." Aku menggenggam tangannya dengan kedua tanganku. "Nek ono opo-opo karo Bapak... aku ora bakal kuwat."
 
 Bapak menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
 
@@ -274,7 +274,7 @@ Hasil Ibu keluar pada hari Jumat. Dokter Suryo memanggil kami berdua ke ruangann
 
 "Ibu Sumiati. Hasil Anda baik. Golongan darah cocok. Tapi fungsi ginjal Anda enam puluh delapan. Tekanan darah Anda borderline. Anda berumur lima puluh tiga, dan hampir seluruh hidup Anda bekerja di bawah matahari dengan sedikit minum." Ia menatap Ibu dengan lembut. "Untuk seorang donor, angka itu terlalu rendah. Risikonya terlalu tinggi bagi Anda."
 
-Ibu menatapnya. "Nanging kula taksih gadhah kalih."
+Ibu menatapnya. "Tapi saya masih punya dua."
 
 "Iya, Bu. Dan kami ingin Ibu tetap punya dua."
 
@@ -284,11 +284,11 @@ Ibu menatapnya. "Nanging kula taksih gadhah kalih."
 
 Ibu menunduk. Ibu duduk diam, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika Ibu menengadah, wajahnya sama sekali kering.
 
-"Berarti kedah daftar tunggu," katanya.
+"Berarti harus daftar tunggu," katanya.
 
 "Ya, Bu. Daftar tunggu donor yang meninggal."
 
-"Pinten lami?"
+"Berapa lama?"
 
 Dokter Suryo tidak menjawab dengan cepat. "Di Indonesia, itu bisa bertahun-tahun, Bu. Banyak yang tidak sempat."
 

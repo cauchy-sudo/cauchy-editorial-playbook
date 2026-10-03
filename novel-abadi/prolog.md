@@ -4,7 +4,7 @@ Ibu menggenggam tanganku di dapur, di antara asap kayu bakar dan bau gula jawa y
 
 "Kowe nganggo opo, Nduk?"
 
-"Nganggo napa, Bu?"
+"Nganggo opo, Bu?"
 
 "Tanganmu." Ibu membalik telapakku, lalu punggungnya, seperti pedagang di pasar memeriksa buah. "Biyen kowe kuliah, tangan iki wis alus. Saiki kowe meh telung puluh, isih alus wae."
 

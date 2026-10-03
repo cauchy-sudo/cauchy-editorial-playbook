@@ -14,19 +14,19 @@ Mas Aji berhenti sekolah pada Februari 2016, di bangku kelas sebelas SMA, dengan
 
 Ia pulang ke Pucung pada Sabtu sore dengan ransel di punggung dan wajah orang yang sudah memutuskan, dan menaruh ransel itu di lantai ruang tengah di depan Bapak dan Ibu. Aku duduk di tikar dengan buku IPA di pangkuan, pura-pura membaca.
 
-"Kula pengin mandheg," katanya.
+"Aku pengin mandheg," katanya.
 
 Bapak tidak menjawab.
 
-"Kula sampun ngomong kaliyan Pakdhe Danu. Piyambakipun wonten Batam. Wonten gawean ing galangan kapal, bagian angkut-angkut. Jare Pakdhe, kula sampun cukup dhuwur kangge dipun ngakoni pitulas taun. Gajine rong yuta luwih. Kula saged ngirim saben wulan."
+"Aku wis ngomong karo Pakdhe Danu. Dheweke neng Batam. Ono gawean neng galangan kapal, bagian angkut-angkut. Jare Pakdhe, aku wis cukup dhuwur go diaku pitulas taun. Gajine rong yuta luwih. Aku iso ngirim saben wulan."
 
 "Sekolahmu piye?" Suara Ibu sangat tipis.
 
-"Mboten napa-napa. Kula mboten pinter, Bu. Wulan sing pinter. Kula namung damel boros." Mas Aji berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, niku sedaya... kula ngertos awake dhewe dereng cukup. Pakdhe Harjo ugi sampun utang kangge cincin Ibu."
+"Ora popo. Aku ora pinter, Bu. Wulan sing pinter. Aku mung gawe boros." Mas Aji berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, kuwi kabeh... aku ngerti awake dhewe durung cukup. Pakdhe Harjo uga wis utang go cincin Ibu."
 
 "Kuwi dudu urusanmu, Ji."
 
-"Niku urusan kula, Bu."
+"Kuwi urusanku, Bu."
 
 Hening yang menyusul begitu panjang sehingga aku bisa mendengar ayam bertengkar di kolong dipan. Bapak menarik napas panjang, dan dalam seluruh hidupku, aku belum pernah melihat Bapak memandang anak sulungnya selama itu.
 
@@ -114,13 +114,13 @@ Tika lolos juga. Kami berdiri di tengah ladang, di bawah matahari yang tidak bol
 
 Bagus, yang memilih sekolah kejuruan di Playen, berbeda arah dan berbeda nasib, mampir ke rumahku seminggu sebelum aku berangkat. Ia menaruh sebuah bola voli yang sudah lusuh di bangku teras.
 
-"Aku isih utang ngajari kowe voli," katanya.
+"Aku masih utang ngajarin kamu voli," katanya.
 
-"Aku isih ora oleh kena srengenge."
+"Aku masih nggak boleh kena matahari."
 
-"Nek ngono voli neng njero ruangan." Ia nyengir, dan gigi majunya terlihat. Ia sudah lebih tinggi dariku dua kepala sekarang. "Aku tenan, Lan. Nek kowe mulih, kabari. Tak ajari."
+"Kalau gitu voli dalam ruangan." Ia nyengir, dan gigi majunya terlihat. Ia sudah lebih tinggi dariku dua kepala sekarang. "Aku serius, Lan. Kalau kamu pulang, hubungi. Aku ajarin."
 
-"Iyo."
+"Iya."
 
 "Janji."
 
@@ -132,11 +132,11 @@ Hari keberangkatanku jatuh pada Minggu pertama Juli. Ibu bangun sejak subuh dan 
 
 Mbah Darmi datang dengan sarung dan tongkatnya, dan menyelipkan sesuatu ke dalam telapak tanganku: segulung uang lima puluh ribuan yang diikat dengan karet gelang.
 
-"Mbah, mboten sah."
+"Mbah, ora usah."
 
 "Iki dudu go kowe. Iki go pelindungmu." Mbah menutup jemariku di atas gulungan itu. "Tuku payung anyar nek sing lawas rusak."
 
-"Payunge taksih sae."
+"Payunge isih apik."
 
 "Tuku wae." Mbah tersenyum tipis. "Nduk. Aja lali mulih."
 
