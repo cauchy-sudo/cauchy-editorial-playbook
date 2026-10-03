@@ -50,15 +50,15 @@ Aku mengajak Tika, dan Tika, yang tidak pernah menolak makanan gratis, menyetuju
 
 Kami berangkat naik kereta lokal pagi-pagi pada hari Sabtu, aku dengan kebaya biru tua pinjaman dari Bu Haji, yang menelepon Tika dan menyuruhnya membawakanku "pakaian yang pantas", dan jilbab biru muda yang kujahit dari kerudung setengah jadi Mbah. Payung hitam menggantung di lenganku. Tika memakai kebaya hijau terlalu ketat dan tidak berhenti mengeluh.
 
-"Aku tidak bisa duduk."
+"Aku ora iso lungguh."
 
-"Kamu bisa."
+"Kowe iso."
 
-"Tulang rusukku sudah membenci aku."
+"Tulang rusukku wis sengit karo aku."
 
-"Kamu yang pilih ukurannya."
+"Kowe sing milih ukurane."
 
-"Itu ukuran paling besar yang ada!"
+"Kuwi ukuran paling gedhe sing ono!"
 
 Rumah keluarga Bayu di Klaten adalah rumah joglo tua, dengan pendopo luas dan halaman penuh bunga melati dan sebuah tenda putih besar dengan deretan kursi. Gamelan dimainkan di pojok, pelan, dengan irama yang membuat dada terasa lapang. Di pintu masuk, dua gadis kecil berkebaya membagikan tisu dan senyum.
 
@@ -70,11 +70,11 @@ Bayu menunggu kami di pagar. Ia mengenakan beskap hitam dan blangkon, dan aku ny
 
 "Aku tahu. Tapi aku tetap tidak yakin."
 
-Tika berbisik di sampingku, cukup keras untuk didengar: "Aku bisa pergi kalau kalian mau berdua."
+Tika berbisik di sampingku, cukup keras untuk didengar: "Aku iso lunga nek kowe loro arep dhewekan."
 
 "Tika."
 
-"Aku cuma menawarkan."
+"Aku mung nawani."
 
 ---
 
@@ -176,13 +176,13 @@ Hening di dalam ruangan. Aku berdiri diam di lorong, dengan tangan yang bersanda
 
 Aku mundur perlahan, tanpa suara, dengan kaki yang mendadak terasa dingin dan ringan. Aku kembali ke pendopo. Tika sedang menyendok kue ke piringnya.
 
-"Kamu dari mana?" bisiknya. "Mukamu pucat."
+"Kowe seko ngendi?" bisiknya. "Rupamu pucet."
 
-"Itu bedak."
+"Kuwi bedak."
 
-"Kamu nggak pakai bedak."
+"Kowe ora nganggo bedak."
 
-"Tika." Aku menggenggam payung hitamku. "Aku mau pulang."
+"Tik." Aku menggenggam payung hitamku. "Aku arep mulih."
 
 ---
 

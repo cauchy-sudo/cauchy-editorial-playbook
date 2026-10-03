@@ -244,23 +244,23 @@ Aku tidak menjawab.
 
 Ibu dan Bapak menontonnya di rumah Pak Hasan, di televisi tabung kecil di ruang tamu yang penuh tetangga.
 
-Aku mengetahuinya dari Tika, yang menelepon setelah acara dengan suara serak dan terengah. "Wulan. Kamu muncul di TV. Seluruh dusun datang. Mbok Karni teriak. Dia lompat. Dia lompat padahal pinggangnya sakit."
+Aku mengetahuinya dari Tika, yang menelepon setelah acara dengan suara serak dan terengah. "Wul. Kowe metu neng TV. Sak dusun teka. Mbok Karni njerit. Dheweke mlumpat. Dheweke mlumpat padahal pinggange lara."
 
-"Ibu bagaimana?"
+"Ibu piye?"
 
-"Ibu..." Tika tertawa, dan tawa itu pecah. "Ibu duduk di lantai. Di depan televisi. Dia diam. Dia cuma menatap. Sampai semuanya selesai. Terus dia bilang..."
+"Ibu..." Tika tertawa, dan tawa itu pecah. "Ibu lungguh neng ngisor. Neng ngarep televisi. Dheweke meneng. Mung ndelok. Nganti kabeh rampung. Terus dheweke ngomong..."
 
-"Bilang apa?"
+"Ngomong opo?"
 
-"'Itu Wulan?'"
+"'Kuwi Wulan?'"
 
 Aku menutup mulut dengan telapak tangan.
 
-"Aku bilang iya. Dia bilang: 'Kok kurus.'" Tika menangis dan tertawa sekaligus. "Itu satu-satunya komentarnya."
+"Aku ngomong iyo. Dheweke ngomong: 'Kok kuru.'" Tika menangis dan tertawa sekaligus. "Kuwi siji-sijine komentare."
 
-"Kamu di sana?"
+"Kowe neng kono?"
 
-"Aku di sampingnya. Dia pegang tanganku." Tika menarik napas panjang. "Wulan. Dia bangga banget. Aku nggak pernah lihat dia sebangga itu."
+"Aku neng sandhinge. Dheweke nyekel tanganku." Tika menarik napas panjang. "Wul. Dheweke bangga banget. Aku ora tau ndelok dheweke bangga kaya ngono."
 
 Aku tidak sanggup menjawab. Aku berdiri di koridor fakultas dengan telepon di telinga, dan menyandarkan dahiku di dinding yang dingin, dan mendengarkan Tika menangis di seberang, jauh di Pucung, di ruang tamu rumah tetangga yang pernah memanggilku dengan telepon tua untuk mengabarkan bahwa seseorang telah meninggal.
 

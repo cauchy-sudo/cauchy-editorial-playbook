@@ -2,19 +2,19 @@
 
 Bangsal anak punya aturan yang tidak tertulis, dan Yuni menjelaskan semuanya padaku pada malam pertama, dengan suara berbisik, sambil menunjuk dengan dagu.
 
-"Satu: jangan lihat dokter jaga kalau kamu mau tidur. Dia pasti datang kalau kamu lihat."
+"Siji: aja ndelok dokter jaga nek kowe arep turu. Dheweke mesti teka nek kowe ndelok."
 
-"Itu tidak masuk akal."
+"Kuwi ora masuk akal."
 
-"Dua: kalau perawat bilang 'cuma sebentar', itu setengah jam. Tiga: jangan makan bubur hari Kamis. Rasanya seperti lem."
+"Loro: nek perawat ngomong 'sedhela wae', kuwi setengah jam. Telu: aja mangan bubur dina Kamis. Rasane kaya lem."
 
-"Kamu sudah berapa lama di sini?"
+"Kowe wis piro suwene neng kene?"
 
-"Dua tahun. Keluar-masuk." Yuni terkekeh, dan di bawah lampu temaram bangsal wajahnya bulat, sangat bulat, seperti bulan yang ditempelkan ke bantal. Rambutnya jarang dan dikuncir satu. Ia tiga belas tahun, dari Karangmojo, dan sudah dua tahun hidup berdampingan dengan penyakit yang tak pernah ia sebut namanya. "Kamu baru, ya? Matamu masih belum seperti ikan."
+"Rong taun. Metu-mlebu." Yuni terkekeh, dan di bawah lampu temaram bangsal wajahnya bulat, sangat bulat, seperti bulan yang ditempelkan ke bantal. Rambutnya jarang dan dikuncir satu. Ia tiga belas tahun, dari Karangmojo, dan sudah dua tahun hidup berdampingan dengan penyakit yang tak pernah ia sebut namanya. "Kowe anyar, yo? Matamu durung kaya iwak."
 
-"Seperti ikan?"
+"Kaya iwak?"
 
-"Nanti kamu tahu."
+"Mengko kowe ngerti."
 
 Aku baru tahu tiga hari kemudian, ketika infus pertama yang berisi obat putih dialirkan ke tanganku selama tiga hari berturut-turut, dan kelopak mataku bengkak makin parah, dan wajahku di cermin kecil di laci mulai membulat.
 
@@ -42,11 +42,11 @@ Aku menunggu. Ada sesuatu di dalam diriku yang menahan napas, menunggu dokter me
 
 Ibu menatapku. Aku menunduk.
 
-"Dokter," kata Ibu, dan suaranya sangat rendah. "Ini... menular?"
+"Dokter," kata Ibu, dan suaranya sangat rendah. "Niki... nular, Dok?"
 
 "Tidak." Dokter Sumarni menjawab cepat dan tegas; ia sudah menjawab pertanyaan itu ribuan kali. "Tidak menular. Tidak ada orang yang bisa tertular lupus dari Wulan, sebanyak apa pun mereka memeluknya."
 
-"Karena... kutukan?"
+"Napa... kutukan?"
 
 "Bukan kutukan." Ia menatap Ibu lekat-lekat. "Bukan karena Ibu melakukan sesuatu. Bukan karena Bapak. Bukan karena Wulan. Tidak ada orang yang menyebabkannya. Tubuhnya hanya salah belajar."
 
@@ -76,11 +76,11 @@ Pengobatannya seperti lari estafet yang tidak punya garis akhir. Pertama, obat p
 
 "Matahari," kata dr. Sumarni. "Kamu harus menghindarinya. Payung, topi, lengan panjang. Tabir surya."
 
-"Tabir apa, Dok?" kata Ibu.
+"Tabir napa, Dok?" kata Ibu.
 
 "Krim pelindung. Bisa dibeli di apotek."
 
-"Berapa harganya?"
+"Regine pinten, Dok?"
 
 Dokter Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku melihat bagaimana bahu Bapak mengencang.
 
@@ -94,11 +94,11 @@ Mas Aji mencatat semuanya, dengan huruf-huruf besar yang miring, di sebuah buku 
 
 ---
 
-Tiga hari menjelang tahun baru, Pak Dukuh datang. Ia menempuh perjalanan dua jam dengan sepeda motor dari Pucung, mengenakan peci yang miring ke kiri seperti biasanya, dan membawa sebuah map plastik berisi semua yang dibutuhkan. Ia bertemu dengan petugas pendaftaran, berbicara dengan suara orang yang memahami cara kerja kertas dan stempel, dan satu jam kemudian Bapak keluar dengan selembar tanda terima dan napas panjang yang rupanya sudah ia tahan sejak September.
+Tiga hari menjelang tahun baru, Pak Dukuh datang. Ia menempuh perjalanan dua jam dengan sepeda motor dari Pucung, mengenakan peci yang miring ke kiri seperti biasanya, dan membawa sebuah map plastik berisi semua yang dibutuhkan. Ia bertemu dengan petugas pendaftaran, berbicara dengan suara orang yang memahami cara kerja kertas dan stempel, dan satu jam kemudian Bapak keluar dengan selembar tanda terima dan napas panjang yang rupanya sudah Bapak tahan sejak September.
 
-"Mulai tanggal satu," katanya pada Ibu. "Sampai tanggal tiga puluh satu, kita bayar sendiri. Mulai tanggal satu, ditanggung."
+"Wiwit tanggal siji," katanya pada Ibu. "Nganti tanggal telung puluh siji, awake dhewe mbayar dhewe. Wiwit tanggal siji, ditanggung."
 
-"Berapa yang sudah kita bayar?"
+"Wis piro sing wis dibayar?"
 
 Bapak tidak menjawab. Mas Aji, yang tidak pernah sanggup berbohong, menyebut angka. Ibu menutup matanya sebentar.
 
@@ -110,25 +110,25 @@ Tahun baru jatuh pada hari Rabu. Di bangsal anak, kami tidak diizinkan keluar, t
 
 Yuni berdiri di sebelahku, dengan wajah bulatnya yang tersinari warna.
 
-"Kamu mau minta apa?" bisiknya.
+"Kowe arep njaluk opo?" bisiknya.
 
-"Pulang," kataku.
+"Mulih," kataku.
 
-"Itu terlalu gampang."
+"Kuwi gampang banget."
 
-"Kamu?"
+"Kowe?"
 
 Yuni tidak menjawab langsung. Matanya mengikuti satu percikan hijau yang lambat turun di antara gedung-gedung.
 
-"Aku mau lihat laut," katanya.
+"Aku pengin ndelok laut," katanya.
 
-"Laut?" Aku tertawa. "Gunungkidul itu penuh pantai, Yun."
+"Laut?" Aku tertawa. "Gunungkidul kuwi kebak pantai, Yun."
 
-"Aku belum pernah." Ia mengatakannya dengan nada yang sangat biasa, seperti menyebut belum pernah naik pesawat. "Dua jam dari rumah, katanya. Tapi ongkosnya... Bapak kerja di proyek. Ibu jualan gorengan. Tiap kali ada uang lebih, ada yang sakit. Jadi tidak pernah."
+"Aku durung tau." Yuni mengatakannya dengan nada yang sangat biasa, seperti menyebut belum pernah naik pesawat. "Rong jam seko omah, jare. Nanging ongkose... Bapak nyambut gawe neng proyek. Ibu dodol gorengan. Saben ono dhuwit lebih, ono sing loro. Dadi ora tau."
 
 Kembang api meledak lagi, putih dan lebar.
 
-"Kalau sembuh," kata Yuni, "aku mau ke laut. Lihat ombaknya. Terus lari."
+"Nek wis waras," kata Yuni, "aku arep ning laut. Ndelok ombake. Terus mlayu."
 
 "Aku ikut," kataku.
 
@@ -152,7 +152,7 @@ Hari itu, aku menenteng sebuah kantong plastik besar berisi obat-obatan, selemba
 
 Di pintu bangsal, Yuni melambai dari ranjangnya. Ia tidak bisa turun, karena ia sedang demam malam itu. Ia memegang sehelai kertas lipat kecil, yang dikirimkannya padaku lewat perawat.
 
-*Jangan lupa. Laut.*
+*Aja lali. Laut.*
 
 Aku melipatnya dan menaruhnya di saku. Di perjalanan pulang, di dalam bus yang berguncang, Ibu memegang tanganku di pangkuannya dan tidak bicara. Bapak duduk di depan, menatap jalan. Mas Aji tertidur dengan kepala menyandar di kaca, dengan buku catatannya masih terbuka di pangkuan.
 
@@ -160,9 +160,9 @@ Di rumah, kaca retak di dekat pintu menunggu. Aku berdiri di depannya.
 
 Wajah di dalam kaca itu bukan wajahku. Pipinya membulat, matanya menyipit di antara bengkak, dan kulitnya mengilap seperti kue yang baru dioles mentega. Aku menatapnya.
 
-"Cantik, Nduk," kata Ibu dari belakangku.
+"Ayu, Nduk," kata Ibu dari belakangku.
 
-Aku menoleh. Ibu tersenyum, dan itu senyum paling kuat dan paling berbohong yang pernah kulihat. Di belakangnya, Bapak berdiri di ambang pintu, dan tepat ketika mataku bertemu matanya, ia memalingkan wajah ke arah kandang.
+Aku menoleh. Ibu tersenyum, dan itu senyum paling kuat dan paling berbohong yang pernah kulihat. Di belakangnya, Bapak berdiri di ambang pintu, dan tepat ketika mataku bertemu matanya, Bapak memalingkan wajah ke arah kandang.
 
 Malam itu, di bawah lampu minyak, aku mengisi kolom baru di kertas catatan.
 

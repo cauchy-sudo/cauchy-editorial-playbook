@@ -6,17 +6,17 @@ Tiga kalimat pertama kuanggap wajar. Kalimat keempat baru kupahami ketika aku be
 
 "Wulan Rahayu Ningsih?" Bu Haji Sunarti berdiri di ambang pintu dengan kerudung kuning gading, kacamata baca di ujung hidung, dan kemampuan menatap orang dengan cara yang membuat mereka merasa sudah ketahuan melakukan sesuatu. Usianya enam puluhan. Suaranya lebih besar daripada tubuhnya. "Kamar sembilan. Satu kamar berdua. Seratus tujuh puluh lima ribu sebulan, air dan listrik sudah termasuk. Bayar tanggal lima. Kalau telat, bilang. Jangan menghindar. Aku paling benci kalau orang menghindar."
 
-"Iya, Bu."
+"Nggih, Bu."
 
 "Ini Tika?"
 
-"Iya, Bu Haji."
+"Nggih, Bu Haji."
 
-"Berarti kalian berdua yang akan berbagi lemari. Jangan bertengkar soal lemari. Dulu ada dua anak yang sampai lapor polisi."
+"Berarti kalian berdua yang akan berbagi lemari. Ojo padu soal lemari. Biyen ono bocah loro sing nganti lapor polisi."
 
 "Polisi, Bu?"
 
-"Soal kaus kaki." Bu Haji menghela napas dalam-dalam, sudah terlalu banyak yang ia saksikan. "Masuklah."
+"Soal kaus kaki." Bu Haji menghela napas dalam-dalam, sudah terlalu banyak yang ia saksikan. "Mlebu wae."
 
 Kamar sembilan di lantai dua berukuran tiga kali tiga meter, dengan satu jendela menghadap tembok rumah sebelah, satu kipas angin yang berputar dengan bunyi ketukan, dan dua kasur tipis dengan seprai berbunga yang warnanya sudah ditelan cuci. Di dinding ada satu paku bekas gantungan bingkai. Di sudut, sebuah lemari kayu dengan pintu yang miring.
 
@@ -50,7 +50,7 @@ Tapi rencana yang rapi biasanya tidak memperhitungkan nafsu makan anak lima bela
 
 Aku mulai makan sekali sehari. Tiwul dari Ibu di pagi hari, dengan gula jawa dan sedikit garam. Siang hari aku makan separuh bekal dan menyimpan separuh lagi. Malam hari aku minum air banyak-banyak dan membuka buku.
 
-Tika tahu. Tapi Tika, yang punya orang tua lebih mampu dariku dan kiriman uang yang lebih lancar, tidak tahu bagaimana mengatakannya tanpa menyakitiku. Ia hanya mulai membawa pulang dua porsi nasi bungkus dari kantin dan berkata, dengan wajah lurus: "Salah beli. Aku nggak kuat habiskan."
+Tika tahu. Tapi Tika, yang punya orang tua lebih mampu dariku dan kiriman uang yang lebih lancar, tidak tahu bagaimana mengatakannya tanpa menyakitiku. Ia hanya mulai membawa pulang dua porsi nasi bungkus dari kantin dan berkata, dengan wajah lurus: "Salah tuku. Aku ora kuat ngentekke."
 
 Aku tahu ia bohong. Ia tahu aku tahu. Aku memakannya.
 
@@ -60,9 +60,9 @@ Pada Jumat malam minggu keempat, Bu Haji memanggilku ke teras.
 
 Aku duduk di kursi plastik di seberang meja. Ia melipat korannya, meletakkannya di pangkuan, dan menatapku dengan mata yang sama seperti ketika memeriksa jam malam.
 
-"Kamu kurus."
+"Kowe kuru."
 
-"Saya... sedang diet, Bu."
+"Kula... lagi diet, Bu."
 
 "Anak lima belas tahun tidak diet." Ia mengatakannya tanpa emosi. "Kamu makan sekali sehari. Tika membawa pulang dua bungkus tiap sore. Aku punya mata, Nduk."
 
@@ -70,7 +70,7 @@ Aku menatap meja.
 
 "Kamu lupus." Aku mengangkat kepala, terkejut. "Surat dokter yang dibawa ibumu ke sini. Aku membacanya. Aku harus tahu, supaya kalau kamu pingsan di kamar mandi aku tahu apa yang harus dilakukan. Itu bukan urusan sopan santun. Itu keselamatan."
 
-"Iya, Bu."
+"Nggih, Bu."
 
 "Penyakit seperti itu butuh makan teratur. Tidak ada keringanan untuk itu." Ia mengambil tehnya dan meminumnya sedikit. "Jadi begini. Mulai besok, kamu bantu aku. Pagi, sapu halaman, lima belas menit. Sore, cuci piring bekas makan malam, sepuluh menit. Sebagai gantinya, kamu makan malam di dapurku. Dua kali seminggu dulu."
 

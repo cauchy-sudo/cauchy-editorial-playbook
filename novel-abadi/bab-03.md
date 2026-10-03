@@ -4,11 +4,11 @@ Tiga minggu setelah bakso, catatanku di kertas Mbak Nurul sudah penuh dua sisi, 
 
 Rasulan jatuh pada minggu kedua Oktober, ketika tanah sudah selesai memberi segala yang bisa ia beri dan orang-orang Dusun Pucung merasa pantas mengucapkan terima kasih dengan cara paling riuh yang mereka tahu. Seminggu sebelumnya para laki-laki sudah kerja bakti: mengapur pagar, menambal jalan, membersihkan makam. Bapak pulang tiap sore dengan kaki putih sampai betis dan bau rumput yang dibabat. Pak Dukuh mengumumkan lewat pengeras suara masjid, dengan nada orang yang sedang membacakan berita penting sekaligus menawar harga, bahwa tiap rumah wajib menyumbang satu ayam atau uang yang sepadan.
 
-"Satu ayam, Pak," kata Ibu pada Bapak malam itu, hampir tak terdengar. "Kita tidak punya ayam."
+"Pitik siji, Pak," kata Ibu pada Bapak malam itu, hampir tak terdengar. "Awake dhewe ora duwe pitik."
 
-"Kita punya tiga."
+"Duwe telu."
 
-"Itu yang bertelur."
+"Kuwi sing ngendhog."
 
 Bapak tidak menjawab. Keesokan paginya, tiga ayam itu menjadi dua.
 
@@ -18,33 +18,33 @@ Dapur kami pada hari Rasulan lebih ramai daripada saat hajatan apa pun. Para per
 
 Aku suka rewang. Di sana orang membicarakan hal-hal yang tak pernah dibahas di depan anak-anak, dengan suara yang tak pernah dipelankan cukup. Aku sudah tahu siapa menantu siapa yang pulang ke rumah ibunya, harga cabai di Wonosari, dan alasan Pak Modin tidak lagi bicara dengan adiknya. Hari itu aku juga tahu sesuatu tentang diriku.
 
-"...pipinya itu lho, Yu," kata sebuah suara di sebelah kananku. Mbok Karni, tetangga seberang jalan, enam puluhan, yang tangannya bergerak sangat cepat dan mulutnya sedikit lebih cepat. "Kok bisa begitu ya. Jangan-jangan kena kiriman."
+"...pipine kuwi lho, Yu," kata sebuah suara di sebelah kananku. Mbok Karni, tetangga seberang jalan, enam puluhan, yang tangannya bergerak sangat cepat dan mulutnya sedikit lebih cepat. "Kok iso ngono yo. Aja-aja kena kiriman."
 
 "Husy," kata seseorang.
 
-"Aku cuma bilang. Dulu kan Sarmi sempat ribut tanah dengan..."
+"Aku mung ngomong. Biyen kan Sarmi tau ribut bab lemah karo..."
 
 "Mbok."
 
-"...atau kutukan turunan. Yang kayak begitu kan nular, to? Jangan sampai Dimas..."
+"...utawa kutukan turunan. Sing kaya ngono kuwi nular, to? Aja nganti Dimas..."
 
-Pisau Ibu, di ujung meja, mengiris bawang dengan ketukan yang makin keras. Ia tidak menoleh. Mbok Karni terdiam sebentar, tetapi karena rewang tidak punya kebiasaan membiarkan diam, ada orang yang cepat-cepat menyela dengan harga cabai.
+Pisau Ibu, di ujung meja, mengiris bawang dengan ketukan yang makin keras. Ibu tidak menoleh. Mbok Karni terdiam sebentar, tetapi karena rewang tidak punya kebiasaan membiarkan diam, ada orang yang cepat-cepat menyela dengan harga cabai.
 
 Aku terus mengupas. Bawang membuat mataku perih, dan itu memberi alasan yang baik.
 
-"Wulan tidak menular, Bu," kata Tika.
+"Wulan ora nular, Bu," kata Tika.
 
 Ia sudah berdiri di ambang pintu, dengan baju batik kebesaran pinjaman kakaknya dan rambut dikuncir dua yang tampak seperti dua tanduk kecil. Semua kepala menoleh.
 
-"Kata Bu Eni itu bukan apa-apa."
+"Jare Bu Eni kuwi dudu opo-opo."
 
-"Bu Eni bilang begitu?" tanya Mbok Karni.
+"Bu Eni ngomong ngono?" tanya Mbok Karni.
 
-"Iya."
+"Iyo."
 
 "Kapan?"
 
-"Kemarin," kata Tika dengan wajah lurus seperti papan, dan aku tahu ia berbohong, dan ia tahu aku tahu, dan Ibu di ujung meja berhenti mengiris bawang selama satu detik, lalu melanjutkan dengan ketukan yang lebih pelan.
+"Wingi," kata Tika dengan wajah lurus seperti papan, dan aku tahu ia berbohong, dan ia tahu aku tahu, dan Ibu di ujung meja berhenti mengiris bawang selama satu detik, lalu melanjutkan dengan ketukan yang lebih pelan.
 
 ---
 
@@ -52,9 +52,9 @@ Kirab gunungan mulai tengah hari, ketika matahari berada pada kemarahan yang pal
 
 Aku berjalan di bawah payung hitam Mbah. Tika memeganginya di atas kepalaku, dan karena Tika lebih pendek, payung itu agak miring dan menimpa pundakku. Tiap kali ada angin, bagian pinggirnya menepuk kupingku.
 
-"Kamu kenapa pakai payung segala?" tanya seorang anak di tepi jalan.
+"Kowe kok nganggo payung barang?" tanya seorang anak di tepi jalan.
 
-"Supaya tidak jadi gosong," jawabku. "Nanti mirip kamu."
+"Ben ora gosong," jawabku. "Mengko mirip kowe."
 
 Anak itu cemberut. Tika terbahak dan payung bergoyang, dan sesaat aku lupa pada sendi-sendiku.
 
@@ -62,15 +62,15 @@ Lalu aku melihat Dimas di antara kerumunan, dengan Bu Yanti, ibunya, di sebelahn
 
 Aku mengalihkan pandangan ke barisan gunungan. Di puncak gunungan yang paling tinggi ada setandan pisang yang sudah mulai menghitam, dan aku memandanginya sampai pandanganku berkunang.
 
-"Wulan."
+"Wul."
 
-"Aku nggak apa-apa, Tik."
+"Aku ora popo, Tik."
 
-"Wulan, kamu pucat."
+"Wul, kowe pucet."
 
-"Itu bedak."
+"Kuwi bedak."
 
-"Kamu nggak pakai bedak."
+"Kowe ora nganggo bedak."
 
 Aku duduk. Bukan karena memutuskan, tetapi karena lututku memutuskannya untukku. Ada pohon asam di pinggir jalan, dan seseorang menyodorkan batu besar untuk duduk, dan dari kejauhan orang-orang mulai berlari ke arah lapangan, karena gunungan sudah diletakkan dan itu artinya semua boleh berebut isinya.
 
@@ -78,33 +78,33 @@ Aku duduk. Bukan karena memutuskan, tetapi karena lututku memutuskannya untukku.
 
 Rasulan yang sebenarnya, kata Mbah Darmi, bukan rebutan. Rebutan hanya untuk anak-anak dan orang yang pura-pura masih anak-anak.
 
-Mbah duduk di sampingku di bawah pohon asam dengan bokong yang nyaris tidak mencapai batu. Rambutnya digelung kecil, kebayanya sudah luntur, dan di tangannya ada sebutir singkong rebus yang sudah dingin. Ia memandang kerumunan yang memburu jagung dan pisang di lapangan, dengan mata seperti memandang sesuatu yang sudah ada sejak sebelum ia lahir.
+Mbah duduk di sampingku di bawah pohon asam dengan bokong yang nyaris tidak mencapai batu. Rambutnya digelung kecil, kebayanya sudah luntur, dan di tangannya ada sebutir singkong rebus yang sudah dingin. Mbah memandang kerumunan yang memburu jagung dan pisang di lapangan, dengan mata seperti memandang sesuatu yang sudah ada sejak sebelum Mbah lahir.
 
-"Dulu waktu Mbah kecil, Rasulan itu ya begini," katanya dalam bahasa Jawa yang pelan dan berlapis-lapis. "Habis panen, orang kumpul. Terima kasih sama yang Kuasa. Minta selamat. Jangan sampai ada yang lapar tahun depan."
+"Biyen nalika Mbah isih cilik, Rasulan kuwi yo ngene iki," katanya dalam bahasa Jawa yang pelan dan berlapis-lapis. "Bar panen, wong-wong kumpul. Matur nuwun marang Sing Kuwasa. Nyuwun slamet. Aja nganti ono sing keluwen taun ngarep."
 
-"Kenapa kok pakai gunung-gunungan, Mbah?"
+"Kenopo kok nganggo gunungan, Mbah?"
 
-"Supaya kelihatan. Orang miskin itu kalau mau bersyukur harus dibuat kelihatan, Nduk. Kalau tidak kelihatan, nanti disangka tidak punya."
+"Ben katon. Wong mlarat kuwi nek arep syukur kudu digawe katon, Nduk. Nek ora katon, mengko dikira ora duwe."
 
 Aku tertawa pelan. Mbah tidak.
 
-"Pipimu itu," katanya sesudah beberapa saat. "Mbah pernah lihat yang begitu. Waktu zaman Mbah masih muda. Anak Pak Wiro. Sampai di Karangmojo."
+"Pipimu kuwi," katanya sesudah beberapa saat. "Mbah tau weruh sing ngono. Jaman Mbah isih enom. Anake Pak Wiro. Neng Karangmojo."
 
-"Sembuh, Mbah?"
+"Mari, Mbah?"
 
-Mbah tidak menjawab. Ia mengupas kulit singkong dengan kuku, perlahan. "Ada orang pintar di dusun sebelah," katanya. "Mbah Pawiro. Biasanya bisa. Dikasih air, didoakan, diruwat. Kalau tidak ada gangguan, ya tidak apa-apa. Kalau ada yang menaruh, nanti bisa..."
+Mbah tidak menjawab. Mbah mengupas kulit singkong dengan kuku, perlahan. "Ono wong pinter neng dusun sebelah," katanya. "Mbah Pawiro. Biasane iso. Dikei banyu, didongani, diruwat. Nek ora ono gangguan, yo ora popo. Nek ono sing nyelehake, mengko iso..."
 
 "Mbah."
 
-Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak memihak siapa pun. Mungkin ia sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ia memakai kata yang lebih halus daripada yang ia pakai pada siapa pun.
+Ibu berdiri di belakang kami, dengan sebuah gelas plastik berisi air putih dan wajah yang tidak memihak siapa pun. Mungkin Ibu sudah di situ sejak tadi. Ibu tidak pernah memakai kata keras pada Mbah, ibunya sendiri. Ibu memakai kata yang lebih halus daripada yang Ibu pakai pada siapa pun.
 
-"Kami nanti dulu, Mbah. Besok Bapak mau bawa Wulan ke dokter lagi."
+"Sakmeniko rumiyin, Mbah. Mbenjing Bapak badhe mbeta Wulan dhateng dokter malih."
 
-"Ya." Mbah tidak membantah. Ia menggigit singkongnya. "Dokter ya dokter. Dongo ya dongo. Jangan dipilih salah satu, Sum. Dua-duanya ada gunanya."
+"Yo." Mbah tidak membantah. Mbah menggigit singkongnya. "Dokter yo dokter. Dongo yo dongo. Aja dipilih salah siji, Sum. Loro-lorone ono gunane."
 
-Ibu diam. Lama. Lalu ia membungkuk dan menyerahkan gelas di tangannya kepadaku.
+Ibu diam. Lama. Lalu Ibu membungkuk dan menyerahkan gelas di tangannya kepadaku.
 
-"Minum," katanya. "Tadi Mbah bacakan doa."
+"Ngombe," katanya. "Mau Mbah wis ndongani."
 
 Aku minum. Rasanya air biasa, sedikit hangat karena sudah lama dipegang. Ibu menunggu sampai tetes terakhir habis, lalu mengambil gelas itu dan berjalan pergi ke arah kenduri tanpa menoleh, dan aku baru sadar bahwa tangannya sedikit gemetar.
 
@@ -122,13 +122,13 @@ Tika menatap piring itu seperti menatap hadiah dari langit, lalu menatapku denga
 
 Menjelang magrib, setelah semua berkat dibagi dan tikar digulung, Pak Dukuh datang ke rumah kami. Ia laki-laki gemuk dan ramah dengan peci yang selalu miring sedikit ke kiri. Aku duduk di tangga teras dalam gelap, tempat yang tidak terlihat dari ruang tamu tetapi bisa mendengar semuanya.
 
-"Kang Tris," kata Pak Dukuh. "Ini dari warga. Tidak banyak."
+"Kang Tris," kata Pak Dukuh. "Iki seko warga. Ora akeh."
 
 Bapak tidak menjawab. Aku mendengar bunyi kertas yang disodorkan dan didorong kembali.
 
-"Mboten, Pak. Kulo mboten saget..."
+"Mboten, Pak. Kula mboten saget..."
 
-"Ini bukan buat Sampeyan, Kang." Suara Pak Dukuh berubah, tak lagi ramah, hanya tegas. "Ini buat Wulan. Awake dhewe wis ngumpulke."
+"Iki dudu go Sampeyan, Kang." Suara Pak Dukuh berubah, tak lagi ramah, hanya tegas. "Iki go Wulan. Awake dhewe wis ngumpulke."
 
 Lama sekali tak ada suara. Aku mendengar Ibu menarik napas.
 
@@ -136,7 +136,7 @@ Lama sekali tak ada suara. Aku mendengar Ibu menarik napas.
 
 Aku mendengarkan nama itu dengan kepala yang mendadak penuh.
 
-"Mbok Karni, dua puluh ribu. Katanya cuma bisa itu."
+"Mbok Karni, rong puluh ewu. Jare mung iso semono."
 
 Dalam gelap, aku memegang lututku. Di seberang jalan, lampu di rumah Mbok Karni baru dinyalakan, dan jendela kuningnya menggeser sedikit cahaya ke halaman. Aku tidak tahu perasaan apa yang sedang kurasakan. Aku hanya tahu bahwa ia tidak punya nama, dan bahwa ia tidak mau pergi.
 

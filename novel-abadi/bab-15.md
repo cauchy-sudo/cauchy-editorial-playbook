@@ -4,23 +4,23 @@ Orang Islam dimakamkan secepat mungkin, dan itu berarti Mbah Darmi sudah berada 
 
 Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak bisa menangis. Bapak, yang tiba dari Pucung dengan sepeda motor malam sebelumnya, tidak sempat berbicara denganku. Mas Aji menelepon dari Batam lewat nomor Pak Hasan, dengan suara yang pecah di setiap kalimat.
 
-"Dek, aku nggak bisa pulang. Tiketnya habis. Besok pagi baru ada. Mbah sudah dimakamkan siang tadi."
+"Dek, aku ora iso mulih. Tikete entek. Sesuk esuk lagi ono. Mbah wis dimakamke awan mau."
 
 "Mas."
 
-"Kamu jangan mikir macam-macam. Kamu fokus sembuh. Mas sudah bilang sama Bapak."
+"Kowe aja mikir sing aneh-aneh. Kowe fokus waras. Mas wis ngomong karo Bapak."
 
-"Aku mau pulang, Mas."
+"Aku arep mulih, Mas."
 
-"Kamu nggak boleh." Ia terdiam sebentar. Dari telepon aku bisa mendengar suara mesin besar di kejauhan, deru dan dentang. "Dek. Dokter bilang apa?"
+"Kowe ora oleh." Mas Aji terdiam sebentar. Dari telepon aku bisa mendengar suara mesin besar di kejauhan, deru dan dentang. "Dek. Dokter ngomong opo?"
 
-"Dokter bilang tidak boleh."
+"Dokter ngomong ora oleh."
 
-"Ya sudah."
+"Yo wis."
 
 "Mbah..." Aku tidak bisa menyelesaikan kalimat.
 
-"Aku tahu." Suara Mas Aji, yang tak pernah tahu cara mengatakan apa yang ia rasakan, mengatakannya tanpa kata. "Aku tahu, Dek."
+"Aku ngerti." Suara Mas Aji, yang tak pernah tahu cara mengatakan apa yang ia rasakan, mengatakannya tanpa kata. "Aku ngerti, Dek."
 
 Kami tidak berbicara lama. Tapi kami berdua diam di telepon selama dua menit penuh sebelum sambungan terputus, dan aku menggenggam gagang itu lama sesudahnya.
 
@@ -42,11 +42,11 @@ Di halaman rumah ada tenda biru yang dipasang, dengan kursi-kursi plastik berder
 
 Mbok Karni berdiri. Ia hanya berjalan ke arahku dan memelukku, erat, lama, seperti dulu.
 
-"Mbah baik-baik saja, Nduk," bisiknya. "Dia tidak sakit. Dia tidak lama."
+"Mbah apik-apik wae, Nduk," bisiknya. "Dheweke ora lara. Ora suwe."
 
 "Mbok..."
 
-"Duduklah. Ibu menunggu."
+"Lungguh. Ibumu nunggu."
 
 ---
 
@@ -54,27 +54,27 @@ Ibu duduk di pojok ruang tengah, di dekat dinding tempat foto Mbah Darmi yang la
 
 Ibu menoleh ketika aku mendekat. Matanya sembap. Wajahnya tidak lagi pucat, hanya letih, seperti kain basah yang sudah diperas.
 
-"Nduk." Ia menarik tanganku. "Duduk sini."
+"Nduk." Ibu menarik tanganku. "Lungguh kene."
 
 Aku duduk di sampingnya. Kami berdua menatap foto itu.
 
-"Bu," kataku. "Maaf."
+"Bu," kataku. "Ngapunten."
 
-"Maaf apa?"
+"Ngapura opo?"
 
-"Aku tidak ada."
+"Kula mboten wonten."
 
-"Kamu sakit." Ibu menggenggam jemariku, dan telapaknya kasar dan hangat. "Mbah tahu. Dia tahu kamu tidak bisa datang. Dia bilang begitu sebelum..."
+"Kowe lara." Ibu menggenggam jemariku, dan telapaknya kasar dan hangat. "Mbah ngerti. Dheweke ngerti kowe ora iso teka. Dheweke ngomong ngono sadurunge..."
 
-"Dia bilang?"
+"Mbah ngendika?"
 
 Ibu terdiam sebentar. Aku mendengar bunyi napasnya, naik turun, tidak teratur.
 
-"Kemarin sore dia batuk-batuk. Aku bilang istirahat. Dia bilang nanti. Dia duduk di teras, menjahit sesuatu." Ia menarik napas. "Dia menjahit kerudung. Warna biru muda. Katanya buat Wulan."
+"Wingi sore dheweke watuk-watuk. Aku ngomong ndang ngaso. Dheweke ngomong mengko. Dheweke lungguh neng teras, njahit." Ibu menarik napas. "Dheweke njahit kerudung. Warna biru enom. Jare go Wulan."
 
 Aku menutup mulut dengan telapak tangan.
 
-"Aku bilang, Mbah, Wulan masih punya kerudung. Dia bilang, 'Yang lama sudah kusam. Kupu-kupu itu harus pakai yang bagus.'" Ibu tersenyum sedikit, dengan mata yang basah. "Dia tidak sempat selesai. Setengah. Ada di keranjang jahitnya."
+"Aku ngomong, Mbah, Wulan isih duwe kerudung. Dheweke ngomong, 'Sing lawas wis kusam. Kupu-kupu kuwi kudu nganggo sing apik.'" Ibu tersenyum sedikit, dengan mata yang basah. "Ora sempat rampung. Setengah. Ono neng keranjang jahite."
 
 Aku tidak bisa menjawab. Di tengah ruangan itu, di antara orang-orang yang membaca doa dengan suara berombak, aku hanya menggenggam tangan Ibu, dan membiarkan sesuatu yang selama lima tahun kutahan akhirnya mengalir di pipiku, pelan-pelan, tanpa suara.
 
@@ -86,65 +86,65 @@ Aku duduk di samping Ibu, dengan buku kecil di pangkuan. Kali ini aku hafal seba
 
 Pada malam keenam, setelah semua selesai, Pak Dukuh mendekatiku.
 
-"Nduk." Ia berdiri dengan peci yang miring ke kiri, seperti dulu. "Dengar kabar kamu kambuh lagi."
+"Nduk." Pak Dukuh berdiri dengan peci yang miring ke kiri, seperti dulu. "Krungu kabar kowe kambuh meneh."
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Sudah dirawat?"
+"Wis dirawat?"
 
-"Sudah, Pak. Dokter Sumarni."
+"Sampun, Pak. Dokter Sumarni."
 
-"Warga..." Ia berhenti, menggaruk lehernya. "Warga sudah tahu. Mbok Karni yang kasih kabar ke semua orang. Kami sudah bicara. Kami mau kumpulkan lagi."
+"Warga..." Pak Dukuh berhenti, menggaruk lehernya. "Warga wis ngerti. Mbok Karni sing ngabari kabeh wong. Awake dhewe wis rembugan. Awake dhewe arep ngumpulke meneh."
 
-"Pak, jangan. Sudah tahun-tahun lalu..."
+"Pak, mboten sah. Sampun taun-taun kepungkur..."
 
-"Sudah ada BPJS, ya. Tapi transportnya? Obat yang tidak ditanggung? Makan Ibumu di rumah sakit?" Ia mengangkat tangan. "Aku tidak minta persetujuanmu. Aku cuma memberi tahu. Itu urusan dusun."
+"Wis ono BPJS, yo. Tapi ongkose? Obat sing ora ditanggung? Maem Ibumu neng rumah sakit?" Pak Dukuh mengangkat tangan. "Aku ora njaluk idinmu. Aku mung ngabari. Kuwi urusane dusun."
 
 Aku menatapnya. Di wajah gemuk dan ramah itu, aku melihat bahwa tak ada rasa belas kasihan di sana. Hanya kewajiban, begitu wajar, seperti membersihkan makam atau menambal jalan.
 
-"Terima kasih, Pak," kataku.
+"Matur nuwun, Pak," kataku.
 
-"Jangan terima kasih." Ia tersenyum. "Nanti kalau kamu sudah jadi orang besar, ingat dusun ini."
+"Ora sah matur nuwun." Pak Dukuh tersenyum. "Mengko nek kowe wis dadi wong gedhe, elinga dusun iki."
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Aku serius."
+"Aku tenan."
 
-"Saya juga serius."
+"Kula inggih tenan."
 
 ---
 
 Pada malam ketujuh, ketika tahlilan terakhir selesai dan tamu sudah pulang, Ibu masuk ke kamar dan keluar dengan sebuah bungkusan.
 
-"Ini," katanya.
+"Iki," katanya.
 
 Aku membukanya. Di dalam, terlipat rapi, ada payung hitam yang kukenal. Gagangnya dari kayu halus dengan ukiran tangkai padi. Kainnya sudah sedikit pudar.
 
-"Ini punya Mbah," kataku. "Dia bilang dipinjamkan."
+"Niki duwekke Mbah," kataku. "Dheweke ngendika dipinjemke."
 
-"Dia bilang sampai kamu punya sendiri." Ibu duduk di tikar. "Tapi sebelum dia pergi, dia bilang padaku: kalau ada apa-apa, kasih ke Wulan. Dia bilang kamu akan butuh."
+"Dheweke ngomong nganti kowe duwe dhewe." Ibu duduk di tikar. "Nanging sadurunge lunga, dheweke ngomong marang aku: nek ono opo-opo, kekna Wulan. Dheweke ngomong kowe bakal butuh."
 
-Aku menatap payung itu. Dalam diam, aku mengingat Mbah yang berjalan di bawah matahari dengan sarung disampirkan di bahu, Mbah yang berkata *orang tidak tahu apa-apa tentang tubuh orang lain*, Mbah yang berbisik *dia cuma salah hinggap*.
+Aku menatap payung itu. Dalam diam, aku mengingat Mbah yang berjalan di bawah matahari dengan sarung disampirkan di bahu, Mbah yang berkata *wong ora ngerti opo-opo bab awake wong liya*, Mbah yang berbisik *mung salah panggonan*.
 
-"Bu," kataku. "Kerudung yang dijahit Mbah. Yang setengah jadi."
+"Bu," kataku. "Kerudung sing dijahit Mbah. Sing setengah rampung."
 
-"Ada di keranjang."
+"Ono neng keranjang."
 
-"Boleh aku yang menyelesaikannya?"
+"Kula ingkang ngrampungaken, Bu?"
 
-Ibu menatapku. Lalu ia tersenyum, kecil, dengan mata yang kembali basah.
+Ibu menatapku. Lalu Ibu tersenyum, kecil, dengan mata yang kembali basah.
 
-"Jahitannya jelek, lho. Kamu nggak pernah belajar menjahit."
+"Jahitane elek, lho. Kowe ora tau sinau njahit."
 
-"Biarlah jelek. Itu punya Mbah dan aku."
+"Ben elek. Kuwi duwekke Mbah lan aku."
 
 Malam itu, di bawah lampu minyak yang masih kami simpan untuk mati lampu, aku duduk di ujung tikar dengan keranjang jahit Mbah di pangkuan. Di dalamnya ada kain biru muda yang tinggal separuh, jarum yang masih tersangkut benang putih, dan sebuah kancing kecil berbentuk bunga. Aku menjahit pelan-pelan, dengan jari yang kikuk, satu tusukan setiap beberapa detik.
 
-Ibu duduk di sampingku, tidak berbicara. Sesekali ia membetulkan kain yang kupegang, atau menarik benang yang kusut, tanpa komentar.
+Ibu duduk di sampingku, tidak berbicara. Sesekali Ibu membetulkan kain yang kupegang, atau menarik benang yang kusut, tanpa komentar.
 
-Jahitan itu miring. Pada baris ketiga, aku menusuk jariku dan memberi sedikit noda merah di sudut kain. Ibu mengambil kain itu dan menutup noda itu dengan ibu jarinya, lalu, entah bagaimana, ia berhasil membuatnya terlihat seperti bagian dari desainnya.
+Jahitan itu miring. Pada baris ketiga, aku menusuk jariku dan memberi sedikit noda merah di sudut kain. Ibu mengambil kain itu dan menutup noda itu dengan ibu jarinya, lalu, entah bagaimana, Ibu berhasil membuatnya terlihat seperti bagian dari desainnya.
 
-"Jangan dicuci bagian itu," katanya. "Biarkan."
+"Aja dikumbah bagian kuwi," katanya. "Ben wae."
 
 Aku menyelesaikan kerudung itu tengah malam, dan meletakkannya di kamar bersama payung hitam. Aku tidak memakainya malam itu. Aku hanya menatapnya, lama, sebelum tidur.
 

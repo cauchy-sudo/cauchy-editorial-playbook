@@ -96,43 +96,43 @@ Aku tidak menjawab. Aku menggenggam tangannya yang dingin dan memeluknya dengan 
 
 Ibu menangis di dapur.
 
-Aku memberitahunya sore itu, di Pucung, ketika ia sedang mengaduk tiwul di wajan. Aku berdiri di ambang pintu dan mengatakannya dengan kalimat paling pendek yang bisa kutemukan.
+Aku memberitahunya sore itu, di Pucung, ketika Ibu sedang mengaduk tiwul di wajan. Aku berdiri di ambang pintu dan mengatakannya dengan kalimat paling pendek yang bisa kutemukan.
 
-"Bu. Dokter bilang tidak usah cuci darah lagi."
+"Bu. Dokter ngendika mboten sah cuci darah malih."
 
 Sendok kayu itu berhenti. Ibu tidak menoleh.
 
-"Ginjalku... membaik. Dokter tidak tahu kenapa. Tapi membaik."
+"Ginjalku... saya sae. Dokter mboten ngertos kenging punapa. Nanging saya sae."
 
-Sendok kayu itu jatuh ke wajan dengan bunyi pelan. Ibu menaruh kedua tangannya di tepi tungku, dan bahunya, bahu kecil dan melengkung dan terlalu ringan, mulai bergetar. Ia menangis tanpa suara, dengan kepala tertunduk, seperti ia selalu menangis, seperti tak ingin ada yang mendengar.
+Sendok kayu itu jatuh ke wajan dengan bunyi pelan. Ibu menaruh kedua tangannya di tepi tungku, dan bahunya, bahu kecil dan melengkung dan terlalu ringan, mulai bergetar. Ibu menangis tanpa suara, dengan kepala tertunduk, seperti Ibu selalu menangis, seperti tak ingin ada yang mendengar.
 
 Aku berjalan ke sana dan memeluknya dari belakang. Tubuhnya hangat dan berbau minyak kayu putih dan asap.
 
-"Ibu," bisikku.
+"Bu," bisikku.
 
-"Diam." Suaranya tersumbat. "Biarkan Ibu."
+"Meneng." Suaranya tersumbat. "Wis, ben Ibu."
 
 Kami berdiri begitu lama sekali, di dapur yang berasap, dengan tiwul yang mulai gosong di wajan dan tak ada yang peduli.
 
-Bapak datang pada malam harinya, dari ladang, dengan cangkul di bahu dan celana yang penuh debu putih. Ia mendengar kabarnya dari Ibu, dan ia tidak berlari, tidak berseru, tidak tersenyum. Ia duduk di bangku semen di halaman, meletakkan topi di tanah, dan menatap kandang kosong tempat Si Bejo dulu berdiri.
+Bapak datang pada malam harinya, dari ladang, dengan cangkul di bahu dan celana yang penuh debu putih. Bapak mendengar kabarnya dari Ibu, dan tidak berlari, tidak berseru, tidak tersenyum. Bapak duduk di bangku semen di halaman, meletakkan topi di tanah, dan menatap kandang kosong tempat Si Bejo dulu berdiri.
 
-"Bapak tidak mau percaya dulu," katanya.
+"Bapak ora gelem percaya sik," katanya.
 
-"Kenapa, Pak?"
+"Kenging napa, Pak?"
 
-"Takut." Ia memutar topi di tangannya. "Takut kalau dia pergi lagi."
+"Wedi." Bapak memutar topi di tangannya. "Wedi nek dheweke lunga meneh."
 
 "Pak..."
 
-"Tapi Bapak senang." Ia menunduk, dan aku melihat bahunya turun, seperti beban yang akhirnya diizinkan untuk dilepas. "Bapak senang sekali, Nduk."
+"Tapi Bapak seneng." Bapak menunduk, dan aku melihat bahunya turun, seperti beban yang akhirnya diizinkan untuk dilepas. "Bapak seneng banget, Nduk."
 
-Mas Aji tiba dua hari kemudian dengan satu kotak besar ikan asin dari Batam dan wajah yang kuyu dan basah. Ia tidak berkata apa-apa. Ia memelukku di tengah halaman dengan gerak canggung dan kikuk dan terlalu kuat, dan baru melepaskanku ketika Ardi menegur, "Mas, dia masih ginjalan."
+Mas Aji tiba dua hari kemudian dengan satu kotak besar ikan asin dari Batam dan wajah yang kuyu dan basah. Ia tidak berkata apa-apa. Ia memelukku di tengah halaman dengan gerak canggung dan kikuk dan terlalu kuat, dan baru melepaskanku ketika Ardi menegur, "Mas, dheweke isih ginjalan."
 
-"Aku tahu," katanya. "Itu debu."
+"Aku ngerti," katanya. "Kuwi bledug."
 
-"Ini halaman terbuka, Mas."
+"Iki latar sing mbukak, Mas."
 
-"Debu terbuka."
+"Bledug mbukak."
 
 ---
 
@@ -180,45 +180,45 @@ Kami tertawa sampai seorang bapak tua yang lewat menoleh dengan prihatin.
 
 ---
 
-Ia ikut ke Pucung pada hari Sabtu, atas undangan Ibu yang dikirim lewat Ardi dengan dua baris pesan: *Ibu bilang bawa teman dari Inggris yang bikin tempe. Ibu mau lihat.*
+Ia ikut ke Pucung pada hari Sabtu, atas undangan Ibu yang dikirim lewat Ardi dengan dua baris pesan: *Ibu ngomong gawanen kanca seko Inggris sing gawe tempe. Ibu pengin ndelok.*
 
 Rizal tiba di dusun dengan sepeda motor pinjaman dan baju yang terlalu rapi, dan seluruh Dusun Pucung keluar ke jalan menyambutnya seperti kedatangan seorang duta besar.
 
-"Ini yang dari Inggris?" bisik Mbok Karni, yang entah bagaimana sudah tahu segalanya. "Kurus. Tapi sopan."
+"Iki sing seko Inggris?" bisik Mbok Karni, yang entah bagaimana sudah tahu segalanya. "Kuru. Tapi sopan."
 
 "Mbok."
 
-"Aku cuma bilang."
+"Aku mung ngomong."
 
 Ibu menunggu di halaman dengan kebaya hijau tua dan wajah yang berusaha tampak biasa dan gagal. Rizal turun dari motor, melepas helm, dan mencium tangannya dengan dua tangan, membungkuk dalam-dalam, seperti yang ia lakukan di peron.
 
 "Ibu Sumiati. Saya Rizal."
 
-"Orang Malang?"
+"Wong Malang?"
 
 "Iya, Bu."
 
-"Bagus." Ibu menatapnya dari kepala sampai kaki, dengan tatapan seseorang yang menimbang kambing. "Sudah makan?"
+"Apik." Ibu menatapnya dari kepala sampai kaki, dengan tatapan seseorang yang menimbang kambing. "Wis mangan?"
 
-"Belum, Bu."
+"Durung, Bu."
 
-"Bagus. Ayo."
+"Apik. Ayo."
 
-Ia memasak tiwul di wajan pada sore itu, dan menyajikannya langsung dari wajan di atas daun pisang, panas, dengan gula jawa yang meleleh di antara butirnya. Kami makan berempat, Bapak, Ibu, Rizal, dan aku, di tikar di halaman, dengan Ardi duduk agak jauh pura-pura tidak mendengar. Rizal makan tiwul pertama kali dalam hidupnya dengan mata yang membesar.
+Ibu memasak tiwul di wajan pada sore itu, dan menyajikannya langsung dari wajan di atas daun pisang, panas, dengan gula jawa yang meleleh di antara butirnya. Kami makan berempat, Bapak, Ibu, Rizal, dan aku, di tikar di halaman, dengan Ardi duduk agak jauh pura-pura tidak mendengar. Rizal makan tiwul pertama kali dalam hidupnya dengan mata yang membesar.
 
 "Bu." Ia menelan. "Ini..."
 
-"Kenapa? Tidak enak?"
+"Kenopo? Ora enak?"
 
 "Ini..." Ia terdiam, dan matanya mulai basah. "Ini yang diceritakan Wulan. Ini yang dia bilang paling enak dimakan dari wajan."
 
 Ibu menatapku. Aku menunduk, dengan pipi panas.
 
-"Dia cerita?"
+"Dheweke crita?"
 
 "Sering, Bu. Di Inggris. Waktu rindu."
 
-Ibu terdiam sebentar. Lalu ia mengambil sendok, menyendok satu gumpal tiwul panas dari wajan, dan menaruhnya di daun pisang di depan Rizal tanpa berkata apa-apa, dengan gerakan yang untuk Ibu berarti sesuatu yang jauh lebih besar daripada kata mana pun.
+Ibu terdiam sebentar. Lalu Ibu mengambil sendok, menyendok satu gumpal tiwul panas dari wajan, dan menaruhnya di daun pisang di depan Rizal tanpa berkata apa-apa, dengan gerakan yang untuk Ibu berarti sesuatu yang jauh lebih besar daripada kata mana pun.
 
 Bapak, di ujung tikar, tersenyum untuk pertama kali sore itu.
 

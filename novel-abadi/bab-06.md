@@ -16,21 +16,21 @@ Suara itu datang dari barisan kelas enam, anak laki-laki, nyaring dan sangat pua
 
 Seluruh lapangan tertawa, tidak keras. Tawa kecil dan terkejut, seperti orang yang diberi sesuatu yang tidak berani mereka minta. Bu Siti bergerak, tetapi aku sudah lebih dulu membuka mulut.
 
-"Dim," kataku, cukup keras sampai terdengar sampai barisan depan. "Itu nama yang bagus. Dobel lagi. Wulan itu bulan, jadi aku bulan kuadrat."
+"Dim," kataku, cukup keras sampai terdengar sampai barisan depan. "Jeneng sing apik. Dobel meneh. Wulan kuwi bulan, dadi aku bulan kuadrat."
 
 Lapangan mendadak sunyi.
 
-"Kamu mau coba?" tanyaku. "Aku bisa mengajarimu cara supaya kamu juga jadi planet. Pertama, makan banyak. Kedua, minum obat. Ketiga, pasang muka lugu."
+"Kowe arep nyoba?" tanyaku. "Aku iso ngajari carane ben kowe uga dadi planet. Siji, mangan akeh. Loro, ngombe obat. Telu, pasang rai lugu."
 
 Seseorang terbahak. Lalu seseorang lagi. Lalu seluruh barisan kelas lima, lalu kelas empat, dan akhirnya Dimas sendiri, dengan wajah merah, yang tertawa sambil menutupi mukanya dengan kedua tangan, dan Pak Kepala Sekolah di depan mikrofon batuk panjang dan memerintahkan semuanya kembali ke barisan.
 
-Tika berbisik di sampingku, "Kamu nggak apa-apa?"
+Tika berbisik di sampingku, "Kowe ora popo?"
 
-"Tidak."
+"Ora."
 
-"Tapi tadi..."
+"Tapi mau..."
 
-"Itu bukan apa-apa," kataku. "Itu cuma pura-pura nggak apa-apa."
+"Kuwi dudu opo-opo," kataku. "Kuwi mung pura-pura ora popo."
 
 Tanganku yang memegang payung ternyata gemetar. Aku baru menyadarinya ketika Tika menyentuhnya dan menahannya sebentar, tanpa berkata apa-apa.
 
@@ -44,23 +44,23 @@ Aku tidak keberatan. Aku bahkan menulisnya di sampul buku catatanku dengan pensi
 
 Mbah Darmi datang pada akhir Februari, berjalan kaki dari rumahnya, dengan sarung yang disampirkan di bahu dan sebuah bungkusan di tangan.
 
-"Sum, aku mau bicara sama Wulan."
+"Sum, aku arep ngomong karo Wulan."
 
 Ibu menyingkir ke dapur. Mbah duduk di tikar, membuka bungkusan, dan mengeluarkan sebuah payung hitam, sama persis dengan yang selalu terpasang di antara punggung Ibu dan pinggangku pada hari-hari buruk. Hanya saja ini bukan payung yang sama. Gagangnya dari kayu, lebih halus, dan kainnya baru.
 
-"Yang lama sudah rusak," kata Mbah. "Jadi Mbah belikan yang baru. Ini bukan punyamu. Ini punya Mbah, dipinjamkan."
+"Sing lawas wis rusak," kata Mbah. "Dadi Mbah tukokke sing anyar. Iki dudu duwekmu. Iki duwekke Mbah, dipinjemke."
 
-"Dipinjamkan sampai kapan, Mbah?"
+"Dipinjemke nganti kapan, Mbah?"
 
-"Sampai kamu punya sendiri." Mbah menyerahkannya padaku dengan dua tangan. "Dulu waktu Mbah masih muda, ada orang yang kalau berjalan di bawah matahari selalu pakai payung. Kata orang sombong. Padahal kulitnya memang tidak kuat. Orang tidak tahu apa-apa tentang tubuh orang lain."
+"Nganti kowe duwe dhewe." Mbah menyerahkannya padaku dengan dua tangan. "Biyen nalika Mbah isih enom, ono wong sing nek mlaku ning ngisor srengenge mesti nganggo payung. Jare wong sombong. Padahal kulite pancen ora kuwat. Wong ora ngerti opo-opo bab awake wong liya."
 
 Aku menimang payung itu. Di pegangan kayunya ada ukiran kecil seperti tangkai padi.
 
-"Terima kasih, Mbah."
+"Matur nuwun, Mbah."
 
-"Jangan terima kasih. Jaga saja." Mbah berdiri, dengan susah payah, memegang lutut. Lalu, sebelum pergi, ia mencondongkan badan dan berbisik, supaya Ibu yang di dapur tidak mendengar, "Dan kupu-kupu itu tidak jelek, Nduk. Dia cuma salah hinggap."
+"Ora sah matur nuwun. Jaga wae." Mbah berdiri, dengan susah payah, memegang lutut. Lalu, sebelum pergi, Mbah mencondongkan badan dan berbisik, supaya Ibu yang di dapur tidak mendengar, "Lan kupu-kupu kuwi ora elek, Nduk. Mung salah panggonan."
 
-Aku tertawa. Mata Mbah menyipit dalam senyum yang tidak ia perlihatkan di bibirnya.
+Aku tertawa. Mata Mbah menyipit dalam senyum yang tidak Mbah perlihatkan di bibirnya.
 
 ---
 
@@ -84,25 +84,25 @@ Itu adalah wajah yang tidak kukenal, tetapi tidak terlalu asing juga. Kerudung m
 
 Ibu berdiri di pintu kamar.
 
-"Itu kerudung Tika," katanya akhirnya.
+"Kuwi kerudunge Tika," katanya akhirnya.
 
-"Iya."
+"Nggih."
 
-"Kamu mau pakai?"
+"Kowe gelem nganggo?"
 
 "Rambutku rontok, Bu."
 
-"Bukan itu yang kutanya."
+"Dudu kuwi sing tak takokke."
 
-Aku menatap bayangan lagi. "Mau," kataku. "Aku mau pakai. Panasnya juga tidak."
+Aku menatap bayangan lagi. "Gelem," kataku. "Aku gelem nganggo."
 
-Ibu tersenyum, kecil, dan itu senyum yang berbeda dari yang ia berikan padaku di depan cermin di bulan Januari. Ia masuk, menarik ujung kerudung yang miring, merapikannya dengan dua jari, dan berkata, "Nanti Ibu jahitkan yang baru. Yang tidak kekecilan."
+Ibu tersenyum, kecil, dan itu senyum yang berbeda dari yang diberikannya padaku di depan cermin di bulan Januari. Ibu masuk, menarik ujung kerudung yang miring, merapikannya dengan dua jari, dan berkata, "Mengko Ibu jahitke sing anyar. Sing ora kekecilan."
 
-"Tidak usah, Bu. Yang ini cukup."
+"Mboten sah, Bu. Niki sampun cekap."
 
-"Yang baru," kata Ibu, dengan nada yang tidak bisa dibantah. "Pakai yang kamu pilih. Jangan pakai yang kamu terpaksa."
+"Sing anyar," kata Ibu, dengan nada yang tidak bisa dibantah. "Nganggo sing kowe pilih. Aja nganggo sing kowe kepeksa."
 
-Aku tidak tahu dari mana ia mendapat kalimat itu. Ia tidak pernah belajar di kelas apa pun. Tapi ia mengatakannya seakan sudah lama menyimpannya, menunggu seseorang butuh mendengarnya.
+Aku tidak tahu dari mana Ibu mendapat kalimat itu. Ibu tidak pernah belajar di kelas apa pun. Tapi Ibu mengatakannya seakan sudah lama menyimpannya, menunggu seseorang butuh mendengarnya.
 
 ---
 
@@ -110,19 +110,19 @@ Yang kedua adalah upacara hari pertama.
 
 Upacara masa orientasi di SMP itu berlangsung di lapangan tanpa naungan pada pukul sembilan pagi bulan Juli. Aku berdiri di barisan kelas tujuh, di bawah payung hitam Mbah, dengan kerudung warisan Tika yang putihnya sudah kusam, dan wajah bulat yang sudah kuputuskan akan kuterima.
 
-Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Itu payung buat apa? Kayak nenek-nenek."
+Tidak semua orang menerimanya. Dari barisan di belakangku terdengar bisikan, lalu tawa tertahan. Seorang anak laki-laki berseru pelan, "Payung kuwi go opo? Kaya mbah-mbah."
 
 Aku tidak menoleh. Aku sudah tahu bagaimana ini berjalan: mereka akan tertawa, aku akan mengatakan sesuatu yang lucu, mereka akan berhenti. Aku mulai menyusun kalimat.
 
-"Boleh numpang?"
+"Nunut yo?"
 
 Aku menoleh. Seorang anak laki-laki berdiri di sebelahku, tinggi, kurus, dengan rambut hitam yang dipotong pendek dan wajah yang terbakar matahari sampai hidungnya mengelupas. Ia tersenyum lebar, dengan gigi yang agak maju dan alis yang naik. Di tangannya ada topi sekolah yang tidak ia pakai.
 
-"Panas banget," katanya. "Payungmu gede."
+"Panas tenan," katanya. "Payungmu gedhe."
 
 Anak-anak di belakang kami mulai bersiul. Seseorang berseru "Cieee." Anak itu tidak menoleh. Ia hanya menunggu, dengan sedikit mengangkat bahu seakan itu hal yang paling wajar di dunia.
 
-"Boleh," kataku.
+"Yo," kataku.
 
 Ia melangkah masuk di bawah naungan payung, dan karena payung itu tidak terlalu besar, kami terpaksa berdiri berdekatan, tidak terlalu dekat, tetapi cukup sehingga aku bisa mencium bau sabun murahan dan sinar matahari di bajunya. Kepala sekolah di depan membacakan sesuatu tentang disiplin dan kejujuran.
 
@@ -130,13 +130,13 @@ Ia melangkah masuk di bawah naungan payung, dan karena payung itu tidak terlalu 
 
 "Wulan."
 
-"Wulan Bulan, ya? Aku dengar dari anak-anak. Keren juga."
+"Wulan Bulan, yo? Aku krungu seko bocah-bocah. Keren uga."
 
 Aku menatap lurus ke depan. Pipiku panas. Ia tidak boleh melihat, dan itu tidak mungkin, karena pipiku besar dan terang.
 
 "Biasa saja," kataku.
 
-"Ngomong-ngomong, aku sebangku sama kamu, kayaknya. Kelas 7B. Aku lihat daftar tadi."
+"Ngomong-ngomong, aku sebangku karo kowe, kayane. Kelas 7B. Aku ndelok daftar mau."
 
 Aku tidak menjawab. Sepanjang sisa upacara, aku memegang payung dengan sangat hati-hati, seakan di bawahnya berdiri sesuatu yang bisa pecah.
 

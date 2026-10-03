@@ -66,15 +66,15 @@ Aku menatap tanganku di pangkuan. Aku memikirkan kaleng biskuit. Aku memikirkan 
 
 "Wulan?" Suara Ibu, di sampingku, kecil sekali.
 
-"Maaf, Bu."
+"Ngapunten, Bu."
 
-"Kenapa tidak bilang?"
+"Kenopo ora ngomong?"
 
 "Uang kaleng," kataku, dan di titik itu suaraku pecah dan aku merasa seperti anak kecil, padahal aku merasa lebih tua dari ruangan itu.
 
-Ibu tidak marah. Itu yang membuatku makin ingin menangis. Ia hanya menutup mulutnya dengan telapak tangan, lama, dan matanya menatap sesuatu yang tidak ada di dinding. Lalu ia menurunkan tangannya dan menyentuh rambutku, dengan canggung, seperti baru pertama kali melakukannya.
+Ibu tidak marah. Itu yang membuatku makin ingin menangis. Ibu hanya menutup mulutnya dengan telapak tangan, lama, dan matanya menatap sesuatu yang tidak ada di dinding. Lalu Ibu menurunkan tangannya dan menyentuh rambutku, dengan canggung, seperti baru pertama kali melakukannya.
 
-"Lain kali bilang," katanya. "Uang bisa dicari."
+"Mbesuk ngomong," katanya. "Dhuwit iso digoleki."
 
 Aku mengangguk. Aku tidak percaya, tetapi aku mengangguk.
 
@@ -104,17 +104,17 @@ Rumah sakit besar di Yogya berdiri di pinggir jalan besar, putih dan sangat luas
 
 Mas Aji menyusul dari Wonosari. Sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
 
-"Kamu kok gemuk, Dek," katanya.
+"Kowe kok lemu, Dek," katanya.
 
 "Aku bengkak, Mas."
 
-"Oh." Ia berpikir. "Ya sudah, makan permennya."
+"Oh." Mas Aji berpikir. "Yo wis, mangan permene."
 
 Mas Aji adalah orang yang tidak pernah tahu bagaimana mengatakan hal yang ia rasakan, jadi ia mengatakan hal yang ada di dekatnya. Selama sehari itu ia membaca semua papan petunjuk lebih cepat daripada kami, menemukan loket pendaftaran, menyuruh Bapak duduk, dan menyodorkan surat rujukan dengan suara yang lebih dewasa daripada umurnya.
 
 Antrean di loket pendaftaran lebih panjang daripada seluruh Dusun Pucung. Orang membawa map, kantong plastik, tas jinjing, dan bayi, dan tidak ada yang bicara. Petugas bertanya: "BPJS?"
 
-"Belum," kata Mas Aji. "Katanya baru mulai tahun depan."
+"Dereng," kata Mas Aji. "Jarene lagi wiwit taun ngarep."
 
 "Umum, ya. Ada surat keterangan tidak mampu?"
 
@@ -124,7 +124,7 @@ Dokter anak yang menerima kami bernama dr. Sumarni. Ia berusia lima puluhan, ber
 
 "Ini dibuat siapa?"
 
-"Wulan yang menulis, Dok," kata Ibu. "Mbak perawat di puskesmas yang menyuruh."
+"Wulan ingkang nulis, Dok," kata Ibu. "Mbak perawat wonten puskesmas ingkang nyuruh."
 
 "Perawat itu pintar." Dokter Sumarni menatap kami. "Jarang pasien datang membawa ini. Ini mempercepat banyak hal."
 
@@ -136,23 +136,23 @@ Aku belum pernah diambil darah. Perawat di sana memakai sarung tangan biru dan m
 
 Mas Aji berdiri di sampingku, dengan wajah putih seperti kertas. Ia sendiri tidak tahan melihat jarum.
 
-"Mas, jangan pingsan."
+"Mas, aja semaput."
 
-"Aku nggak pingsan."
+"Aku ora semaput."
 
-"Kamu pucat."
+"Kowe pucet."
 
-"Itu bedak."
+"Kuwi bedak."
 
-"Mas Aji nggak pakai bedak."
+"Mas ora nganggo bedak."
 
 Aku tertawa, dan jarum itu masuk, dan aku nyaris tidak merasakannya. Perawat itu mengangguk puas kepada Mas Aji, seakan ia yang melakukan pekerjaannya.
 
 ---
 
-Hasil keluar sore hari. Kami menunggu lima jam di lorong yang berbau antiseptik, di bangku besi yang dinginnya merembes sampai ke tulang. Ibu mengeluarkan nasi bungkus dari tas, yang ia masak subuh tadi dengan sambal tempe dan telur dadar. Kami makan berempat dengan tangan, di lorong rumah sakit, sementara orang-orang berbaju putih lewat dan menoleh sebentar pada pemandangan yang tidak umum.
+Hasil keluar sore hari. Kami menunggu lima jam di lorong yang berbau antiseptik, di bangku besi yang dinginnya merembes sampai ke tulang. Ibu mengeluarkan nasi bungkus dari tas, yang Ibu masak subuh tadi dengan sambal tempe dan telur dadar. Kami makan berempat dengan tangan, di lorong rumah sakit, sementara orang-orang berbaju putih lewat dan menoleh sebentar pada pemandangan yang tidak umum.
 
-Bapak makan sedikit. Ia memandangi pintu ruangan dr. Sumarni dari jarak jauh, dengan sesuap nasi di tangan yang tak kunjung masuk ke mulut.
+Bapak makan sedikit. Bapak memandangi pintu ruangan dr. Sumarni dari jarak jauh, dengan sesuap nasi di tangan yang tak kunjung masuk ke mulut.
 
 Aku mencoba menghitung orang yang lewat, tetapi mereka terlalu banyak.
 
@@ -164,7 +164,7 @@ Ibu menggenggam tas kainnya.
 
 "Tes darah Wulan menunjukkan antibodi antinuklear positif. Itu salah satu penanda bahwa sistem kekebalan tubuhnya mungkin sedang menyerang tubuhnya sendiri." Ia berhenti sebentar, memastikan Ibu menangkap kalimat itu. "Dan protein di air seninya tiga plus."
 
-"Tiga plus itu..." kata Bapak, pelan. Itu pertama kali ia berbicara sejak pagi. "Banyak, Dok?"
+"Tiga plus itu..." kata Bapak, pelan. Itu pertama kali Bapak berbicara sejak pagi. "Kathah, Dok?"
 
 "Banyak."
 

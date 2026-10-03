@@ -19,10 +19,10 @@ Target pembaca: orang Indonesia. Cerita berpusat di Gunungkidul (Jawa, mayoritas
 **Unggah-ungguh** [S]: sopan santun dalam berbicara, menghormati orang lain menurut derajat dan kedudukan; tingkat tutur dibagi dua garis besar, **ngoko** (ngoko lugu, ngoko alus) dan **krama** (krama lugu, krama alus). Etika anak terhadap orang tua berbeda dari etika antarteman sebaya.
 
 Dalam novel [P]:
-- Narasi dan sebagian besar dialog **Bahasa Indonesia**; kata Jawa disisipkan secukupnya dan ditulis miring.
+- Narasi **Bahasa Indonesia**; dialog dalam keluarga dan dusun **bahasa Jawa** sesuai tingkat tutur, dialog sebaya campuran Jawa-Indonesia (lihat `02-panduan-suara.md` bagian 10).
 - **Anak kepada orang yang dituakan** memakai nada hormat (*nggih*, *sendika*, *dalem*, *mboten*) di dusun; kepada teman sebaya ngoko. Ibu kepada bidan atau dokter: *nggih, Bu Bidan*.
 - **Sapaan:** *Bapak/Ibu* (orang tua), *Mbah* (nenek/kakek), *Mas/Mbak* (kakak atau yang lebih tua), *Dik/Adik*, *Nduk* (anak perempuan; panggilan sayang), *Le/Thole* (anak laki-laki), *Pakdhe/Budhe* (kakak orang tua), *Paklik/Bulik* (adik orang tua). Jangan memanggil orang yang lebih tua dengan nama saja.
-- Dialog tidak perlu penuh bahasa Jawa; cukup sisipan (*to, kok, lho, wis, ora popo, ngapunten*) agar terbaca nasional.
+- Kalimat Jawa dibuat pendek dan umum, dan maknanya ditopang konteks supaya tetap terbaca nasional; tidak diterjemahkan dalam narasi.
 
 ## 3. Nilai yang bekerja dalam cerita [P]
 - **Rukun** (menjaga keselarasan) dan **sungkan/ewuh pakewuh** (enggan merepotkan atau membantah): menjelaskan mengapa keluarga Wulan jarang meminta tolong, dan mengapa Wulan memendam sakit.

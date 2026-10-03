@@ -28,7 +28,7 @@ Sudut pandang orang pertama (Wulan). Sekitar 65.000 kata: prolog, 37 bab, 3 inte
 Folder `terbit/` berisi hasil kompilasi dan skrip pembuatnya.
 | Berkas | Keterangan |
 |---|---|
-| `terbit/heliks.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±338 halaman, sampul penuh, daftar isi dan penanda bacaan |
+| `terbit/heliks.pdf` | PDF XeLaTeX, 14 × 21 cm, font Linux Libertine, ±339 halaman, sampul penuh, daftar isi dan penanda bacaan |
 | `terbit/heliks.epub` | EPUB 3 dengan sampul replikasi DNA; lolos EpubCheck (0 galat, 0 peringatan) |
 | `terbit/heliks-latex.zip` | paket LaTeX mandiri (.tex, sampul, font Linux Libertine); diuji kompilasi dari nol dengan XeLaTeX |
 | `terbit/heliks.tex` | sumber LaTeX hasil pembangkitan (untuk diperiksa atau disunting) |

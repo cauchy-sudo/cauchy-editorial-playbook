@@ -16,15 +16,15 @@ Dan ibu itu tersenyum sedikit bingung.
 
 Pada Mei, aku berumur dua puluh delapan. Aku merayakannya di Pucung bersama Ibu dan Bapak dengan nasi kuning dan telur rebus, dan Ibu berkata sambil menatap wajahku di bawah cahaya lampu:
 
-"Kamu nggak ada kerutan."
+"Kowe ora ono kerutan."
 
-"Ibu juga tidak."
+"Ibu inggih mboten."
 
-"Ibu ada banyak." Ia tertawa, dan tawa itu memperlihatkan kerutan di sudut matanya, tipis-tipis seperti lipatan kain. "Kamu itu... wajahmu masih seperti waktu SMA."
+"Ibu ono akeh." Ibu tertawa, dan tawa itu memperlihatkan kerutan di sudut matanya, tipis-tipis seperti lipatan kain. "Kowe kuwi... rupamu isih kaya nalika SMA."
 
-"Itu tabir surya, Bu."
+"Niku tabir surya, Bu."
 
-"Tabir surya itu hebat ya."
+"Tabir surya kuwi hebat yo."
 
 "Hebat, Bu."
 
@@ -52,17 +52,17 @@ Aku mencari. Aku menggali. Di tempat yang seharusnya ada, hanya ada sesuatu yang
 
 "Hm?"
 
-"Lagu itu. Nadanya naik di mana?"
+"Lagu kuwi. Nadane munggah neng ngendi?"
 
 Tika menoleh. "Hah?"
 
-"Di kata kedua? Atau ketiga?"
+"Neng tembung kapindho? Utawa katelu?"
 
-"Kenapa kamu tanya? Kamu kan hafal."
+"Kenopo kowe takon? Kowe kan apal."
 
-"Aku..." Suaraku mengecil. "Aku lupa."
+"Aku..." Suaraku mengecil. "Aku lali."
 
-Tika menatapku sebentar, dengan alis yang naik setengah senti. "Wulan. Itu lagu yang kamu nyanyikan di pentas SMA. Yang bikin Bu Haji nangis."
+Tika menatapku sebentar, dengan alis yang naik setengah senti. "Wul. Kuwi lagu sing kowe nyanyekke neng pentas SMA. Sing gawe Bu Haji nangis."
 
 "Aku tahu."
 
@@ -80,7 +80,7 @@ Aku mengambil buku catatan, membuka halaman baru, dan menuliskan sesuatu yang be
 
 Aku menulis.
 
-*Mbah memakai kebaya yang lunturnya sudah tidak merata. Gelungnya kecil. Tangannya selalu bau gula jawa. Ia duduk di bangku dapur dengan sendok kayu. Ia bilang: "Kupu-kupu itu tidak jelek. Dia cuma salah hinggap." Suaranya...*
+*Mbah memakai kebaya yang lunturnya sudah tidak merata. Gelungnya kecil. Tangannya selalu bau gula jawa. Mbah duduk di bangku dapur dengan sendok kayu. Mbah bilang: "Kupu-kupu kuwi ora elek. Mung salah panggonan." Suaranya...*
 
 Aku berhenti.
 
@@ -238,57 +238,57 @@ Ia berjalan keluar. Lonceng kecil di pintu kafe berbunyi sekali. Aku duduk di sa
 
 Pada malam itu juga, aku pulang ke Pucung.
 
-Ibu sedang duduk di teras, di dipan bambu, dengan sarung menutupi kakinya dan sebuah baskom berisi kacang panjang di pangkuannya. Ia mematahkan kacang-kacang itu dengan gerakan lambat, satu per satu, tanpa menoleh. Cahaya lampu jatuh pada tangannya.
+Ibu sedang duduk di teras, di dipan bambu, dengan sarung menutupi kakinya dan sebuah baskom berisi kacang panjang di pangkuannya. Ibu mematahkan kacang-kacang itu dengan gerakan lambat, satu per satu, tanpa menoleh. Cahaya lampu jatuh pada tangannya.
 
 Aku duduk di sampingnya.
 
 Tangan itu, tangan yang kuhafal lebih dari wajahku sendiri, tampak lain malam itu. Urat biru menonjol di punggungnya. Bercak cokelat, kecil dan banyak, menyebar seperti peta. Buku-buku jarinya retak, bukan retakan lama, tapi retakan baru, merah dan kering. Ia sedang menua. Ia sudah menua sejak aku lahir, tetapi baru malam itu aku melihatnya, seperti orang yang selama bertahun-tahun memandang gunung dari kejauhan dan baru malam itu menyadari bahwa ia sedang bergerak.
 
-"Kenapa liat Ibu begitu?" tanya Ibu.
+"Kenopo ndelok Ibu ngono?" tanya Ibu.
 
-"Tidak apa-apa."
+"Mboten napa-napa."
 
-"Ada Rizal?"
+"Ono Rizal?"
 
-"Rizal pulang."
+"Rizal sampun wangsul."
 
-"Oh." Ibu mematahkan satu kacang lagi. "Ibu kira dia mau bicara sama Bapak."
+"Oh." Ibu mematahkan satu kacang lagi. "Ibu kira dheweke arep ngomong karo Bapak."
 
-"Dia memang mau."
+"Dheweke pancen kepengin."
 
 "Terus?"
 
-"Wulan tolak."
+"Wulan nolak."
 
-Ibu berhenti. Ia tidak menoleh, tapi aku melihat jarinya diam di atas kacang itu.
+Ibu berhenti. Ibu tidak menoleh, tapi aku melihat jarinya diam di atas kacang itu.
 
 "Kenapa?"
 
-"Wulan belum bisa, Bu."
+"Wulan dereng saged, Bu."
 
-"Belum bisa atau tidak mau?"
+"Durung iso opo ora gelem?"
 
-"Tidak bisa."
+"Mboten saged."
 
-Ibu mengangguk perlahan. Ia tidak bertanya lagi. Ia hanya menaruh kacang itu di baskom, dan menaruh tangannya di atas tanganku, dengan telapak yang kasar dan hangat dan sedikit bergetar.
+Ibu mengangguk perlahan. Ibu tidak bertanya lagi. Ibu hanya menaruh kacang itu di baskom, dan menaruh tangannya di atas tanganku, dengan telapak yang kasar dan hangat dan sedikit bergetar.
 
-"Nduk," katanya. "Ibu tidak tahu apa yang kamu simpan. Tapi Ibu tahu kamu menyimpan sesuatu."
+"Nduk," katanya. "Ibu ora ngerti opo sing kowe simpen. Nanging Ibu ngerti kowe nyimpen sesuatu."
 
 Aku tidak menjawab.
 
-"Ibu tidak akan tanya." Ia menepuk punggung tanganku dua kali. "Ibu cuma mau bilang. Kalau kamu sudah tidak sanggup menyimpannya, ada Ibu."
+"Ibu ora bakal takon." Ibu menepuk punggung tanganku dua kali. "Ibu mung arep ngomong. Nek kowe wis ora kuwat nyimpen, ono Ibu."
 
 Aku menunduk. Pandanganku berkabut. Aku menatap tangan Ibu di atas tanganku, dan di benakku, sebuah pikiran muncul, yang telah kutahan sejak bulan Desember tahun lalu, sejak malam pertama aku tahu bahwa aku bisa:
 
 *Aku bisa memberikannya padamu.*
 
-Aku bisa membuat satu dosis lagi. Aku bisa membawanya ke dapur dan menyuntikkannya pada tangan yang menyisir rambutku di bangsal. Aku bisa membuat bercak-bercak itu berhenti bertambah. Aku bisa membuat lutut yang sakit berhenti sakit. Aku bisa menunda sesuatu yang telah menunggu Ibu sejak sebelum ia mengenalku.
+Aku bisa membuat satu dosis lagi. Aku bisa membawanya ke dapur dan menyuntikkannya pada tangan yang menyisir rambutku di bangsal. Aku bisa membuat bercak-bercak itu berhenti bertambah. Aku bisa membuat lutut yang sakit berhenti sakit. Aku bisa menunda sesuatu yang telah menunggu Ibu sejak sebelum aku lahir.
 
 Dan aku tahu persis apa yang akan terjadi.
 
-Aku tidak tahu apakah sel-sel di tubuh seorang perempuan lima puluh empat tahun akan merespons sama. Aku tidak tahu apakah pengamannya bekerja di tubuh yang lebih tua. Aku tidak tahu apakah sistem pembunuh alami, yang melemah dengan usia, akan menemukan sel yang tersesat. Aku tahu satu hal: bahwa aku telah menghitung peluang tumor di sembilan tikus dan menemukan angka sepertiga sebagai batas atas. Aku tahu satu hal lain: bahwa Ibu akan bergantung padaku, tiap tanggal sembilan, selamanya, dan jika aku mati, ia akan mati.
+Aku tidak tahu apakah sel-sel di tubuh seorang perempuan lima puluh empat tahun akan merespons sama. Aku tidak tahu apakah pengamannya bekerja di tubuh yang lebih tua. Aku tidak tahu apakah sistem pembunuh alami, yang melemah dengan usia, akan menemukan sel yang tersesat. Aku tahu satu hal: bahwa aku telah menghitung peluang tumor di sembilan tikus dan menemukan angka sepertiga sebagai batas atas. Aku tahu satu hal lain: bahwa Ibu akan bergantung padaku, tiap tanggal sembilan, selamanya, dan jika aku mati, Ibu ikut mati.
 
-Dan aku tahu satu hal yang paling berat: bahwa mungkin, hanya mungkin, otaknya akan memadat seperti otakku. Bahwa ia mungkin lupa suara kakaknya. Bahwa suatu hari, ia mungkin tak lagi ingat nada lagu tanpa judul yang ia nyanyikan sambil mengaduk tiwul.
+Dan aku tahu satu hal yang paling berat: bahwa mungkin, hanya mungkin, otaknya akan memadat seperti otakku. Bahwa Ibu mungkin lupa suara kakaknya. Bahwa suatu hari, Ibu mungkin tak lagi ingat nada lagu tanpa judul yang dinyanyikannya sambil mengaduk tiwul.
 
 *Aku tidak bisa.*
 
@@ -296,10 +296,10 @@ Aku tidak bisa memberikannya kepada seseorang yang kucintai, sesuatu yang belum 
 
 Aku memegang tangan Ibu. Aku mengusap punggungnya dengan ibu jariku, pelan, pelan, seperti Ibu memeriksa tanganku di aula wisuda.
 
-"Masih sama," bisik Ibu.
+"Isih padha," bisik Ibu.
 
-"Apa, Bu?"
+"Nopo, Bu?"
 
-"Tanganmu." Ia tersenyum, dengan mata yang terlalu cerah. "Masih sama seperti dulu. Seperti waktu kamu kecil."
+"Tanganmu." Ibu tersenyum, dengan mata yang terlalu cerah. "Isih padha kaya biyen. Kaya nalika kowe cilik."
 
-"Iya, Bu," kataku.
+"Nggih, Bu," kataku.

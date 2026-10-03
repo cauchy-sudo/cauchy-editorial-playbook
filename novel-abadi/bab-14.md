@@ -22,7 +22,7 @@ Aku duduk di kursi pasien. Di sampingku Ibu, yang tiba dari Pucung dengan bus pe
 
 "Saya perlu mengambil sampel dari ginjalmu. Biopsi. Itu satu-satunya cara untuk tahu seberapa parah, dan obat apa yang paling cocok."
 
-Ibu menarik napas pelan. "Itu... sakit, Dok?"
+Ibu menarik napas pelan. "Niku... sakit, Dok?"
 
 "Dia akan dibius lokal. Prosedurnya sekitar satu jam. Dia harus berbaring tidak bergerak selama enam jam sesudahnya." Dokter Sumarni menoleh kepadaku. "Takut?"
 
@@ -36,11 +36,11 @@ Biopsi itu tidak seburuk yang kubayangkan, dan tidak sebaik yang dijanjikan. Aku
 
 Selama enam jam sesudahnya aku tidak boleh bergerak. Ibu duduk di kursi di samping ranjang, dan Tika, yang sudah berjam-jam duduk di lorong, akhirnya diizinkan masuk dan duduk di lantai di bawah jendela dengan buku catatan di pangkuan.
 
-"Aku bawa tugas kimia," katanya.
+"Aku nggawa tugas kimia," katanya.
 
-"Kamu mau mengerjakan tugas di rumah sakit?"
+"Kowe arep ngerjake tugas neng rumah sakit?"
 
-"Aku mau mengerjakannya sambil menemani kamu. Itu beda." Tika membuka buku dan menggaruk dagu dengan pensil. "Wulan. Kalau kamu tahu rumus ini, kasih tahu, soalnya aku nggak paham."
+"Aku arep ngerjake karo nemoni kowe. Kuwi beda." Tika membuka buku dan menggaruk dagu dengan pensil. "Wul. Nek kowe ngerti rumus iki, kandhani, soale aku ora paham."
 
 Aku tertawa, dan tertawa itu menarik perutku, dan perawat di ujung ruangan menegurku untuk tidak bergerak. Tika menutup mulutnya dengan tangan dan tertawa tanpa suara, dengan bahu yang bergetar.
 
@@ -94,19 +94,19 @@ Rambutku rontok pada minggu ketiga. Bukan sekaligus, tetapi seperti musim gugur 
 
 Aku mengenakan kerudung, dan itu membuat semuanya urusan pribadi. Tak seorang pun tahu apa yang ada di bawah kain. Aku tidak harus memutuskan apakah akan mencukurnya, menyembunyikannya, atau menjelaskannya. Ia hanya ada di sana, sebuah ruang kecil di bawah kain, milikku sendiri.
 
-Ibu duduk di kursi di samping ranjangku sepanjang malam. Aku tidak pernah melihatnya tidur. Ketika aku terbangun jam tiga pagi untuk ke kamar mandi, matanya terbuka dan menatapku, dan ia bangkit membantu tanpa bertanya.
+Ibu duduk di kursi di samping ranjangku sepanjang malam. Aku tidak pernah melihatnya tidur. Ketika aku terbangun jam tiga pagi untuk ke kamar mandi, matanya terbuka dan menatapku, dan Ibu bangkit membantu tanpa bertanya.
 
-"Bu, tidurlah."
+"Bu, ndang turu."
 
-"Ibu tidak ngantuk."
+"Ibu ora ngantuk."
 
-"Ibu sudah empat hari tidak tidur."
+"Ibu wis papat dina ora turu."
 
-"Ibu tidur di bus."
+"Ibu turu neng bis."
 
-"Itu bukan tidur."
+"Kuwi dudu turu."
 
-Ibu tidak menjawab. Ia hanya menaikkan selimut sampai ke daguku, lalu duduk kembali, dan di keremangan lampu bangsal aku melihat bibirnya bergerak tanpa suara. Aku tahu ia sedang menyebut nama-nama: Pak Dukuh, Mbok Karni, Pak Modin, Pakdhe Harjo, Bu Haji, dan seluruh dusun yang menyumbang dan mendoakan, dan dr. Sumarni, dan Mbak Nurul, dan, aku yakin, seseorang yang belum pernah kutemui.
+Ibu tidak menjawab. Ibu hanya menaikkan selimut sampai ke daguku, lalu duduk kembali, dan di keremangan lampu bangsal aku melihat bibirnya bergerak tanpa suara. Aku tahu Ibu sedang menyebut nama-nama: Pak Dukuh, Mbok Karni, Pak Modin, Pakdhe Harjo, Bu Haji, dan seluruh dusun yang menyumbang dan mendoakan, dan dr. Sumarni, dan Mbak Nurul, dan, aku yakin, seseorang yang belum pernah kutemui.
 
 ---
 
@@ -114,13 +114,13 @@ Tamu datang pada hari Minggu, berombongan, seperti serombongan burung yang terse
 
 Tika pertama, dengan tiga kotak titipan dari teman-teman kelas dan sebuah kartu besar yang ditandatangani tiga puluh enam orang, dengan gambar kupu-kupu yang digambar Rina. Rina sendiri berdiri di belakang Tika, dengan wajah merah, tak berani menatap mataku.
 
-"Aku... aku mau minta maaf," katanya. "Soal puisi."
+"Aku... aku arep njaluk ngapura," katanya. "Bab puisi."
 
-"Itu sudah empat tahun lalu."
+"Kuwi wis patang taun kepungkur."
 
-"Tapi aku belum minta maaf."
+"Tapi aku durung njaluk ngapura."
 
-"Rina." Aku tertawa, dan itu membuat selangku sakit. "Gambarmu bagus. Kupu-kupunya miring, tapi bagus."
+"Rin." Aku tertawa, dan itu membuat selangku sakit. "Gambarmu apik. Kupu-kupune miring, tapi apik."
 
 Pak Hendra datang berikutnya dengan sekantong buku catatan fotokopi dan sebuah berkas tebal. "Soal-soal olimpiade tahun lalu. Dan tahun sebelumnya. Dan buku latihan yang saya pinjam dari seorang kenalan di universitas." Ia menaruhnya di meja. "OSN tingkat kabupaten dibuka bulan Maret. Kamu tidak akan bisa ikut."
 
@@ -140,9 +140,9 @@ Naufal datang terakhir, ketika hari sudah sore.
 
 Ia berdiri di pintu dengan ransel dan sebuah bungkusan di tangan. Ia tidak masuk. Ia berdiri di sana, ujung sepatunya tepat di garis ubin pintu, tidak yakin boleh melewatinya.
 
-"Naufal," kata Ibu. "Masuklah."
+"Naufal," kata Ibu. "Mlebu wae, Le."
 
-"Terima kasih, Bu." Ia melangkah masuk, dan membungkuk sedikit kepada Ibu. Lalu ia menyerahkan bungkusan itu padaku.
+"Matur nuwun, Bu." Ia melangkah masuk, dan membungkuk sedikit kepada Ibu. Lalu ia menyerahkan bungkusan itu padaku.
 
 Aku membukanya. Radioku. Dengan antena baru, kabel tembaga tipis yang digulung rapi dan ujungnya dililit plester biru.
 
@@ -164,22 +164,22 @@ Aku sudah dua minggu dirawat ketika telepon berbunyi di meja perawat pada Selasa
 
 Seorang perawat mengangkatnya, mendengarkan, lalu menoleh ke arah Ibu yang baru kembali dari kamar mandi. "Ibu Sumiati? Ada telepon. Dari Pucung."
 
-Ibu berjalan ke meja dengan langkah yang biasa. Ia menerima gagang telepon, menempelkannya ke telinga, dan berkata, "Halo?"
+Ibu berjalan ke meja dengan langkah yang biasa. Ibu menerima gagang telepon, menempelkannya ke telinga, dan berkata, "Halo?"
 
 Aku memperhatikan wajahnya dari ranjang. Pertama tak ada yang berubah. Lalu rahangnya mengencang. Lalu matanya melebar, sedikit, seperti seseorang yang baru mendengar langkah di rumah yang seharusnya kosong.
 
-"Kapan?" katanya. "Sekarang?"
+"Kapan?" katanya. "Saiki?"
 
-Ia mendengarkan lagi. Aku melihat tangan kirinya meraih ujung meja.
+Ibu mendengarkan lagi. Aku melihat tangan kirinya meraih ujung meja.
 
-"Iya," katanya. "Iya. Saya pulang. Saya naik bus pertama."
+"Nggih," katanya. "Nggih. Kula wangsul. Kula numpak bis ingkang sepisanan."
 
-Ia meletakkan gagang telepon dengan hati-hati, seakan benda itu bisa pecah. Ia berdiri sebentar dengan punggung menghadap kami, lalu berbalik, dan wajahnya putih seperti kertas.
+Ibu meletakkan gagang telepon dengan hati-hati, seakan benda itu bisa pecah. Ibu berdiri sebentar dengan punggung menghadap kami, lalu berbalik, dan wajahnya putih seperti kertas.
 
 "Wulan," katanya.
 
 "Bu?"
 
-"Mbah." Suaranya tercekat. "Mbah jatuh di kamar mandi. Pak Hasan bilang... sudah tidak..."
+"Mbah." Suaranya tercekat. "Mbah tiba neng kamar mandi. Pak Hasan ngomong... wis ora..."
 
-Ia tidak menyelesaikan kalimatnya. Dan aku, di ranjang dengan jarum infus di lengan dan kerudung yang menutup kepalaku yang botak, tidak bisa berdiri.
+Ibu tidak menyelesaikan kalimatnya. Dan aku, di ranjang dengan jarum infus di lengan dan kerudung yang menutup kepalaku yang botak, tidak bisa berdiri.

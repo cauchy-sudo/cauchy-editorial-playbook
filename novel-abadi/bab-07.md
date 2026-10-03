@@ -6,21 +6,21 @@ Pak Karto tujuh puluh tahun, mantan guru SD yang pensiun sebelum aku lahir, deng
 
 Aku menemukan buku itu pada Sabtu kedua bulan Agustus, ketika aku mengintip lemari kaca sambil berteduh dari matahari di bawah teras.
 
-"Itu bukan buat kamu," kata Pak Karto, tanpa membuka mata. Ia sedang duduk di kursi rotan, dengan kopiah miring dan radio kecil yang menyiarkan sesuatu tentang harga cabai.
+"Kuwi dudu go kowe," kata Pak Karto, tanpa membuka mata. Ia sedang duduk di kursi rotan, dengan kopiah miring dan radio kecil yang menyiarkan sesuatu tentang harga cabai.
 
-"Kenapa bukan, Pak?"
+"Kenging napa, Pak?"
 
 "Kelas sebelas."
 
-"Saya tidak keberatan."
+"Kula mboten keberatan."
 
-"Saya yang keberatan." Ia membuka satu mata. "Tapi baiklah. Ada aturannya."
+"Aku sing keberatan." Pak Karto membuka satu mata. "Tapi yo wis. Ono aturane."
 
 "Apa aturannya?"
 
-"Dipinjam seminggu. Dikembalikan dengan satu pertanyaan."
+"Dipinjem seminggu. Dibalekke karo siji pitakonan."
 
-"Pertanyaan?"
+"Pitakonan?"
 
 "Bukan ringkasan. Bukan kesan. Satu pertanyaan, yang kamu tidak bisa jawab sendiri setelah membaca buku itu." Ia menutup matanya lagi. "Kalau kamu tidak punya pertanyaan, berarti kamu belum membaca."
 
@@ -86,11 +86,11 @@ Kadang aku merasa seperti anak yang diselundupkan masuk ke sebuah rumah yang seh
 
 Bu Siti menelepon ke tetangga pada pertengahan September. Pak Hasan di ujung dusun, satu-satunya yang punya telepon, memanggilku dari pekarangannya dan menyerahkan gagang telepon seakan menyerahkan telur.
 
-"Wulan." Suara Bu Siti terdengar jauh dan agak bergetar. "Datang ke sekolah hari Sabtu. Pagi."
+"Wulan." Suara Bu Siti terdengar jauh dan agak bergetar. "Mrene neng sekolah dina Setu. Esuk."
 
-"Ada apa, Bu?"
+"Wonten napa, Bu?"
 
-"Datang saja."
+"Teka wae."
 
 Aku tiba di SD Negeri Pucung pada Sabtu pagi, dengan payung hitam dan lengan panjang dan seragam batik yang lusuh. Sekolah itu kosong, dengan bunyi serangga di lapangan dan pintu ruang guru terbuka.
 

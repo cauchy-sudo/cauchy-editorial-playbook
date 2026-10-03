@@ -16,7 +16,7 @@ Surat pertama untuk Ibu. Aku menulisnya di kertas bergaris, dengan pensil, di at
 
 *Jangan menangis terlalu lama. Cukup tiga hari. Setelah itu masak.*
 
-*Maaf.*
+*Ngapunten.*
 
 *Wulan.*
 
@@ -50,7 +50,7 @@ Pukul sebelas malam, aku duduk di kursi di dekat jendela, dengan lengan kananku 
 
 Aku memejamkan mata.
 
-Aku memikirkan seorang anak sebelas tahun di bawah pohon asam dengan payung hitam. Seorang nenek yang menjahit kerudung setengah jadi. Seorang laki-laki yang berkata *kambing itu gampang*. Seorang perempuan yang menyobek selembar kertas dan menggambar empat kolom. Seorang anak bulat dengan rambut jarang yang menunjuk dengan dagu dan berkata *kalau sembuh, aku mau ke laut*.
+Aku memikirkan seorang anak sebelas tahun di bawah pohon asam dengan payung hitam. Seorang nenek yang menjahit kerudung setengah jadi. Seorang laki-laki yang berkata *wedhus kuwi gampang*. Seorang perempuan yang menyobek selembar kertas dan menggambar empat kolom. Seorang anak bulat dengan rambut jarang yang menunjuk dengan dagu dan berkata *nek wis waras, aku arep ning laut*.
 
 *Aku belum pergi ke laut, Yun.*
 

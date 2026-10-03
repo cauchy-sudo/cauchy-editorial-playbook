@@ -4,19 +4,19 @@ Laptopku seharga tiga juta empat ratus ribu rupiah, dan dua juta enam ratusnya b
 
 Aku membelinya di sebuah toko barang bekas di dekat kampus, atas saran seorang kakak tingkat yang kutemui lewat grup WhatsApp angkatan. Namanya Mas Rendi, dan ia berkata dengan nada orang yang sudah dua kali tertipu: "Jangan beli yang cantik. Beli yang jelek tapi sehat. Cek baterai, cek engsel, cek kipas." Aku mengecek semuanya sambil menahan napas. Penjual toko, laki-laki muda yang menguap sepanjang transaksi, mengira aku orang tua yang sedang menawar untuk anak.
 
-Ibu menelepon malamnya lewat telepon Pak Hasan. "Sudah beli?"
+Ibu menelepon malamnya lewat telepon Pak Hasan. "Wis tuku?"
 
-"Sudah, Bu."
+"Sampun, Bu."
 
-"Pakai uangnya?"
+"Nganggo dhuwite?"
 
-"Pakai sebagian."
+"Nganggo sebagian."
 
-"Yang sapi?"
+"Sing sapi?"
 
-"Iya, Bu."
+"Nggih, Bu."
 
-Hening di seberang, panjang dan hangat. "Bagus," kata Ibu akhirnya, dan suaranya sedikit bergetar. "Berarti Bejo ikut kuliah."
+Hening di seberang, panjang dan hangat. "Apik," kata Ibu akhirnya, dan suaranya sedikit bergetar. "Berarti Bejo melu kuliah."
 
 Aku tertawa sampai perutku sakit.
 
@@ -165,41 +165,41 @@ Pak Slamet, dari belakang, hanya berkata: "Nah."
 
 Malam itu aku menelepon Ibu lewat telepon Pak Hasan, dan setelah Pak Hasan memanggilnya, Ibu mengangkat dengan napas terengah.
 
-"Nduk? Ada apa?"
+"Nduk? Ono opo?"
 
-"Tidak ada apa-apa, Bu. Cuma telepon."
+"Mboten wonten napa-napa, Bu. Namung telepon."
 
-"Sudah makan?"
+"Wis mangan?"
 
-"Sudah, Bu."
+"Sampun, Bu."
 
-"Makan apa?"
+"Mangan opo?"
 
-"Nasi, telur, tempe."
+"Sega, endhog, tempe."
 
-"Tempe lagi. Kamu itu." Terdengar bunyi ayam di kejauhan, dan bunyi angin di antara pohon jati. "Bapak di kandang. Ardi di rumah Tika. Kamu sehat?"
+"Tempe meneh. Kowe kuwi." Terdengar bunyi ayam di kejauhan, dan bunyi angin di antara pohon jati. "Bapak neng kandang. Ardi neng omahe Tika. Kowe sehat?"
 
-"Sehat, Bu. Hari ini aku bisa pipet."
+"Sehat, Bu. Dinten niki kula saged pipet."
 
-"Pipet apa?"
+"Pipet opo?"
 
-"Alat. Buat memindahkan air. Cuma sedikit."
+"Alat. Kangge mindhah toya. Namung sekedhik."
 
-"Oh." Jeda. "Itu hebat?"
+"Oh." Jeda. "Kuwi hebat?"
 
 "Hebat, Bu."
 
-"Baguslah." Ibu terdiam. Lalu ia berkata, dengan nada yang berbeda: "Nduk. Ibu bangga."
+"Apik wae." Ibu terdiam. Lalu Ibu berkata, dengan nada yang berbeda: "Nduk. Ibu bangga."
 
 Aku tidak menjawab. Aku mendengarkan napas Ibu di seberang, lambat dan hangat, dan bunyi angin Pucung yang kukenal.
 
 "Wulan?"
 
-"Iya, Bu."
+"Nggih, Bu."
 
-"Jangan lupa makan."
+"Aja lali mangan."
 
-"Iya, Bu."
+"Nggih, Bu."
 
 Aku menutup telepon dengan mata basah dan tertawa kecil sendiri.
 

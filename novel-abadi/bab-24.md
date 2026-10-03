@@ -128,35 +128,35 @@ Dr. Anindya keluar dari ruangannya dan hanya berdiri di pintu. Setelah beberapa 
 
 Aku menelepon Ibu dari tangga gedung biologi, lewat telepon Pak Hasan yang masih dipakai karena sinyal di rumah belum membaik.
 
-"Ibu. Makalahku diterima."
+"Bu. Makalahku ditampa."
 
-"Makalah apa?"
+"Makalah opo?"
 
-"Tulisan ilmiah, Bu. Dimuat di jurnal. Namaku ada di situ."
+"Tulisan ilmiah, Bu. Dimuat neng jurnal. Jenengku ono neng kono."
 
-"Di mana?"
+"Neng ngendi?"
 
-"Di nomor dua."
+"Neng nomer loro."
 
-"Nomor dua." Ibu terdiam. "Nomor satu siapa?"
+"Nomer loro." Ibu terdiam. "Nomer siji sopo?"
 
-"Bu Retno, Bu. Dia senior."
+"Bu Retno, Bu. Dheweke senior."
 
-"Oh." Jeda. "Nomor dua itu bagus?"
+"Oh." Jeda. "Nomer loro kuwi apik?"
 
-"Itu bagus, Bu."
+"Apik, Bu."
 
-"Kalau begitu bagus." Ibu diam sebentar. Di seberang, aku mendengar angin dan ayam. "Nduk. Itu bisa dicetak?"
+"Nek ngono apik." Ibu diam sebentar. Di seberang, aku mendengar angin dan ayam. "Nduk. Kuwi iso dicetak?"
 
 "Dicetak, Bu?"
 
-"Biar Ibu lihat. Biar ada di rumah."
+"Ben Ibu ndelok. Ben ono neng omah."
 
-Aku mencetaknya di fotokopi di depan kampus, delapan halaman, dua kali. Satu kuberikan pada Ibu pada akhir pekan, yang membawanya ke fotokopi Wonosari untuk dibingkai dengan kaca dan kayu murahan. Ia menggantungnya di ruang tengah, di sebelah foto Mbah Darmi, di dinding bambu yang dilapisi plesteran seadanya.
+Aku mencetaknya di fotokopi di depan kampus, delapan halaman, dua kali. Satu kuberikan pada Ibu pada akhir pekan, yang membawanya ke fotokopi Wonosari untuk dibingkai dengan kaca dan kayu murahan. Ibu menggantungnya di ruang tengah, di sebelah foto Mbah Darmi, di dinding bambu yang dilapisi plesteran seadanya.
 
 Tidak ada yang bisa membacanya. Ibu tidak bisa. Bapak tidak bisa. Tetapi seluruh dusun datang melihatnya sepanjang bulan itu, satu per satu, memandangi halaman yang penuh angka dan tabel dan istilah asing, dan Mbok Karni berdiri di depan bingkai dengan tangan di pinggang dan berkata, dengan nada puas:
 
-"Nomor dua. Itu hebat sekali."
+"Nomer loro. Kuwi hebat tenan."
 
 ---
 
@@ -202,13 +202,13 @@ Wisuda berlangsung pada hari Sabtu di bulan Agustus 2024, di aula besar kampus, 
 
 Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam pinjaman dari Pak Dukuh, yang kebesaran di bagian pinggang dan harus ditahan dengan ikat pinggang yang ia lubangi sendiri. Ibu memakai kebaya hijau tua, dengan sanggul kecil yang disanggulkan Tika pagi itu, dan matanya menyapu aula dengan ketakutan seperti seseorang yang tersesat di sebuah pasar besar. Ardi, enam belas tahun, tinggi dan kurus dan malu, memegang tangan Ibu dan berpura-pura tidak peduli. Mas Aji, yang tiba dari Batam dua hari sebelumnya dengan bus dan kapal, menangis tanpa suara sejak pembukaan.
 
-"Aku nggak nangis," katanya, ketika aku menegurnya. "Itu debu."
+"Aku ora nangis," katanya, ketika aku menegurnya. "Kuwi bledug."
 
-"Mas, ini aula tertutup."
+"Mas, iki aula tertutup."
 
-"Debu tertutup."
+"Bledug tertutup."
 
-Tika berdiri di sampingku dengan kebaya biru dan sebuah buket kecil dari bunga plastik. Ia lulus dari akademi kebidanan setahun sebelumnya dan sudah bekerja di sebuah klinik, dengan rambut yang lebih pendek dan tatapan seseorang yang sudah menolong banyak persalinan. Ia memberiku buket itu dan berbisik: "Ini bunga palsu, tapi aku tidak berbohong."
+Tika berdiri di sampingku dengan kebaya biru dan sebuah buket kecil dari bunga plastik. Ia lulus dari akademi kebidanan setahun sebelumnya dan sudah bekerja di sebuah klinik, dengan rambut yang lebih pendek dan tatapan seseorang yang sudah menolong banyak persalinan. Ia memberiku buket itu dan berbisik: "Iki kembang palsu, tapi aku ora goroh."
 
 Bu Haji hadir, dengan Bu Rini. Pak Hendra datang dengan kemeja yang dimasukkan terlalu rapi. Bu Ratmi membawa sekeranjang manisan. Bu Wiwik, dengan lipstik merah tua yang tak pernah luntur, berdiri di belakang aula dan melambai padaku dengan satu tangan, seolah berkata *aku tidak berbohong, kan?*
 
@@ -218,19 +218,19 @@ Seseorang di barisan keluarga bertepuk tangan terlalu keras, terlalu lama, dan t
 
 Aku mengambil ijazah dari tangan dekan, berfoto, dan turun dari panggung. Ibu menunggu di bawah, dengan bunga plastik dari Tika di pelukannya yang sekarang berpindah ke dadanya sendiri, dan wajahnya, wajah yang telah kuamati selama dua puluh dua tahun, berubah seperti saat aku memberitahunya bahwa aku lolos UGM.
 
-Ia tidak berkata apa-apa. Ia hanya memegang tanganku, dan menatap jari-jariku, dan mengusapnya pelan dengan ibu jarinya, seperti memeriksa apakah tanganku masih sama.
+Ibu tidak berkata apa-apa. Ibu hanya memegang tanganku, dan menatap jari-jariku, dan mengusapnya pelan dengan ibu jarinya, seperti memeriksa apakah tanganku masih sama.
 
-"Masih sama," bisiknya.
+"Isih padha," bisiknya.
 
-"Iya, Bu."
+"Nggih, Bu."
 
-"Bagus."
+"Apik."
 
 Dr. Anindya menghampiri kami setelah acara selesai, dengan toga dosen yang kebesaran dan kacamata persegi yang bergeser.
 
 "Ibu Wulan," katanya pada Ibu, dengan membungkuk sedikit.
 
-"Ibu, Bu Dosen." Ibu membalas dengan membungkuk lebih rendah, dan kaku. "Terima kasih sudah mengajar Wulan."
+"Ibu, Bu Dosen." Ibu membalas dengan membungkuk lebih rendah, dan kaku. "Matur nuwun sampun ngajari Wulan."
 
 "Saya tidak mengajar." Dr. Anindya tersenyum. "Dia mengajar dirinya sendiri. Saya hanya memberinya meja."
 

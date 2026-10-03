@@ -46,31 +46,31 @@ Aku mendaki sedikit lebih tinggi. Sinyalnya membaik.
 
 Tika menyusulku pada hari kedua, dengan payung warna-warni bekas kakaknya dan tikar lipat. Pada hari ketiga, empat anak dusun lain datang, membawa ponsel masing-masing dan kuota yang dibagi-bagi. Pada hari kelima, Bukit Sinyal sudah menjadi kelas darurat, dengan tiga belas anak berserakan di bawah pohon jati, duduk di tikar, tanah, dan batu, masing-masing menatap layar kecil dengan alis berkerut, sementara angin membawa suara guru-guru dari berbagai arah.
 
-Ibu naik ke Bukit Sinyal tiap siang, tepat pukul sebelas, dengan keranjang rotan di tangan. Ia hanya meletakkan keranjang di bawah pohon dan membuka kain penutupnya: singkong rebus panas, pisang goreng, dan teh manis dalam termos. Anak-anak mengerumuninya seperti burung yang dipanggil. Ibu menunggu sampai semua kebagian, lalu duduk di batu datar di sampingku, melihat anak-anak makan.
+Ibu naik ke Bukit Sinyal tiap siang, tepat pukul sebelas, dengan keranjang rotan di tangan. Ibu hanya meletakkan keranjang di bawah pohon dan membuka kain penutupnya: singkong rebus panas, pisang goreng, dan teh manis dalam termos. Anak-anak mengerumuninya seperti burung yang dipanggil. Ibu menunggu sampai semua kebagian, lalu duduk di batu datar di sampingku, melihat anak-anak makan.
 
-"Bu, jangan tiap hari. Berat."
+"Bu, aja saben dina. Abot."
 
-"Berat itu singkong." Ia menyodorkan satu padaku. "Yang berat bukan itu."
+"Abot kuwi telo." Ibu menyodorkan satu padaku. "Sing abot dudu kuwi."
 
-"Terus apa?"
+"Terus opo?"
 
-"Tidak tahu." Ibu memandang lembah di bawah, atap-atap seng dan genting, ladang jagung yang mulai menguning, kabut tipis yang menyentuh pohon jati. "Kamu pernah lihat dusun kita dari atas?"
+"Ora ngerti." Ibu memandang lembah di bawah, atap-atap seng dan genting, ladang jagung yang mulai menguning, kabut tipis yang menyentuh pohon jati. "Kowe tau ndelok dusun awake dhewe seko dhuwur?"
 
-"Pernah. Waktu kecil."
+"Tau. Nalika cilik."
 
-"Lihat lagi."
+"Delengen meneh."
 
 Aku menoleh. Dari ketinggian itu, Pucung kelihatan kecil dan rapi seperti maket. Rumah-rumah menyebar tanpa pola. Jalan tanah melingkar seperti ular. Di kejauhan, di balik bukit, ada garis biru tipis yang bisa jadi laut.
 
 "Kecil," kataku.
 
-"Ibu tidak pernah naik ke sini," kata Ibu. "Selama dua puluh lima tahun tinggal di sini."
+"Ibu ora tau munggah mrene," kata Ibu. "Selama rong puluh lima taun manggon neng kene."
 
 Aku menatapnya.
 
-"Tidak ada alasan untuk naik. Semua yang Ibu butuhkan ada di bawah." Ia tersenyum, tipis. "Sekarang kamu bikin Ibu naik tiap hari. Ibu jadi tahu dusun Ibu sendiri bentuknya begini."
+"Ora ono alasan go munggah. Kabeh sing Ibu butuhke ono neng ngisor." Ibu tersenyum, tipis. "Saiki kowe gawe Ibu munggah saben dina. Ibu dadi ngerti dusun Ibu dhewe wujude ngene."
 
-Ia mengambil singkong terakhir, membelahnya dengan jari, dan memberikan separuhnya padaku.
+Ibu mengambil singkong terakhir, membelahnya dengan jari, dan memberikan separuhnya padaku.
 
 ---
 
@@ -78,17 +78,17 @@ Aku belajar untuk ujian tertulis di Bukit Sinyal selama berbulan-bulan, dan itu 
 
 Pengumuman jalur undangan keluar pada bulan Mei, dan aku tidak lolos. Aku membaca pengumuman itu di layar ponsel yang retak, duduk di batu datar, dengan Tika di sampingku. Kalimat itu pendek, sopan, dan bisa dimengerti semua orang. Aku menutup layar. Tika menatapku, lalu menyodorkan sebungkus keripik singkong yang dibawanya dari rumah.
 
-"Aku nggak apa-apa," kataku.
+"Aku ora popo," kataku.
 
-"Aku tahu."
+"Aku ngerti."
 
-"Aku sudah tahu bakal begini."
+"Aku wis ngerti bakal ngene."
 
-"Aku tahu."
+"Aku ngerti."
 
-"Aku nggak apa-apa, Tik."
+"Aku ora popo, Tik."
 
-"Aku tahu." Tika memakan sepotong keripik. "Makanya aku bawa keripik."
+"Aku ngerti." Tika memakan sepotong keripik. "Mulane aku nggawa keripik."
 
 Aku tertawa, dan kemudian aku menangis, dan Tika membiarkanku melakukan keduanya dengan ketenangan seseorang yang sudah menunggu itu sejak lama.
 

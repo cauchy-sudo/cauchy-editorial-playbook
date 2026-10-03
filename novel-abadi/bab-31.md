@@ -6,37 +6,37 @@ Bukan bau bandara, yang berbau pendingin dan karpet baru seperti bandara mana pu
 
 Mereka semua datang menjemput. Ibu paling depan, dengan kebaya hijau tua dan sanggul kecil, dan tubuhnya tampak lebih mengecil daripada yang kuingat. Bapak di sampingnya, dengan kemeja putih pinjaman dan celana kain yang masih kebesaran. Ardi, dua puluh satu tahun, tinggi dan canggung, memegang karton bertuliskan *SELAMAT DATANG DOKTER WULAN* dengan huruf yang miring ke kanan. Tika dengan jilbab kuning, berdiri sambil melompat-lompat. Dr. Anindya, Bu Retno, Pak Slamet, Bayu yang berdiri paling belakang dengan bunga plastik di tangan.
 
-Ibu tidak berlari. Ia berjalan pelan, dan ketika sampai di hadapanku, ia hanya mengangkat tangannya dan menyentuh pipiku, dengan telapak yang kasar dan hangat dan sedikit bergetar.
+Ibu tidak berlari. Ibu berjalan pelan, dan ketika sampai di hadapanku, Ibu hanya mengangkat tangannya dan menyentuh pipiku, dengan telapak yang kasar dan hangat dan sedikit bergetar.
 
-"Kamu kurus," katanya.
+"Kowe kuru," katanya.
 
-"Ibu juga."
+"Ibu inggih."
 
-"Ibu bukan yang sekolah di luar negeri."
+"Ibu dudu sing sekolah neng luar negeri."
 
-"Itu bukan alasan, Bu."
+"Niku sanes alesan, Bu."
 
-"Itu alasan." Ia tersenyum, dengan mata basah, dan menarikku ke dalam pelukan yang kusut dan bau minyak kayu putih dan asap dapur. Aku merasa tulang-tulang bahunya di bawah kebaya, dan tiba-tiba aku takut: bukan karena sesuatu yang kuketahui, tetapi karena betapa ringan ia terasa.
+"Kuwi alesan." Ibu tersenyum, dengan mata basah, dan menarikku ke dalam pelukan yang kusut dan bau minyak kayu putih dan asap dapur. Aku merasa tulang-tulang bahunya di bawah kebaya, dan tiba-tiba aku takut: bukan karena sesuatu yang kuketahui, tetapi karena betapa ringan Ibu terasa.
 
-"Dokter Wulan," kata Ardi, di belakangku, dengan karton yang masih terangkat. "Aku bawa mobil pinjaman. Kamu mau lewat jalan biasa atau lewat jalan yang bikin Ibu muntah?"
+"Dokter Wulan," kata Ardi, di belakangku, dengan karton yang masih terangkat. "Aku nggawa mobil silihan. Kowe arep liwat dalan biasa opo liwat dalan sing gawe Ibu mutah?"
 
 "Ardi."
 
-"Aku cuma bertanya."
+"Aku mung takon."
 
 ---
 
 Dusun Pucung menyambutku dengan satu perubahan yang tidak kuantisipasi: semua orang memanggilku *Dokter Wulan*.
 
-"Dokter Wulan, mampir, mampir," teriak Mbok Karni dari teras, dengan tangan yang masih lincah di usia tujuh puluhan. "Aku buatkan teh."
+"Dokter Wulan, mampir, mampir," teriak Mbok Karni dari teras, dengan tangan yang masih lincah di usia tujuh puluhan. "Tak gawekke teh."
 
-"Mbok, saya bukan dokter yang itu."
+"Mbok, kula sanes dokter ingkang niku."
 
-"Dokter itu dokter, Nduk. Yang ini lutut saya. Sakitnya kalau musim hujan."
+"Dokter kuwi dokter, Nduk. Sing iki dengkulku. Lorone nek mangsa udan."
 
-"Mbok, saya doktor biologi sel. Saya tidak bisa memeriksa lutut."
+"Mbok, kula doktor biologi sel. Kula mboten saged mriksa dengkul."
 
-"Bisa, bisa." Mbok Karni menuangkan teh dengan kepercayaan penuh. "Kamu pintar. Pasti tahu."
+"Iso, iso." Mbok Karni menuangkan teh dengan kepercayaan penuh. "Kowe pinter. Mesti ngerti."
 
 Pak Karto, yang kini delapan puluh lima tahun dan duduk di kursi roda di teras taman bacaannya dengan radio kecil di pangkuan, mengangkat satu tangan dan memanggilku dengan suara serak.
 
@@ -50,11 +50,11 @@ Aku tertawa, dan tertawa itu hampir menjadi tangis. "Banyak, Pak."
 
 "Kembalikan satu per satu. Aku masih punya waktu." Ia menutup matanya sambil tersenyum.
 
-Pak Dukuh menangkupkan kedua tangan di dada dan berkata, dengan suara yang sedikit pecah: "Nduk. Kamu ingat dusun ini."
+Pak Dukuh menangkupkan kedua tangan di dada dan berkata, dengan suara yang sedikit pecah: "Nduk. Kowe eling dusun iki."
 
-"Saya ingat, Pak."
+"Kula eling, Pak."
 
-"Bagus."
+"Apik."
 
 ---
 
@@ -222,51 +222,51 @@ Dan aku adalah salah satu angka itu.
 
 Bapak menyampaikannya pada malam ketiga, di teras rumah sakit, setelah Ibu tidur di dalam.
 
-Ia duduk di bangku semen di bawah lampu temaram dengan topinya di tangan, dan rokoknya yang tak dinyalakan terselip di antara dua jari. Aku keluar untuk menghirup udara dan menemukannya di sana, menatap halaman parkir kosong.
+Bapak duduk di bangku semen di bawah lampu temaram dengan topinya di tangan, dan rokoknya yang tak dinyalakan terselip di antara dua jari. Aku keluar untuk menghirup udara dan menemukannya di sana, menatap halaman parkir kosong.
 
-"Duduk," katanya.
+"Lungguh," katanya.
 
 Aku duduk.
 
-"Bapak sudah bicara sama dokter."
+"Bapak wis ngomong karo dokter."
 
-"Tentang apa, Pak?"
+"Bab napa, Pak?"
 
-"Ginjal." Ia memutar topinya. "Bapak punya dua. Satu cukup."
+"Ginjal." Bapak memutar topinya. "Bapak duwe loro. Siji cukup."
 
-Aku menatapnya. Ia tidak membalas tatapanku.
+Aku menatapnya. Bapak tidak membalas tatapanku.
 
-"Pak. Tidak."
+"Pak. Mboten."
 
-"Bapak sudah tanya. Dokter bilang bisa. Kalau golongan darah cocok. Kalau sehat."
+"Bapak wis takon. Dokter ngomong iso. Nek golongan getih cocok. Nek sehat."
 
-"Bapak merokok dua puluh tahun. Tekanan darah Bapak tinggi."
+"Bapak ngrokok rong puluh taun. Tekanan getih Bapak dhuwur."
 
-"Itu urusan Bapak."
+"Kuwi urusane Bapak."
 
-"Itu urusan semua orang, Pak." Suaraku bergetar. "Pak. Tidak."
+"Niku urusane sedaya, Pak." Suaraku bergetar. "Pak. Mboten."
 
 Bapak menatap tangannya, tangan yang retak dan kasar, yang pernah memegang kambing yang dijual dan sapi yang ditatap dari jauh, dan yang kini, di bawah lampu temaram, tampak lebih kecil daripada yang kuingat.
 
-"Bapak tidak pernah bisa memberi apa-apa," katanya, pelan. "Dari kamu kecil. Waktu kamu sakit pertama, Bapak jual kambing. Terus Bapak jual sapi. Terus Bapak cuma bisa duduk." Ia berhenti. "Sekarang ada sesuatu yang bisa Bapak kasih. Jangan kamu tolak."
+"Bapak ora tau iso ngekei opo-opo," katanya, pelan. "Seko kowe cilik. Nalika kowe lara sepisanan, Bapak ngedol wedhus. Terus Bapak ngedol sapi. Terus Bapak mung iso lungguh." Bapak berhenti. "Saiki ono sing iso Bapak kekne. Aja kowe tolak."
 
 Aku merasa sesuatu pecah di dalam dadaku, sesuatu yang telah menahan selama enam belas tahun.
 
-"Pak." Air mataku jatuh, tanpa kuhitung. "Bapak sudah kasih. Bapak sudah kasih semuanya."
+"Pak." Air mataku jatuh, tanpa kuhitung. "Bapak sampun maringi. Bapak sampun maringi sedaya."
 
-"Itu bukan..."
+"Kuwi dudu..."
 
-"Pak." Aku menggenggam tangannya dengan kedua tanganku. "Kalau terjadi apa-apa sama Bapak... aku tidak akan sanggup."
+"Pak." Aku menggenggam tangannya dengan kedua tanganku. "Menawi wonten napa-napa kaliyan Bapak... kula mboten badhe kuwawi."
 
-Ia menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
+Bapak menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
 
 Dokter Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Aji, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
 
-"Kamu kuliah," kataku. "Kamu masih harus kuliah."
+"Kowe kuliah," kataku. "Kowe isih kudu kuliah."
 
-"Aku bisa..."
+"Aku iso..."
 
-"Tidak."
+"Ora."
 
 Ibu yang terakhir.
 
@@ -274,7 +274,7 @@ Hasil Ibu keluar pada hari Jumat. Dokter Suryo memanggil kami berdua ke ruangann
 
 "Ibu Sumiati. Hasil Anda baik. Golongan darah cocok. Tapi fungsi ginjal Anda enam puluh delapan. Tekanan darah Anda borderline. Anda berumur lima puluh tiga, dan hampir seluruh hidup Anda bekerja di bawah matahari dengan sedikit minum." Ia menatap Ibu dengan lembut. "Untuk seorang donor, angka itu terlalu rendah. Risikonya terlalu tinggi bagi Anda."
 
-Ibu menatapnya. "Tapi saya masih punya dua."
+Ibu menatapnya. "Nanging kula taksih gadhah kalih."
 
 "Iya, Bu. Dan kami ingin Ibu tetap punya dua."
 
@@ -282,19 +282,19 @@ Ibu menatapnya. "Tapi saya masih punya dua."
 
 "Kami tidak bisa, Bu." Dokter Suryo menunduk. "Maafkan kami."
 
-Ibu menunduk. Ia duduk diam, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika ia menengadah, wajahnya sama sekali kering.
+Ibu menunduk. Ibu duduk diam, dan aku menunggu tangis yang tak kunjung datang. Tapi ketika Ibu menengadah, wajahnya sama sekali kering.
 
-"Berarti harus daftar tunggu," katanya.
+"Berarti kedah daftar tunggu," katanya.
 
 "Ya, Bu. Daftar tunggu donor yang meninggal."
 
-"Berapa lama?"
+"Pinten lami?"
 
 Dokter Suryo tidak menjawab dengan cepat. "Di Indonesia, itu bisa bertahun-tahun, Bu. Banyak yang tidak sempat."
 
 Ibu mengangguk.
 
-Di luar ruangan, di lorong yang bau antiseptik, ia menggenggam tanganku dan berjalan tanpa bicara sampai bangsal. Aku membiarkannya. Aku merasa lega dan malu dan hancur, semuanya sekaligus, dalam jumlah yang sama.
+Di luar ruangan, di lorong yang bau antiseptik, Ibu menggenggam tanganku dan berjalan tanpa bicara sampai bangsal. Aku membiarkannya. Aku merasa lega dan malu dan hancur, semuanya sekaligus, dalam jumlah yang sama.
 
 Malam itu, ketika semua orang tidur dan lampu bangsal sudah dimatikan sebagian, aku duduk di tepi ranjang dengan buku catatan di pangkuan. Jarum di lenganku masih terasa. Di balik jendela, kota tidur dengan lampu-lampu kecil.
 

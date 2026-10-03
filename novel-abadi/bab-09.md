@@ -14,35 +14,35 @@ Mas Aji berhenti sekolah pada Februari 2016, di bangku kelas sebelas SMA, dengan
 
 Ia pulang ke Pucung pada Sabtu sore dengan ransel di punggung dan wajah orang yang sudah memutuskan, dan menaruh ransel itu di lantai ruang tengah di depan Bapak dan Ibu. Aku duduk di tikar dengan buku IPA di pangkuan, pura-pura membaca.
 
-"Aku mau berhenti," katanya.
+"Kula pengin mandheg," katanya.
 
 Bapak tidak menjawab.
 
-"Aku sudah bicara dengan Pakdhe Danu. Dia di Batam. Ada kerjaan di galangan kapal, bagian angkut-angkut. Kata Pakdhe, aku sudah cukup tinggi untuk dibilang tujuh belas. Gajinya dua juta lebih. Aku bisa kirim tiap bulan."
+"Kula sampun ngomong kaliyan Pakdhe Danu. Piyambakipun wonten Batam. Wonten gawean ing galangan kapal, bagian angkut-angkut. Jare Pakdhe, kula sampun cukup dhuwur kangge dipun ngakoni pitulas taun. Gajine rong yuta luwih. Kula saged ngirim saben wulan."
 
-"Sekolahmu?" Suara Ibu sangat tipis.
+"Sekolahmu piye?" Suara Ibu sangat tipis.
 
-"Nggak apa-apa. Aku nggak pintar, Bu. Wulan yang pintar. Aku cuma bikin boros." Ia berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obat Wulan, kontrolnya, itu semua... aku tahu kita belum cukup. Pakdhe Harjo juga sudah berhutang buat cincin Ibu."
+"Mboten napa-napa. Kula mboten pinter, Bu. Wulan sing pinter. Kula namung damel boros." Mas Aji berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, niku sedaya... kula ngertos awake dhewe dereng cukup. Pakdhe Harjo ugi sampun utang kangge cincin Ibu."
 
-"Itu bukan urusanmu, Ji."
+"Kuwi dudu urusanmu, Ji."
 
-"Itu urusanku, Bu."
+"Niku urusan kula, Bu."
 
 Hening yang menyusul begitu panjang sehingga aku bisa mendengar ayam bertengkar di kolong dipan. Bapak menarik napas panjang, dan dalam seluruh hidupku, aku belum pernah melihat Bapak memandang anak sulungnya selama itu.
 
-"Kamu yakin?" katanya, akhirnya.
+"Kowe yakin?" katanya, akhirnya.
 
 "Yakin, Pak."
 
-"Berarti Bapak tidak bisa melarang."
+"Berarti Bapak ora iso nglarang."
 
-"Bukan melarang, Pak. Minta restu."
+"Dudu nglarang, Pak. Nyuwun pangestu."
 
-Bapak menunduk. Lama. Ia memandangi tangannya sendiri, tangan yang retak dan kasar, yang pernah menyentuh kambing yang dijual dan sapi yang ditatap dari jauh. Lalu ia mengulurkan tangan kanannya, dan Mas Aji menyambutnya, dan menciumnya, dan di antara kedua laki-laki itu, yang tidak pernah belajar mengucapkan hal yang mereka rasakan, terjadi sesuatu yang lebih jelas daripada kalimat mana pun.
+Bapak menunduk. Lama. Bapak memandangi tangannya sendiri, tangan yang retak dan kasar, yang pernah menyentuh kambing yang dijual dan sapi yang ditatap dari jauh. Lalu Bapak mengulurkan tangan kanannya, dan Mas Aji menyambutnya, dan menciumnya, dan di antara kedua laki-laki itu, yang tidak pernah belajar mengucapkan hal yang mereka rasakan, terjadi sesuatu yang lebih jelas daripada kalimat mana pun.
 
-"Hati-hati," kata Bapak. "Jaga adikmu dari sana."
+"Ngati-ati," kata Bapak. "Jaga adhimu seko kono."
 
-"Iya, Pak."
+"Nggih, Pak."
 
 Aku menutup buku. Di antara halaman-halamannya, dengan huruf kecil yang tidak akan dibaca siapa pun, aku mencatat satu kalimat di pinggir halaman: *Utang pertama.* Aku tidak tahu persis untuk apa catatan itu. Hanya bahwa seseorang harus menghitung.
 
@@ -54,23 +54,23 @@ Malam sebelum Mas Aji berangkat, ia mengetuk pintu kamarku. Ia membawa sesuatu y
 
 Aku membuka bungkusan itu. Sebuah radio kecil, sebesar buku saku, dengan antena yang bengkok dan sisi yang tergores. Bagian belakangnya ditempeli plester cokelat.
 
-"Dari mana, Mas?"
+"Seko ngendi, Mas?"
 
-"Beli bekas. Di pasar Wonosari. Jangan tanya harganya." Ia menggaruk tengkuk. "Katanya bisa dapat siaran dari jauh. Kota-kota. Kamu kan suka dengar-dengar."
+"Tuku bekas. Neng pasar Wonosari. Aja takon regane." Mas Aji menggaruk tengkuk. "Jare iso entuk siaran seko adoh. Kutha-kutha. Kowe kan seneng ndengerke."
 
-"Mas tahu aku suka dengar?"
+"Mas ngerti aku seneng ndengerke?"
 
-"Tiap malam kamu duduk di jendela, dengerin radio Pak Karto dari seberang." Ia masih tidak menatapku. "Kamu pikir aku nggak lihat?"
+"Saben bengi kowe lungguh neng jendela, ndengerke radio Pak Karto seko ngarep." Mas Aji masih tidak menatapku. "Kowe kira aku ora weruh?"
 
 Aku memegang radio itu. Ia hangat, seakan baru dipegang orang. Antenanya sedikit goyah.
 
-"Mas," kataku. "Makasih."
+"Mas," kataku. "Matur nuwun."
 
-"Jangan makasih. Dengar saja." Mas Aji berbalik menuju pintu, lalu berhenti dengan punggung menghadapku. "Dek. Kamu harus sekolah tinggi-tinggi. Kalau perlu sampai ke luar negeri. Biar aku nggak sia-sia."
+"Ora sah matur nuwun. Ndengerke wae." Mas Aji berbalik menuju pintu, lalu berhenti dengan punggung menghadapku. "Dek. Kowe kudu sekolah dhuwur-dhuwur. Nek perlu tekan manca negara. Ben aku ora sia-sia."
 
-"Mas nggak sia-sia."
+"Mas ora sia-sia."
 
-"Nggak ada yang bilang begitu, tapi aku tahu." Ia keluar dan menutup pintu pelan.
+"Ora ono sing ngomong ngono, tapi aku ngerti." Mas Aji keluar dan menutup pintu pelan.
 
 Aku menyalakan radio itu malam itu, dan memutar tombolnya pelan-pelan, melewati dengungan dan serakan, sampai kudengar sebuah suara perempuan berbicara dalam bahasa yang tidak kukenal, dari kota yang tidak pernah kulihat. Aku mendengarkannya selama satu jam.
 
@@ -108,19 +108,19 @@ Aku diterima di SMA Negeri di Wonosari pada pertengahan Juni.
 
 Aku mendapat kabar itu lewat telepon Pak Hasan, lagi, tetapi kali ini suara di seberang adalah Bu Ratmi, dan ia mengatakan hal sederhana: *Wulan, kamu lolos*. Aku meletakkan gagang telepon, berjalan keluar, melewati halaman Pak Hasan, melewati kandang ayam, melewati ladang jagung yang mulai menguning, dan berjalan sampai ke ujung dusun tanpa tujuan, sampai Tika menyusulku dengan napas terengah dan teriakan.
 
-"Kita lolos! Dua-duanya! Kita lolos!"
+"Awake dhewe lolos! Loro-lorone! Lolos!"
 
 Tika lolos juga. Kami berdiri di tengah ladang, di bawah matahari yang tidak boleh kupandang, dan aku, yang tidak pernah menangis di rumah sakit atau di tahlilan atau di depan cermin, menangis seperti orang yang ditumpahi seember air.
 
 Bagus, yang memilih sekolah kejuruan di Playen, berbeda arah dan berbeda nasib, mampir ke rumahku seminggu sebelum aku berangkat. Ia menaruh sebuah bola voli yang sudah lusuh di bangku teras.
 
-"Aku masih utang ngajarin kamu voli," katanya.
+"Aku isih utang ngajari kowe voli," katanya.
 
-"Aku masih nggak boleh kena matahari."
+"Aku isih ora oleh kena srengenge."
 
-"Kalau gitu voli dalam ruangan." Ia nyengir, dan gigi majunya terlihat. Ia sudah lebih tinggi dariku dua kepala sekarang. "Aku serius, Lan. Kalau kamu pulang, hubungi. Aku ajarin."
+"Nek ngono voli neng njero ruangan." Ia nyengir, dan gigi majunya terlihat. Ia sudah lebih tinggi dariku dua kepala sekarang. "Aku tenan, Lan. Nek kowe mulih, kabari. Tak ajari."
 
-"Iya."
+"Iyo."
 
 "Janji."
 
@@ -132,25 +132,25 @@ Hari keberangkatanku jatuh pada Minggu pertama Juli. Ibu bangun sejak subuh dan 
 
 Mbah Darmi datang dengan sarung dan tongkatnya, dan menyelipkan sesuatu ke dalam telapak tanganku: segulung uang lima puluh ribuan yang diikat dengan karet gelang.
 
-"Mbah, jangan."
+"Mbah, mboten sah."
 
-"Ini bukan buat kamu. Ini buat pelindung kamu." Ia menutup jemariku di atas gulungan itu. "Beli payung baru kalau yang lama rusak."
+"Iki dudu go kowe. Iki go pelindungmu." Mbah menutup jemariku di atas gulungan itu. "Tuku payung anyar nek sing lawas rusak."
 
-"Payungnya masih bagus."
+"Payunge taksih sae."
 
-"Beli saja." Mbah tersenyum tipis. "Nduk. Jangan lupa pulang."
+"Tuku wae." Mbah tersenyum tipis. "Nduk. Aja lali mulih."
 
-"Iya, Mbah."
+"Nggih, Mbah."
 
-Ibu berdiri di samping bus, memegang sebuah kaleng biskuit kecil yang lebih mungil daripada kaleng yang tersimpan di rumah. Ia membuka tutupnya dan menunjukkan isinya: gulungan uang kecil-kecil, beberapa lembar sepuluh ribuan, beberapa dua puluh ribuan, dan di bawahnya, receh-receh yang sudah berkarat.
+Ibu berdiri di samping bus, memegang sebuah kaleng biskuit kecil yang lebih mungil daripada kaleng yang tersimpan di rumah. Ibu membuka tutupnya dan menunjukkan isinya: gulungan uang kecil-kecil, beberapa lembar sepuluh ribuan, beberapa dua puluh ribuan, dan di bawahnya, receh-receh yang sudah berkarat.
 
-"Ini bukan buat obat," kata Ibu. "Bukan buat sekolah. Bukan buat kos." Ia menyodorkannya kepadaku. "Ini tabungan Ibu dari jualan tiwul. Tiga ratus dua belas ribu lima ratus. Buat kamu, kalau kamu kepepet. Kalau kamu lapar. Kalau kamu butuh pulang."
+"Iki dudu go obat," kata Ibu. "Dudu go sekolah. Dudu go kos." Ibu menyodorkannya kepadaku. "Iki tabungan Ibu seko dodol tiwul. Telung atus rolas ewu limang atus. Go kowe, nek kowe kepepet. Nek kowe luwe. Nek kowe butuh mulih."
 
 "Bu..."
 
-"Jangan bilang tidak." Suaranya sangat tegak. "Kamu bilang tidak, Ibu bawa pulang lagi, dan malam-malam Ibu nggak bisa tidur."
+"Aja ngomong ora." Suaranya sangat tegak. "Kowe ngomong ora, Ibu gawa mulih meneh, lan bengi-bengi Ibu ora iso turu."
 
-Aku menerima kaleng itu, dan tidak membantah lagi, karena Ibu benar: kalau aku menolak, malam itu ia tidak akan tidur.
+Aku menerima kaleng itu, dan tidak membantah lagi, karena Ibu benar: kalau aku menolak, malam itu Ibu tidak akan tidur.
 
 Bus datang. Aku naik. Dari jendela, aku melihat Ibu berdiri dengan kedua tangan di depan dada, Bapak di sampingnya dengan topi di tangan, Ardi yang melambai dengan seluruh lengan, dan Mbah Darmi yang melepas sarung dari bahu dan mengangkatnya tinggi-tinggi, seakan sedang mengibarkan bendera.
 

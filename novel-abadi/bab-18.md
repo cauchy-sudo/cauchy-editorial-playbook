@@ -6,15 +6,15 @@ Hari itu Kamis, pertengahan Agustus. Hasil ujian tertulis akan dirilis pukul emp
 
 Pukul empat kurang lima menit, aku menyodorkan ponsel kepadanya.
 
-"Kamu yang lihat."
+"Kowe sing ndelok."
 
 "Aku?"
 
-"Aku tidak bisa."
+"Aku ora iso."
 
-"Wulan, ini hidupmu."
+"Wul, iki uripmu."
 
-"Aku tahu. Makanya kamu yang lihat."
+"Aku ngerti. Mulane kowe sing ndelok."
 
 Tika menatapku sebentar, dengan wajah yang sama seperti saat aku menyerahkan piring di Rasulan, lalu menerima ponsel itu. Ia membuka laman, mengetik nomor pesertaku yang sudah ia hafal sejak lama, dan memasukkan tanggal lahirku. Layar berputar. Berputar lagi. Sinyal di Bukit Sinyal tidak selalu pantas dengan namanya.
 
@@ -24,11 +24,11 @@ Lalu kudengar suara aneh. Seperti seseorang yang menahan sesuatu yang terlalu be
 
 "Tik?"
 
-"Wulan."
+"Wul."
 
-"Apa?"
+"Ono opo?"
 
-"Buka mata."
+"Bukak mripat."
 
 Aku membuka mata. Tika memegang ponsel di depan wajahku. Di layar, di atas latar hijau, ada kalimat panjang dengan huruf tebal dan namaku, dan di bawah namanya, tertulis sesuatu yang kubaca tiga kali sebelum huruf-hurufnya benar-benar masuk ke kepalaku.
 
@@ -42,9 +42,9 @@ Payung itu menggelinding ke lereng. Kami mengejarnya sambil tertawa sampai kehab
 
 ---
 
-Aku berlari turun dari Bukit Sinyal dengan payung yang sedikit penyok di satu rusuk. Sampai di rumah, aku berhenti di halaman, terengah, tidak sanggup bicara. Ibu sedang menjemur jagung di tikar. Ia berdiri dengan keranjang di tangan dan menatapku.
+Aku berlari turun dari Bukit Sinyal dengan payung yang sedikit penyok di satu rusuk. Sampai di rumah, aku berhenti di halaman, terengah, tidak sanggup bicara. Ibu sedang menjemur jagung di tikar. Ibu berdiri dengan keranjang di tangan dan menatapku.
 
-"Kenapa?"
+"Ono opo?"
 
 Aku masih tidak bisa. Aku hanya mengangguk, berkali-kali, dengan napas yang tersangkut. Ibu menatapku lama, dan aku melihat wajahnya perlahan berubah: pertama tak percaya, lalu takut mempercayai, lalu sesuatu yang lain, yang tidak punya nama.
 
@@ -62,13 +62,13 @@ Keranjang jagung jatuh dari tangannya.
 
 "Biologi."
 
-Ibu tidak menjawab. Ia berjalan ke arahku dengan langkah yang tidak biasa, goyah, dan memelukku. Ibu tidak pernah memelukku seperti itu, bahkan di rumah sakit, bahkan setelah tahlilan Mbah. Ia memelukku dengan seluruh berat badannya, dan aku merasakan sesuatu yang kecil dan hangat basah di bahuku.
+Ibu tidak menjawab. Ibu berjalan ke arahku dengan langkah yang tidak biasa, goyah, dan memelukku. Ibu tidak pernah memelukku seperti itu, bahkan di rumah sakit, bahkan setelah tahlilan Mbah. Ibu memelukku dengan seluruh berat badannya, dan aku merasakan sesuatu yang kecil dan hangat basah di bahuku.
 
-"Ibu," bisikku.
+"Bu," bisikku.
 
-"Diam." Suaranya serak. "Biarkan Ibu."
+"Meneng." Suaranya serak. "Wis, ben Ibu."
 
-Bapak pulang dari ladang menjelang magrib dan mendengar kabarnya dari Pak Hasan, yang memberitahunya di tengah jalan. Ia tidak berlari. Ia berjalan, perlahan, dengan cangkul di bahu, sampai halaman, dan berdiri di depan kandang yang kosong. Lalu ia menaruh cangkulnya, dan menaruh topinya di tanah, dan duduk di tepi kandang, dan menutup wajahnya dengan kedua tangan.
+Bapak pulang dari ladang menjelang magrib dan mendengar kabarnya dari Pak Hasan, yang memberitahunya di tengah jalan. Bapak tidak berlari. Bapak berjalan, perlahan, dengan cangkul di bahu, sampai halaman, dan berdiri di depan kandang yang kosong. Lalu Bapak menaruh cangkulnya, dan menaruh topinya di tanah, dan duduk di tepi kandang, dan menutup wajahnya dengan kedua tangan.
 
 Aku tidak menghampirinya. Aku tahu itu bukan sesuatu yang perlu dihampiri.
 
@@ -94,7 +94,7 @@ Lulus saja belum cukup. Ada hal-hal lain yang harus dilakukan: daftar ulang, men
 
 ---
 
-Hari Selasa, pukul sepuluh pagi, aku duduk di tikar di ruang tengah rumah, dengan ponsel disandarkan ke botol air minum agar kameranya stabil. Ibu berdiri di pojok, dengan wajah kaku, menggenggam kain di tangannya. Bapak sengaja pergi ke ladang pagi-pagi. Ia tidak mau ada di dekat layar itu.
+Hari Selasa, pukul sepuluh pagi, aku duduk di tikar di ruang tengah rumah, dengan ponsel disandarkan ke botol air minum agar kameranya stabil. Ibu berdiri di pojok, dengan wajah kaku, menggenggam kain di tangannya. Bapak sengaja pergi ke ladang pagi-pagi. Bapak tidak mau ada di dekat layar itu.
 
 Di layar, seorang perempuan muda berkerudung hijau tersenyum ramah dari ruangan berpenyejuk udara. Di belakangnya terlihat rak buku dan sebuah poster pertanian.
 
@@ -146,31 +146,31 @@ Ibu menutup wajahnya dengan kain di tangannya.
 
 "Bu."
 
-"Maaf." Suaranya tersumbat. "Ibu malu. Ibu malu kamu harus tunjukkan..."
+"Ngapunten." Suaranya tersumbat. "Ibu isin. Ibu isin kowe kudu nuduhke..."
 
-"Bu." Aku mendekat dan memegang bahunya. "Ini bukan sedekah. Ini hak kita."
+"Bu." Aku mendekat dan memegang bahunya. "Niki sanes sedekah. Niki hak kita."
 
 "Tapi..."
 
-"Bu Wiwik bilang begitu. Dan dia tidak pernah bohong."
+"Bu Wiwik ngendika ngaten. Lan piyambakipun mboten nate goroh."
 
 Ibu menurunkan kain dan menatapku. Di matanya ada dua hal yang berebut: malu dan bangga. Aku melihat mereka berperang, dan aku melihat bangga menang, sedikit.
 
-"Kamu tidak minta maaf," katanya.
+"Kowe ora njaluk ngapura," katanya.
 
-"Tidak, Bu."
+"Mboten, Bu."
 
-"Bagus." Ia mengusap pipi dengan punggung tangan. "Jangan pernah minta maaf untuk itu."
+"Apik." Ibu mengusap pipi dengan punggung tangan. "Aja tau njaluk ngapura go kuwi."
 
 ---
 
 Pengumuman beasiswa datang dua minggu kemudian, pada hari Jumat, lewat sebuah surel yang Ibu kira penipuan.
 
-"Nduk, ada orang kirim pesan. Katanya kamu dapat uang. Jangan dibalas."
+"Nduk, ono wong ngirim pesen. Jare kowe entuk dhuwit. Aja dibales."
 
-"Bu, itu dari kampus."
+"Bu, niku saking kampus."
 
-"Dari kampus? Kok ada tulisannya 'selamat'? Yang begitu itu biasanya orang menipu."
+"Seko kampus? Kok ono tulisane 'selamat'? Sing ngono kuwi biasane wong nipu."
 
 Aku memegang ponselku dan membaca ulang surel itu, dan di dalamnya, dalam bahasa baku yang rapi, tertulis bahwa aku dinyatakan menerima Kartu Indonesia Pintar Kuliah. Biaya kuliah ditanggung. Uang bulanan masuk ke rekening tiap bulan. Aku membacanya keras-keras, dengan Ibu di sampingku, dan sampai pada kalimat terakhir, Ibu duduk dan menutup mulutnya dengan kedua tangan.
 
@@ -182,11 +182,11 @@ Aku memegang ponselku dan membaca ulang surel itu, dan di dalamnya, dalam bahasa
 
 Aku menatapnya.
 
-"Si Bejo tidak sia-sia." Ibu tersenyum, dengan air mata yang jatuh ke kain di pangkuannya. "Uangnya tidak dipakai, ya. Uang sapi itu."
+"Si Bejo ora sia-sia." Ibu tersenyum, dengan air mata yang jatuh ke kain di pangkuannya. "Dhuwite ora kanggo, yo. Dhuwit sapi kuwi."
 
-"Tidak usah, Bu. Simpan buat darurat."
+"Mboten sah, Bu. Simpen kangge darurat."
 
-"Tidak." Ibu menggeleng. "Itu buat kamu. Buat apa saja yang tidak ada di surel itu."
+"Ora." Ibu menggeleng. "Kuwi go kowe. Go opo wae sing ora ono neng surel kuwi."
 
 ---
 

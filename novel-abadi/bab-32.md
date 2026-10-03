@@ -2,15 +2,15 @@
 
 Hidup dengan cuci darah adalah hidup yang diukur dengan gelas kecil.
 
-Ibu yang membelinya, di pasar Wonosari, pada hari kedua setelah aku keluar dari rumah sakit: sebuah gelas plastik bening berukuran dua ratus mililiter dengan garis tipis di sisinya. Ia menaruhnya di meja dapur dengan gerakan tegas, seperti menaruh sebuah hukum.
+Ibu yang membelinya, di pasar Wonosari, pada hari kedua setelah aku keluar dari rumah sakit: sebuah gelas plastik bening berukuran dua ratus mililiter dengan garis tipis di sisinya. Ibu menaruhnya di meja dapur dengan gerakan tegas, seperti menaruh sebuah hukum.
 
-"Tiga," katanya. "Tiga gelas sehari. Tidak lebih."
+"Telu," katanya. "Telung gelas sedina. Ora luwih."
 
-"Itu enam ratus, Bu. Itu cuma air minum. Kuah, teh, buah, semuanya dihitung."
+"Niku enem atus, Bu. Niku namung toya ngombe. Kuah, teh, woh, sedaya dietung."
 
-"Ibu tahu. Dokter Suryo yang bilang." Ibu menuang air ke gelas itu sampai garis. "Ibu catat. Di kertas."
+"Ibu ngerti. Dokter Suryo sing ngomong." Ibu menuang air ke gelas itu sampai garis. "Ibu catet. Neng kertas."
 
-Ia memang mencatat. Di kertas yang digantung di dinding dapur dengan paku, dengan pensil yang tertambat benang, ia menulis tiap gelas yang kuminum, tiap mangkuk sup, tiap potong semangka. Aku belum pernah melihat Ibu menulis sebanyak itu. Huruf-hurufnya besar dan miring dan sedikit tidak rata, seperti anak yang baru belajar. Tapi ia tidak pernah salah hitung.
+Ibu memang mencatat. Di kertas yang digantung di dinding dapur dengan paku, dengan pensil yang tertambat benang, Ibu menulis tiap gelas yang kuminum, tiap mangkuk sup, tiap potong semangka. Aku belum pernah melihat Ibu menulis sebanyak itu. Huruf-hurufnya besar dan miring dan sedikit tidak rata, seperti anak yang baru belajar. Tapi Ibu tidak pernah salah hitung.
 
 Dua kolom. TANGGAL. AIR.
 

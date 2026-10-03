@@ -20,37 +20,37 @@ Aku menelepon Ibu pukul sepuluh pagi, ketika di Pucung sudah pukul lima sore dan
 
 "Nduk." Suara Ibu serak. Di belakangnya ada keramaian, tawa anak-anak, suara orang-orang dewasa berbicara dalam Jawa.
 
-"Ibu. Selamat Lebaran. Mohon maaf lahir batin."
+"Bu. Sugeng Riyadi. Nyuwun ngapunten lahir batin."
 
-"Iya, Nduk, iya. Maaf. Ibu juga. Ibu mau..." Suaranya pecah. "Ibu tidak tahu mau bilang apa."
+"Iyo, Nduk, iyo. Ngapura. Ibu uga. Ibu arep..." Suaranya pecah. "Ibu ora ngerti arep ngomong opo."
 
-"Tidak apa-apa, Bu."
+"Mboten napa-napa, Bu."
 
-"Kamu sudah makan?"
+"Kowe wis mangan?"
 
-"Sudah, Bu. Ada rendang."
+"Sampun, Bu. Wonten rendang."
 
-"Rendang." Ibu terdiam. "Bapak mau bicara."
+"Rendang." Ibu terdiam. "Bapak arep ngomong."
 
 Aku menahan napas. Bapak hampir tidak pernah bicara di telepon. Aku mendengar bunyi gagang yang berpindah tangan, napas yang berat, dan sebuah keheningan yang panjang.
 
 "Nduk," kata Bapak.
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Selamat Lebaran."
+"Sugeng Riyadi."
 
-"Iya, Pak. Selamat Lebaran."
+"Nggih, Pak. Sugeng Riyadi."
 
-"Bapak..." Ada jeda yang lama, dan aku mendengar angin dan ayam di kejauhan. "Bapak baik-baik saja. Ibumu baik-baik saja. Ardi sudah tinggi."
+"Bapak..." Ada jeda yang lama, dan aku mendengar angin dan ayam di kejauhan. "Bapak apik-apik wae. Ibumu apik-apik wae. Ardi wis dhuwur."
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Kamu jaga kesehatan."
+"Kowe jaga kesehatan."
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Itu saja."
+"Kuwi wae."
 
 Telepon terputus. Aku menatap layar yang kembali gelap, lalu menunduk di meja kafe kecil dengan kopi yang tidak kuminum, dan menangis sampai Rizal, tanpa kata, menyodorkan sapu tangan dan duduk kembali dengan wajah menghadap jendela, memberiku sunyi yang tidak perlu kuminta.
 

@@ -56,55 +56,55 @@ Budhe Painem adalah orang yang percaya ia selalu benar, dan sebagian besar waktu
 
 Aku sedang di dapur membantu mencuci piring ketika mendengar suaranya dari ruang tengah, bergerak seperti kereta yang tidak bisa dihentikan.
 
-"...jadi, Sum, aku cuma tanya. Wulan itu mau kuliah?"
+"...dadi, Sum, aku mung takon. Wulan kuwi arep kuliah?"
 
-"Iya, Yu."
+"Nggih, Yu."
 
-"Di mana?"
+"Neng ngendi?"
 
-"Kalau diterima, di Yogya."
+"Menawi katampi, wonten Yogya."
 
-"Lha, kalian mau bayar pakai apa?" Aku mendengar bunyi gelas diletakkan. "Sum, aku bukan mau menyinggung. Aku kakakmu. Aku tahu Kang Tris itu pekerja keras. Tapi hutang kalian sudah berapa? Cincinmu saja sudah kamu lepas. Anak sulung kalian putus sekolah, merantau ke Batam. Sekarang yang perempuan mau kuliah?"
+"Lha, kowe arep mbayar nganggo opo?" Aku mendengar bunyi gelas diletakkan. "Sum, aku dudu arep nyinggung. Aku kakangmu. Aku ngerti Kang Tris kuwi pekerja keras. Tapi utangmu wis piro? Cincinmu wae wis kok copot. Anak sulungmu putus sekolah, merantau neng Batam. Saiki sing wedok arep kuliah?"
 
-"Itu... ada beasiswa, Yu."
+"Niku... wonten beasiswa, Yu."
 
-"Beasiswa." Budhe Painem mengucapkan kata itu dengan nada seperti menyebut nama makanan asing. "Dan setelah itu? Dia perempuan, Sum. Penyakitan pula. Kuliah tinggi-tinggi, nanti ujung-ujungnya juga kembali ke dapur. Mbok ya cari saja yang aman. Jadi bidan seperti Tika. Atau guru. Atau cari suami yang baik, selesai urusan."
+"Beasiswa." Budhe Painem mengucapkan kata itu dengan nada seperti menyebut nama makanan asing. "Lha terus? Dheweke wong wedok, Sum. Lara-laranen maneh. Kuliah dhuwur-dhuwur, mengko ujung-ujunge yo bali neng pawon. Mbok yo golek sing aman wae. Dadi bidan kaya Tika. Utawa guru. Utawa golek bojo sing apik, rampung urusan."
 
 Aku berhenti mencuci. Air dari keran terus mengalir ke tanganku.
 
-"Dia perempuan yang bisa sendiri, Yu." Suara Ibu terdengar sangat tenang. Aku tahu suara itu: suara yang ia pakai ketika mengiris bawang sambil mendengarkan Mbok Karni.
+"Dheweke wong wedok sing iso dhewe, Yu." Suara Ibu terdengar sangat tenang. Aku tahu suara itu: suara yang Ibu pakai ketika mengiris bawang sambil mendengarkan Mbok Karni.
 
-"Bisa sendiri itu bagus kalau ada yang menjaga. Tapi siapa yang mau menikahi perempuan yang kuliah tinggi dan sakit-sakitan? Nanti jadi perawan tua."
+"Iso dhewe kuwi apik nek ono sing njaga. Tapi sopo sing gelem nikahi wong wedok sing kuliah dhuwur lan lara-laranen? Mengko dadi prawan tuwa."
 
 "Yu."
 
-"Aku cuma bicara, Sum. Aku sayang Wulan. Itu sebabnya aku..."
+"Aku mung ngomong, Sum. Aku sayang Wulan. Mulane aku..."
 
-"Anak itu mau sekolah." Suara baru, dalam dan pelan, dari seseorang yang jarang berbicara. Aku nyaris menjatuhkan piring.
+"Bocah kuwi arep sekolah." Suara baru, dalam dan pelan, dari seseorang yang jarang berbicara. Aku nyaris menjatuhkan piring.
 
 Bapak.
 
-"Kami akan cari jalannya," kata Bapak.
+"Awake dhewe bakal golek dalane," kata Bapak.
 
 Tak ada yang bersuara. Di dapur, aku menahan napas.
 
 "Kang Tris..." kata Budhe Painem.
 
-"Aku bukan orang pintar, Yu." Aku bisa membayangkan Bapak menatap tangannya sendiri, seperti yang selalu ia lakukan. "Aku tidak tahu apa yang akan terjadi setelah itu. Tapi aku tahu, dari kecil dia mau tahu semua hal. Dia tidak pernah minta apa-apa. Sekali ini dia minta. Jadi kami akan cari."
+"Aku dudu wong pinter, Yu." Aku bisa membayangkan Bapak menatap tangannya sendiri, seperti yang selalu dilakukannya. "Aku ora ngerti opo sing bakal kedadeyan sakbubare kuwi. Tapi aku ngerti, seko cilik dheweke kepengin ngerti kabeh. Dheweke ora tau njaluk apa-apa. Sepisan iki dheweke njaluk. Dadi awake dhewe bakal golek."
 
 Hening. Lalu suara Budhe Painem, lebih rendah dan lebih kasar daripada biasa:
 
-"Terserah kalian. Aku cuma bilang."
+"Karepmu. Aku mung ngomong."
 
-"Iya, Yu. Terima kasih sudah bilang."
+"Nggih, Yu. Matur nuwun sampun ngomong."
 
 Tidak ada yang bicara lagi untuk sementara. Aku mematikan keran dan menyeka tanganku. Ketika aku keluar dari dapur dengan sepiring pisang goreng, Budhe Painem melihatku dengan wajah yang sedikit keras, dan sebelum aku menaruh piring di meja, ia merogoh tasnya, mengeluarkan sebuah amplop putih dan menyelipkannya di telapak tanganku.
 
-"Buat beli buku," katanya, tanpa menatapku. "Bukan buat kuliah. Buat buku."
+"Go tuku buku," katanya, tanpa menatapku. "Dudu go kuliah. Go buku."
 
 Aku membuka mulut.
 
-"Jangan bilang apa-apa." Budhe Painem mengibaskan tangan. "Aku tidak bilang aku setuju. Aku bilang buat buku."
+"Aja ngomong opo-opo." Budhe Painem mengibaskan tangan. "Aku ora ngomong aku setuju. Aku ngomong go buku."
 
 Aku mencium tangannya. Ia menepuk punggungku dua kali, keras, seperti menepuk karpet.
 
@@ -112,29 +112,29 @@ Aku mencium tangannya. Ia menepuk punggungku dua kali, keras, seperti menepuk ka
 
 Si Bejo dijual pada awal Februari.
 
-Aku sudah tahu itu akan terjadi, sejak malam kaleng biskuit dikosongkan enam tahun lalu, dan Bapak menatap kandang. Dulu ia tidak melakukannya. Dulu ia menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah ia miliki yang mengenali langkahnya dari kejauhan.
+Aku sudah tahu itu akan terjadi, sejak malam kaleng biskuit dikosongkan enam tahun lalu, dan Bapak menatap kandang. Dulu Bapak tidak melakukannya. Dulu Bapak menjual kambing dan memutuskan sapi akan bertahan sedikit lebih lama. Sapi itu terlalu berharga: sebagai tabungan, sebagai tenaga, sebagai satu-satunya makhluk yang pernah Bapak miliki yang mengenali langkahnya dari kejauhan.
 
-"Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Jangan."
+"Pak." Aku berdiri di kandang pada Sabtu sore, ketika Bapak memandikan Si Bejo dengan ember dan kain. "Mboten sah."
 
-"Jangan apa?"
+"Aja opo?"
 
-"Jangan jual."
+"Mboten sah dipun dol."
 
-"Aku belum bilang akan jual."
+"Aku durung ngomong arep ngedol."
 
-"Pak." Aku menarik napas. "Ongkos daftar ujian tertulis itu cuma dua ratus ribu. Aku bisa pakai kaleng dari Ibu. Biaya ke Yogya juga bisa kutanggung sendiri. Kalau diterima, ada beasiswa. Tidak usah..."
+"Pak." Aku menarik napas. "Ongkos daftar ujian tertulis niku namung kalih atus ewu. Kula saged ngagem kaleng saking Ibu. Ongkos dhateng Yogya inggih saged kula tanggung piyambak. Menawi katampi, wonten beasiswa. Mboten sah..."
 
-"Wulan." Bapak menegakkan tubuh. Ia menatapku, dan di wajahnya, di atas tulang pipi yang tajam dan mata yang lebih gelap daripada bayangan kandang, ada sesuatu yang tidak bisa kubantah. "Kalau kamu diterima, kamu butuh uang untuk kos, untuk hidup dua bulan pertama sebelum beasiswa cair, untuk buku, untuk laptop yang disebut-sebut itu. Dan kalau kamu tidak diterima, kamu butuh uang untuk mencoba lagi. Bapak tidak mau kamu berhenti karena uang. Itu saja."
+"Wulan." Bapak menegakkan tubuh. Bapak menatapku, dan di wajahnya, di atas tulang pipi yang tajam dan mata yang lebih gelap daripada bayangan kandang, ada sesuatu yang tidak bisa kubantah. "Nek kowe ditampa, kowe butuh dhuwit go kos, go urip rong sasi sepisanan sadurunge beasiswa cair, go buku, go laptop sing disebut-sebut kuwi. Lan nek kowe ora ditampa, kowe butuh dhuwit go nyoba meneh. Bapak ora gelem kowe mandheg gara-gara dhuwit. Kuwi wae."
 
-"Tapi Si Bejo..."
+"Nanging Si Bejo..."
 
-"Si Bejo sudah tua." Bapak menepuk leher sapi itu, perlahan. Si Bejo menunduk, menghembuskan napas panjang dari hidungnya. "Dia tidak akan senang kalau tahu kamu berhenti karena dia."
+"Si Bejo wis tuwa." Bapak menepuk leher sapi itu, perlahan. Si Bejo menunduk, menghembuskan napas panjang dari hidungnya. "Dheweke ora bakal seneng nek ngerti kowe mandheg gara-gara dheweke."
 
 Aku tidak bisa berkata apa-apa. Aku melangkah ke depan dan menaruh dahiku di leher Si Bejo, kasar dan hangat, berbau jerami dan debu dan sesuatu yang manis seperti masa kecil. Aku sudah mengenalnya sejak aku berumur enam tahun. Ia menjilat pergelangan tanganku dengan lidah yang kasar. Bapak menunggu.
 
-"Terima kasih, Bejo," kataku, dengan suara yang tidak kuhitung sebagai suaraku sendiri.
+"Matur nuwun, Jo," kataku, dengan suara yang tidak kuhitung sebagai suaraku sendiri.
 
-Si Bejo dibeli seorang pedagang dari Playen seharga sebelas juta rupiah. Bapak memasukkan uang itu ke dalam kaleng biskuit besar di rumah, dan tidak menyentuhnya selama berminggu-minggu. Tapi hari itu, ketika truk pengangkut ternak pergi menuruni jalan dusun dengan Si Bejo di baknya, Bapak berdiri di tepi jalan dengan topi di tangan, menatap sampai truk itu hilang. Lalu ia berjalan masuk ke halaman, ke tempat kandang kosong, dan duduk di sana tanpa menyalakan rokok.
+Si Bejo dibeli seorang pedagang dari Playen seharga sebelas juta rupiah. Bapak memasukkan uang itu ke dalam kaleng biskuit besar di rumah, dan tidak menyentuhnya selama berminggu-minggu. Tapi hari itu, ketika truk pengangkut ternak pergi menuruni jalan dusun dengan Si Bejo di baknya, Bapak berdiri di tepi jalan dengan topi di tangan, menatap sampai truk itu hilang. Lalu Bapak berjalan masuk ke halaman, ke tempat kandang kosong, dan duduk di sana tanpa menyalakan rokok.
 
 Aku duduk di sebelahnya. Kami tidak bicara. Di antara kami, di atas tanah, sebuah lonceng kecil bekas kalung Si Bejo tergeletak, tidak sengaja jatuh dari bak truk. Aku memungutnya dan menaruhnya di saku.
 
@@ -148,6 +148,6 @@ Aku tidak mendengar semua kalimatnya. Aku hanya menangkap kata *dua orang*, *pos
 
 Penjual bakso berhenti mengaduk. Beberapa orang menoleh ke layar. Seseorang berkata, "Wah, sudah sampai sini."
 
-Tika masuk, membawa tas penuh fotokopi. "Kenapa semua diam?"
+Tika masuk, membawa tas penuh fotokopi. "Kok kabeh meneng?"
 
 Aku tidak menjawab. Aku menaruh sendok di mangkuk. Di benakku, dengan kejernihan yang tiba-tiba mengerikan, terbayang sebuah rumah sakit dan daftar obat yang kuminum tiap pagi, dan nama-nama obat itu, satu per satu, tentang apa yang mereka lakukan pada sistem kekebalan seorang anak yang sebentar lagi berumur delapan belas tahun.

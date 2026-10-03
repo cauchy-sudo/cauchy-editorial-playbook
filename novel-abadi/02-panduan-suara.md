@@ -5,7 +5,7 @@ Berlaku untuk seluruh novel ini. Melengkapi `panduan-penulisan.md` (kalimat, dia
 ## 1. Suara narator
 - **Orang pertama, "aku"**, kala lampau, ditulis dari dalam adegan. Pengetahuan narator = pengetahuan Wulan *pada saat itu*. Tidak ada ramalan ("kelak aku akan...") kecuali satu dua kali dengan sangat hemat.
 - **Wulan adalah orang yang lucu dan tajam.** Humor sebagai pelindung: ia menertawakan dirinya dulu sebelum orang lain sempat.
-- **Ragam bahasa**: narasi baku-luwes; dialog bercampur Jawa (*Nduk, to, kok, lho, ora popo*) sesuai tokoh. Kata Jawa ditulis miring.
+- **Ragam bahasa**: narasi baku-luwes; dialog keluarga dan dusun memakai **bahasa Jawa** (lihat Bagian 10), dialog sebaya memakai campuran Jawa-Indonesia. Narasi menyebut orang tua dan nenek dengan **Bapak, Ibu, Mbah**, bukan "ia".
 - **Panjang kalimat**: bervariasi. Kalimat pendek saat panik dan sakit; kalimat panjang berkelok saat mengingat atau jatuh cinta.
 - Pasif persona (*kubaca, kudengar*) untuk kedekatan.
 
@@ -86,3 +86,20 @@ Aturan umum: **satu tokoh, satu register, satu tanda tangan.** Pembaca harus bis
 
 Tiga penolakan cinta (Daffa, Bayu, Rizal) harus berbeda **alasan, tempat, dan suara**: Daffa terus terang dan cepat memaafkan; Bayu menahan diri dan sopan; Rizal bergurau sampai akhir. Hanya Naufal yang berkata "Dah, Wulan."
 
+## 10. Bahasa Jawa dan sapaan (keputusan penulis, setelah pembacaan awal)
+Latar: Gunungkidul, anak desa kelahiran sekitar 2000–2002. Pada kenyataannya mereka bercakap dengan orang tua dan nenek dalam bahasa Jawa, dan dengan teman sebaya dalam campuran Jawa-Indonesia; bahasa Indonesia baku dipakai di sekolah, kepada dokter, dan kepada orang asing.
+
+**Siapa berbicara apa**
+- **Bapak, Ibu, Mbah kepada Wulan:** ngoko Jawa, kalimat pendek (*Mangan sik. Nduk, ndang turu. Ora popo.*).
+- **Wulan kepada Bapak, Ibu, Mbah, orang tua dusun:** krama madya (*nggih, mboten, kula, matur nuwun, ngapunten*). Kepada Mas Aji, Tika, teman: ngoko.
+- **Bapak dan Ibu kepada Mbah, dokter, bidan, petugas:** krama (*Sakmeniko rumiyin, Mbah. Mboten gadhah, Pak.*).
+- **Mas Aji, Ardi, Tika, Dimas, Rina, Bagus (anak SD, SMP, dusun):** campuran Jawa-Indonesia (*kowe, aku, wis, ora popo, kok, lho, to*).
+- **Mbok Karni, Pak Dukuh, Pak Mul, Budhe Painem, Pak Hasan:** Jawa, dengan sedikit Indonesia bila berbicara kepada orang luar dusun.
+- **Tetap Indonesia:** dokter dan perawat (nada profesional), guru di kelas (Bu Siti, Bu Ratmi, Pak Hendra), orang kota, tokoh luar negeri.
+- Kalimat kunci yang diulang di naskah (mis. Mbah: *Kupu-kupu kuwi ora elek, Nduk. Mung salah panggonan.*; Yuni: *Nek wis waras, aku arep ning laut.*; Ibu: *Isih padha.*) harus **sama persis** setiap kali muncul.
+
+**Ejaan dialek (satu pilihan, dipakai konsisten):** ragam *o* ala Yogya-Gunungkidul: *opo, sopo, ono, piro, ora popo, kowe, aku, wis, nek, neng, seko, go, mulih, dhuwit*.
+
+**Aturan terjemah:** jangan menerjemahkan kalimat Jawa dalam narasi. Makna ditopang oleh konteks (jawaban Wulan, gerak tubuh, kalimat berikutnya); itu menjaga naskah tetap tidak bersuara penulis. Pakai kalimat Jawa yang pendek dan umum agar pembaca non-Jawa tetap mengikuti.
+
+**Narasi dan sapaan:** gunakan nama peran (*Bapak, Ibu, Mbah, Mas Aji, Pak Dukuh*) sebagai subjek kalimat tentang mereka, bukan "ia"; "ia" boleh dipakai bila tidak ambigu dan di luar keluarga. Hindari menumpuk nama dengan menyusun ulang kalimat.

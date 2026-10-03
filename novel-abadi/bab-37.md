@@ -12,43 +12,43 @@ Kirab gunungan mulai tengah hari, ketika matahari berada pada kemarahan yang pal
 
 Para laki-laki memanggul empat gunungan besar dari jagung, singkong, kacang panjang, pisang, dan hasil bumi yang disusun menjulang seperti gunung kecil. Di belakangnya berjalan barisan anak-anak dan ibu-ibu, penabuh kentongan, dan seorang laki-laki yang memakai topeng raksasa dan sedang kepanasan di dalamnya. Seluruh dusun berdiri di tepi jalan seperti sedang menonton sesuatu yang sudah mereka tonton seratus kali dan tetap tidak bosan.
 
-Aku berjalan di barisan para perempuan, di samping Ibu. Ibu mengenakan kebaya hijau tua yang sama dengan yang ia pakai di wisudaku, dengan sanggul kecil yang disanggulkan Tika pagi itu dan wajah yang berusaha tampak biasa. Matahari menimpanya dari atas tanpa ampun. Aku melihat keringat menetes dari pelipisnya, dan bagaimana ia mengangkat tangan sesekali untuk menyekanya, dan bagaimana langkahnya, langkah seorang perempuan yang tak pernah mengeluh, sedikit melambat.
+Aku berjalan di barisan para perempuan, di samping Ibu. Ibu mengenakan kebaya hijau tua yang sama dengan yang dipakainya di wisudaku, dengan sanggul kecil yang disanggulkan Tika pagi itu dan wajah yang berusaha tampak biasa. Matahari menimpanya dari atas tanpa ampun. Aku melihat keringat menetes dari pelipisnya, dan bagaimana ia mengangkat tangan sesekali untuk menyekanya, dan bagaimana langkahnya, langkah seorang perempuan yang tak pernah mengeluh, sedikit melambat.
 
 Aku membuka payung hitam Mbah.
 
 Gagangnya masih dari kayu halus dengan ukiran tangkai padi. Kainnya sudah dua kali dijahit ulang, dan warnanya memucat menjadi abu-abu tua. Aku mengangkatnya tinggi-tinggi dan memiringkannya ke arah Ibu.
 
-"Payungnya buat kamu," kata Ibu, tanpa menoleh.
+"Payunge go kowe," kata Ibu, tanpa menoleh.
 
-"Hari ini buat Ibu."
+"Dinten niki kangge Ibu."
 
-"Kamu nggak boleh kena matahari."
+"Kowe ora oleh kena srengenge."
 
-"Sudah boleh, Bu. Dua puluh menit."
+"Sampun oleh, Bu. Rong puluh menit."
 
-"Itu bohong."
+"Kuwi goroh."
 
-"Itu tabir surya."
+"Niku tabir surya."
 
-Ibu menoleh. Ia menatapku lama, dengan mata yang menyipit dalam terik, dan di wajahnya bergerak sesuatu yang kuduga ia sendiri tak tahu namanya.
+Ibu menoleh. Ibu menatapku lama, dengan mata yang menyipit dalam terik, dan di wajahnya bergerak sesuatu yang kuduga Ibu sendiri tak tahu namanya.
 
-"Mbah dulu begitu juga," katanya, akhirnya. "Pegang payung. Naungi orang."
+"Mbahmu biyen yo ngono," katanya, akhirnya. "Nyekel payung. Ngayomi wong."
 
-"Iya, Bu."
+"Nggih, Bu."
 
-"Bagus."
+"Apik."
 
 Kami berjalan begitu, berdua, di bawah satu payung yang tak cukup besar, dengan bahu bersentuhan, dan di sepanjang jalan, orang-orang dusun menoleh dan tersenyum dan sebagian menepuk lenganku dan memanggilku *Dokter Wulan* dengan nada yang sama seperti mereka memanggilku *Wulan Bulan* bertahun-tahun lalu: tanda bahwa seseorang diterima.
 
-"Dokter Wulan!" Mbok Karni berdiri di tepi jalan, dengan tongkat dan senyum yang masih lebar di usia delapan puluh. "Itu... itu kamu di televisi!"
+"Dokter Wulan!" Mbok Karni berdiri di tepi jalan, dengan tongkat dan senyum yang masih lebar di usia delapan puluh. "Kuwi... kuwi kowe neng televisi!"
 
-"Iya, Mbok."
+"Nggih, Mbok."
 
-"Kok lebih kurus di televisi!"
+"Kok luwih kuru neng televisi!"
 
-"Itu kameranya, Mbok."
+"Niku kamerane, Mbok."
 
-"Kameranya jahat!"
+"Kamerane jahat!"
 
 Aku tertawa, dan Ibu di sampingku menahan senyum yang akhirnya pecah juga.
 
@@ -82,17 +82,17 @@ Seorang laki-laki empat puluh lima tahun, dengan rambut yang tidak disisir benar
 
 Mbak Nurul menunduk, dan aku melihat jarinya yang ramping dan sedikit gemetar mengusap sudut matanya di balik kerudung. Dokter Raihan memerhatikan kami berdua dan menyendok nasi ke piringnya dengan khidmat, seakan tahu ada momen yang tidak boleh diganggu.
 
-Ibu menyikut lenganku pelan. "Siapa namanya, Nduk? Ibu lupa."
+Ibu menyikut lenganku pelan. "Sopo jenenge, Nduk? Ibu lali."
 
 "Mbak Nurul, Bu."
 
 "Mbak Nurul." Ibu mengulanginya dua kali tanpa suara, seperti menaruh nama itu di tempat yang aman, lalu menyodorkan ingkung ke arah Mbak Nurul.
 
-"Dimakan, Mbak," katanya. "Anak saya bilang, kalau bukan karena Mbak, anak saya tidak ada di sini."
+"Dhahar, Mbak," katanya. "Anak kula ngendika, menawi sanes Mbak, anak kula mboten wonten ing mriki."
 
 "Bu..."
 
-"Dimakan." Ibu menatapnya, dengan mata yang jernih dan sangat tegas. "Itu perintah."
+"Dhahar." Ibu menatapnya, dengan mata yang jernih dan sangat tegas. "Niku dhawuh."
 
 Mbak Nurul tertawa, dengan air mata yang jatuh ke piring, dan memakannya.
 
@@ -116,63 +116,63 @@ Aku berhenti di langkah ke tiga. Di dalam kandang, di atas jerami baru yang masi
 
 "Hm."
 
-"Itu..."
+"Niku..."
 
-"Bapak beli minggu lalu." Bapak tidak menoleh. "Dari uang sapi yang kamu bilang tidak usah dipakai."
+"Bapak tuku minggu wingi." Bapak tidak menoleh. "Seko dhuwit sapi sing kowe ngomong ora sah dienggo."
 
-"Pak, itu kan uang..."
+"Pak, niku kan arta..."
 
-"Uangnya cukup." Ia memutar topi di tangannya. "Namanya Bejo."
+"Dhuwite cukup." Bapak memutar topi di tangannya. "Jenenge Bejo."
 
 Aku menutup mulutku.
 
-"Bejo kedua," lanjutnya. "Biar ada yang menunggu di kandang."
+"Bejo kapindho," lanjutnya. "Ben ono sing nunggu neng kandang."
 
 Aku berjalan ke pagar kayu dan bersandar di sana. Aku merogoh kantong kecil di ranselku, dan mengeluarkan sebuah lonceng kuningan kecil, bekas kalung seekor sapi yang tertinggal di tanah, sebelas tahun lalu, ketika sebuah truk menuruni jalan dusun. Aku menimangnya di telapak tanganku. Ia masih berbunyi, sedikit, dengan nada yang dalam dan polos.
 
-Bapak menoleh. Ia menatap lonceng itu lama.
+Bapak menoleh dan menatap lonceng itu lama.
 
-"Itu punya Bejo."
+"Kuwi duwekke Bejo."
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Kamu simpan?"
+"Kowe simpen?"
 
-"Iya."
+"Nggih."
 
-Ia menarik napas panjang, dan aku melihat bahunya turun seperti beban yang akhirnya diizinkan untuk dilepas. Lalu ia berdiri, perlahan, dan membuka pintu kandang. Anak sapi itu mundur selangkah dan menatap kami dengan telinga yang bergerak.
+Bapak menarik napas panjang, dan aku melihat bahunya turun seperti beban yang akhirnya diizinkan untuk dilepas. Lalu Bapak berdiri, perlahan, dan membuka pintu kandang. Anak sapi itu mundur selangkah dan menatap kami dengan telinga yang bergerak.
 
 Aku masuk, dengan lonceng di tangan. Aku berlutut di jerami. Aku mengulurkan tangan, dan anak sapi itu, setelah ragu sebentar, mengendus telapakku dengan hidung yang basah dan hangat. Aku mengikatkan lonceng itu di lehernya dengan seutas tali dari kantong. Ia menggoyangkan kepalanya, dan lonceng itu berbunyi, jelas dan bulat, di kandang yang sunyi.
 
-"Itu lonceng untuk Bejo yang kedua," kataku.
+"Niku lonceng kangge Bejo ingkang kaping kalih," kataku.
 
-"Iya." Suara Bapak serak. "Bagus."
+"Iyo." Suara Bapak serak. "Apik."
 
 Kami berdiri di sana lama sekali, berdua, mendengarkan lonceng itu berbunyi tiap kali anak sapi menggoyangkan kepala.
 
-"Bapak lihat kamu di televisi," kata Bapak, tanpa menoleh.
+"Bapak ndelok kowe neng televisi," kata Bapak, tanpa menoleh.
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Bapak tidak mengerti satu pun yang kamu bilang."
+"Bapak ora ngerti siji wae sing kowe omongke."
 
-"Iya, Pak."
+"Nggih, Pak."
 
-"Tapi Bapak lihat satu hal." Ia berhenti. "Kamu tidak gemetar."
+"Tapi Bapak ndelok siji bab." Bapak berhenti. "Kowe ora gemeter."
 
 Aku tidak menjawab.
 
-"Dari kecil, kamu gemetar kalau ada orang melihat. Waktu upacara. Waktu ujian. Waktu dokter bertanya." Ia menatap kandang. "Kemarin lusa kamu tidak."
+"Seko cilik, kowe gemeter nek ono wong ndelok. Wektu upacara. Wektu ujian. Wektu dokter takon." Bapak menatap kandang. "Wingi kowe ora."
 
-"Aku belajar, Pak."
+"Kula sinau, Pak."
 
-"Bapak tahu." Ia mengangguk perlahan. "Bapak tidak tahu kamu menyimpan apa. Tapi Bapak tahu kamu sudah sampai."
+"Bapak ngerti." Bapak mengangguk perlahan. "Bapak ora ngerti kowe nyimpen opo. Nanging Bapak ngerti kowe wis tekan."
 
 Aku menatap punggungnya yang bungkuk, dan lehernya yang berkerut, dan tangannya yang retak dan kasar, yang memegang topi seperti memegang sesuatu yang bisa tumpah.
 
-"Belum, Pak," kataku. "Masih jauh."
+"Dereng, Pak," kataku. "Taksih tebih."
 
-"Oh." Bapak tersenyum, kecil, dan di wajahnya aku melihat sesuatu yang kuduga rasa bangga dan sesuatu yang kuduga ketakutan, bersatu tanpa saling mengalahkan. "Ya sudah. Bapak tunggu."
+"Oh." Bapak tersenyum, kecil, dan di wajahnya aku melihat sesuatu yang kuduga rasa bangga dan sesuatu yang kuduga ketakutan, bersatu tanpa saling mengalahkan. "Yo wis. Bapak enteni."
 
 ---
 
@@ -180,23 +180,23 @@ Aku berangkat sebelum subuh.
 
 Ardi yang mengantar, dengan mobil pinjaman dan kantuk yang tidak ia sembunyikan, tanpa bertanya. Kami melewati jalan sempit di antara bukit-bukit kapur yang gelap dan ladang-ladang jagung yang kering, dengan lampu mobil menyorot beberapa meter ke depan dan malam yang masih sangat pekat di sekeliling. Radio kecil berdesis di pangkuanku, tak menangkap apa pun.
 
-"Kamu mau ke mana sih, Mbak?" tanyanya, akhirnya, setelah satu jam.
+"Kowe arep menyang ngendi sih, Mbak?" tanyanya, akhirnya, setelah satu jam.
 
 "Laut."
 
-"Ngapain?"
+"Ngopo?"
 
-"Menepati janji."
+"Nepati janji."
 
-"Janji ke siapa?"
+"Janji marang sopo?"
 
-"Ke teman." Aku menatap jendela. "Yang tidak sempat."
+"Marang kanca." Aku menatap jendela. "Sing ora sempat."
 
 Ardi tidak bertanya lagi. Ia hanya mengemudi dengan tangan tegang di kemudi, dan di dalam diamnya aku merasa sesuatu yang mirip penghormatan.
 
 Kami sampai di sebuah pantai kecil di ujung selatan, yang tidak ada di brosur wisata dan tidak punya nama selain yang disebut orang-orang desa, ketika langit di timur baru mulai berubah dari hitam menjadi biru tua. Parkirannya kosong. Tak ada penjual. Tak ada lampu. Hanya suara yang sangat besar, sangat dalam, yang kudengar bahkan sebelum membuka pintu mobil.
 
-"Aku tunggu di sini," kata Ardi.
+"Tak enteni kene," kata Ardi.
 
 "Terima kasih."
 

@@ -4,7 +4,7 @@
 
 Tika menelepon pukul tujuh malam, dan aku mengenali dari nada suaranya, bahkan sebelum ia menyebut apa pun, bahwa ia sedang berjalan cepat di lorong sebuah rumah sakit.
 
-"Wulan. Sekar."
+"Wul. Sekar."
 
 "Anak Pak Sarjo?"
 
@@ -24,15 +24,15 @@ Aku menutup mataku.
 
 Aku tidak menjawab.
 
-"Wulan?"
+"Wul?"
 
-"Aku di sini."
+"Aku neng kene."
 
-"Kamu tahu apa yang kukatakan padanya?"
+"Kowe ngerti aku ngomong opo marang dheweke?"
 
-"Apa?"
+"Opo?"
 
-"Aku bilang..." Tika menarik napas panjang. "Aku bilang, ada seseorang yang akan ikut."
+"Aku ngomong..." Tika menarik napas panjang. "Aku ngomong, ono wong sing bakal melu."
 
 Aku menunduk, dengan telapak tangan di mulutku, dan membiarkan sesuatu jatuh di atas lututku, pelan, tanpa suara.
 
@@ -42,7 +42,7 @@ Aku menunduk, dengan telapak tangan di mulutku, dan membiarkan sesuatu jatuh di 
 
 Ardi diwisuda bulan Agustus lalu. Aku belum menuliskannya.
 
-Ia lulus dari politeknik dengan beasiswa yang sama dengan yang pernah kuterima, dengan nilai yang membuat dosennya, kata Ardi, mengangkat alis dan tidak mengatakan apa-apa. Bapak memakai kemeja putih yang pas di badannya, kemeja yang dibelikan Mas Aji dari Batam, dengan ikat pinggang yang tidak perlu dilubangi sendiri. Ia berdiri di barisan keluarga dan bertepuk tangan terlalu keras, terlalu lama, dan terlalu tidak seirama. Ibu menangis tanpa suara, lalu berhenti, lalu berkata, "Dia kurus," dan itu satu-satunya komentarnya.
+Ia lulus dari politeknik dengan beasiswa yang sama dengan yang pernah kuterima, dengan nilai yang membuat dosennya, kata Ardi, mengangkat alis dan tidak mengatakan apa-apa. Bapak memakai kemeja putih yang pas di badannya, kemeja yang dibelikan Mas Aji dari Batam, dengan ikat pinggang yang tidak perlu dilubangi sendiri. Ia berdiri di barisan keluarga dan bertepuk tangan terlalu keras, terlalu lama, dan terlalu tidak seirama. Ibu menangis tanpa suara, lalu berhenti, lalu berkata, "Kok kuru," dan itu satu-satunya komentarnya.
 
 Mbok Karni datang dengan tongkat. Pak Dukuh datang dengan peci yang miring ke kiri. Pak Karto tidak sempat. Ia meninggal dalam tidur pada bulan Juni, dengan radio kecil di pangkuannya yang masih menyala.
 
@@ -106,11 +106,11 @@ Di bagian belakang, di halaman terakhir yang masih kosong, aku membuat sebuah da
 
 Aku menaruh pensil.
 
-Di sampingku, Ibu bergerak dalam tidurnya. Aku menahan napas. Ia menggeser tubuhnya sedikit, mengambang di antara tidur dan bangun, dan tangannya, tangan yang kuhafal lebih dari wajahku sendiri, dengan urat biru yang menonjol dan bercak cokelat yang menyebar seperti peta dan retakan baru di buku-buku jarinya, mencari sesuatu di dalam gelap.
+Di sampingku, Ibu bergerak dalam tidurnya. Aku menahan napas. Ibu menggeser tubuhnya sedikit, mengambang di antara tidur dan bangun, dan tangannya, tangan yang kuhafal lebih dari wajahku sendiri, dengan urat biru yang menonjol dan bercak cokelat yang menyebar seperti peta dan retakan baru di buku-buku jarinya, mencari sesuatu di dalam gelap.
 
 Ia menemukan tanganku. Ia menggenggamnya, pelan, dengan telapak yang kasar dan hangat dan sedikit bergetar.
 
-"Masih sama," gumamnya, dalam tidur.
+"Isih padha," gumamnya, dalam tidur.
 
 Aku tidak menjawab.
 
