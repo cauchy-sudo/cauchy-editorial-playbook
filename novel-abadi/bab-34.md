@@ -126,7 +126,7 @@ Bapak datang pada malam harinya, dari ladang, dengan cangkul di bahu dan celana 
 
 "Tapi Bapak seneng." Bapak menunduk, dan aku melihat bahunya turun, seperti beban yang akhirnya diizinkan untuk dilepas. "Bapak seneng banget, Nduk."
 
-Mas Aji tiba dua hari kemudian dengan satu kotak besar ikan asin dari Batam dan wajah yang kuyu dan basah. Ia tidak berkata apa-apa. Ia memelukku di tengah halaman dengan gerak canggung dan kikuk dan terlalu kuat, dan baru melepaskanku ketika Ardi menegur, "Mas, dheweke isih ginjalan."
+Mas Eko tiba dua hari kemudian dengan satu kotak besar ikan asin dari Batam dan wajah yang kuyu dan basah. Ia tidak berkata apa-apa. Ia memelukku di tengah halaman dengan gerak canggung dan kikuk dan terlalu kuat, dan baru melepaskanku ketika Ardi menegur, "Mas, dheweke isih ginjalan."
 
 "Aku ngerti," katanya. "Kuwi bledug."
 

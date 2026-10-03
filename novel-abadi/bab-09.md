@@ -4,11 +4,11 @@ Dua tahun terakhir di SMP lewat seperti halaman buku yang dibalik terlalu cepat.
 
 Aku tidak lagi dipanggil Wulan Bulan. Rina yang pertama berhenti. Dimas yang terakhir, dan ia melakukannya dengan mengucapkan namaku penuh pada suatu pagi tanpa alasan, lalu menghilang ke kantin sebelum aku sempat berkomentar.
 
-Tapi bagian yang paling besar dari tahun-tahun itu bukan milikku. Itu milik Mas Aji.
+Tapi bagian yang paling besar dari tahun-tahun itu bukan milikku. Itu milik Mas Eko.
 
 ---
 
-Mas Aji berhenti sekolah pada Februari 2016, di bangku kelas sebelas SMA, dengan cara yang tidak menyisakan ruang untuk dibujuk.
+Mas Eko berhenti sekolah pada Februari 2016, di bangku kelas sebelas SMA, dengan cara yang tidak menyisakan ruang untuk dibujuk.
 
 Ia pulang ke Pucung pada Sabtu sore dengan ransel di punggung dan wajah orang yang sudah memutuskan, dan menaruh ransel itu di lantai ruang tengah di depan Bapak dan Ibu. Aku duduk di tikar dengan buku IPA di pangkuan, pura-pura membaca.
 
@@ -20,9 +20,9 @@ Bapak tidak menjawab.
 
 "Sekolahmu piye?" Suara Ibu sangat tipis.
 
-"Ora popo. Aku ora pinter, Bu. Wulan sing pinter. Aku mung gawe boros." Mas Aji berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, kuwi kabeh... aku ngerti awake dhewe durung cukup. Pakdhe Harjo uga wis utang go cincin Ibu."
+"Ora popo. Aku ora pinter, Bu. Wulan sing pinter. Aku mung gawe boros." Mas Eko berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, kuwi kabeh... aku ngerti awake dhewe durung cukup. Pakdhe Harjo uga wis utang go cincin Ibu."
 
-"Kuwi dudu urusanmu, Ji."
+"Kuwi dudu urusanmu, Le."
 
 "Kuwi urusanku, Bu."
 
@@ -36,7 +36,7 @@ Hening yang menyusul begitu panjang sehingga aku bisa mendengar ayam bertengkar 
 
 "Dudu nglarang, Pak. Nyuwun pangestu."
 
-Bapak menunduk. Lama. Bapak memandangi tangannya sendiri, tangan yang retak dan kasar, yang pernah menyentuh kambing yang dijual dan sapi yang ditatap dari jauh. Lalu Bapak mengulurkan tangan kanannya, dan Mas Aji menyambutnya, dan menciumnya, dan di antara kedua laki-laki itu, yang tidak pernah belajar mengucapkan hal yang mereka rasakan, terjadi sesuatu yang lebih jelas daripada kalimat mana pun.
+Bapak menunduk. Lama. Bapak memandangi tangannya sendiri, tangan yang retak dan kasar, yang pernah menyentuh kambing yang dijual dan sapi yang ditatap dari jauh. Lalu Bapak mengulurkan tangan kanannya, dan Mas Eko menyambutnya, dan menciumnya, dan di antara kedua laki-laki itu, yang tidak pernah belajar mengucapkan hal yang mereka rasakan, terjadi sesuatu yang lebih jelas daripada kalimat mana pun.
 
 "Ngati-ati," kata Bapak. "Jaga adhimu seko kono."
 
@@ -46,7 +46,7 @@ Aku menutup buku. Di antara halaman-halamannya, dengan huruf kecil yang tidak ak
 
 ---
 
-Malam sebelum Mas Aji berangkat, ia mengetuk pintu kamarku. Ia membawa sesuatu yang dibungkus kain, dan menyodorkannya tanpa menatapku.
+Malam sebelum Mas Eko berangkat, ia mengetuk pintu kamarku. Ia membawa sesuatu yang dibungkus kain, dan menyodorkannya tanpa menatapku.
 
 "Ini."
 
@@ -54,21 +54,21 @@ Aku membuka bungkusan itu. Sebuah radio kecil, sebesar buku saku, dengan antena 
 
 "Seko ngendi, Mas?"
 
-"Tuku bekas. Neng pasar Wonosari. Aja takon regane." Mas Aji menggaruk tengkuk. "Jare iso entuk siaran seko adoh. Kutha-kutha. Kowe kan seneng ndengerke."
+"Tuku bekas. Neng pasar Wonosari. Aja takon regane." Mas Eko menggaruk tengkuk. "Jare iso entuk siaran seko adoh. Kutha-kutha. Kowe kan seneng ndengerke."
 
 "Mas ngerti aku seneng ndengerke?"
 
-"Saben bengi kowe lungguh neng jendela, ndengerke radio Pak Karto seko ngarep." Mas Aji masih tidak menatapku. "Kowe kira aku ora weruh?"
+"Saben bengi kowe lungguh neng jendela, ndengerke radio Pak Karto seko ngarep." Mas Eko masih tidak menatapku. "Kowe kira aku ora weruh?"
 
 Aku memegang radio itu. Ia hangat, seakan baru dipegang orang. Antenanya sedikit goyah.
 
 "Mas," kataku. "Matur nuwun."
 
-"Ora sah matur nuwun. Ndengerke wae." Mas Aji berbalik menuju pintu, lalu berhenti dengan punggung menghadapku. "Dek. Kowe kudu sekolah dhuwur-dhuwur. Nek perlu tekan manca negara. Ben aku ora sia-sia."
+"Ora sah matur nuwun. Ndengerke wae." Mas Eko berbalik menuju pintu, lalu berhenti dengan punggung menghadapku. "Dek. Kowe kudu sekolah dhuwur-dhuwur. Nek perlu tekan manca negara. Ben aku ora sia-sia."
 
 "Mas ora sia-sia."
 
-"Ora ono sing ngomong ngono, tapi aku ngerti." Mas Aji keluar dan menutup pintu pelan.
+"Ora ono sing ngomong ngono, tapi aku ngerti." Mas Eko keluar dan menutup pintu pelan.
 
 Aku menyalakan radio itu malam itu, dan memutar tombolnya pelan-pelan, melewati dengungan dan serakan, sampai kudengar sebuah suara perempuan berbicara dalam bahasa yang tidak kukenal, dari kota yang tidak pernah kulihat. Aku mendengarkannya selama satu jam.
 

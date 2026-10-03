@@ -2,7 +2,7 @@
 
 Orang Islam dimakamkan secepat mungkin, dan itu berarti Mbah Darmi sudah berada di dalam tanah ketika aku mendengar kabarnya, dan sudah berada di dalam tanah ketika Ibu naik bus pertama, dan sudah berada di dalam tanah ketika aku, di bangsal rumah sakit dengan jarum di lengan, menatap langit-langit dan menghitung ubin yang tidak berbentuk pulau.
 
-Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak bisa menangis. Bapak, yang tiba dari Pucung dengan sepeda motor malam sebelumnya, tidak sempat berbicara denganku. Mas Aji menelepon dari Batam lewat nomor Pak Hasan, dengan suara yang pecah di setiap kalimat.
+Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak bisa menangis. Bapak, yang tiba dari Pucung dengan sepeda motor malam sebelumnya, tidak sempat berbicara denganku. Mas Eko menelepon dari Batam lewat nomor Pak Hasan, dengan suara yang pecah di setiap kalimat.
 
 "Dek, aku ora iso mulih. Tikete entek. Sesuk esuk lagi ono. Mbah wis dimakamke awan mau."
 
@@ -12,7 +12,7 @@ Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak 
 
 "Aku arep mulih, Mas."
 
-"Kowe ora oleh." Mas Aji terdiam sebentar. Dari telepon aku bisa mendengar suara mesin besar di kejauhan, deru dan dentang. "Dek. Dokter ngomong opo?"
+"Kowe ora oleh." Mas Eko terdiam sebentar. Dari telepon aku bisa mendengar suara mesin besar di kejauhan, deru dan dentang. "Dek. Dokter ngomong opo?"
 
 "Dokter ngomong ora oleh."
 
@@ -20,7 +20,7 @@ Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak 
 
 "Mbah..." Aku tidak bisa menyelesaikan kalimat.
 
-"Aku ngerti." Suara Mas Aji, yang tak pernah tahu cara mengatakan apa yang ia rasakan, mengatakannya tanpa kata. "Aku ngerti, Dek."
+"Aku ngerti." Suara Mas Eko, yang tak pernah tahu cara mengatakan apa yang ia rasakan, mengatakannya tanpa kata. "Aku ngerti, Dek."
 
 Kami tidak berbicara lama. Tapi kami berdua diam di telepon selama dua menit penuh sebelum sambungan terputus, dan aku menggenggam gagang itu lama sesudahnya.
 

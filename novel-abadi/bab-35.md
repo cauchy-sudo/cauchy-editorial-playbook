@@ -96,7 +96,7 @@ Aku meletakkan pensil. Aku menutup wajah dengan telapak tangan.
 
 Aku tidak menangis. Aku hanya duduk di sana lama, dengan napas yang naik turun tanpa suara, dan mendengarkan Ibu mendengkur di kamar sebelah, nada yang kuhafal lebih dari nada apa pun.
 
-*Aku harus merekamnya.* Pikiran itu muncul jernih, seperti lampu yang dinyalakan. *Aku harus merekam suara Ibu. Dan Bapak. Dan Tika. Dan Mas Aji. Sebelum aku lupa yang sama.*
+*Aku harus merekamnya.* Pikiran itu muncul jernih, seperti lampu yang dinyalakan. *Aku harus merekam suara Ibu. Dan Bapak. Dan Tika. Dan Mas Eko. Sebelum aku lupa yang sama.*
 
 ---
 

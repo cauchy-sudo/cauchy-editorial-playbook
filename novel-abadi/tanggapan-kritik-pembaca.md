@@ -24,7 +24,7 @@ Sumber: *Kritik Novel Heliks* (Pembaca A) dan *Kritik atas Heliks* (Pembaca B). 
 |---|---|---|
 | B: "seperti orang/seseorang yang…" 42× | Dari 43 menjadi 22; yang lucu atau tepat tetap, yang generik diganti dengan gambar konkret; "menyeberangi sungai" tidak lagi dipakai tiga kali | Selesai |
 | B: "dua tangan" 36× | Menjadi 24; yang tersisa adat atau gerak tubuh nyata. Juga memperbaiki satu pelanggaran adat: Pak Dukuh tidak lagi menjabat tangan Wulan (bab 31) | Selesai |
-| B: "tanpa berkata apa-apa" ±34× | Dari 40 varian menjadi 22; yang tersisa membawa makna (Bapak, Mas Aji) | Selesai |
+| B: "tanpa berkata apa-apa" ±34× | Dari 40 varian menjadi 22; yang tersisa membawa makna (Bapak, Mas Eko) | Selesai |
 | B: "menahan sesuatu yang naik" | Dari 8 menjadi 3 | Selesai |
 | B: "lama sekali / menatap lama" | Dari 32 menjadi 23 (dapat dikurangi lagi bila diinginkan) | Sebagian |
 | B: "peci miring ke kiri" 5× | Menjadi 3 (perkenalan dan dua gema) | Selesai |

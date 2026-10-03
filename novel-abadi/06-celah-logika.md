@@ -31,7 +31,7 @@ Tujuan: setiap keberatan yang mungkin muncul di kepala pembaca skeptis **dijawab
 |---|---|---|---|---|
 | B1 | "Dokter desa terlalu cepat mengenali lupus." | Tidak cepat: dua diagnosis salah dulu. Lupus meniru banyak penyakit [P]; dr. Raihan curiga karena kombinasi ruam, nyeri sendi, dan protein urin. | 4–5 | Reumatolog anak |
 | B2 | "Mengapa tidak sembuh dengan obat biasa?" | Ia memakai obat standar dengan efek samping (wajah bulat, rambut rontok, risiko infeksi); kambuh tetap terjadi. | 5–7, 14 | Reumatolog anak |
-| B3 | "Biaya pengobatan?" | JKN/PBI [V], kaleng biskuit, kambing dijual, Si Bejo dijual, kiriman Mas Aji. Bukan "kebetulan ada donatur". | 2, 5, 16 | Petugas BPJS |
+| B3 | "Biaya pengobatan?" | JKN/PBI [V], kaleng biskuit, kambing dijual, Si Bejo dijual, kiriman Mas Eko. Bukan "kebetulan ada donatur". | 2, 5, 16 | Petugas BPJS |
 | B4 | "Kenapa dia tidak putus sekolah?" | Ia tertinggal dan nilainya turun; guru mengirim tugas ke rumah; ada cuti dan perjuangan. | 6, 14 | Guru |
 | B5 | "Pandemi dan imunosupresi." | Risiko nyata; belajar dari bukit sinyal; Ibu menjaga. | 17 | Dokter |
 

@@ -260,7 +260,7 @@ Aku merasa sesuatu pecah di dalam dadaku, sesuatu yang telah menahan selama enam
 
 Bapak menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
 
-Dokter Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Aji, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
+Dokter Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Eko, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
 
 "Kowe kuliah," kataku. "Kowe isih kudu kuliah."
 

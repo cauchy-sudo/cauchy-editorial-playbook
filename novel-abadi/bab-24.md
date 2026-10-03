@@ -200,7 +200,7 @@ Ia mengangguk di balik kertas.
 
 Wisuda berlangsung pada hari Sabtu di bulan Agustus 2024, di aula besar kampus, dengan sembilan ratus wisudawan dan jilbab ungu muda yang mulai terasa seperti seragam. Aku lulus dengan nilai tinggi yang membuat Dr. Anindya mengangkat alis, seperti biasa.
 
-Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam pinjaman dari Pak Dukuh, yang kebesaran di bagian pinggang dan harus ditahan dengan ikat pinggang yang ia lubangi sendiri. Ibu memakai kebaya hijau tua, dengan sanggul kecil yang disanggulkan Tika pagi itu, dan matanya menyapu aula dengan ketakutan seperti seseorang yang tersesat di sebuah pasar besar. Ardi, enam belas tahun, tinggi dan kurus dan malu, memegang tangan Ibu dan berpura-pura tidak peduli. Mas Aji, yang tiba dari Batam dua hari sebelumnya dengan bus dan kapal, menangis tanpa suara sejak pembukaan.
+Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam pinjaman dari Pak Dukuh, yang kebesaran di bagian pinggang dan harus ditahan dengan ikat pinggang yang ia lubangi sendiri. Ibu memakai kebaya hijau tua, dengan sanggul kecil yang disanggulkan Tika pagi itu, dan matanya menyapu aula dengan ketakutan seperti seseorang yang tersesat di sebuah pasar besar. Ardi, enam belas tahun, tinggi dan kurus dan malu, memegang tangan Ibu dan berpura-pura tidak peduli. Mas Eko, yang tiba dari Batam dua hari sebelumnya dengan bus dan kapal, menangis tanpa suara sejak pembukaan.
 
 "Aku ora nangis," katanya, ketika aku menegurnya. "Kuwi bledug."
 

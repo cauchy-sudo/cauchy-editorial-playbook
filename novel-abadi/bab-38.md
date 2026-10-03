@@ -222,7 +222,7 @@ Aku berdiri di sana lama sekali.
 
 Di timur, langit mulai berubah. Pertama kelabu, lalu merah muda pucat, lalu kuning keemasan yang menyentuh puncak gelombang satu per satu, seperti seseorang menyalakan lampu-lampu kecil di sepanjang batas dunia. Matahari belum terbit. Tapi ia sedang datang. Aku bisa merasakannya di kulit, hangat tipis yang belum cukup untuk melukai.
 
-Aku berpikir tentang waktu. Bukan sepuluh tahun. Bukan delapan sampai sepuluh. Sesuatu yang lebih panjang dan tak punya angka. Aku berpikir tentang Ibu dan Bapak, yang suatu hari akan berhenti dan menjadi sesuatu yang kutulis di buku catatan. Aku berpikir tentang Tika yang akan menua dan Ardi yang akan menikah dan Mas Aji yang akan pulang dari Batam dengan rambut putih. Aku berpikir tentang seseorang yang berdiri di pantai yang sama empat puluh tahun lagi, dengan wajah yang sama, sendirian, dan mencatat.
+Aku berpikir tentang waktu. Bukan sepuluh tahun. Bukan delapan sampai sepuluh. Sesuatu yang lebih panjang dan tak punya angka. Aku berpikir tentang Ibu dan Bapak, yang suatu hari akan berhenti dan menjadi sesuatu yang kutulis di buku catatan. Aku berpikir tentang Tika yang akan menua dan Ardi yang akan menikah dan Mas Eko yang akan pulang dari Batam dengan rambut putih. Aku berpikir tentang seseorang yang berdiri di pantai yang sama empat puluh tahun lagi, dengan wajah yang sama, sendirian, dan mencatat.
 
 Aku tidak merasa takut. Aku hanya merasa sangat kecil dan sangat panjang, sekaligus.
 

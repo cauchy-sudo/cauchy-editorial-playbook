@@ -155,7 +155,7 @@ Uji cepat: tanya, *"Apakah kalimat ini diucapkan Wulan, atau penulis?"* Bila pen
 ### 5.2 Tokoh pendukung
 Profil suara per tokoh (cara bicara, kalimat khas, yang dihindari) ada di `02-panduan-suara.md`, bagian 9. Aturannya: satu tokoh, satu register, satu tanda tangan; tanda tangan tidak dipinjamkan kepada tokoh lain.
 
-- Setiap tokoh punya **satu kebiasaan, satu cara bicara, satu kebutuhan sendiri**: Tika (menolong dengan hal yang sedikit bodoh dan sangat nyata), Mas Aji (bicara dengan benda: permen, radio), Bu Haji ("Aku paling benci kalau orang menghindar"), Bu Wiwik (lipstik merah tua, tidak pernah berbohong), Pak Hendra ("Itu bukan nasihat. Itu pengamatan."), Pak Slamet ("Nah."), Dr. Anindya (tanpa basa-basi, memberi meja).
+- Setiap tokoh punya **satu kebiasaan, satu cara bicara, satu kebutuhan sendiri**: Tika (menolong dengan hal yang sedikit bodoh dan sangat nyata), Mas Eko (bicara dengan benda: permen, radio), Bu Haji ("Aku paling benci kalau orang menghindar"), Bu Wiwik (lipstik merah tua, tidak pernah berbohong), Pak Hendra ("Itu bukan nasihat. Itu pengamatan."), Pak Slamet ("Nah."), Dr. Anindya (tanpa basa-basi, memberi meja).
 - **Tidak ada penjahat budaya.** Tetangga yang menggunjing (Mbok Karni) kemudian memeluk dan menyumbang; Budhe yang meremehkan memberi amplop "buat buku".
 - **Kelemahan tokoh baik harus tampak.** Ledger mencatat risiko cerita terlalu hangat; tambahkan satu-dua kegagalan manusia yang tidak ditebus bila merevisi.
 - **Tokoh penghalang punya alasan yang bisa membuat pembaca ragu** (Julian: ayahnya Alzheimer, kini ia sendiri sakit).
@@ -308,7 +308,7 @@ Wulan lahir Mei 2002. Usia pada titik-titik penting:
 | Mei 2030 | Ulang tahun ke-28 | 28 |
 | Okt 2031 | Rasulan dan laut | 29 |
 
-Aturan: "sejak umur…" untuk **awal sakit = sebelas**. Hitung jarak tahun dengan benar ("enam belas tahun lalu" dari Okt 2029 ke Okt 2013). Adik dan keluarga: Ardi lahir 2008; Mas Aji lahir 1999; Ibu lahir ±1976; Mbah Darmi wafat Jan 2019.
+Aturan: "sejak umur…" untuk **awal sakit = sebelas**. Hitung jarak tahun dengan benar ("enam belas tahun lalu" dari Okt 2029 ke Okt 2013). Adik dan keluarga: Ardi lahir 2008; Mas Eko lahir 1999; Ibu lahir ±1976; Mbah Darmi wafat Jan 2019.
 
 ### 10.2 Hari, tanggal, dan waktu
 - Cek hari dalam seminggu setiap kali tanggal disebut (dihitung): 1 Jan 2014 = Rabu; 18 Jan 2014 = Sabtu; 10 Des 2018 = Senin; **8 Des 2029 = Sabtu, 9 Des = Minggu**; 31 Des 2029 = Senin; 3 Mar 2031 = Senin; 12 Okt 2031 = Minggu; 5/6/7/8 Nov 2031 = Rabu/Kamis/Jumat/Sabtu.
@@ -326,7 +326,7 @@ Aturan: "sejak umur…" untuk **awal sakit = sebelas**. Hitung jarak tahun denga
 
 ### 10.4 Tempat dan benda
 - Siapa di mana: kos Bu Haji di **Wonosari**; kos Wulan dan Tika di **Yogyakarta** dengan ibu kos lain; Pak Hasan satu-satunya yang punya telepon di Pucung.
-- Benda berulang dan keadaannya: payung hitam (pinjaman Mbah → diwarisi), kerudung biru muda (yang setengah jadi milik Mbah, **diselesaikan** Wulan; jahitan miring baris ketiga, noda merah di sudut), radio Mas Aji (kapasitor biru, antena Naufal), lonceng Bejo, kaleng biskuit besar dan kecil, buku catatan pertama (sampul lengket).
+- Benda berulang dan keadaannya: payung hitam (pinjaman Mbah → diwarisi), kerudung biru muda (yang setengah jadi milik Mbah, **diselesaikan** Wulan; jahitan miring baris ketiga, noda merah di sudut), radio Mas Eko (kapasitor biru, antena Naufal), lonceng Bejo, kaleng biskuit besar dan kecil, buku catatan pertama (sampul lengket).
 - **Geografi:** pantai selatan menghadap selatan; matahari terbit di **timur** = di sisi kiri orang yang menghadap laut. Bayangan jatuh ke barat.
 - Kerudung di SD: Wulan mulai berjilbab di **SMP**; jangan tulis jilbab sebelum itu.
 

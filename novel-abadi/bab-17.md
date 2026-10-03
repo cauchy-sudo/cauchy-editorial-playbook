@@ -38,7 +38,7 @@ Sekolah daring di Pucung adalah komedi yang tidak lucu.
 
 Di seluruh dusun, hanya ada satu tempat yang bisa menangkap sinyal ponsel dengan layak, yaitu puncak bukit kapur di belakang rumah Pak Hasan, yang oleh anak-anak disebut Bukit Sinyal. Kami harus mendakinya lewat jalur berbatu selama dua puluh menit. Di puncaknya ada sebuah pohon jati besar dan satu batu datar yang cukup untuk dua orang.
 
-Setiap pagi pukul tujuh, aku mendaki Bukit Sinyal dengan ponsel di tangan, payung Mbah di tangan lainnya, dan ransel berisi buku dan botol air. Aku tidak punya ponsel pintar sampai hari itu. Mas Aji mengirimkannya dari Batam dua minggu sebelumnya, ponsel bekas dengan layar retak di sudut dan baterai yang cepat habis, dengan secarik kertas yang diselipkan di kotak: *Buat belajar. Jangan buat main.*
+Setiap pagi pukul tujuh, aku mendaki Bukit Sinyal dengan ponsel di tangan, payung Mbah di tangan lainnya, dan ransel berisi buku dan botol air. Aku tidak punya ponsel pintar sampai hari itu. Mas Eko mengirimkannya dari Batam dua minggu sebelumnya, ponsel bekas dengan layar retak di sudut dan baterai yang cepat habis, dengan secarik kertas yang diselipkan di kotak: *Buat belajar. Jangan buat main.*
 
 Aku belajar menyalakan kamera, mengatur mikrofon, menekan tombol yang tidak kuketahui artinya. Pada hari pertama, Bu Ratmi, yang mengajar kami lewat layar dan tampak seperti orang yang mengutuk teknologi dengan setengah hati, berkata dengan suara terputus-putus: "Wu... lan... suaramu... pu... tus..."
 

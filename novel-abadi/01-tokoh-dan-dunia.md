@@ -38,7 +38,7 @@ Alasan pilihan [P]:
 | **Wulan Rahayu Ningsih** (lahir Mei 2002) | Narator. Dipanggil Wulan; di lab luar negeri menjadi "Wu-lan" atau "Lan". *Rahayu* berarti selamat; kontras dengan nasib tubuhnya. Cerdas, jenaka, keras kepala, malu bernyanyi di depan orang tetapi bernyanyi di kamar mandi. |
 | **Sutrisno (Bapak)** | Petani dan buruh serabutan; merantau musiman jadi kuli bangunan. Pendiam, tangannya bicara. |
 | **Sumiati (Ibu)** | Buruh tani dan penjual tiwul. Menyimpan uang di kaleng biskuit. Bahasa kasihnya: makanan dan cerewet. |
-| **Aji (Mas, lahir 1999)** | Kakak; putus SMA, merantau ke Batam 2016. Kiriman uangnya sering menjadi penentu. |
+| **Eko (Mas, lahir 1999)** | Kakak; putus SMA, merantau ke Batam 2016. Kiriman uangnya sering menjadi penentu. |
 | **Ardi (lahir 2008)** | Adik; kelak kuliah karena jalan yang Wulan buka. |
 | **Mbah Darmi** | Nenek dari pihak Ibu; penutur cerita; percaya pada "masuk angin" dan kuwalat. |
 | **Fitriana "Tika"** | Sahabat sejak kecil; tetap tinggal di desa, kelak bidan atau guru. Penjaga "rumah" bagi Wulan. |

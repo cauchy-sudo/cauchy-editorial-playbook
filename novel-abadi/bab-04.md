@@ -100,21 +100,21 @@ Ia tersenyum, dan itu pertama kalinya aku melihat seorang dokter tersenyum karen
 
 ---
 
-Rumah sakit besar di Yogya berdiri di pinggir jalan besar, putih dan sangat luas, seperti sekolah yang tumbuh terlalu cepat. Kami tiba sebelum tengah hari: Bapak, Ibu, aku, dan Mas Aji.
+Rumah sakit besar di Yogya berdiri di pinggir jalan besar, putih dan sangat luas, seperti sekolah yang tumbuh terlalu cepat. Kami tiba sebelum tengah hari: Bapak, Ibu, aku, dan Mas Eko.
 
-Mas Aji menyusul dari Wonosari. Sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
+Mas Eko menyusul dari Wonosari. Sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
 
 "Kowe kok lemu, Dek," katanya.
 
 "Aku bengkak, Mas."
 
-"Oh." Mas Aji berpikir. "Yo wis, mangan permene."
+"Oh." Mas Eko berpikir. "Yo wis, mangan permene."
 
-Mas Aji adalah orang yang tidak pernah tahu bagaimana mengatakan hal yang ia rasakan, jadi ia mengatakan hal yang ada di dekatnya. Selama sehari itu ia membaca semua papan petunjuk lebih cepat daripada kami, menemukan loket pendaftaran, menyuruh Bapak duduk, dan menyodorkan surat rujukan dengan suara yang lebih dewasa daripada umurnya.
+Mas Eko adalah orang yang tidak pernah tahu bagaimana mengatakan hal yang ia rasakan, jadi ia mengatakan hal yang ada di dekatnya. Selama sehari itu ia membaca semua papan petunjuk lebih cepat daripada kami, menemukan loket pendaftaran, menyuruh Bapak duduk, dan menyodorkan surat rujukan dengan suara yang lebih dewasa daripada umurnya.
 
 Antrean di loket pendaftaran lebih panjang daripada seluruh Dusun Pucung. Orang membawa map, kantong plastik, tas jinjing, dan bayi, dan tidak ada yang bicara. Petugas bertanya: "BPJS?"
 
-"Belum," kata Mas Aji. "Katanya baru mulai tahun depan."
+"Belum," kata Mas Eko. "Katanya baru mulai tahun depan."
 
 "Umum, ya. Ada surat keterangan tidak mampu?"
 
@@ -134,7 +134,7 @@ Aku belum pernah diambil darah. Perawat di sana memakai sarung tangan biru dan m
 
 "Jangan lihat jarumnya," kata perawat itu. "Lihat Masmu."
 
-Mas Aji berdiri di sampingku, dengan wajah putih seperti kertas. Ia sendiri tidak tahan melihat jarum.
+Mas Eko berdiri di sampingku, dengan wajah putih seperti kertas. Ia sendiri tidak tahan melihat jarum.
 
 "Mas, aja semaput."
 
@@ -146,7 +146,7 @@ Mas Aji berdiri di sampingku, dengan wajah putih seperti kertas. Ia sendiri tida
 
 "Mas ora nganggo bedak."
 
-Aku tertawa, dan jarum itu masuk, dan aku nyaris tidak merasakannya. Perawat itu mengangguk puas kepada Mas Aji, seakan ia yang melakukan pekerjaannya.
+Aku tertawa, dan jarum itu masuk, dan aku nyaris tidak merasakannya. Perawat itu mengangguk puas kepada Mas Eko, seakan ia yang melakukan pekerjaannya.
 
 ---
 

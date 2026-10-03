@@ -20,7 +20,7 @@ Aku baru tahu tiga hari kemudian, ketika infus pertama yang berisi obat putih di
 
 ---
 
-Dokter Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Aji berdiri di belakang Ibu seperti tiang.
+Dokter Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Eko berdiri di belakang Ibu seperti tiang.
 
 "Wulan terkena penyakit yang namanya lupus," katanya. "Nama lengkapnya lupus eritematosus sistemik, disingkat SLE. Lupus itu bahasa Latin, artinya serigala."
 
@@ -86,11 +86,11 @@ Dokter Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku meliha
 
 "Bapak," katanya. "Soal biaya, saya paham. Saya tidak akan berpura-pura ini murah. Tapi ada program baru dari pemerintah yang mulai berlaku pada tahun baru nanti. BPJS Kesehatan. Untuk keluarga yang tidak mampu, iurannya dibayar pemerintah. Kalau Wulan terdaftar, perawatan, obat, dan kontrol akan ditanggung."
 
-"Terdaftarnya bagaimana, Dok?" Mas Aji bertanya.
+"Terdaftarnya bagaimana, Dok?" Mas Eko bertanya.
 
 "Ada petugas di bagian pendaftaran. Mereka akan membantu. Bawa surat keterangan tidak mampu dari desa, kartu keluarga, fotokopi KTP orang tua. Ajak serta juga Pak Dukuhnya, kalau bisa. Kadang urusannya lancar kalau desa mau turun tangan."
 
-Mas Aji mencatat semuanya, dengan huruf-huruf besar yang miring, di sebuah buku tulis anak SMP yang ia keluarkan dari tasnya. Aku baru sadar saat itu bahwa kakakku, yang kikuk dan bicara dengan benda-benda, sedang membangun sesuatu yang lain: sebuah daftar yang tak seorang pun menyuruhnya buat.
+Mas Eko mencatat semuanya, dengan huruf-huruf besar yang miring, di sebuah buku tulis anak SMP yang ia keluarkan dari tasnya. Aku baru sadar saat itu bahwa kakakku, yang kikuk dan bicara dengan benda-benda, sedang membangun sesuatu yang lain: sebuah daftar yang tak seorang pun menyuruhnya buat.
 
 ---
 
@@ -100,7 +100,7 @@ Tiga hari menjelang tahun baru, Pak Dukuh datang. Ia menempuh perjalanan dua jam
 
 "Wis piro sing wis dibayar?"
 
-Bapak tidak menjawab. Mas Aji, yang tidak pernah sanggup berbohong, menyebut angka. Ibu menutup matanya sebentar.
+Bapak tidak menjawab. Mas Eko, yang tidak pernah sanggup berbohong, menyebut angka. Ibu menutup matanya sebentar.
 
 Malam itu, di bangsal, aku mendengar Ibu berbicara dengan seseorang di lorong. Suaranya pelan, dan aku tidak bisa menangkap semuanya. Aku hanya mendengar nama Pakdhe Harjo, dan sebuah kata: *cincin*. Besok paginya, tangan Ibu yang biasanya memakai cincin kawin tipis itu kosong, dan tak seorang pun menyebutnya.
 
@@ -154,7 +154,7 @@ Di pintu bangsal, Yuni melambai dari ranjangnya. Ia tidak bisa turun, karena ia 
 
 *Aja lali. Laut.*
 
-Aku melipatnya dan menaruhnya di saku. Di perjalanan pulang, di dalam bus yang berguncang, Ibu memegang tanganku di pangkuannya dan tidak bicara. Bapak duduk di depan, menatap jalan. Mas Aji tertidur dengan kepala menyandar di kaca, dengan buku catatannya masih terbuka di pangkuan.
+Aku melipatnya dan menaruhnya di saku. Di perjalanan pulang, di dalam bus yang berguncang, Ibu memegang tanganku di pangkuannya dan tidak bicara. Bapak duduk di depan, menatap jalan. Mas Eko tertidur dengan kepala menyandar di kaca, dengan buku catatannya masih terbuka di pangkuan.
 
 Di rumah, kaca retak di dekat pintu menunggu. Aku berdiri di depannya.
 

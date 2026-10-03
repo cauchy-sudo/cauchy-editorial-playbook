@@ -104,7 +104,7 @@ Tika menaruh mangkuk di meja dan duduk di sampingku. Ia hanya menunggu aku seles
 
 "Aku tahu."
 
-"Uang itu dari Mas Aji. Dari uang sapi. Dari les." Suaraku bergetar. "Aku tidak boleh mengulang lagi."
+"Uang itu dari Mas Eko. Dari uang sapi. Dari les." Suaraku bergetar. "Aku tidak boleh mengulang lagi."
 
 "Boleh." Tika menyodorkan sumpit. "Makan dulu."
 
@@ -268,7 +268,7 @@ Mbok Karni memelukku sampai tulang rusukku sakit. Pak Modin mendoakanku. Budhe P
 
 "Aku mung ngomong."
 
-Mas Aji tidak bisa pulang, tetapi ia mengirim pesan dengan banyak huruf yang salah: *DEK, INGGRIS ITU DI MANA? Mas cari di peta. Jauh banget. BAGUS. Mas nggak sia2.* Ardi memelukku dengan canggung dan tidak berkata apa-apa. Bapak hanya berdiri di pinggir jalan dengan tas besar di tangannya, yang Bapak bawa dari rumah sampai jalan besar, meski tas itu bisa kubawa sendiri.
+Mas Eko tidak bisa pulang, tetapi ia mengirim pesan dengan banyak huruf yang salah: *DEK, INGGRIS ITU DI MANA? Mas cari di peta. Jauh banget. BAGUS. Mas nggak sia2.* Ardi memelukku dengan canggung dan tidak berkata apa-apa. Bapak hanya berdiri di pinggir jalan dengan tas besar di tangannya, yang Bapak bawa dari rumah sampai jalan besar, meski tas itu bisa kubawa sendiri.
 
 Ibu berdiri paling dekat. Ibu menyodorkan kaleng biskuit kecil, kaleng yang sama, yang dulu diberikannya saat aku berangkat ke SMA.
 

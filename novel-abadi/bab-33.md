@@ -44,7 +44,7 @@ Ketika aku mengangkat kepala, hujan di jendela sudah berhenti.
 
 Aku mengerjakan persiapannya seperti mengerjakan semua yang pernah kupercayakan pada tanganku: pelan. Aku memeriksa tiap tabung dua kali. Aku mencatat tiap tindakan di buku catatan, di kolom yang kuberi judul sendiri, dan di tiap kolom itu aku menuliskan tanggal, waktu, dan sebuah kata yang telah menjadi doaku: *Jujur.*
 
-Pukul sebelas malam, aku duduk di kursi di dekat jendela, dengan lengan kananku terbuka di bawah lampu. Radio kecil dari Mas Aji, dengan antena dari Naufal, kunyalakan dengan volume paling pelan di sebelahku. Ia berdesis. Di antara desisnya, entah dari mana, ada sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, lemah dan jauh dan sangat tenang.
+Pukul sebelas malam, aku duduk di kursi di dekat jendela, dengan lengan kananku terbuka di bawah lampu. Radio kecil dari Mas Eko, dengan antena dari Naufal, kunyalakan dengan volume paling pelan di sebelahku. Ia berdesis. Di antara desisnya, entah dari mana, ada sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, lemah dan jauh dan sangat tenang.
 
 *Dengar yang lemah. Terus.*
 

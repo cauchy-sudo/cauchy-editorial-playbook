@@ -641,21 +641,21 @@ Ia tersenyum, dan itu pertama kalinya aku melihat seorang dokter tersenyum karen
 
 ---
 
-Rumah sakit besar di Yogya berdiri di pinggir jalan besar, putih dan sangat luas, seperti sekolah yang tumbuh terlalu cepat. Kami tiba sebelum tengah hari: Bapak, Ibu, aku, dan Mas Aji.
+Rumah sakit besar di Yogya berdiri di pinggir jalan besar, putih dan sangat luas, seperti sekolah yang tumbuh terlalu cepat. Kami tiba sebelum tengah hari: Bapak, Ibu, aku, dan Mas Eko.
 
-Mas Aji menyusul dari Wonosari. Sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
+Mas Eko menyusul dari Wonosari. Sejak ia kelas tiga SMP ia tinggal di rumah Pakdhe Harjo, supaya dekat dengan sekolah, dan ia pulang ke Pucung hanya pada akhir pekan. Ia empat belas tahun, tinggi dan canggung, dengan kaki yang terlalu panjang untuk celana seragamnya. Waktu bus kami berhenti di terminal, ia sudah berdiri di sana, menunggu, dan menyodorkan sebungkus permen kepadaku sambil menghindari tatapan.
 
 "Kowe kok lemu, Dek," katanya.
 
 "Aku bengkak, Mas."
 
-"Oh." Mas Aji berpikir. "Yo wis, mangan permene."
+"Oh." Mas Eko berpikir. "Yo wis, mangan permene."
 
-Mas Aji adalah orang yang tidak pernah tahu bagaimana mengatakan hal yang ia rasakan, jadi ia mengatakan hal yang ada di dekatnya. Selama sehari itu ia membaca semua papan petunjuk lebih cepat daripada kami, menemukan loket pendaftaran, menyuruh Bapak duduk, dan menyodorkan surat rujukan dengan suara yang lebih dewasa daripada umurnya.
+Mas Eko adalah orang yang tidak pernah tahu bagaimana mengatakan hal yang ia rasakan, jadi ia mengatakan hal yang ada di dekatnya. Selama sehari itu ia membaca semua papan petunjuk lebih cepat daripada kami, menemukan loket pendaftaran, menyuruh Bapak duduk, dan menyodorkan surat rujukan dengan suara yang lebih dewasa daripada umurnya.
 
 Antrean di loket pendaftaran lebih panjang daripada seluruh Dusun Pucung. Orang membawa map, kantong plastik, tas jinjing, dan bayi, dan tidak ada yang bicara. Petugas bertanya: "BPJS?"
 
-"Belum," kata Mas Aji. "Katanya baru mulai tahun depan."
+"Belum," kata Mas Eko. "Katanya baru mulai tahun depan."
 
 "Umum, ya. Ada surat keterangan tidak mampu?"
 
@@ -675,7 +675,7 @@ Aku belum pernah diambil darah. Perawat di sana memakai sarung tangan biru dan m
 
 "Jangan lihat jarumnya," kata perawat itu. "Lihat Masmu."
 
-Mas Aji berdiri di sampingku, dengan wajah putih seperti kertas. Ia sendiri tidak tahan melihat jarum.
+Mas Eko berdiri di sampingku, dengan wajah putih seperti kertas. Ia sendiri tidak tahan melihat jarum.
 
 "Mas, aja semaput."
 
@@ -687,7 +687,7 @@ Mas Aji berdiri di sampingku, dengan wajah putih seperti kertas. Ia sendiri tida
 
 "Mas ora nganggo bedak."
 
-Aku tertawa, dan jarum itu masuk, dan aku nyaris tidak merasakannya. Perawat itu mengangguk puas kepada Mas Aji, seakan ia yang melakukan pekerjaannya.
+Aku tertawa, dan jarum itu masuk, dan aku nyaris tidak merasakannya. Perawat itu mengangguk puas kepada Mas Eko, seakan ia yang melakukan pekerjaannya.
 
 ---
 
@@ -738,7 +738,7 @@ Aku baru tahu tiga hari kemudian, ketika infus pertama yang berisi obat putih di
 
 ---
 
-Dokter Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Aji berdiri di belakang Ibu seperti tiang.
+Dokter Sumarni menjelaskan semuanya pada hari kedua. Ia melakukannya dengan caranya yang khas: ia membawa kursi, duduk di sisi ranjang, dan menyuruh Ibu dan Bapak duduk juga, sehingga semua mata kami sejajar. Mas Eko berdiri di belakang Ibu seperti tiang.
 
 "Wulan terkena penyakit yang namanya lupus," katanya. "Nama lengkapnya lupus eritematosus sistemik, disingkat SLE. Lupus itu bahasa Latin, artinya serigala."
 
@@ -804,11 +804,11 @@ Dokter Sumarni tidak menjawab langsung. Ia menoleh ke arah Bapak, dan aku meliha
 
 "Bapak," katanya. "Soal biaya, saya paham. Saya tidak akan berpura-pura ini murah. Tapi ada program baru dari pemerintah yang mulai berlaku pada tahun baru nanti. BPJS Kesehatan. Untuk keluarga yang tidak mampu, iurannya dibayar pemerintah. Kalau Wulan terdaftar, perawatan, obat, dan kontrol akan ditanggung."
 
-"Terdaftarnya bagaimana, Dok?" Mas Aji bertanya.
+"Terdaftarnya bagaimana, Dok?" Mas Eko bertanya.
 
 "Ada petugas di bagian pendaftaran. Mereka akan membantu. Bawa surat keterangan tidak mampu dari desa, kartu keluarga, fotokopi KTP orang tua. Ajak serta juga Pak Dukuhnya, kalau bisa. Kadang urusannya lancar kalau desa mau turun tangan."
 
-Mas Aji mencatat semuanya, dengan huruf-huruf besar yang miring, di sebuah buku tulis anak SMP yang ia keluarkan dari tasnya. Aku baru sadar saat itu bahwa kakakku, yang kikuk dan bicara dengan benda-benda, sedang membangun sesuatu yang lain: sebuah daftar yang tak seorang pun menyuruhnya buat.
+Mas Eko mencatat semuanya, dengan huruf-huruf besar yang miring, di sebuah buku tulis anak SMP yang ia keluarkan dari tasnya. Aku baru sadar saat itu bahwa kakakku, yang kikuk dan bicara dengan benda-benda, sedang membangun sesuatu yang lain: sebuah daftar yang tak seorang pun menyuruhnya buat.
 
 ---
 
@@ -818,7 +818,7 @@ Tiga hari menjelang tahun baru, Pak Dukuh datang. Ia menempuh perjalanan dua jam
 
 "Wis piro sing wis dibayar?"
 
-Bapak tidak menjawab. Mas Aji, yang tidak pernah sanggup berbohong, menyebut angka. Ibu menutup matanya sebentar.
+Bapak tidak menjawab. Mas Eko, yang tidak pernah sanggup berbohong, menyebut angka. Ibu menutup matanya sebentar.
 
 Malam itu, di bangsal, aku mendengar Ibu berbicara dengan seseorang di lorong. Suaranya pelan, dan aku tidak bisa menangkap semuanya. Aku hanya mendengar nama Pakdhe Harjo, dan sebuah kata: *cincin*. Besok paginya, tangan Ibu yang biasanya memakai cincin kawin tipis itu kosong, dan tak seorang pun menyebutnya.
 
@@ -872,7 +872,7 @@ Di pintu bangsal, Yuni melambai dari ranjangnya. Ia tidak bisa turun, karena ia 
 
 *Aja lali. Laut.*
 
-Aku melipatnya dan menaruhnya di saku. Di perjalanan pulang, di dalam bus yang berguncang, Ibu memegang tanganku di pangkuannya dan tidak bicara. Bapak duduk di depan, menatap jalan. Mas Aji tertidur dengan kepala menyandar di kaca, dengan buku catatannya masih terbuka di pangkuan.
+Aku melipatnya dan menaruhnya di saku. Di perjalanan pulang, di dalam bus yang berguncang, Ibu memegang tanganku di pangkuannya dan tidak bicara. Bapak duduk di depan, menatap jalan. Mas Eko tertidur dengan kepala menyandar di kaca, dengan buku catatannya masih terbuka di pangkuan.
 
 Di rumah, kaca retak di dekat pintu menunggu. Aku berdiri di depannya.
 
@@ -1354,7 +1354,7 @@ Aku menyampaikannya pada Ibu, dan Ibu mengangguk seakan itu bukan masalah, dan a
 
 "Kowe lara, Nduk. Kuwi dudu dosa. Kuwi mung lara."
 
-Jadi aku ikut sahur. Pukul setengah empat pagi, ketika tanah masih menyimpan dingin dan ayam belum berkokok, kami berempat duduk berdesakan di ruang tengah: Bapak, Ibu, Ardi, dan aku. Mas Aji tidak ada; ia tinggal di Wonosari dan hanya pulang kalau libur. Ibu menyiapkan nasi hangat, sambal tempe, telur dadar, dan sepiring tiwul yang tidak dimakan siapa pun kecuali Bapak. Kami makan nyaris tanpa bicara. Aku merasa canggung memegang sendok pada jam itu.
+Jadi aku ikut sahur. Pukul setengah empat pagi, ketika tanah masih menyimpan dingin dan ayam belum berkokok, kami berempat duduk berdesakan di ruang tengah: Bapak, Ibu, Ardi, dan aku. Mas Eko tidak ada; ia tinggal di Wonosari dan hanya pulang kalau libur. Ibu menyiapkan nasi hangat, sambal tempe, telur dadar, dan sepiring tiwul yang tidak dimakan siapa pun kecuali Bapak. Kami makan nyaris tanpa bicara. Aku merasa canggung memegang sendok pada jam itu.
 
 Pada siang hari, di dapur, aku makan sendirian dengan cara yang diam-diam. Aku makan nasi cadong, nasi sisa sahur, sambil berdiri di dekat tungku, menghadap dinding, seperti pencuri di rumah sendiri.
 
@@ -1431,11 +1431,11 @@ Dua tahun terakhir di SMP lewat seperti halaman buku yang dibalik terlalu cepat.
 
 Aku tidak lagi dipanggil Wulan Bulan. Rina yang pertama berhenti. Dimas yang terakhir, dan ia melakukannya dengan mengucapkan namaku penuh pada suatu pagi tanpa alasan, lalu menghilang ke kantin sebelum aku sempat berkomentar.
 
-Tapi bagian yang paling besar dari tahun-tahun itu bukan milikku. Itu milik Mas Aji.
+Tapi bagian yang paling besar dari tahun-tahun itu bukan milikku. Itu milik Mas Eko.
 
 ---
 
-Mas Aji berhenti sekolah pada Februari 2016, di bangku kelas sebelas SMA, dengan cara yang tidak menyisakan ruang untuk dibujuk.
+Mas Eko berhenti sekolah pada Februari 2016, di bangku kelas sebelas SMA, dengan cara yang tidak menyisakan ruang untuk dibujuk.
 
 Ia pulang ke Pucung pada Sabtu sore dengan ransel di punggung dan wajah orang yang sudah memutuskan, dan menaruh ransel itu di lantai ruang tengah di depan Bapak dan Ibu. Aku duduk di tikar dengan buku IPA di pangkuan, pura-pura membaca.
 
@@ -1447,9 +1447,9 @@ Bapak tidak menjawab.
 
 "Sekolahmu piye?" Suara Ibu sangat tipis.
 
-"Ora popo. Aku ora pinter, Bu. Wulan sing pinter. Aku mung gawe boros." Mas Aji berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, kuwi kabeh... aku ngerti awake dhewe durung cukup. Pakdhe Harjo uga wis utang go cincin Ibu."
+"Ora popo. Aku ora pinter, Bu. Wulan sing pinter. Aku mung gawe boros." Mas Eko berhenti, dan aku bisa melihat jakunnya naik turun, sebelum ia menambahkan dengan lebih rendah: "Obate Wulan, kontrole, kuwi kabeh... aku ngerti awake dhewe durung cukup. Pakdhe Harjo uga wis utang go cincin Ibu."
 
-"Kuwi dudu urusanmu, Ji."
+"Kuwi dudu urusanmu, Le."
 
 "Kuwi urusanku, Bu."
 
@@ -1463,7 +1463,7 @@ Hening yang menyusul begitu panjang sehingga aku bisa mendengar ayam bertengkar 
 
 "Dudu nglarang, Pak. Nyuwun pangestu."
 
-Bapak menunduk. Lama. Bapak memandangi tangannya sendiri, tangan yang retak dan kasar, yang pernah menyentuh kambing yang dijual dan sapi yang ditatap dari jauh. Lalu Bapak mengulurkan tangan kanannya, dan Mas Aji menyambutnya, dan menciumnya, dan di antara kedua laki-laki itu, yang tidak pernah belajar mengucapkan hal yang mereka rasakan, terjadi sesuatu yang lebih jelas daripada kalimat mana pun.
+Bapak menunduk. Lama. Bapak memandangi tangannya sendiri, tangan yang retak dan kasar, yang pernah menyentuh kambing yang dijual dan sapi yang ditatap dari jauh. Lalu Bapak mengulurkan tangan kanannya, dan Mas Eko menyambutnya, dan menciumnya, dan di antara kedua laki-laki itu, yang tidak pernah belajar mengucapkan hal yang mereka rasakan, terjadi sesuatu yang lebih jelas daripada kalimat mana pun.
 
 "Ngati-ati," kata Bapak. "Jaga adhimu seko kono."
 
@@ -1473,7 +1473,7 @@ Aku menutup buku. Di antara halaman-halamannya, dengan huruf kecil yang tidak ak
 
 ---
 
-Malam sebelum Mas Aji berangkat, ia mengetuk pintu kamarku. Ia membawa sesuatu yang dibungkus kain, dan menyodorkannya tanpa menatapku.
+Malam sebelum Mas Eko berangkat, ia mengetuk pintu kamarku. Ia membawa sesuatu yang dibungkus kain, dan menyodorkannya tanpa menatapku.
 
 "Ini."
 
@@ -1481,21 +1481,21 @@ Aku membuka bungkusan itu. Sebuah radio kecil, sebesar buku saku, dengan antena 
 
 "Seko ngendi, Mas?"
 
-"Tuku bekas. Neng pasar Wonosari. Aja takon regane." Mas Aji menggaruk tengkuk. "Jare iso entuk siaran seko adoh. Kutha-kutha. Kowe kan seneng ndengerke."
+"Tuku bekas. Neng pasar Wonosari. Aja takon regane." Mas Eko menggaruk tengkuk. "Jare iso entuk siaran seko adoh. Kutha-kutha. Kowe kan seneng ndengerke."
 
 "Mas ngerti aku seneng ndengerke?"
 
-"Saben bengi kowe lungguh neng jendela, ndengerke radio Pak Karto seko ngarep." Mas Aji masih tidak menatapku. "Kowe kira aku ora weruh?"
+"Saben bengi kowe lungguh neng jendela, ndengerke radio Pak Karto seko ngarep." Mas Eko masih tidak menatapku. "Kowe kira aku ora weruh?"
 
 Aku memegang radio itu. Ia hangat, seakan baru dipegang orang. Antenanya sedikit goyah.
 
 "Mas," kataku. "Matur nuwun."
 
-"Ora sah matur nuwun. Ndengerke wae." Mas Aji berbalik menuju pintu, lalu berhenti dengan punggung menghadapku. "Dek. Kowe kudu sekolah dhuwur-dhuwur. Nek perlu tekan manca negara. Ben aku ora sia-sia."
+"Ora sah matur nuwun. Ndengerke wae." Mas Eko berbalik menuju pintu, lalu berhenti dengan punggung menghadapku. "Dek. Kowe kudu sekolah dhuwur-dhuwur. Nek perlu tekan manca negara. Ben aku ora sia-sia."
 
 "Mas ora sia-sia."
 
-"Ora ono sing ngomong ngono, tapi aku ngerti." Mas Aji keluar dan menutup pintu pelan.
+"Ora ono sing ngomong ngono, tapi aku ngerti." Mas Eko keluar dan menutup pintu pelan.
 
 Aku menyalakan radio itu malam itu, dan memutar tombolnya pelan-pelan, melewati dengungan dan serakan, sampai kudengar sebuah suara perempuan berbicara dalam bahasa yang tidak kukenal, dari kota yang tidak pernah kulihat. Aku mendengarkannya selama satu jam.
 
@@ -1637,7 +1637,7 @@ Tidak ada yang tidur di warung. Tapi semua orang percaya bahwa Bu Haji sanggup.
 
 Uangku habis pada minggu ketiga.
 
-Aku tidak bermaksud membiarkannya. Aku sudah menghitung semuanya di buku catatan, di halaman yang biasanya untuk pertanyaan: tiga puluh ribu untuk transportasi kontrol tiap tiga bulan, sisanya untuk makan. Kos sudah dibayar enam bulan di muka dari bantuan Program Indonesia Pintar yang masuk ke rekening yang dibuatkan Bu Ratmi, dan aku menurut ketika Bu Ratmi menyarankannya. Mas Aji sudah mengirim lima ratus ribu dari Batam di awal bulan. Ibu mengirim beras dan tiwul lewat bus setiap dua minggu.
+Aku tidak bermaksud membiarkannya. Aku sudah menghitung semuanya di buku catatan, di halaman yang biasanya untuk pertanyaan: tiga puluh ribu untuk transportasi kontrol tiap tiga bulan, sisanya untuk makan. Kos sudah dibayar enam bulan di muka dari bantuan Program Indonesia Pintar yang masuk ke rekening yang dibuatkan Bu Ratmi, dan aku menurut ketika Bu Ratmi menyarankannya. Mas Eko sudah mengirim lima ratus ribu dari Batam di awal bulan. Ibu mengirim beras dan tiwul lewat bus setiap dua minggu.
 
 Tapi rencana yang rapi biasanya tidak memperhitungkan nafsu makan anak lima belas tahun yang sedang tumbuh. Atau tidak memperhitungkan harga telur yang naik. Atau tidak memperhitungkan bahwa aku, yang terlalu lama dipelihara oleh rasa sungkan, tidak sanggup meminta tambahan.
 
@@ -1855,15 +1855,15 @@ Dari jendela, lewat tembok rumah sebelah, aku mendengar radio Tika yang menyiark
 
 # Bab 12 — Gelombang yang Dipilih
 
-Radio dari Mas Aji berhenti bicara pada hari pertama bulan Agustus, di tengah lagu yang kutunggu-tunggu sepanjang minggu. Ia berdesis, lalu berderak, lalu diam.
+Radio dari Mas Eko berhenti bicara pada hari pertama bulan Agustus, di tengah lagu yang kutunggu-tunggu sepanjang minggu. Ia berdesis, lalu berderak, lalu diam.
 
 Aku memutar tombolnya. Aku mengetuk bagian belakangnya. Aku meniupnya, seperti orang meniup kartu remi yang macet. Tak ada gunanya. Sebuah suara terakhir yang mirip suara orang bersin keluar dari pengeras suaranya, dan setelah itu hanya sunyi.
 
 "Dibuang saja," kata Tika, tanpa menoleh dari buku catatannya. "Itu radio zaman Majapahit."
 
-"Itu radio Mas Aji."
+"Itu radio Mas Eko."
 
-"Itu radio Majapahit milik Mas Aji."
+"Itu radio Majapahit milik Mas Eko."
 
 "Aku mau memperbaikinya."
 
@@ -2434,7 +2434,7 @@ Ibu tidak menyelesaikan kalimatnya. Dan aku, di ranjang dengan jarum infus di le
 
 Orang Islam dimakamkan secepat mungkin, dan itu berarti Mbah Darmi sudah berada di dalam tanah ketika aku mendengar kabarnya, dan sudah berada di dalam tanah ketika Ibu naik bus pertama, dan sudah berada di dalam tanah ketika aku, di bangsal rumah sakit dengan jarum di lengan, menatap langit-langit dan menghitung ubin yang tidak berbentuk pulau.
 
-Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak bisa menangis. Bapak, yang tiba dari Pucung dengan sepeda motor malam sebelumnya, tidak sempat berbicara denganku. Mas Aji menelepon dari Batam lewat nomor Pak Hasan, dengan suara yang pecah di setiap kalimat.
+Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak bisa menangis. Bapak, yang tiba dari Pucung dengan sepeda motor malam sebelumnya, tidak sempat berbicara denganku. Mas Eko menelepon dari Batam lewat nomor Pak Hasan, dengan suara yang pecah di setiap kalimat.
 
 "Dek, aku ora iso mulih. Tikete entek. Sesuk esuk lagi ono. Mbah wis dimakamke awan mau."
 
@@ -2444,7 +2444,7 @@ Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak 
 
 "Aku arep mulih, Mas."
 
-"Kowe ora oleh." Mas Aji terdiam sebentar. Dari telepon aku bisa mendengar suara mesin besar di kejauhan, deru dan dentang. "Dek. Dokter ngomong opo?"
+"Kowe ora oleh." Mas Eko terdiam sebentar. Dari telepon aku bisa mendengar suara mesin besar di kejauhan, deru dan dentang. "Dek. Dokter ngomong opo?"
 
 "Dokter ngomong ora oleh."
 
@@ -2452,7 +2452,7 @@ Ibu pergi pukul enam pagi, dengan tas kain yang sama dan wajah yang sudah tidak 
 
 "Mbah..." Aku tidak bisa menyelesaikan kalimat.
 
-"Aku ngerti." Suara Mas Aji, yang tak pernah tahu cara mengatakan apa yang ia rasakan, mengatakannya tanpa kata. "Aku ngerti, Dek."
+"Aku ngerti." Suara Mas Eko, yang tak pernah tahu cara mengatakan apa yang ia rasakan, mengatakannya tanpa kata. "Aku ngerti, Dek."
 
 Kami tidak berbicara lama. Tapi kami berdua diam di telepon selama dua menit penuh sebelum sambungan terputus, dan aku menggenggam gagang itu lama sesudahnya.
 
@@ -2782,7 +2782,7 @@ Sekolah daring di Pucung adalah komedi yang tidak lucu.
 
 Di seluruh dusun, hanya ada satu tempat yang bisa menangkap sinyal ponsel dengan layak, yaitu puncak bukit kapur di belakang rumah Pak Hasan, yang oleh anak-anak disebut Bukit Sinyal. Kami harus mendakinya lewat jalur berbatu selama dua puluh menit. Di puncaknya ada sebuah pohon jati besar dan satu batu datar yang cukup untuk dua orang.
 
-Setiap pagi pukul tujuh, aku mendaki Bukit Sinyal dengan ponsel di tangan, payung Mbah di tangan lainnya, dan ransel berisi buku dan botol air. Aku tidak punya ponsel pintar sampai hari itu. Mas Aji mengirimkannya dari Batam dua minggu sebelumnya, ponsel bekas dengan layar retak di sudut dan baterai yang cepat habis, dengan secarik kertas yang diselipkan di kotak: *Buat belajar. Jangan buat main.*
+Setiap pagi pukul tujuh, aku mendaki Bukit Sinyal dengan ponsel di tangan, payung Mbah di tangan lainnya, dan ransel berisi buku dan botol air. Aku tidak punya ponsel pintar sampai hari itu. Mas Eko mengirimkannya dari Batam dua minggu sebelumnya, ponsel bekas dengan layar retak di sudut dan baterai yang cepat habis, dengan secarik kertas yang diselipkan di kotak: *Buat belajar. Jangan buat main.*
 
 Aku belajar menyalakan kamera, mengatur mikrofon, menekan tombol yang tidak kuketahui artinya. Pada hari pertama, Bu Ratmi, yang mengajar kami lewat layar dan tampak seperti orang yang mengutuk teknologi dengan setengah hati, berkata dengan suara terputus-putus: "Wu... lan... suaramu... pu... tus..."
 
@@ -2991,7 +2991,7 @@ Di layar, seorang perempuan muda berkerudung hijau tersenyum ramah dari ruangan 
 
 "Boleh Mbak sebutkan siapa saja yang tinggal di rumah?"
 
-Aku menyebutkan. Bapak, Ibu, Mas Aji yang bekerja di Batam, adikku Ardi yang baru masuk SMP. Ia mencatat. Ia bertanya tentang pekerjaan Bapak dan Ibu, tentang jumlah tanah yang dimiliki, tentang apakah ada kendaraan, tentang berapa uang bulanan yang diterima dari Mas Aji. Aku menjawab dengan jujur dan datar, seperti membacakan daftar belanja.
+Aku menyebutkan. Bapak, Ibu, Mas Eko yang bekerja di Batam, adikku Ardi yang baru masuk SMP. Ia mencatat. Ia bertanya tentang pekerjaan Bapak dan Ibu, tentang jumlah tanah yang dimiliki, tentang apakah ada kendaraan, tentang berapa uang bulanan yang diterima dari Mas Eko. Aku menjawab dengan jujur dan datar, seperti membacakan daftar belanja.
 
 "Sekarang, boleh saya minta Mbak memperlihatkan rumahnya lewat kamera?"
 
@@ -3975,7 +3975,7 @@ Ruangan itu sunyi. Dr. Anindya menatapnya lama.
 
 Aku mengepalkan tanganku di bawah meja, kuku menekan telapak. Aku tidak menoleh.
 
-Malam itu, di kamar kos, aku menyalakan radio kecil dari Mas Aji, dengan antena dari Naufal, dan memutar tombolnya pelan sekali, sampai kutemukan sebuah suara yang lemah dan jauh. Aku mendengarkannya sampai pagi, tanpa menangis, hanya duduk di dalam gelap dengan buku catatan terbuka di pangkuanku, dan menulis di halaman yang kosong, dengan pensil:
+Malam itu, di kamar kos, aku menyalakan radio kecil dari Mas Eko, dengan antena dari Naufal, dan memutar tombolnya pelan sekali, sampai kutemukan sebuah suara yang lemah dan jauh. Aku mendengarkannya sampai pagi, tanpa menangis, hanya duduk di dalam gelap dengan buku catatan terbuka di pangkuanku, dan menulis di halaman yang kosong, dengan pensil:
 
 *Yang pertama pergi sendiri. Yang ini aku yang memilih.*
 
@@ -4381,7 +4381,7 @@ Ia mengangguk di balik kertas.
 
 Wisuda berlangsung pada hari Sabtu di bulan Agustus 2024, di aula besar kampus, dengan sembilan ratus wisudawan dan jilbab ungu muda yang mulai terasa seperti seragam. Aku lulus dengan nilai tinggi yang membuat Dr. Anindya mengangkat alis, seperti biasa.
 
-Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam pinjaman dari Pak Dukuh, yang kebesaran di bagian pinggang dan harus ditahan dengan ikat pinggang yang ia lubangi sendiri. Ibu memakai kebaya hijau tua, dengan sanggul kecil yang disanggulkan Tika pagi itu, dan matanya menyapu aula dengan ketakutan seperti seseorang yang tersesat di sebuah pasar besar. Ardi, enam belas tahun, tinggi dan kurus dan malu, memegang tangan Ibu dan berpura-pura tidak peduli. Mas Aji, yang tiba dari Batam dua hari sebelumnya dengan bus dan kapal, menangis tanpa suara sejak pembukaan.
+Seluruh keluargaku datang. Bapak mengenakan kemeja putih dan celana kain hitam pinjaman dari Pak Dukuh, yang kebesaran di bagian pinggang dan harus ditahan dengan ikat pinggang yang ia lubangi sendiri. Ibu memakai kebaya hijau tua, dengan sanggul kecil yang disanggulkan Tika pagi itu, dan matanya menyapu aula dengan ketakutan seperti seseorang yang tersesat di sebuah pasar besar. Ardi, enam belas tahun, tinggi dan kurus dan malu, memegang tangan Ibu dan berpura-pura tidak peduli. Mas Eko, yang tiba dari Batam dua hari sebelumnya dengan bus dan kapal, menangis tanpa suara sejak pembukaan.
 
 "Aku ora nangis," katanya, ketika aku menegurnya. "Kuwi bledug."
 
@@ -4532,7 +4532,7 @@ Tika menaruh mangkuk di meja dan duduk di sampingku. Ia hanya menunggu aku seles
 
 "Aku tahu."
 
-"Uang itu dari Mas Aji. Dari uang sapi. Dari les." Suaraku bergetar. "Aku tidak boleh mengulang lagi."
+"Uang itu dari Mas Eko. Dari uang sapi. Dari les." Suaraku bergetar. "Aku tidak boleh mengulang lagi."
 
 "Boleh." Tika menyodorkan sumpit. "Makan dulu."
 
@@ -4696,7 +4696,7 @@ Mbok Karni memelukku sampai tulang rusukku sakit. Pak Modin mendoakanku. Budhe P
 
 "Aku mung ngomong."
 
-Mas Aji tidak bisa pulang, tetapi ia mengirim pesan dengan banyak huruf yang salah: *DEK, INGGRIS ITU DI MANA? Mas cari di peta. Jauh banget. BAGUS. Mas nggak sia2.* Ardi memelukku dengan canggung dan tidak berkata apa-apa. Bapak hanya berdiri di pinggir jalan dengan tas besar di tangannya, yang Bapak bawa dari rumah sampai jalan besar, meski tas itu bisa kubawa sendiri.
+Mas Eko tidak bisa pulang, tetapi ia mengirim pesan dengan banyak huruf yang salah: *DEK, INGGRIS ITU DI MANA? Mas cari di peta. Jauh banget. BAGUS. Mas nggak sia2.* Ardi memelukku dengan canggung dan tidak berkata apa-apa. Bapak hanya berdiri di pinggir jalan dengan tas besar di tangannya, yang Bapak bawa dari rumah sampai jalan besar, meski tas itu bisa kubawa sendiri.
 
 Ibu berdiri paling dekat. Ibu menyodorkan kaleng biskuit kecil, kaleng yang sama, yang dulu diberikannya saat aku berangkat ke SMA.
 
@@ -6080,7 +6080,7 @@ Aku merasa sesuatu pecah di dalam dadaku, sesuatu yang telah menahan selama enam
 
 Bapak menunduk. Bahunya bergetar, hanya sedikit, nyaris tak terlihat. Dan aku, yang tidak pernah melihat Bapak menangis, tidak berani menatapnya.
 
-Dokter Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Aji, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
+Dokter Suryo menyelesaikan pemeriksaan keluarga seminggu kemudian. Bapak tidak lolos: tekanan darah, rokok, dan hasil jantung yang tidak memadai. Mas Eko, yang pulang dari Batam dengan wajah kuyu dan koper kecil, ternyata memiliki golongan darah yang tidak cocok. Ardi, yang tak sabar mengajukan diri, kuhalangi dengan tangan terentang di pintu laboratorium.
 
 "Kowe kuliah," kataku. "Kowe isih kudu kuliah."
 
@@ -6378,7 +6378,7 @@ Ketika aku mengangkat kepala, hujan di jendela sudah berhenti.
 
 Aku mengerjakan persiapannya seperti mengerjakan semua yang pernah kupercayakan pada tanganku: pelan. Aku memeriksa tiap tabung dua kali. Aku mencatat tiap tindakan di buku catatan, di kolom yang kuberi judul sendiri, dan di tiap kolom itu aku menuliskan tanggal, waktu, dan sebuah kata yang telah menjadi doaku: *Jujur.*
 
-Pukul sebelas malam, aku duduk di kursi di dekat jendela, dengan lengan kananku terbuka di bawah lampu. Radio kecil dari Mas Aji, dengan antena dari Naufal, kunyalakan dengan volume paling pelan di sebelahku. Ia berdesis. Di antara desisnya, entah dari mana, ada sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, lemah dan jauh dan sangat tenang.
+Pukul sebelas malam, aku duduk di kursi di dekat jendela, dengan lengan kananku terbuka di bawah lampu. Radio kecil dari Mas Eko, dengan antena dari Naufal, kunyalakan dengan volume paling pelan di sebelahku. Ia berdesis. Di antara desisnya, entah dari mana, ada sebuah suara perempuan yang membacakan sesuatu dalam bahasa yang tak kukenal, lemah dan jauh dan sangat tenang.
 
 *Dengar yang lemah. Terus.*
 
@@ -6625,7 +6625,7 @@ Bapak datang pada malam harinya, dari ladang, dengan cangkul di bahu dan celana 
 
 "Tapi Bapak seneng." Bapak menunduk, dan aku melihat bahunya turun, seperti beban yang akhirnya diizinkan untuk dilepas. "Bapak seneng banget, Nduk."
 
-Mas Aji tiba dua hari kemudian dengan satu kotak besar ikan asin dari Batam dan wajah yang kuyu dan basah. Ia tidak berkata apa-apa. Ia memelukku di tengah halaman dengan gerak canggung dan kikuk dan terlalu kuat, dan baru melepaskanku ketika Ardi menegur, "Mas, dheweke isih ginjalan."
+Mas Eko tiba dua hari kemudian dengan satu kotak besar ikan asin dari Batam dan wajah yang kuyu dan basah. Ia tidak berkata apa-apa. Ia memelukku di tengah halaman dengan gerak canggung dan kikuk dan terlalu kuat, dan baru melepaskanku ketika Ardi menegur, "Mas, dheweke isih ginjalan."
 
 "Aku ngerti," katanya. "Kuwi bledug."
 
@@ -6858,7 +6858,7 @@ Aku meletakkan pensil. Aku menutup wajah dengan telapak tangan.
 
 Aku tidak menangis. Aku hanya duduk di sana lama, dengan napas yang naik turun tanpa suara, dan mendengarkan Ibu mendengkur di kamar sebelah, nada yang kuhafal lebih dari nada apa pun.
 
-*Aku harus merekamnya.* Pikiran itu muncul jernih, seperti lampu yang dinyalakan. *Aku harus merekam suara Ibu. Dan Bapak. Dan Tika. Dan Mas Aji. Sebelum aku lupa yang sama.*
+*Aku harus merekamnya.* Pikiran itu muncul jernih, seperti lampu yang dinyalakan. *Aku harus merekam suara Ibu. Dan Bapak. Dan Tika. Dan Mas Eko. Sebelum aku lupa yang sama.*
 
 ---
 
@@ -7635,7 +7635,7 @@ Aku berdiri di sana lama sekali.
 
 Di timur, langit mulai berubah. Pertama kelabu, lalu merah muda pucat, lalu kuning keemasan yang menyentuh puncak gelombang satu per satu, seperti seseorang menyalakan lampu-lampu kecil di sepanjang batas dunia. Matahari belum terbit. Tapi ia sedang datang. Aku bisa merasakannya di kulit, hangat tipis yang belum cukup untuk melukai.
 
-Aku berpikir tentang waktu. Bukan sepuluh tahun. Bukan delapan sampai sepuluh. Sesuatu yang lebih panjang dan tak punya angka. Aku berpikir tentang Ibu dan Bapak, yang suatu hari akan berhenti dan menjadi sesuatu yang kutulis di buku catatan. Aku berpikir tentang Tika yang akan menua dan Ardi yang akan menikah dan Mas Aji yang akan pulang dari Batam dengan rambut putih. Aku berpikir tentang seseorang yang berdiri di pantai yang sama empat puluh tahun lagi, dengan wajah yang sama, sendirian, dan mencatat.
+Aku berpikir tentang waktu. Bukan sepuluh tahun. Bukan delapan sampai sepuluh. Sesuatu yang lebih panjang dan tak punya angka. Aku berpikir tentang Ibu dan Bapak, yang suatu hari akan berhenti dan menjadi sesuatu yang kutulis di buku catatan. Aku berpikir tentang Tika yang akan menua dan Ardi yang akan menikah dan Mas Eko yang akan pulang dari Batam dengan rambut putih. Aku berpikir tentang seseorang yang berdiri di pantai yang sama empat puluh tahun lagi, dengan wajah yang sama, sendirian, dan mencatat.
 
 Aku tidak merasa takut. Aku hanya merasa sangat kecil dan sangat panjang, sekaligus.
 
@@ -7708,11 +7708,11 @@ Aku menunduk, dengan telapak tangan di mulutku, dan membiarkan sesuatu jatuh di 
 
 Ardi diwisuda bulan Agustus lalu. Aku belum menuliskannya.
 
-Ia lulus dari politeknik dengan beasiswa yang sama dengan yang pernah kuterima, dengan nilai yang membuat dosennya, kata Ardi, mengangkat alis dan tidak mengatakan apa-apa. Bapak memakai kemeja putih yang pas di badannya, kemeja yang dibelikan Mas Aji dari Batam, dengan ikat pinggang yang tidak perlu dilubangi sendiri. Ia berdiri di barisan keluarga dan bertepuk tangan terlalu keras, terlalu lama, dan terlalu tidak seirama. Ibu menangis tanpa suara, lalu berhenti, lalu berkata, "Kok kuru," dan itu satu-satunya komentarnya.
+Ia lulus dari politeknik dengan beasiswa yang sama dengan yang pernah kuterima, dengan nilai yang membuat dosennya, kata Ardi, mengangkat alis dan tidak mengatakan apa-apa. Bapak memakai kemeja putih yang pas di badannya, kemeja yang dibelikan Mas Eko dari Batam, dengan ikat pinggang yang tidak perlu dilubangi sendiri. Ia berdiri di barisan keluarga dan bertepuk tangan terlalu keras, terlalu lama, dan terlalu tidak seirama. Ibu menangis tanpa suara, lalu berhenti, lalu berkata, "Kok kuru," dan itu satu-satunya komentarnya.
 
 Mbok Karni datang dengan tongkat. Pak Dukuh datang dengan peci yang miring ke kiri. Pak Karto tidak sempat. Ia meninggal dalam tidur pada bulan Juni, dengan radio kecil di pangkuannya yang masih menyala.
 
-Aku menyimpan radio itu sekarang. Ia berada di jendela kamar kosku di Yogyakarta, di samping radio dari Mas Aji. Aku tidak tahu apakah ia masih berfungsi. Aku belum berani menyalakannya.
+Aku menyimpan radio itu sekarang. Ia berada di jendela kamar kosku di Yogyakarta, di samping radio dari Mas Eko. Aku tidak tahu apakah ia masih berfungsi. Aku belum berani menyalakannya.
 
 Aku menyimpan pertanyaan yang tak sempat kukembalikan. Satu per satu. Aku menuliskannya di halaman belakang buku catatan, dalam daftar yang panjang, dengan tanggal. Itu pertanyaan-pertanyaan yang belum selesai, dan aku ingin ada seseorang, suatu hari, yang membacanya sampai habis.
 

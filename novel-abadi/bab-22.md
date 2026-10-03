@@ -252,6 +252,6 @@ Ruangan itu sunyi. Dr. Anindya menatapnya lama.
 
 Aku mengepalkan tanganku di bawah meja, kuku menekan telapak. Aku tidak menoleh.
 
-Malam itu, di kamar kos, aku menyalakan radio kecil dari Mas Aji, dengan antena dari Naufal, dan memutar tombolnya pelan sekali, sampai kutemukan sebuah suara yang lemah dan jauh. Aku mendengarkannya sampai pagi, tanpa menangis, hanya duduk di dalam gelap dengan buku catatan terbuka di pangkuanku, dan menulis di halaman yang kosong, dengan pensil:
+Malam itu, di kamar kos, aku menyalakan radio kecil dari Mas Eko, dengan antena dari Naufal, dan memutar tombolnya pelan sekali, sampai kutemukan sebuah suara yang lemah dan jauh. Aku mendengarkannya sampai pagi, tanpa menangis, hanya duduk di dalam gelap dengan buku catatan terbuka di pangkuanku, dan menulis di halaman yang kosong, dengan pensil:
 
 *Yang pertama pergi sendiri. Yang ini aku yang memilih.*

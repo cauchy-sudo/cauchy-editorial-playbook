@@ -104,7 +104,7 @@ Di layar, seorang perempuan muda berkerudung hijau tersenyum ramah dari ruangan 
 
 "Boleh Mbak sebutkan siapa saja yang tinggal di rumah?"
 
-Aku menyebutkan. Bapak, Ibu, Mas Aji yang bekerja di Batam, adikku Ardi yang baru masuk SMP. Ia mencatat. Ia bertanya tentang pekerjaan Bapak dan Ibu, tentang jumlah tanah yang dimiliki, tentang apakah ada kendaraan, tentang berapa uang bulanan yang diterima dari Mas Aji. Aku menjawab dengan jujur dan datar, seperti membacakan daftar belanja.
+Aku menyebutkan. Bapak, Ibu, Mas Eko yang bekerja di Batam, adikku Ardi yang baru masuk SMP. Ia mencatat. Ia bertanya tentang pekerjaan Bapak dan Ibu, tentang jumlah tanah yang dimiliki, tentang apakah ada kendaraan, tentang berapa uang bulanan yang diterima dari Mas Eko. Aku menjawab dengan jujur dan datar, seperti membacakan daftar belanja.
 
 "Sekarang, boleh saya minta Mbak memperlihatkan rumahnya lewat kamera?"
 

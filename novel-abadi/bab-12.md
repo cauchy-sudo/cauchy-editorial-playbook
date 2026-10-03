@@ -1,14 +1,14 @@
 # Bab 12 — Gelombang yang Dipilih
 
-Radio dari Mas Aji berhenti bicara pada hari pertama bulan Agustus, di tengah lagu yang kutunggu-tunggu sepanjang minggu. Ia berdesis, lalu berderak, lalu diam.
+Radio dari Mas Eko berhenti bicara pada hari pertama bulan Agustus, di tengah lagu yang kutunggu-tunggu sepanjang minggu. Ia berdesis, lalu berderak, lalu diam.
 
 Aku memutar tombolnya. Aku mengetuk bagian belakangnya. Aku meniupnya, seperti orang meniup kartu remi yang macet. Tak ada gunanya. Sebuah suara terakhir yang mirip suara orang bersin keluar dari pengeras suaranya, dan setelah itu hanya sunyi.
 
 "Dibuang saja," kata Tika, tanpa menoleh dari buku catatannya. "Itu radio zaman Majapahit."
 
-"Itu radio Mas Aji."
+"Itu radio Mas Eko."
 
-"Itu radio Majapahit milik Mas Aji."
+"Itu radio Majapahit milik Mas Eko."
 
 "Aku mau memperbaikinya."
 

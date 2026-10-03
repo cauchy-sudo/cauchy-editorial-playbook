@@ -91,9 +91,9 @@ Latar: Gunungkidul, anak desa kelahiran sekitar 2000–2002. Prinsip: bahasa men
 
 **Di rumah dan di dusun: Jawa**
 - **Bapak, Ibu, Mbah kepada Wulan:** Jawa ngoko yang halus, bukan krama dan bukan kasar (*Mangan sik, Nduk. Ora popo. Ndang turu.*).
-- **Wulan, Mas Aji, Ardi kepada Bapak, Ibu, Mbah:** ngoko halus dengan sapaan hormat dan partikel sopan (*Nggih, Bu. Ora popo, Pak. Matur nuwun, Mbah.*). **Jangan krama berat** (*kula, mboten, badhe, dhateng, sampun*) kecuali jarang, kepada orang yang sangat dituakan di luar keluarga (Pak Dukuh).
+- **Wulan, Mas Eko, Ardi kepada Bapak, Ibu, Mbah:** ngoko halus dengan sapaan hormat dan partikel sopan (*Nggih, Bu. Ora popo, Pak. Matur nuwun, Mbah.*). **Jangan krama berat** (*kula, mboten, badhe, dhateng, sampun*) kecuali jarang, kepada orang yang sangat dituakan di luar keluarga (Pak Dukuh).
 - **Ibu kepada Mbah:** ngoko halus; krama hanya sesekali.
-- **Kakak-adik (Wulan, Mas Aji, Ardi):** ngoko.
+- **Kakak-adik (Wulan, Mas Eko, Ardi):** ngoko.
 - **Teman kampung di dusun (Tika, Dimas, anak SD):** campuran Jawa-Indonesia atau ngoko. Tika dewasa di Pucung bersama Wulan: ngoko.
 - **Tetangga dan orang tua dusun** (Mbok Karni, Pak Dukuh, Pak Mul, Budhe Painem, Pak Hasan): Jawa.
 
@@ -109,4 +109,4 @@ Latar: Gunungkidul, anak desa kelahiran sekitar 2000–2002. Prinsip: bahasa men
 
 **Aturan terjemah:** jangan menerjemahkan kalimat Jawa dalam narasi. Makna ditopang konteks (jawaban Wulan, gerak tubuh, kalimat berikutnya). Pakai kalimat Jawa yang pendek dan umum.
 
-**Narasi dan sapaan:** gunakan nama peran (*Bapak, Ibu, Mbah, Mas Aji, Pak Dukuh*) sebagai subjek kalimat tentang mereka, bukan "ia"; "ia" boleh dipakai di luar keluarga bila tidak ambigu.
+**Narasi dan sapaan:** gunakan nama peran (*Bapak, Ibu, Mbah, Mas Eko, Pak Dukuh*) sebagai subjek kalimat tentang mereka, bukan "ia"; "ia" boleh dipakai di luar keluarga bila tidak ambigu.

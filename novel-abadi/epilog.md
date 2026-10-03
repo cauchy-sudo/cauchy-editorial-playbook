@@ -42,11 +42,11 @@ Aku menunduk, dengan telapak tangan di mulutku, dan membiarkan sesuatu jatuh di 
 
 Ardi diwisuda bulan Agustus lalu. Aku belum menuliskannya.
 
-Ia lulus dari politeknik dengan beasiswa yang sama dengan yang pernah kuterima, dengan nilai yang membuat dosennya, kata Ardi, mengangkat alis dan tidak mengatakan apa-apa. Bapak memakai kemeja putih yang pas di badannya, kemeja yang dibelikan Mas Aji dari Batam, dengan ikat pinggang yang tidak perlu dilubangi sendiri. Ia berdiri di barisan keluarga dan bertepuk tangan terlalu keras, terlalu lama, dan terlalu tidak seirama. Ibu menangis tanpa suara, lalu berhenti, lalu berkata, "Kok kuru," dan itu satu-satunya komentarnya.
+Ia lulus dari politeknik dengan beasiswa yang sama dengan yang pernah kuterima, dengan nilai yang membuat dosennya, kata Ardi, mengangkat alis dan tidak mengatakan apa-apa. Bapak memakai kemeja putih yang pas di badannya, kemeja yang dibelikan Mas Eko dari Batam, dengan ikat pinggang yang tidak perlu dilubangi sendiri. Ia berdiri di barisan keluarga dan bertepuk tangan terlalu keras, terlalu lama, dan terlalu tidak seirama. Ibu menangis tanpa suara, lalu berhenti, lalu berkata, "Kok kuru," dan itu satu-satunya komentarnya.
 
 Mbok Karni datang dengan tongkat. Pak Dukuh datang dengan peci yang miring ke kiri. Pak Karto tidak sempat. Ia meninggal dalam tidur pada bulan Juni, dengan radio kecil di pangkuannya yang masih menyala.
 
-Aku menyimpan radio itu sekarang. Ia berada di jendela kamar kosku di Yogyakarta, di samping radio dari Mas Aji. Aku tidak tahu apakah ia masih berfungsi. Aku belum berani menyalakannya.
+Aku menyimpan radio itu sekarang. Ia berada di jendela kamar kosku di Yogyakarta, di samping radio dari Mas Eko. Aku tidak tahu apakah ia masih berfungsi. Aku belum berani menyalakannya.
 
 Aku menyimpan pertanyaan yang tak sempat kukembalikan. Satu per satu. Aku menuliskannya di halaman belakang buku catatan, dalam daftar yang panjang, dengan tanggal. Itu pertanyaan-pertanyaan yang belum selesai, dan aku ingin ada seseorang, suatu hari, yang membacanya sampai habis.
 

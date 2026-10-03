@@ -122,7 +122,7 @@ Aku menyampaikannya pada Ibu, dan Ibu mengangguk seakan itu bukan masalah, dan a
 
 "Kowe lara, Nduk. Kuwi dudu dosa. Kuwi mung lara."
 
-Jadi aku ikut sahur. Pukul setengah empat pagi, ketika tanah masih menyimpan dingin dan ayam belum berkokok, kami berempat duduk berdesakan di ruang tengah: Bapak, Ibu, Ardi, dan aku. Mas Aji tidak ada; ia tinggal di Wonosari dan hanya pulang kalau libur. Ibu menyiapkan nasi hangat, sambal tempe, telur dadar, dan sepiring tiwul yang tidak dimakan siapa pun kecuali Bapak. Kami makan nyaris tanpa bicara. Aku merasa canggung memegang sendok pada jam itu.
+Jadi aku ikut sahur. Pukul setengah empat pagi, ketika tanah masih menyimpan dingin dan ayam belum berkokok, kami berempat duduk berdesakan di ruang tengah: Bapak, Ibu, Ardi, dan aku. Mas Eko tidak ada; ia tinggal di Wonosari dan hanya pulang kalau libur. Ibu menyiapkan nasi hangat, sambal tempe, telur dadar, dan sepiring tiwul yang tidak dimakan siapa pun kecuali Bapak. Kami makan nyaris tanpa bicara. Aku merasa canggung memegang sendok pada jam itu.
 
 Pada siang hari, di dapur, aku makan sendirian dengan cara yang diam-diam. Aku makan nasi cadong, nasi sisa sahur, sambil berdiri di dekat tungku, menghadap dinding, seperti pencuri di rumah sendiri.
 
