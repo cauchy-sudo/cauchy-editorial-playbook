@@ -41,12 +41,13 @@
       <div class="section-heading"><div><span class="eyebrow accent">AKSES CEPAT</span><h2 id="prompt-launcher-title">Pusat Prompt</h2></div><span class="section-note">Pilih peran untuk membuka prompt yang diperlukan</span></div>
       <p class="prompt-launcher-intro">Langsung menuju prompt pemeriksaan, review, atau penyuntingan naskah.</p>
       <div class="prompt-launcher-grid">
-        <button type="button" class="prompt-jump" data-prompt-role="editor"><span class="prompt-jump-number">01</span><strong>Section Editor</strong><small>Pemeriksaan revisi dan keputusan editor</small><span class="prompt-jump-action">Buka prompt ↗</span></button>
-        <button type="button" class="prompt-jump" data-prompt-role="reviewer"><span class="prompt-jump-number">02</span><strong>Reviewer</strong><small>Pemeriksaan naskah dan komentar untuk penulis</small><span class="prompt-jump-action">Buka prompt ↗</span></button>
-        <button type="button" class="prompt-jump" data-prompt-role="copyeditor"><span class="prompt-jump-number">03</span><strong>Copyeditor / Layout</strong><small>Bahasa, format, visual, dan proof akhir</small><span class="prompt-jump-action">Buka prompt ↗</span></button>
+        <button type="button" class="prompt-jump" data-prompt-role="editor" aria-pressed="true"><span class="prompt-jump-number">01</span><strong>Section Editor</strong><small>Pemeriksaan revisi dan keputusan editor</small><span class="prompt-jump-action">Buka prompt ↗</span></button>
+        <button type="button" class="prompt-jump" data-prompt-role="reviewer" aria-pressed="false"><span class="prompt-jump-number">02</span><strong>Reviewer</strong><small>Pemeriksaan naskah dan komentar untuk penulis</small><span class="prompt-jump-action">Buka prompt ↗</span></button>
+        <button type="button" class="prompt-jump" data-prompt-role="copyeditor" aria-pressed="false"><span class="prompt-jump-number">03</span><strong>Copyeditor / Layout</strong><small>Bahasa, format, visual, dan proof akhir</small><span class="prompt-jump-action">Buka prompt ↗</span></button>
       </div>
       <p class="prompt-launcher-note">Setiap prompt menyediakan tombol untuk menyalin teksnya.</p>
     </section>
+    <div id="prompt-library" class="prompt-library" aria-live="polite"></div>
 
     <section id="workflow" class="workflow panel">
       <div class="section-heading"><div><span class="eyebrow accent">ALUR EDITORIAL</span><h2>Dari submission sampai terbit</h2></div><span class="section-note">Estimasi operasional · bukan janji waktu publikasi</span></div>
