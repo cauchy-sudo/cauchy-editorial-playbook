@@ -19,17 +19,28 @@ document.querySelectorAll('.role-card').forEach((card) => {
   });
 });
 
-document.querySelectorAll("[data-prompt-role]").forEach((button) => {
-  button.addEventListener("click", () => {
-    const target = button.dataset.promptRole;
-    document.querySelectorAll(".role-card").forEach((item) => item.classList.toggle("selected", item.dataset.role === target));
-    const tab = document.querySelector(`.tab[data-tab="${target}"]`);
-    if (tab) tab.click();
-    window.setTimeout(() => {
-      document.querySelector(`#${target}-prompts`)?.scrollIntoView({ behavior: "smooth", block: "start" });
-    }, 100);
-  });
+const promptLibrary = document.querySelector("#prompt-library");
+const promptButtons = [...document.querySelectorAll("[data-prompt-role]")];
+const promptPanels = [...document.querySelectorAll(".prompt-guide[id$='-prompts']")];
+
+promptPanels.forEach((panel) => {
+  panel.hidden = true;
+  promptLibrary.append(panel);
 });
+
+const showPrompt = (role) => {
+  const selectedPanel = document.getElementById(`${role}-prompts`);
+  if (!selectedPanel) return;
+  promptPanels.forEach((panel) => { panel.hidden = panel !== selectedPanel; });
+  promptButtons.forEach((button) => {
+    button.setAttribute("aria-pressed", String(button.dataset.promptRole === role));
+  });
+};
+
+promptButtons.forEach((button) => {
+  button.addEventListener("click", () => showPrompt(button.dataset.promptRole));
+});
+showPrompt("editor");
 
 const formatDate = (date) => date.toLocaleDateString('id-ID', { day: '2-digit', month: 'short', year: 'numeric' });
 const parseDate = (value) => value ? new Date(`${value}T12:00:00`) : null;
