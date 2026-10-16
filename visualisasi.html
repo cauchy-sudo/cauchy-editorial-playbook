@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Galeri paper dan latihan penilaian visualisasi ilmiah untuk editor dan reviewer Cauchy.">
+  <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+  <title>Galeri Visualisasi Ilmiah — Cauchy</title>
+  <link rel="stylesheet" href="styles.css?v=20261004b">
+  <link rel="stylesheet" href="visualisasi.css?v=20261016">
+  <script src="visualisasi.js?v=20261016" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="Kembali ke panduan editorial Cauchy"><div class="brand-mark" aria-hidden="true">C</div><div><span class="eyebrow">EDITORIAL PLAYBOOK</span><strong>Cauchy</strong></div></a>
+    <a class="back-link" href="./">← Panduan editorial</a>
+  </header>
+  <main class="shell gallery-shell">
+    <section class="gallery-hero">
+      <div><span class="eyebrow accent">REFERENSI UNTUK EDITOR & REVIEWER</span><h1>Belajar membaca<br>figure yang kuat.</h1><p>Contoh dari paper lintas jurnal untuk menilai kejelasan pesan, kejujuran skala, kelengkapan bukti, dan keterbacaan. Pilih satu paper, buka visualisasinya, lalu gunakan pertanyaan review di setiap kartu.</p></div>
+      <aside class="gallery-summary"><span class="eyebrow">KOLEKSI PILIHAN</span><b>24</b><p>paper dan bacaan pendamping</p><div><span>Nature Portfolio · PLOS · Elsevier<br>Wiley · Taylor & Francis</span></div><small>Diperiksa 16 Oktober 2026</small></aside>
+    </section>
+    <section class="learning-path panel" aria-labelledby="start-title">
+      <div><span class="eyebrow accent">MULAI DARI TIGA CONTOH INI</span><h2 id="start-title">Pesan → data → warna</h2></div>
+      <div class="learning-links"><a href="#paper-10"><span>01</span><strong>Ten Simple Rules</strong><small>Apakah pesan figure segera terbaca?</small></a><a href="#paper-14"><span>02</span><strong>Beyond Bar and Line Graphs</strong><small>Apakah distribusi datanya terlihat?</small></a><a href="#paper-08"><span>03</span><strong>The Misuse of Colour</strong><small>Apakah warna mengubah tafsir data?</small></a></div>
+    </section>
+    <section class="review-rubric" aria-labelledby="rubric-title"><div class="section-heading"><div><span class="eyebrow accent">CARA MENGGUNAKAN GALERI</span><h2 id="rubric-title">Nilai visualnya, bukan nama jurnalnya.</h2></div></div><div class="rubric-grid"><article><b>01 · Pesan</b><p>Nyatakan dalam satu kalimat apa yang dibuktikan figure. Bedakan skema metode dari hasil eksperimen.</p></article><article><b>02 · Bukti</b><p>Periksa satuan, skala, n, error bar, dan definisi baseline. Figure menarik belum tentu mendukung klaim.</p></article><article><b>03 · Aksesibilitas</b><p>Periksa label pada ukuran cetak, kontras, dan pengodean yang tetap terbaca tanpa warna.</p></article><article><b>04 · Komentar review</b><p>Sebutkan panel dan perubahan konkret: tampilkan titik individual, samakan sumbu, atau jelaskan interval.</p></article></div></section>
+    <section class="panel filter-panel" aria-label="Cari dan saring paper">
+      <div class="filter-grid"><label>Cari paper atau konsep<input id="paper-search" type="search" placeholder="Misalnya: heatmap, NumPy, ketidakpastian…"></label><label>Jurnal<select id="journal-filter"><option value="">Semua jurnal</option></select></label><label>Fokus pembelajaran<select id="topic-filter"><option value="">Semua fokus</option></select></label><label>Akses<select id="access-filter"><option value="">Semua sumber</option><option value="local">PDF tersedia di GitHub</option><option value="external">Rujukan sumber resmi</option></select></label></div>
+      <div class="filter-bottom"><p id="result-count" role="status" aria-live="polite">Memuat koleksi…</p><button type="button" id="reset-filters">Reset filter</button></div>
+    </section>
+    <p class="collection-note">Pilihan visual adalah penilaian editorial untuk latihan, bukan jaminan bahwa seluruh isi paper sempurna atau peringkat “top tier” yang terverifikasi. Tahun jurnal dapat berbeda dari tahun preprint. Nomor halaman yang disebut mengacu pada PDF sumber, bukan selalu nomor cetak jurnal.</p>
+    <noscript><p class="panel">Aktifkan JavaScript untuk membuka filter dan kartu galeri. Daftar sumber tetap tersedia di <a href="SOURCES-VISUALISASI.md">catatan sumber dan atribusi</a>.</p></noscript>
+    <div id="paper-grid" class="paper-grid"></div>
+    <p id="empty-state" class="empty-state" hidden>Tidak ada paper yang cocok. Ubah kata pencarian atau reset filter.</p>
+    <section class="source-note panel"><h2>Akses paper dan atribusi</h2><p>PDF yang mencantumkan izin distribusi ulang disimpan di repositori ini tanpa perubahan. Thumbnail dirasterisasi, diperkecil, dan dipotong di sekitar figure tanpa menyunting data. Klik gambar untuk membuka halaman lengkap beserta caption. Untuk sumber lain, gunakan tautan penerbit atau halaman penulis/preprint; akses gratis tidak selalu memberikan izin mengunggah ulang.</p><p>Setiap kartu mencatat penulis, DOI, versi, dan lisensi bila PDF disalin. Materi pihak ketiga tetap mengikuti kredit aslinya. Dua paper tentang coronavirus dicantumkan sebagai rujukan konteks visual melalui penerbit. Baca halaman penerbit untuk koreksi dan catatan editorial terbaru.</p><a href="SOURCES-VISUALISASI.md">Lihat catatan sumber, versi, lisensi, dan checksum PDF →</a></section>
+    <footer><a href="./">← Kembali ke panduan editorial</a><span>Cauchy · Galeri visualisasi ilmiah · 2026</span></footer>
+  </main>
+  <dialog id="preview-dialog" aria-labelledby="preview-title"><div class="dialog-head"><h2 id="preview-title">Pratinjau halaman</h2><button id="close-preview" type="button" aria-label="Tutup pratinjau">Tutup ×</button></div><p id="preview-credit"></p><img id="preview-image" alt=""><a id="preview-pdf" target="_blank" rel="noopener">Buka PDF pada halaman ini ↗</a></dialog>
+</body>
+</html>
